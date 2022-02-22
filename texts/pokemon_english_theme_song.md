@@ -14,12 +14,12 @@ Adinjo Text
 > (kuyi)    campan  xau   shi  duraben,      qanir  shi   koenen.
 > GEN.1S  test    true  3PL  capture.GER,  cause  them  teach.GER.
 > My true campaign is catching them, my cause is teaching them
-> 
+>
 > (yi  ba)    planci  mogan   jocotochi,      anij        ni  nuqesir
 > 1S  this  land    across  adventure.FUT,  UNIV.place  in  search.GEN
 > I will adventure across this land, searching everywhere.
-> 
-> A'POKÉMON  (hi   kushi)     mirants  ijin 
+>
+> A'POKÉMON  (hi   kushi)     mirants  ijin
 > all   Pokémon  and  GEN.them  power    know.INF
 > To know all of the Pokémon and their powers.
 > ```
@@ -30,7 +30,7 @@ Adinjo Text
 > (POKÉMON!  kuri shi  durab!)
 > (Pokémon   all  them catch.INF)
 > (Pokémon! to catch them all)
-> 
+>
 > ki   an'varmel!
 > 1PL  be-together
 > We're together!
@@ -38,11 +38,11 @@ Adinjo Text
 > kuki    nadir   ijinton!
 > GEN.1PL destiny know.PRES
 > (I) Know our destiny!
-> 
+>
 > (POKÉMON!)  Ah!
 > (Pokémon)   Ah!
 > (Pokémon!) Ah!
-> 
+>
 > kuyi    tomodak  sayrin:
 > GEN.1S  friend   best
 > My best friend:
@@ -197,6 +197,3 @@ or poetic text, while the blank line paragraph separator is used between verses
 or segments of a poem or song.
 
 --------------------------------------------------------------------------------
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTgyOTYxMywxNjgwNTI0NzUxXX0=
--->

@@ -3,7 +3,7 @@ Syntax
 
 ### Simple Sentences ###
 
-The fundamental syntax of Original Adinjo, in its final state, is SOV, though it's early state was SVO. While you may run across example of early Original Adinjo, these can be read largely as if they were English.
+The fundamental syntax of Original Adinjo, in its final state, is SOV, though it's early state was SVO. While you may run across examples of early Original Adinjo, these can be read largely as if they were English.
 
 The simplest sentences in Adinjo are a subject or object and a verb:
 
@@ -44,15 +44,15 @@ He will be defeated by her.
 
 Sentences must always answer two questions:
 
-#### 1. What is happening in the statement?
+#### 1. What is happening in the statement? ####
 
 Every sentence or statement requires a verb. The verb clause typically forms the end of a statement, with most other information coming in before it.
 
-#### 2a. To whom is this happening?
+#### 2a. To whom is this happening? ####
 
 The simplest forms of verbs are passive, meaning they refer to a patient or object of the action. Most simple sentences are worded with the simpler passive verb forms, though in casual speech there is often little distinction between the voices for simple sentences with only one noun.
 
-#### 2b. Who is doing this?
+#### 2b. Who is doing this? ####
 
 Formal speech and writing tend to be more demanding about structure and voice than casual contexts.
 
@@ -99,9 +99,9 @@ In a subordinate clause, you do not need to re-introduce old materials except by
 The most common subordinate clauses in Adinjo are those of time and place. Time clauses precede the noun phrase which they describe:
 
 ```
-11BX     nyoré  ni   JENESIS   jocotolot.
-11B(X)   year   in   Jenesis   adventure.PASTACT.
-In the year 11Bx, Jenesis went adventuring.
+6E41   nyoré  ni   JENESIS   jocotolot.
+6E41   year   in   Jenesis   adventure.PASTACT.
+In (the) year 6E41, Jenesis went adventuring.
 ```
 
 Place clauses, however, follow the noun clause.

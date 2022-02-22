@@ -12,7 +12,8 @@ it was a hobbit-hole, and that means comfort.
 
 -----
 
-Jalu kinta hemlé lova ni HOBBIT jenetolotel.
+Lova,  jalu   kinta,  ni  HOBBIT  jenetolot
+Hole  earth  under  in  hobbit  live.PASTPASS
 (We introduce _kinta_ to mean "under", and _lova_ to refer to a "hole")
 
 Lova kintasa yans,
