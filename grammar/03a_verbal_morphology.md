@@ -5,11 +5,11 @@ Adinjo has 3 tenses, 5 voices, and 3 aspects. In addition to this, there are two
 
 ### TON Verbs ###
 
-The vast majority of verbs in Adinjo are TON verbs, named for the present tense suffix common to them. Adin linguists prefer the term **_taru votenu_** ('_t verbs_'), because the suffix for this class of verbs will always begine with the /**t**/ sound, unless it is assimilating to /**d**/ after a voiced stop. In common speech, they are often called **_kijucinu votenu_** (_regular verbs_), because they are the most common form in the language.
+The vast majority of verbs in Adinjo are TON verbs, named for the present tense suffix common to them. Adin linguists prefer the term **_taru votenu_** ('_t verbs_'), because the suffix for this class of verbs will always begine with the /**t**/ sound, unless it is assimilating to /**d**/ after a voiced stop. In common speech, they are often called **_kijuçinu votenu_** (_regular verbs_), because they are the most common form in the language.
 
 TON verbs are regular in that (**a**) they rarely, if ever, change the verb stem when they are applied, (**b**) they all share the initial /to/ sound in their conjugation, and (**c**) they always apply the negative after the tense (and voice) is formed. However, there is no consistent rule for forming the gerund of a TON verb, thus TON verbs are listed (lemmatized) in the dictionary in their gerund form, though the lexicon pages begin with the stem rather than the lemma.
 
-The basic suffixes are -**_tot_** for the past tense, -**_ton_** for the present, and -**_tochi_** for the future. To make these forms active, the infix -**_ol_**- is added after the initial /**_t_**/ of the basic tense suffixes, except that the present active is simply -**_tol_** (the /**_on_**/ of the passive is dropped). To form the negative, add the suffix -**_ha_** to future tense (and any other form ending in a vowel), or -**_a_** to the past and present tenses (and any other form ending in a consonant). The initial /t/ of the TON verb suffixes will assimilate the voicing of a root-final stop, becoming /d/ if the last sound in the stem is /b/, /d/, /dh/ or /g/ (and also replacing that consonant), and will be dropped after /t/, /c/ or /d/.
+The basic suffixes are -**_tot_** for the past tense, -**_ton_** for the present, and -**_toçi_** for the future. To make these forms active, the infix -**_ol_**- is added after the initial /**_t_**/ of the basic tense suffixes, except that the present active is simply -**_tol_** (the /**_on_**/ of the passive is dropped). To form the negative, add the suffix -**_ha_** to future tense (and any other form ending in a vowel), or -**_a_** to the past and present tenses (and any other form ending in a consonant). The initial /t/ of the TON verb suffixes will assimilate the voicing of a root-final stop, becoming /d/ if the last sound in the stem is /b/, /d/, /dh/ or /g/ (and also replacing that consonant), and will be dropped after /t/, /c/ or /d/.
 
 ### KUN Verbs ###
 
@@ -32,8 +32,8 @@ There are three tenses, past, present, and future in Adinjo, along with five pri
 
 |             | Past     | Present | Future     |
 |:-----------:|:--------:|:-------:|:----------:|
-| Active      | *.-tot   | *.-ton  | *.-tochi   |
-| Passive     | *.-t-ol-ot | *.-t-ol  | *.-t-ol-ochi |
+| Active      | *.-tot   | *.-ton  | *.-toçi   |
+| Passive     | *.-t-ol-ot | *.-t-ol  | *.-t-ol-oçi |
 
 |             | Formation                               |
 |:-----------:|:---------------------------------------:|
@@ -58,8 +58,8 @@ There are three tenses, past, present, and future in Adinjo, along with five pri
 
 |             | Past      | Present | Future      |
 |:-----------:|:---------:|:-------:|:-----------:|
-| Active      | yanitot   | yaniton | yanitochi   |
-| Passive     | yanitolot | yanitol | yanitolochi |
+| Active      | yanitot   | yaniton | yanitoçi    |
+| Passive     | yanitolot | yanitol | yanitoloçi  |
 
 |             | Formation                                 |
 |:-----------:|:-----------------------------------------:|
@@ -71,8 +71,8 @@ There are three tenses, past, present, and future in Adinjo, along with five pri
 
 |             | Past      | Present | Future      |
 |:-----------:|:---------:|:-------:|:-----------:|
-| Positive    | ins       | ic      | icikun      |
-| Negative    | yans      | yac     | yacikun     |
+| Positive    | ins       | ic      | içikun      |
+| Negative    | yans      | yac     | yaçikun     |
 
 |             | Formation                                 |
 |:-----------:|:-----------------------------------------:|
@@ -95,7 +95,7 @@ The gerund voice is used to discuss an action as a discrete event, as if it were
 
 |    |          |           |               |
 |:---|:---------|:----------|:--------------|
-| ci | yugi-nu  | ejis      | faile-ton     |
+| çi | yugi-nu  | ejis      | faile-ton     |
 | 2S | thing-PL | chase.GER | love-PRES.ACT |
 _You love chasing things._
 
