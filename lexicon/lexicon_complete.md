@@ -377,6 +377,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **cin**	_noun_	brother
   + **-cin**	_sfx_	brother of; used as a title, particularly when one has a renowned sibling
 + **cir**	_prep_	near, close, soon
++ **ciron**	_desc_	yellow
 + **coci**	_noun_	night
 + **con**	_noun_	pig, hog, swine
 + **coré.ru**	_ton vb_	fold
@@ -577,9 +578,6 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **koru**	_prep_	since
 + **kosij**	_desc_	eight
 
-### KS \[Deprecated, unresolved\]
-
-+ **ksiron**	_desc_	yellow
 
 ## Q
 
