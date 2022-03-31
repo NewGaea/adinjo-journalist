@@ -15,6 +15,6 @@ albor
 
 ### Derivation
 
-Derived as a mutated compound of **abse** + **tlor**, or _black_ + _mud_. This word was derived before Kharon had any formal knowledge of sound changes.
+Derived as a mutated compound of **abse** + **tlor**, or _black_ + _mud_. This word was derived before I had any formal knowledge of sound changes, I just made something that felt interesting.
 
 ### Related Words

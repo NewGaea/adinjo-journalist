@@ -601,6 +601,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 
 ## L
 
++ **la** _conj_ yet, however; _desc_ yet, by now, until now
 + **lai**	_d pron_	dual gender pronoun
 + **laire**	_noun_	bank of a river
 + **laive.ns**	_ton vb_	pale, fade
