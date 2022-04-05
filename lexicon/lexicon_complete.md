@@ -1,5 +1,7 @@
 # List of Words
 
+**NOTE:** This listing may not include all words coined in 2021 or more recently. While attempts will be made to incoporate the biennial wordlists regularly, it is to be expected that this listing may, at times, be behind the curve of the latest coinages.
+
 ## A
 
 + **[-a](a/a.md)** _suffix_ no, not, negative
@@ -141,6 +143,7 @@
 + **gezud.em**	_ton vb_	expecting, anticipating; hoping
   + **gezudral**	_noun_	expectation
 + **gent**	_noun_	child
++ **géxa.la** _verb_ to laugh, to chuckle, to cackle
 + **gi**	_conj_	so that
 + **gif**	_noun_	fire, flame
   + **gifiluan** _p noun_ August, Fire's Month

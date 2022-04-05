@@ -171,12 +171,4 @@ Translation Status
 Commentary
 ----------
 
-This is a cleanly formatted sample song using UTF-8 encoded English. **Take
-Note** that the inline HTML tag \<br/\> may be used to separate lines within a verse
-or poetic text, while the blank line paragraph separator is used between verses
-or segments of a poem or song.
-
---------------------------------------------------------------------------------
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTgyOTYxMywxNjgwNTI0NzUxXX0=
--->
+This is a cleanly formatted sample song using UTF-8 encoded English. **Take Note** that the inline HTML tag \<br/\> may be used to separate lines within a verse or poetic text, while the blank line paragraph separator is used between verses or segments of a poem or song.

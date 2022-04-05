@@ -2,18 +2,45 @@
 
 In late 2006, Gary Shannon posted a list of over 800 example sentences from the book 1200 Graded Sentences for Analysis. After his website went down for an extended period of time, the list was re-hosted in several formats. While this file collects all 5 sections into a single file, it does separate the 5 sections with subheadings to separate the 5 sections.
 
+This file uses a simple interlinear approach to translation exercises, with the English language original sentence as a level 1 ordered list item, a gloss of the English, a translation into Adinjo Journalist, and a gloss of the translation. Where multiple translations may be viable, they shall be listed in sequence
+
+The top of each section will also contain a count of the number of sentences which have been translated, as all untranslated lines will still be preserved for the sake of future translation efforts.
+
 ## Section I
 
 Section I contains 285 sentences, of increasing complexity.
 
+**Section I Progress:** 3/285
+
 1. Birds sing.
+   * `bird.PL sing`
+   * _trininu shokatol_
+   * `bird.PL sing.PRES.ACT`
 2. Children play.
+   * `child.PL play`
+   * _gentu ayginstol_
+   * `child.PL play.PRES.ACT`
 3. Dogs bark.
+   * `dog.PL bark`
+   * _kitanu auf yanitol_
+   * `dog.PL arf say.PRES.ACT`
 4. Bees hum.
 5. Baby laughed.
+   * `Baby laugh.PAST.ACT` (_Due to the structure of this sentence, the immediately following translation interprets 'Baby' as a name or nickname_)
+   * _BÉBI géxatolot_
+   * `Bébi laugh.PAST.ACT`
 6. The sun shines.
+   * `DEF sun shine.3PRES`
+   * _kuha ellores_
+   * `sun shine.PRES`
 7. The wind blows.
+   * `DEF wind blow.PRES`
+   * _romulin brautol_
+   * `wind.PL.REFL blow.PRES.ACT`
 8. The car started.
+   * `DEF car start.PAST.ACT`
+   * _sug urén dobertolot_
+   * `DEF carriage work.PAST.ACT`
 9. School began again.
 10. The child ran quickly.
 11. Yellow daffodils nodded gaily.
