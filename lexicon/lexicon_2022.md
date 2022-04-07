@@ -17,18 +17,23 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## D
 
++ N/A
 
 ### Ð (dh)
 
++ N/A
 
 ### ʤ (dj)
 
++ N/A
 
 ## E
 
++ N/A
 
 ## Z
 
++ N/A
 
 ## H
 
@@ -37,13 +42,16 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## C
 
++ **cáve.n** _ton verb_ 1. passive to produce a constant sound, as a hum or buzz 2. active to dart about between tasks or actions `#2022.04.06`
 + **céjo** _noun_ breast, chest
 
 ### Ç (CH)
 
++ N/A
 
 ## I
 
++ N/A
 
 ## K
 
@@ -65,9 +73,11 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## N
 
++ N/A
 
 ### Ñ (NY)
 
++ N/A
 
 ## J
 
@@ -75,6 +85,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## P
 
++ N/A
 
 ## R
 
@@ -91,15 +102,19 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## T
 
++ N/A
 
 ### Þ (TH)
 
++ N/A
 
 ## U
 
++ N/A
 
 ## Y
 
++ N/A
 
 ## F
 
@@ -111,12 +126,16 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## X (KH)
 
-
++ N/A
 
 ## O
 
++ N/A
 
 ## W
 
++ N/A
 
 ## UNSORTED
+
++ N/A
