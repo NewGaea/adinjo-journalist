@@ -682,7 +682,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 ## M
 
 + **ma**	_nn sfx_	attributive suffix, ‘by x’, is preceded by a comma, or added to noun, before name
-+ **madis**	_noun_	penis	technical term, not vulgar
++ **madis**	_noun_	penis	(technical term, not vulgar)
 + **madyu**	_conj_	so that, in order to
 + **mai**	_desc_	sure, certain
 + **mainyu**	_prep_	instead, in place of

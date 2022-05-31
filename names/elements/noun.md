@@ -38,6 +38,7 @@
 | ice           | elz       |            |         |            |
 | iron          | haiga     | hai        |         | ga         |
 | keeper       | elauretax | elau, ela | lau | aure, ure, retax |
+| knowledge, wisdom | çijin | ci, çi     | iji     | jin, in    |
 | laurel        |           |            |         |            |
 | leader        | saukentax | sau, sauk  | auke    | ken, entax |
 | light         | lorek     | lor, lore  | ore     | rek        |

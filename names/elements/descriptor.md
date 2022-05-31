@@ -54,4 +54,4 @@
 | wise           |            |                      |
 | wolf-like      | yemain     | yema, main, emai     |
 | worthy         |            |                      |
-| young          | mortis     | mort, mor, ortis     
+| young          | mortis     | mort, mor, ortis

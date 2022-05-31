@@ -10,7 +10,7 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 + **bal**
 + **bál**
-+ **bançiel**
++ **bançiel**: _bançi_ (gift) + _elos_ (god, gods) = "gift from the gods"
 
 ## G
 
@@ -44,11 +44,14 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## C
 
-+ **ciel**
++ **ciel** (1): _çijin_ (knowledge) + _elaure_ (to keep) = "keeper of knowledge" (cf. _çiel (1)_)
++ **ciel** (2): _çijin_ (knowledge) + _porhel_ (grace) = "knowledge and grace" or "wise judgement" (cf. _çiel (2)_)
 
 ### Ç (CH)
 
 + **çérin**
++ **çiel** (1): _çijin_ (knowledge) + _elaure_ (to keep) = "keeper of knowledge" (cf. _ciel (1)_)
++ **ciel** (2): _çijin_ (knowledge) + _porhel_ (grace) = "knowledge and grace" or "wise judgement" (cf. _çiel (2)_)
 + **çotax**
 
 ## I
@@ -57,11 +60,11 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## K
 
-+ **kadelya**
-+ **kaumé**
++ **kadelya**: _kadai_ (daughter) + _relja_ (brave) = "brave daughter"
++ **kaumé**: _kaumé_ (rose)
 + **kirora**
-+ **kitaʃa**
-+ **kitaure**
++ **kitaʃa**: _kita_ (dog) + _aʃa_ (peace) = "peaceful dog"
++ **kitaure**: _kita_ (dog) + _elaure_ (to keep) = "keeper of dog(s)"
 + **kuna**
 
 ## Q
@@ -75,7 +78,7 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## M
 
-+ **mael**
++ **mael**: _mai_ (sure, certain) + _porhel_ (grace) = "confident grace"
 + **mana**
 + **miktén**
 
