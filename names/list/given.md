@@ -98,6 +98,7 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## R
 
++ **reixa**
 + **rhea**
 + **roger**
 + **roman**
