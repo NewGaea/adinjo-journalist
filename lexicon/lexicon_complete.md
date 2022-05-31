@@ -494,7 +494,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
   + **keldin**	_noun_	superhuman, superman
 + **kelsot.o**	_ton vb_	check, verify, confirm
   + **kels**	_noun_	check, verification, confirmation
-+ **kempo**	_pro-vb_	do
++ **kempo**	_kun verb, pro-vb_	do
 + **kénas**	_noun_	canine (dog-like creature)
   + **kénareʃ**	_noun_	canine (tooth)
 + **kenci.s**	_ton vb_	cast a spell
@@ -778,12 +778,12 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **-nu**, **-u**	_nn sfx_	pluralization
 + **nugo.rem**	_ton vb_	cast something away	cast away from oneself
 + **nuqesir**	_noun_	search, hunt, investigate, seek something in the physical world
-+ **noc**	_noun_	rock, stone; mug, a drinking vessel made of baked and glazed clay	in the second sense, these cups tend to come in sizes of ¼, ½, and 1 chuort sizes. The smallest is considered appropriate for tea, coffee, and other drinks offered to social guests during the day, and is about 10.9 US fluid ounces (~321 mL)
++ **noc**	_noun_	1. rock, stone 2. mug, a drinking vessel made of baked and glazed clay; these cups tend to come in sizes of ¼, ½, and 1 chuort sizes. The smallest is considered appropriate for tea, coffee, and other drinks offered to social guests during the day, and is about 10.9 US fluid ounces (~321 mL)
 + **nokal**	_noun_	hunt
 + **nola**	_noun_	nothing
 + **nolambé**	_desc_	complete, finished
 + **nolibrau**	_noun_	freedom
-+ **nom**	_nn sfx_	own, the reflexive pronoun
++ **nom**	_nn sfx_	-self, -own, the reflexive pronoun
 + **nomor.eks**	_ton vb_	drinking, sipping; consuming fluid
 + **nonke**	_noun_	mountain
 + **noventir**	_noun_	hope
@@ -928,7 +928,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **sali.mo**	_ton vb_	to welcome
 + **salix**	_ton vb_	pit, set against
 + **sameya**	_noun_	area, region, contents
-+ **sami**	_n sfx_	mister, sir, missus	this is a generic honor title,equivalent to Japanese -san
++ **sami**	_n sfx_	mister, sir, missus	this is a generic honor title, equivalent to Japanese -san, though typically used with given names
 + **sanji**	_noun_	trooper, hired soldier
 + **satehn**	_noun_	space, frame of time, pause between words
 + **sauken.ta**	_ton vb_	lead, take command of

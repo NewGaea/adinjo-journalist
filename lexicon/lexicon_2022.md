@@ -47,7 +47,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ### Ç (CH)
 
-+ N/A
++ **çonraʃi** _noun_ recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally `#2022.04.13`
 
 ## I
 
@@ -57,6 +57,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 + **kikíta** _noun_ puppy, a pet dog
 + **kinyan.is** _ton vb_ to stutter in speech, to speak poorly or inelegantly; from _kintas_ + _yan.is_
++ **kontagro** _noun_ marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare
 
 ## Q
 
@@ -65,11 +66,14 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 ## L
 
 + **la** _conj_ yet, however; _desc_ yet, by now, until now
++ **lanja** _noun_ island, especially a volcanic island `#2022.04.13`
 
 ## M
 
 + **mácuj** _noun_ breast, mammary, udder
 + **mácujálunu** _noun_ breast wrap, bandeau, brassiere, bra
++ **mamar.in** _ton verb_ 1. a small walk, a recreational walk; _walkies_ `2022.04.14`
++ **memédra** _noun_ 1. mama, mommy (may be shortened to _memé_) `#2022.04.14`
 
 ## N
 
@@ -85,7 +89,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## P
 
-+ N/A
++ **popóren** _noun_ 1. dada, papa, daddy (may be shorted to _popo_) `#2022.04.14`
 
 ## R
 
