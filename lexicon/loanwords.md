@@ -7,6 +7,7 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 ## A
 
 + **alabástur** (_english_) alabaster
+  + **kangré alabastur** (_mixed_) Alabaster City
 + **alaske** (_english_) Alaska
 
 ## B
@@ -63,7 +64,7 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 ## L
 
-+ N/A
++ **lakliyr** (_english_) Locklear
 
 ## M
 
@@ -91,7 +92,7 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 ## S
 
-+ N/A
++ **sán fráncisko** (_spanish\*, english_) San Francisco
 
 ### ʃ (SH)
 
@@ -127,11 +128,11 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 ## O
 
-+ N/A
++ **orègan** (_english_) Oregon
 
 ## W
 
-+ N/A
++ **waSinton** (_english_) Washington
 
 ## UNSORTED
 

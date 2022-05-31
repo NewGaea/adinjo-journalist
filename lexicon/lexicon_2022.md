@@ -37,6 +37,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## H
 
++ **haçanwas** _noun_ will contract, last will `#2022.05.31`
 + **hiarejia** _noun_ a wedding day
 + **hork.ers** _ton vb_ to speak unintelligibly, to speak nonsense; to foretell misfortune
 
@@ -56,7 +57,10 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 ## K
 
 + **kikíta** _noun_ puppy, a pet dog
++ **kimbanc.els** _ton verb_ inherit, entrust, pass along `#2022.05.31`
 + **kinyan.is** _ton vb_ to stutter in speech, to speak poorly or inelegantly; from _kintas_ + _yan.is_
++ **kitaoʃi** _noun_ snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard `#2022.05.31`
++ **kitemain** _noun_ wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs `#2022.05.31`
 + **kontagro** _noun_ marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare
 
 ## Q
@@ -85,7 +89,10 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## J
 
++ **jalunarika** _kun verb_ to own land `#2022.05.31`
+  + **jalunanorika** _noun_ owned land, land property `#2022.05.31`
 + **jálunu** _noun_ clothing, garment, covering; literally "wrappings"
++ **julajak** _ton verb_ to regress, to revert; from "to change back(wards)" `#2022.05.31`
 
 ## P
 
@@ -106,7 +113,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## T
 
-+ N/A
++ **toʃipáci** _noun_ snowbank, snow dune `#2022.05.31`
 
 ### Þ (TH)
 
@@ -126,11 +133,14 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## V
 
++ **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
++ **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
 + **verlic** _noun_ vine
 
 ## X (KH)
 
-+ N/A
++ **xátoric** _noun_ artifice, magitech `#2022.05.31`
+  + **xátoricax** _noun_ artificer, magitech engineer `#2022.05.31`
 
 ## O
 

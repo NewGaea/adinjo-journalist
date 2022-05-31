@@ -315,6 +315,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **habijad**	_noun_			partner
 + **habru.k**	_ton vb_			snore
 + **haç**	_noun_			will, desire
+  + **haçanwas** _noun_ will contract, last will `#2022.05.31`
 + **hai!**	_intj_			come forth; this interjection expresses shock, awe, interest, or excitement
   + **haidai**	_noun_			exclamation mark
 + **hait**	_prep_			than
@@ -515,9 +516,11 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **kijuci**	_desc_	common, normal, medium, of an average difficulty
 + **kílik**	_noun_	colleague, associate
 + **kimari**	_noun_	limit, border
++ **kimbanc.els** _ton verb_ inherit, entrust, pass along `#2022.05.31`
 + **kími**	_desc_	twenty thousand, seven hundred thirty six
 + **kin**	_noun_	system, a set of functioning parts
 + **kinar**	_expr_	sorry, a very informal apology
++ **kinma** _noun_ death (as an event)
 + **kintas**	_desc_	sorry, poorly presented, underdressed
 + **kir**	_noun_	fist
 + **kiren.gyu**	_ton vb_	desire
@@ -807,6 +810,8 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **jaktomít**	_noun_	backpack (a bag or pack carried on the back)
 + **jalu**	_noun_	earth, as an element, dirt, stones, etc.
   + **jalu'iluan** _p noun_ May, Earth's Month
+  + **jalunarika** _kun verb_ to own land `#2022.05.31`
+    + **jalunanorika** _noun_ owned land, land property `#2022.05.31`
   + **jalujia** _p noun_ Thursday (of odd-numbered weeks), earth-day
 + **jálu**	_ton vb_	wrap, embrace, hold closely
   + **jáltot kur ju**	_expr_	I'm tied up right now (lit. ‘tied tight now’, indicates one is busy)
@@ -832,6 +837,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **jubaci**	_noun_	lion
 + **judaxin**	_desc_	present-passive; outside of technical uses, "that which merely is"
 + **julax.en**	_ton vb_	change, alter
+  + **julajak.en** _ton verb_ to regress, to revert
   + **julaxan**	_noun_	change, difference, variation
 + **juman.o**	_ton vb_	die
   + **jumanai**	_noun_	death
@@ -1125,7 +1131,9 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **va**	_noun_	secret
 + **varm**	_noun_	mortar to hold bricks together
 + **varmel**	_desc_	together
-+ **varme.st**	_ton vb_	mortar bricks together
++ **varme.st**	_ton vb_	bind bricks together with mortar
+  + **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
+  + **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
 + **vélon**	_desc_	average (definition 2)
 + **venari**	_noun_	native
 + **ventro.l**	_ton vb_	move
@@ -1137,10 +1145,12 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 ## X (KH)
 
 + **xá**	_noun_	magic
+  + **xá'iluan** _p noun_ June, Magic's Month
   + **xáron**	_noun_	mage, magic user
   + **xátri**	_desc_	magical (achieved by magic)
   + **xájia** _p noun_ Saturday (of odd-numbered weeks), magic-day
-  + **xá'iluan** _p noun_ June, Magic's Month
+  + **xátoric** _noun_ artifice, magitech `#2022.05.31`
+    + **xátoricax** _noun_ artificer, magitech engineer `#2022.05.31`
 + **xagi**	_noun_	tree
   + **xagijia** _p noun_ Wednesday (of even-numbered weeks), tree-day
   + **xagi'iluan** _p noun_ April, Tree's Month
