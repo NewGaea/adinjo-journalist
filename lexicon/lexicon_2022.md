@@ -153,3 +153,6 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 ## UNSORTED
 
 + N/A
++ **ademba** _pronoun_ any time, one time `#2022.06.01`
++ **xábitke** _noun_ magical portal, magical gateway `#2022.06.01`
++ **takem** _positional_ between, back and forth `#2022.06.01`

@@ -167,7 +167,7 @@
 
 + **da'salji**	_noun_	milk; juice of the leng eni isa _this word, like leng'eni'isa, has been imported from the Kenyu Language of Peace_
 + **dagaxen**	_noun_	alcohol
-  + **dagaxen'din**	_noun_	alcoholic, one who drinks alcohol in excess	the Adin prefer euphemism to direct labeling + of problem, so this word is rarely used
+  + **dagaxen'din**	_noun_	alcoholic, one who drinks alcohol in excess	the Adin prefer euphemism to direct labeling of problem, so this word is rarely used
   + **dagaxenya**	_desc_	alcoholic, containing alcohol
 + **dahan**	_noun_	poison, toxin dangerous to life
 + **dai**	_prep_	on
