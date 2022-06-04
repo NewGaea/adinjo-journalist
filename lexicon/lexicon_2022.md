@@ -4,20 +4,27 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## A
 
++ **ademba** _pronoun_ any time, one time `#2022.06.01`
++ **aduprani** _descriptor_ pansexual `#2022.06.04`
 + **arconir** _noun_ bear (animal)
++ **afailesi** _descriptor_ panromantic `#2022.06.04`
 
 ## B
 
++ **bak** _noun_ card, a sturdy piece of paper often containing images `2022.06.04`
 + **banklaf** _noun_ a major festival or sacred season
 + **béra** _noun_ grape, berry
 
 ## G
 
++ **gaeani** _descriptor_ Human, Gaean (culturally), of or related to the human cultures native to Gaea. `#2022.06.04`
 + **géxa.la** _verb_ to laugh, to chuckle, to cackle
++ **gurioni** _descriptor_ Adin (culturally), especially of the Imperial Culture or the Shipboard culture of Emissaries. `#2022.06.04`
 
 ## D
 
-+ N/A
++ **dailorn** _noun_ tabletop, countertop, desktop; the top surface of a table, counter, desk, or similar `#2022.06.04`
++ **dìnrolai** _descriptor_ regular, repeating, recurring, consistent `#2022.06.04`
 
 ### Ð (dh)
 
@@ -45,6 +52,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 + **cáve.n** _ton verb_ 1. passive to produce a constant sound, as a hum or buzz 2. active to dart about between tasks or actions `#2022.04.06`
 + **céjo** _noun_ breast, chest
++ **corinanfailia** _descriptor_ polyamorous `#2022.06.04`
 
 ### Ç (CH)
 
@@ -61,7 +69,8 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 + **kinyan.is** _ton vb_ to stutter in speech, to speak poorly or inelegantly; from _kintas_ + _yan.is_
 + **kitaoʃi** _noun_ snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard `#2022.05.31`
 + **kitemain** _noun_ wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs `#2022.05.31`
-+ **kontagro** _noun_ marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare
++ **konten** _noun_ field, flatland, commons `#2022.06.04`
+  + **kontagro** _noun_ marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare
 
 ## Q
 
@@ -71,6 +80,10 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 + **la** _conj_ yet, however; _desc_ yet, by now, until now
 + **lanja** _noun_ island, especially a volcanic island `#2022.04.13`
++ **larndelma** _pronoun_ both actions `#2022.06.04`
++ **larndin** _pronoun_ both people `#2022.06.04`
++ **larnjyu** _descriptor_ of two categories, both `#2022.06.04`
++ **larnqonjinu** _descriptor_ bilingual, familiar with two languages `#2022.06.04`
 
 ## M
 
@@ -92,10 +105,12 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 + **jalunarika** _kun verb_ to own land `#2022.05.31`
   + **jalunanorika** _noun_ owned land, land property `#2022.05.31`
 + **jálunu** _noun_ clothing, garment, covering; literally "wrappings"
-+ **julajak** _ton verb_ to regress, to revert; from "to change back(wards)" `#2022.05.31`
++ **julajak.en** _ton verb_ to regress, to revert; from "to change back(wards)" `#2022.05.31`
++ **jonqonjinu** _descriptor_ trilingual, familiar with three languages `#2022.06.04`
 
 ## P
 
++ **peratamani** _noun_ charm, grace, guile `#2022.06.04`
 + **popóren** _noun_ 1. dada, papa, daddy (may be shorted to _popo_) `#2022.04.14`
 
 ## R
@@ -109,10 +124,11 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ### ʃ (SH)
 
-+ **shep** _noun_ fish
++ **ʃep** _noun_ fish
 
 ## T
 
++ **takem** _positional_ between, back and forth `#2022.06.01`
 + **toʃipáci** _noun_ snowbank, snow dune `#2022.05.31`
 
 ### Þ (TH)
@@ -139,12 +155,14 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## X (KH)
 
++ **xábitke** _noun_ magical portal, magical gateway `#2022.06.01`
++ **xá peratamani** _noun_ magical charm, mind-altering magic `#2022.06.04`
 + **xátoric** _noun_ artifice, magitech `#2022.05.31`
   + **xátoricax** _noun_ artificer, magitech engineer `#2022.05.31`
 
 ## O
 
-+ N/A
++ **orìndomi** _noun_ store, shop, an artisan's house; from _orind_ + _domya_, 'goldhouse' `#2022.06.04`
 
 ## W
 
@@ -153,6 +171,5 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 ## UNSORTED
 
 + N/A
-+ **ademba** _pronoun_ any time, one time `#2022.06.01`
-+ **xábitke** _noun_ magical portal, magical gateway `#2022.06.01`
-+ **takem** _positional_ between, back and forth `#2022.06.01`
++ **xune.m** _ton verb_ to excuse, to justify, to rationalize `#2005.11.04` `#2022.06.04` _discovered in an early attempt to make a dictionary using Adinjo as 'axunem' translated as 'no excusing'_
++ **zekenal** _noun_ note, comment, commentary, aside `#2005.11.04` `2022.06.04` _discovered in an early attempt to make a dictionary using Adinjo_

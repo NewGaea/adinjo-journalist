@@ -11,8 +11,10 @@
 + **[abso](a/abs.md)** _descriptor_ white
 + **[ábul](a/ábul.md)** _noun_ monument
 + **[adan](a/adan.md)** _pronoun_ any, any one, no specific one
++ **ademba** _pronoun_ any time, one time `#2022.06.01`
 + **[adin](a/adin.md)** _pronoun_ the people (universal, conceptual)
 + **[adin](a/adin.md)** _noun_	people, universal (form of **dyn**)
++ **aduprani** _descriptor_ pansexual `#2022.06.04`
 + **[ace](a/ace.md)** _noun_ creature
 + **[acoré.ru](a/acoré.md)** _ton verb_ unfold, open, bloom or blossom
 + **[aimi](a/aimi.md)** _noun_ eye
@@ -58,6 +60,7 @@
 + **[ajan](a/ajan.md)**	p noun	Lord (the Lord, divine)
 + **[ar.i](a/ar.md)**	ton vb	throwing
 + **[aram.el](a/aram.md)**	_ton vb_	passing, going through, going beyond
++ **arconir** _noun_ bear (animal)
 + **[arlic](a/arlic.md)**	_noun_	pen, a permanent writing implement
 + **[armo](a/armo.md)**	_prep_	because, for the sake or purpose of
 + **arus.é**	_ton vb_	sitting, lounging
@@ -90,22 +93,26 @@
   + **ayastel**	_noun_	comfort
 + **aye**	_noun_	hand; may be literal or figurative
 + **aygins.ten**	_ton vb_	playing (a game), acting, engaging in a hobby or pursuit of passion
++ **afailesi** _descriptor_ panromantic `#2022.06.04`
 + **axen**	_desc_	last, final, the last, the final; term of absolution, indicates finality
 
 ## B
 
 - **ba-**	_n pfx_	this; proximate demonstrative
 - **baci.re**	_ton vb_	seeing, viewing; watching
++ **bak** _noun_ card, a sturdy piece of paper often containing images `2022.06.04`
 - **bakato**	_expr_	bite me (colloquial expression meaning cook and serve; pejorative)
 - **bakira...**	_expr_	by the way, also, furthermore	this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention
 - **bal**	_noun_	tempo, rhythmic timing
 - **ban**	_noun_	bread
 - **banc.els**	_ton vb_	giving
 - **banci**	_noun_	gift
++ **banklaf** _noun_ a major festival or sacred season
 - **bajia**	_noun_	today	literally this-day
 - **baru**	_noun_	dust
 - **bax.at**	_ton vb_	rising, increasing
 - **beʤi**	_noun_	beard
++ **béra** _noun_ grape, berry
 - **berík**	_noun_	castle; a fortified, walled, building, usually housing a leader
 - **bider.in**	_ton vb_	opening
 - **bir.mak**	_ton vb_	finishing
@@ -129,6 +136,7 @@
 
 ## G
 
++ **gaeani** _descriptor_ Human, Gaean (culturally), of or related to the human cultures native to Gaea. `#2022.06.04`
 + -**galm**	_vb sfx_	may do verb; indicates the potential to perform an action
 + **gambu**	_noun_	lake
 + **gamer.çin**	_ton vb_	bleeding
@@ -160,6 +168,7 @@
   + **greiʃaun**	_desc_	merciful
 + **gubra**	_conj_	though, while
 + **gurias**	_noun_	empire
++ **gurioni** _descriptor_ Adin (culturally), especially of the Imperial Culture or the Shipboard culture of Emissaries. `#2022.06.04`
 + **Gurneim**	_noun_	knight, rank in Imperial Military; rank title, lowest rank of non-commissioned officer
 + **gyumi.da**	_ton vb_	requiring
 
@@ -171,7 +180,8 @@
   + **dagaxenya**	_desc_	alcoholic, containing alcohol
 + **dahan**	_noun_	poison, toxin dangerous to life
 + **dai**	_prep_	on
-+ **dai**	_nn sfx_	body, form, level (from **kadai**)
++ -**dai**	_nn sfx_	body, form, level (from **kadai**)
++ **dailorn** _noun_ tabletop, countertop, desktop; the top surface of a table, counter, desk, or similar `#2022.06.04`
 + **daiti**	_noun_	daughter
   + **dait-**	_nn pfx_	daughter, “daughter of”; often used in initial introductions
 + **daxin**	_noun_	point in time, time-frame; era; tense of a verb
@@ -219,6 +229,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **diniro**	_noun_	president, a leader chosen by the people	"people's king"
 + **dìn.rol**	_ton vb_	cycle, repeat sounds or actions
   + **dìnla**	_noun_	a cycle, repetition of sounds or actions
+  + **dìnrolai** _descriptor_ regular, repeating, recurring, consistent `#2022.06.04`
 + **dirma**	_noun_	chicory
 + **draikan**	_noun_	dragon, drake, predatory lizard
 + **drak'holm**	_noun_	dragon, farmed lizard
@@ -339,6 +350,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **hi**	_conj_	and
 + **hiare.son**	_ton vb_	marry, to hold a ceremony legally recognizing marriage
   + **hiaren**	_noun_	marriage, a romantic bond
+  + **hiarejia** _noun_ a wedding day
 + **hijoli**	_noun_	boomerang
 + **hiju.ru**	_ton vb_	turn, rotate
 + **hil.tes**	_ton vb_	inhabit
@@ -352,6 +364,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **Hol'din**	_p noun_	Hol'tiin
 + **hork.el**	_ton vb_	pervert, distort, twist, mutate
   + **horkek**	_desc_	perverse
+  + **hork.ers** _ton vb_ to speak unintelligibly, to speak nonsense; to foretell misfortune
 + **hort**	_prep_	with
 + **hotan**	_noun_	tiger
 + **hufan**	_ton vb_	knock, to hit upon something lightly
@@ -373,6 +386,8 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **carmi.lé**	_ton vb_	mature, to grow or become developed
   + **carmi**	_noun_	mature, state of being developed
   + **carmiláns**	_noun_	maturity, progress towards being mature
++ **cáve.n** _ton verb_ 1. passive to produce a constant sound, as a hum or buzz 2. active to dart about between tasks or actions `#2022.04.06`
++ **céjo** _noun_ breast, chest
 + **ceríl.as**	_ton vb_	relax
   + **cerína**	_noun_	relaxation
 + **ci**	_pron_	you
@@ -387,6 +402,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **coré.ru**	_ton vb_	fold
 + **cori**	_desc_	some
   + **coridin**	_pron_	some people, folks, part of a group
+  + **corinanfailia** _descriptor_ polyamorous `#2022.06.04`
   + **coriju**	_pron_	some time (at present),
 
 ### Ç (CH)
@@ -406,6 +422,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **çuort**	_noun_	a unit of liquid measure roughly equivalent to 43 US fluid ounces, or 1.28 liters; this is the standard size of small waterskins (the largest hold about 6 _çuortu_) and standard-size noc mugs
 + **çolrex**	_noun_	shit, excrement, feces	is used as a mild expletive
 + **çon**	_noun_	sea
+  + **çonraʃi** _noun_ recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally `#2022.04.13`
   + **çonthia**	_noun_	seaport
 + **çota**	_noun_	faith
   + **çotak**	_desc_	faithful, trustworthy
@@ -475,7 +492,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **karm**	_noun_	game
 + **karni**	_noun_	west
 + **kaʃa kasontax**	_noun_	peace maker; from ku'aʃa kasontax "peace imparter"
-  + **kaʃontax**	_noun_	peace maker; contraction of "kaʃa kasontakh"
+  + **kaʃontax**	_noun_	peace maker; contraction of "kaʃa kasontax"
 + **kaʃt**	_noun_	vagina
 + **kason**	_kun vb_	to make; impart quality X to Y (infinitive; may be used as a helper, as in kein kason ‘to impart beauty’)
   + **kasontax**	_noun_	maker, creator, artist
@@ -505,7 +522,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
   + **kendsaun**	_desc_	legendary
 + **kendarwa**	_noun_	company, companionship
 + **keng**	_noun_	hair (atop head), mane
-+ **kentin**	_conj_	however
++ **kentin**	_conj_	however; except, unless
 + **Kenyudin**	_noun_	Kenyu person (Elf)
 + **kérin**	_prep_	before, afore, in front of
 + **kérlic**	_noun_	pencil, stylus	any erasable writing implement
@@ -522,6 +539,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **kinar**	_expr_	sorry, a very informal apology
 + **kinma** _noun_ death (as an event)
 + **kintas**	_desc_	sorry, poorly presented, underdressed
+  + **kinyan.is** _ton vb_ to stutter in speech, to speak poorly or inelegantly; from _kintas_ + _yan.is_
 + **kir**	_noun_	fist
 + **kiren.gyu**	_ton vb_	desire
   + **kirénos**	_noun_	desire
@@ -531,6 +549,8 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **kita**	_noun_	dog
   + **kikíta**	_noun_	doggy, puppy
   + **kita'urdin**	_noun_	dog-like person
+  + **kitaoʃi** _noun_ snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard `#2022.05.31`
+  + **kitemain** _noun_ wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs `#2022.05.31`
 + **klik**	_noun_	hour
 + **klor**	_prep_	up
   + **klor'das**	_noun_	upright bar, pole
@@ -572,7 +592,9 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
   + **konjia** _p noun_ Thursday (of even-numbered weeks), metal-day
 + **konge.ma**	_ton vb_	praise
   + **kongera**	_noun_	praise
-+ **kontabin**	_noun_	field trip
++ **konten** _noun_ field, flatland, commons `#2022.06.04`
+  + **kontagro** _noun_ marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare
+  + **kontabin**	_noun_	field trip
 + **konurd**	_desc_	metallic
 + **korant**	_ton vb_	ask
 + **korbalts**	_noun_	chicken
@@ -587,6 +609,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 
 ## Q
 
++ **qali** _noun_ a festival, sacred time, or holiday
 + **qani.go**	_ton vb_	cause
 + **qarins**	_ton vb_	fill
   + **qarilé**	_noun_	fill
@@ -620,6 +643,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **lan**	_nn pfx_	self, indicator of the reflexive pronoun
 + **lanai**	_d desc_	of both genders, male and female, hermaphrodite
 + **landjyu**	_d noun_	hermaphrodite
++ **lanja** _noun_ island, especially a volcanic island `#2022.04.13`
 + **lapi.n**	_ton vb_			consider
 + **lapiné**	_desc_			considerate
 + **lapuindo**	_noun_			consideration
@@ -627,6 +651,10 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **larn**	_desc_			two
   + **larngu**	_noun_			double, duplicate
   + **larngudin**	_noun_			doppelganger
+  + **larndelma** _pronoun_ both actions `#2022.06.04`
+  + **larndin** _pronoun_ both people `#2022.06.04`
+  + **larnqonjinu** _descriptor_ bilingual, familiar with two languages `#2022.06.04`
+  + **larnjyu** _descriptor_ of two categories, both `#2022.06.04`
 + **laume.r**	_ton vb_			call, summon
   + **laumétax**	_noun_			page, one who delivers summons
 + **lav**	_noun_			soul, spirit
@@ -640,7 +668,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **lex.orma**	_ton vb_	defeat (final), indicates a final, deadly or crippling defeat
 + **libra.un**	_ton vb_	free
 + **lici**	_noun_	stick
-+ **lij.e**	_ton vb_	title, give one a title
++ **lij.e**	_ton vb_	title, give one a title; to label, to call by a label (especially in th active)
   + **liju**	_noun_	title, a term one is called by
 + **lixa.st**	_ton vb_	build, construct, create, make
 + **lixajo**	_noun_	artificial language, created language, conlang (noun), auxlang (noun)
@@ -687,6 +715,8 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **ma**	_nn sfx_	attributive suffix, ‘by x’, is preceded by a comma, or added to noun, before name
 + **madis**	_noun_	penis	(technical term, not vulgar)
 + **madyu**	_conj_	so that, in order to
++ **mácuj** _noun_ breast, mammary, udder
+  + **mácujálunu** _noun_ breast wrap, bandeau, brassiere, bra
 + **mai**	_desc_	sure, certain
 + **mainyu**	_prep_	instead, in place of
 + **mak**	_noun_	rain
@@ -695,9 +725,11 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **maxen**	_noun_	a kill, a trophy taken from killing a living thing (as in one's first kill in battle or a hunt)
 + **mao**	_ono_	meow, mew, mya (sound made by a cat)
 + **mar.in**	_ton vb_	walking
+  + **mamar.in** _ton verb_ 1. a small walk, a recreational walk; _walkies_ `2022.04.14`
 + **marx.ét**	_ton vb_	kill, destroy, end or take a life	neutral, not equal to murder
 + **mayu**	_noun_	cloud
 + **medra**	_noun_	mother
+  + **memédra** _noun_ 1. mama, mommy (may be shortened to _memé_) `#2022.04.14`
 + **megani**	_noun_	ear
 + **melkocar**	_noun_	difficulty
 + **melkoci**	_desc_	difficult
@@ -809,11 +841,14 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **jak.el**	_ton vb_	damn, curse, condemn
 + **jaktomít**	_noun_	backpack (a bag or pack carried on the back)
 + **jalu**	_noun_	earth, as an element, dirt, stones, etc.
+  + **jalunarika** _kun verb_ to own land `#2022.05.31`
+  + **jalunanorika** _noun_ owned land, land property `#2022.05.31`
   + **jalu'iluan** _p noun_ May, Earth's Month
   + **jalunarika** _kun verb_ to own land `#2022.05.31`
     + **jalunanorika** _noun_ owned land, land property `#2022.05.31`
   + **jalujia** _p noun_ Thursday (of odd-numbered weeks), earth-day
 + **jálu**	_ton vb_	wrap, embrace, hold closely
+  + **jálunu** _noun_ clothing, garment, covering; literally "wrappings"
   + **jáltot kur ju**	_expr_	I'm tied up right now (lit. ‘tied tight now’, indicates one is busy)
   + **jálust**	_noun_	wrapper, wrapping; hug; grip
 + **jalyu.men**	_ton vb_	develop
@@ -837,7 +872,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **jubaci**	_noun_	lion
 + **judaxin**	_desc_	present-passive; outside of technical uses, "that which merely is"
 + **julax.en**	_ton vb_	change, alter
-  + **julajak.en** _ton verb_ to regress, to revert
+  + **julajak.en** _ton verb_ to regress, to revert; from "to change back(wards)" `#2022.05.31`
   + **julaxan**	_noun_	change, difference, variation
 + **juman.o**	_ton vb_	die
   + **jumanai**	_noun_	death
@@ -851,6 +886,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **joba.l**	_ton vb_	shout
   + **jobas**	_noun_	shout
 + **jon**	_desc_	three
+  + **jonqonjinu** _descriptor_ trilingual, familiar with three languages `#2022.06.04`
 + **jontes**	_ton vb_	dream, wish, fantasize
   + **jont**	_noun_	dream
 + **joco.n**	_ton vb_	adventure
@@ -865,6 +901,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **pera.das**	_ton vb_	please
   + **peranti**	_noun_	pleasure
   + **peraint**	_expr_	"if you please" (may be a request for, or granting of, permission)
+  + **peratamani** _noun_ charm, grace, guile `#2022.06.04`
 + **Peradin**	_p noun_	Halfling (Atrusian)
 + **pído**	_noun_	skin
 + **planci**	_noun_	frontier, unexplored land
@@ -877,6 +914,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **pontif**	_ton vb_	advise
 + **poraiti**	_noun_	mother (lit. female father, a remnant of an old movement; rare)
 + **poren**	_noun_	father
+  + **popóren** _noun_ 1. dada, papa, daddy (may be shorted to _popo_) `#2022.04.14`
 + **porén**	_noun_	strength
   + **poraun**	_desc_	strong
 + **porhel**	_noun_	grace
@@ -895,7 +933,8 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **rakim**	_prep_	beside, aside, next to
 + **ramu.ld**	_ton vb_			lack
 + **rank**	_desc_	wrong, perverse
-+ **raʃi**	_noun_	bank of a river, beach (lake, sea, ocean); sandy area along body of water
++ **raʃ** _noun_ sand
+  + **raʃi**	_noun_	bank of a river, beach (lake, sea, ocean); sandy area along body of water
 + **redjam**	_kun vb_	to saddle, to prepare an animal for riding
   + **redjau**	_noun_	saddle
 + **reixa**	_ton vb_	bloom, grow, unfold (as a flower)
@@ -914,6 +953,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
   + **riʃetax**	_noun_	farmer
 + **rist**	_desc_	right, proper, correct
 + **rukam**	_ton vb_	guard, protect
+  + **rukamakend** _noun_ umbrella; from _rukam_ + _makend_
   + **rukamtax**	_noun_	guardian
 + **rukib**	_noun_	odds, probability, ratio
 + **robar**	_noun_	robot, automaton
@@ -931,6 +971,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 
 + **sabak**	_noun_	sabacc	a card game in which the black and red suits have opposing point values, and in which the goal is to form a score of tomomu (21 in base ten) in a hand of 2 or 3 cards. This game is usually played with only the black and red suits, with no standard rule for handling the green suits (stars and sickles).
 + **sairent**	_noun_	find
++ **sali** _prep_ against
 + **sali.mo**	_ton vb_	to welcome
 + **salix**	_ton vb_	pit, set against
 + **sameya**	_noun_	area, region, contents
@@ -981,6 +1022,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **ʃeme.tí**	_ton vb_	clean
 + **ʃenza.ku**	_ton vb_	win a contest as victor
 + **ʃenzai**	_noun_	win, victory
++ **ʃep** _noun_ fish
 + **ʃi**	_pron_	them, they
 + **ʃinbarél**	_noun_	evolution
 + **ʃink.as** _ton vb_	persevere
@@ -997,6 +1039,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **ta.skel**	_ton vb_	call by a name
 + **tago.rem**	_ton vb_	cast something out	cast out from another
 + **tak**	_prep_	from, moving away
+  + **takem** _positional_ between, back and forth `#2022.06.01`
 + **-tak**	_vb sfx_	apprentice, student
 + **takama**	_pron_	nothing
 + **takama jun kuri**	_expr_	Nothing at all
@@ -1047,6 +1090,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **torek**	_prov_	shall
 + **toric**	_desc_	magical (as if by magic, inexplicable)
 + **toʃi**	_noun_	snow
+  + **toʃipáci** _noun_ snowbank, snow dune `#2022.05.31`
 + **tox**	_kun vb_	lose, end; as a game or contest
 + **twa**	_noun_	book
 + **twar**	_noun_	water
@@ -1105,6 +1149,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **feisaun**	_desc_	glorious
 + **feiso.na**	_ton vb_	glorify
 + **felimin**	_desc_	soft, gentle, quiet
+  + **feliman.is** _ton vb_ to speak softly and indistinctly, to speak quietly; from _felimin_ + _yan.is_
 + **felorn**	_desc_	sturdy
 + **fent** _n_ fox
 + **fi**	_pron_	she, her
@@ -1131,6 +1176,8 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **va**	_noun_	secret
 + **varm**	_noun_	mortar to hold bricks together
 + **varmel**	_desc_	together
+  + **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
+  + **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
 + **varme.st**	_ton vb_	bind bricks together with mortar
   + **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
   + **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
@@ -1139,6 +1186,7 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **ventro.l**	_ton vb_	move
 + **véol**	_desc_	violet
 + **veron**	_desc_	green
++ **verlic** _noun_ vine
 + **vérst**	_noun_	whim
 + **voten**	_noun_	verb
 
@@ -1146,9 +1194,11 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 
 + **xá**	_noun_	magic
   + **xá'iluan** _p noun_ June, Magic's Month
+  + **xá peratamani** _noun_ magical charm, mind-altering magic `#2022.06.04`
   + **xáron**	_noun_	mage, magic user
   + **xátri**	_desc_	magical (achieved by magic)
   + **xájia** _p noun_ Saturday (of odd-numbered weeks), magic-day
+  + **xábitke** _noun_ magical portal, magical gateway `#2022.06.01`
   + **xátoric** _noun_ artifice, magitech `#2022.05.31`
     + **xátoricax** _noun_ artificer, magitech engineer `#2022.05.31`
 + **xagi**	_noun_	tree
@@ -1185,7 +1235,8 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
 + **okei**	_expr_	okay
 + **opporhel**	_desc_	gracious
 + **Orgdin**	_p noun_	Ork (Atrusian)
-+ **orind**	_noun, desc_	gold, metal or color
++ **orìnd**	_noun, desc_	gold, metal or color
+  + **orìndomi** _noun_ store, shop, an artisan's house; from _orind_ + _domya_, 'goldhouse' `#2022.06.04`
 + **Orxdin**	_p noun_	Orc (Warcraft)
 + **ormer.cin**	_ton vb_	bleed, to drain blood
 + **oro**	_noun_	lap, time around a course
@@ -1209,17 +1260,3 @@ particularly as of a command or idea, suggests that one cannot or has not yet de
   + **workatol**	_vb form_	give birth	Literally "bearing"
 
 ## UNSORTED
-
-+ **arconir** _noun_ bear (animal)
-+ **rukmakend** _noun_ umbrella; from _rukam_ + _makend_
-+ **kinyan.is** _ton vb_ to stutter in speech, to speak poorly or inelegantly; from _kintas_ + _yan.is_
-+ **feliman.is** _ton vb_ to speak softly and indistinctly, to speak quietly; from _felimin_ + _yan.is_
-+ **hork.ers** _ton vb_ to speak unintelligibly, to speak nonsense; to foretell misfortune
-+ **raʃ** _noun_ sand
-+ **qali** _noun_ a festival, sacred time, or holiday
-+ **banklaf** _noun_ a major festival or sacred season
-+ **hiarejia** _noun_ a wedding day, a
-+ **sali** _prep_ against
-+ **shep** _noun_ fish
-+ **béra** _noun_ grape, berry
-+ **verlic** _noun_ vine
