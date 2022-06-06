@@ -173,3 +173,43 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 + N/A
 + **xune.m** _ton verb_ to excuse, to justify, to rationalize `#2005.11.04` `#2022.06.04` _discovered in an early attempt to make a dictionary using Adinjo as 'axunem' translated as 'no excusing'_
 + **zekenal** _noun_ note, comment, commentary, aside `#2005.11.04` `2022.06.04` _discovered in an early attempt to make a dictionary using Adinjo_
++ **ons** _noun_ ounce, a small weight or mass, roughly 20 grams or 0.705479 (0.71) ounces by weight `#2007` `#2022.06.04`
++ **tolis** _noun_ half-pound, a light weight or mass, roughly 240 grams, 8.46 ounces, or precisely _tomo onsu_ (12 onz) `#2007` `#2022.06.04`
++ **técha** _noun_ half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly 2.88 kg, 101.589 (101.6) ounces, 6.349313 (6.35) pounds, or precisely _tomo tolisu_ (12 tolis) `#2007` `#2022.06.04`
++ **ol** _noun_ a measure of mass/weight used by the native residents of Atrusius, roughly equal to about 1.25 _onz_, 25 grams, or 0.881849 (0.89) ounces `#2007` `#2022.06.04`
++ **pon** _noun_ a measure of mass/weight used by the native residents of Atrusius, roughly equal to 1.04 _tolis_, 250 grams, or 8.81849 (8.82) ounces (about half a pound) `#2007` `#2022.06.04`
++ **dunerin** _descriptor_ Dwarfish, Semerikän `#2003` `#2022.06.04` _found in an old barely used journal in the phrase "Dunerin Kladen"_
++ **kladen** _noun_ cave, cavern, grotto `#2003` `#2022.06.04` _found in an old barely used journal in the phrase "Dunerin Kladen"_
++ **banij** _pronoun_ here, this place `#2003` `#2022.06.04` _found in an old barely used journal_
++ **gelm** _noun_ pride, confidence, surety `#2007.11.26` `#2022.06.04`
++ **rez.as** _ton verb_ to stand, to present or show respect, to (stand) ready for a struggle or challenge `#2007.11.26` `#2022.06.05`
++ **ip.tan** _ton verb_ to shine, to reflect strong light `#2007.11.26` `#2022.06.05`
++ **winlin** _descriptor_ like one, as one, united, in unison, co-ordinated `#2007.11.26` `#2022.06.05`
++ **sedra** _kun verb_ to ride, to drive or steer (of an animal or animal-powered vehicle) `#2007.11.26` `#2022.06.05`
++ **shuka** _noun_ winter, cold season, `#2007.11.26` `#2022.06.05`
++ **'e.tol** _ton verb_ to burn, to be passionate, to be moved to action `#2007.11.26` `#2022.06.05` _conjugated, and contracted, form not typically listed, but no other form appears in the song where this word is attested_
++ **nikar** _positional_ inside, within `#2007.11.26` `#2022.06.05`
++ **exan** _noun_ steel, a metal composed of iron mixed with high-carbon coal `#2007.11.26` `#2022.06.05`
++ **aldyur** _descriptor_ ancient, very old, antique `#2007.11.26` `#2022.06.05`
++ **nakirm** _noun_ flight, formation, aerial squadron or unit `#2007.11.26` `#2022.06.05`
++ **borç.ent** _ton verb_ sending to, revealing to, inspiring `#2007.11.26` `#2022.06.05`
++ **imá.ton** _ton verb_ to shoot `#2003.12.25` `#2022.06.05` _conjugated, form not typically listed, but no other form appears in the song where this word is attested_
++ **soli.tol** _ton verb_ `#UNKNOWN_GLOSS` `#2003.12.25` `#2022.06.05` _conjugated, form not typically listed, but no other form appears in the song where this word is attested_
++ **hangu.ton** _ton verb_ pounding, beating, pulsing, especially of the heart `2003.04.24` `#2022.06.05` _conjugated, form not typically listed, but no other form appears in the song where this word is attested_
++ **mant.ak** _ton verb_ to pass gradually, to change constantly `2003.04.24` `#2022.06.05`
++ -**kino** _verb suffix_ to want (verb) to happen, to want to do (verb) `2003.04.24` `#2022.06.05`
++ **dama.rio** _ton verb_ happening, occuring, especially inevitably or passively `2003.04.24` `#2022.06.05`
++ **orom** _descriptor_ same, similar, identical, stable `2003.04.24` `#2022.06.05`
++ **stad.én** _ton verb_ to remain, to stay `2003.04.24` `#2022.06.05`
++ **pau.re** _ton verb_ to bid, to bet, to gamble; to make a play or move in a game `2003.04.24` `#2022.06.05`
++ **jukan** _noun_ card, dice, game tile, game piece `2003.04.24` `#2022.06.05`
++ **gojudekçin** _noun_ suffix, post script, afterword `2006.06.04` `#2022.06.05`
++ **mokure.nd** _ton verb_ learning, studying `2003.04.24` `#2022.06.05`
++ **hakason** _kun verb_ to negate, to invert, to reverse `2003.04.24` `#2022.06.05`
++ **galmcabi.nd** _ton verb_ mood-showing, potential-showing `2003.04.24` `#2022.06.05`
++ -**ja** _pronoun suffix_ -ever (as in whichever, however, whomever)`#2003.12.25` `#2022.06.05`
++ **kami** _positional_ among `#2003.12.25`
++ **bura.nu** _ton verb_ to blow, to exhale `#2003.12.25`
++ **mokuri.das** _ton verb_ to know, to study `#2003.12.25` `#2022.06.06`
++ **doman** _noun_ month (calendar month) `#2003.12.25` `#2022.06.06`
++ **cún** _positional_ out, outside `#2003.12.25`
