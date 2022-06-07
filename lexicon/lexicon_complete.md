@@ -134,7 +134,7 @@
 + **bor.ak** _ton vb_ getting, acquiring `#2003.12.25`
 + **borç.ent** _ton verb_ sending to, revealing to, inspiring `#2007.11.26` `#2022.06.05`
 + **bot.ek** _ton vb_ pressing, pushing `#2003.12.25`
- + **botan** _noun_ button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed `#2003.12.25`
+  + **botan** _noun_ button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed `#2003.12.25`
 
 ## G
 
