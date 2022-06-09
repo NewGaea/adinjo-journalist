@@ -132,7 +132,7 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 ## W
 
-+ **waSinton** (_english_) Washington
++ **washinton** (_english_) Washington
 
 ## UNSORTED
 
