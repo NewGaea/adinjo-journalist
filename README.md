@@ -12,7 +12,7 @@ This repository is for the Original Adin language, now called Adinjo Journalist.
 
 ### How do I get set up? ###
 
-It is recommended that you have Atom installed to edit and preview Markdown.
+It is recommended that you have Atom, VS Code, or any similar modern text editor installed to edit and preview Markdown.
 
 ### Contribution guidelines ###
 
