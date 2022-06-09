@@ -131,7 +131,8 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## P
 
-+ **pau.re** _ton verb_ to bid, to bet, to gamble; to make a play or move in a game `2003.04.24` `#2022.06.05`
++ **pazo** _noun, descriptor_ black `#2022.02.25`
++ **pau.re** _ton verb_ to bid, to bet, to gamble; to make a play or move in a game `#2003.04.24` `#2022.06.05`
 + **peratamani** _noun_ charm, grace, guile `#2022.06.04`
 + **pon** _noun_ a measure of mass/weight used by the native residents of Atrusius, roughly equal to 1.04 _tolis_, 250 grams, or 8.81849 (8.82) ounces (about half a pound) `#2007` `#2022.06.04`
 + **popóren** _noun_ 1. dada, papa, daddy (may be shorted to _popo_) `#2022.04.14`
@@ -181,6 +182,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 + **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
 + **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
 + **verlic** _noun_ vine
++ **vic** _noun, descriptor_ white `#2022.02.25`
 
 ## X (KH)
 

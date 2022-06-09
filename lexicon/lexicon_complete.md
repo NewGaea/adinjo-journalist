@@ -923,6 +923,7 @@
 + **páci** _noun_ sand dune, hill; an unstable geological feature
 + **para** _noun_ sheet, page, tablet; a thin cloth used to cover surfaces
  + **paratwa** _noun_ letter, missive, message (lit. sheet book, usually a single sheet)
++ **pazo** _noun, descriptor_ black `#2022.02.25`
 + **pau.re** _ton verb_ to bid, to bet, to gamble; to make a play or move in a game `2003.04.24` `#2022.06.05`
 + **pera.das** _ton vb_ please
  + **peranti** _noun_ pleasure
@@ -1222,6 +1223,7 @@
 + **veron** _desc_ green `#2003.12.25`
 + **verlic** _noun_ vine
 + **vérst** _noun_ whim
++ **vic** _noun, descriptor_ white `#2022.02.25`
 + **voten** _noun_ verb, a word which represents an action `#2003.12.25`
 
 ## X (KH)
