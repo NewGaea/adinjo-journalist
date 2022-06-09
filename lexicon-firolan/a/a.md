@@ -6,7 +6,7 @@ _descriptor_
 
 1. adanai (not any)
 
-> _xi'mué xunema_ (there is no excusing (it()
+> _xi'mué xunema_ (there is no excusing it)
 >
 > _durai larnai icha lanin_ (no two flowers are like to each other)
 
@@ -16,4 +16,4 @@ _descriptor_
 >
 > (<u>Zekenal</u>) (note)
 >
-> In **Adinjo Journalist**, the object and verb must be in agreement, meaning you cannot have a negative verb, such as _icha_ (is no, is not) without following it with a negative object. Negative nouns (and adjectives which must also agree with their nouns) are indicated by the _ai_ suffix, as in _adanai_ (none, not any) or _akendanai_ (no high legend)
+> In **Adinjo Journalist**, the object and verb must be in agreement, meaning you cannot have a negative verb, such as _icha_ (is no, is not) without following it with a negative object. Negative nouns (and _descriptors_ which must also agree with their nouns) are indicated by the _ai_ suffix, as in _adanai_ (none, not any) or _akendanai_ (no high legend)
