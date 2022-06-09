@@ -5,7 +5,7 @@ Adin have similar vision to other humans, and so have a similar palette of color
 + **Black, White**: The words originally made for black and white were _absé_ and _abso_, though later development has made these words that refer to brightness rather than pigment. They are related to the modern word _bès_ which means "saturation" or "brightness".
 + Black: New word coined 2022, _\*bhasto_ -> _\*bhasso_ -> _\*pásso_ -> _pazo_
 + White: New word coined 2022, _\*bhista_ -> _\*vista_ -> _\*vitsa_ -> _vic_
-+ Red: Originally coined early, _roha_ fits with the modern feels of the language as a hybrid of an _a priori_ language that met with a PIE related language
++ Red: Originally coined early, _roha_ fits with the modern feel of the language as a hybrid of an _a priori_ language that met with a PIE related language
 + Green: Similarly early, _veron_ may be one of the earliest words ever coined, and fits this theme.
 + Yellow: originally coined as _ksiron_, the independent _ks_ sound is no longer valid in word-onset positions. Since 2021, _ciron_ /tsiron/ is the preferred form for this word
 + Blue: Another early coinage was _arzol_, a catch-all term for blue, though in recent years there has been some thought to adding a complementary term for _light blue_ (cyan, sky blue).
