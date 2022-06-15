@@ -218,3 +218,4 @@ The words listed in this section may be repurposed and redefined as they have mo
 ## UNSORTED
 
 + N/A
++ **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
