@@ -8,7 +8,8 @@ This list contains only Modern Adinjo Journalist family names or surnames which 
 
 ## B
 
-+ **bankust**
++ **bankust**: (from _ban_ + _kust_) Baker, Bread-maker
++ **bikkori**: (from _bitke_ + _xori_) Gate-protector
 
 ## G
 
@@ -52,7 +53,7 @@ This list contains only Modern Adinjo Journalist family names or surnames which 
 
 ## K
 
-+ **kieres**
++ **kieres**: Carpenter
 
 ## Q
 
@@ -68,7 +69,7 @@ This list contains only Modern Adinjo Journalist family names or surnames which 
 
 ## N
 
-+ **nimelor**
++ **nimelor**: Carver, Mason
 
 ### Ñ (NY)
 
@@ -89,7 +90,7 @@ This list contains only Modern Adinjo Journalist family names or surnames which 
 
 ## S
 
-+ **sonhir**
++ **sonhir**: (from either _sonros_ or _arcon_ + _hiro_) Bear-king
 
 ### ʃ (SH)
 
@@ -113,7 +114,7 @@ This list contains only Modern Adinjo Journalist family names or surnames which 
 
 ## F
 
-+ **firom**
++ **firom**: Grey-wind, Silver-wind
 
 ## V
 

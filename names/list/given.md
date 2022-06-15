@@ -4,13 +4,13 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## A
 
-+ N/A
++ **ashara**: (from _ashaun_ + _ipera_) "horse spirit"
 
 ## B
 
 + **bal**
 + **bál**
-+ **bançiel**: _bançi_ (gift) + _elos_ (god, gods) = "gift from the gods"
++ **bançiel**: (from _bançi_ + _elos_) "gift from the gods"
 
 ## G
 
@@ -97,7 +97,7 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## P
 
-+ N/A
++ **portea** (from _porhel_ + _theos_)
 
 ## R
 
@@ -157,3 +157,34 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 ## UNSORTED
 
 + N/A
++ **techias**
++ **theshua**
++ **thesa**
++ **yehoshua** _borrowed from Hebrew_
++ **jesen**
++ **saraiti**
++ **lorebac**
++ **darmi**
++ **dar**
++ **nethen**
++ ipera
++ yasu
++ hiro
++ banchiel
++ banchitheo
++ kaumelos
++ xorinoc
++ esas _borrowed from Hebrew_
++ yesa _borrowed from Hebrew_
++ roman
++ danel
++ laven
++ jura
++ mazaru
++ romari
++ keiro
++ rino
++ kidhara
++ xairon
++ yuwei
++ ariyel
