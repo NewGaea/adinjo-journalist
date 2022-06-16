@@ -219,3 +219,4 @@ The words listed in this section may be repurposed and redefined as they have mo
 
 + N/A
 + **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
+* **gaya.m** _ton verb_ to give birth, to conceive, to impregnate, to breed `#2008.06.22`
