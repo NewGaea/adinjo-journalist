@@ -142,18 +142,18 @@
   + -**galm** _vb sfx_ may do verb; indicates the potential to perform an action `#2003.12.25`
 + **gambu** _noun_ lake `#2003.12.25`
 + **gamer.çin** _ton vb_ bleeding
-+ **gani.s** _ton vb_ making a contract; signing a contract
++ **gani.s** _ton vb_ making a contract; signing a contract `#2008.06.22`
 + **gant** _noun_ rate, speed `#2003.12.25`
 + **gante.dz** _ton vb_ transporting, carrying, exchanging `#2003.12.25`
-+ **ganto** _noun_ member of a group
++ **ganto** _noun_ member of a group `#2008.06.22`
 + **ganwas** _noun_ contract, legal document
-+ **garuud** _noun_ captive, prisoner
++ **garuud** _noun_ captive, prisoner `#2008.06.22`
 + **gatla.ʃi** _ton vb_ disguising `#2003.12.25`
   + **gatlan** _noun_ disguise `#2003.12.25`
 + **gelm** _noun_ pride, confidence, surety `#2007.11.26` `#2022.06.04`
 + **gezud.em** _ton vb_ expecting, anticipating; hoping
   + **gezudral** _noun_ expectation
-+ **gent** _noun_ child
++ **gent** _noun_ child `#2008.06.22`
 + **géxa.la** _verb_ to laugh, to chuckle, to cackle
 + **gi** _conj_ so that `#2003.12.25` _formerly glossed as "this," presumed typo of "thus"_
 + **gif** _noun_ fire, flame `#1998.06.01`
@@ -162,11 +162,11 @@
 + **Gramurdin** _p noun_ Gramurn
 + -**grat** _desc suffix_ least `#2003.12.25`
 + **greimík** _noun_ costume, outfit `#2003.12.25`
-+ **greis** _noun_ mercy
-  + **greiʃaun** _desc_ merciful
-+ **gyumi.da** _ton vb_ requiring
-+ **gubra** _conj_ though, while
-+ **gurias** _noun_ empire
++ **greis** _noun_ mercy `#2008.06.22`
+  + **greiʃaun** _desc_ merciful `#2008.06.22`
++ **gyumi.da** _ton vb_ requiring `#2008.06.22`
++ **gubra** _conj_ though, while `#2008.06.22`
++ **gurias** _noun_ empire `#2008.06.22`
   + **gurion** _descriptor_ imperial, of or relating to an empire `#2003.12.25`
     + **gurioni** _descriptor_ Adin (culturally), especially of the Imperial Culture or the Shipboard culture of Emissaries. `#2022.06.04`
   + **Gurneim** _noun_ knight, rank in Imperial Military; rank title, lowest rank of non-commissioned officer
@@ -283,37 +283,37 @@
 
 ## E
 
-+ **elðarél** _kun vb_ to rage, to be angry
++ **elðarél** _kun vb_ to rage, to be angry `#2008.06.22` _formerly a **ton verb**_
 + **elek** _noun_ trial, legal proceedings `#2003.12.25`
 + **elz** _noun_ ice, frozen or solid water
   + **elzblaméd** _noun_ icebox, cooler, fridge or freezer
   + **elzjia** _noun_ iceday, Tuesday of even weeks
   + **elziluan** _noun_ icemoon, January, the second month of the Imperial Adin calendar for Earth
-+ **elle.st** _ton vb_ touching
-  + **ellar** _noun_ touch, physical contact
++ **elle.st** _ton vb_ touching `#2008.06.22`
+  + **ellar** _noun_ touch, physical contact `#2008.06.22`
 + **ellorek** _kun vb_ to light up, to illuminate `#2003.12.25`
-+ **Elos** _p noun_ God (singular unique divine)
-+ **eloʃ.ir** _ton vb_ prophesying
-  + **eloʃin** _noun_ prophecy
-  + **eloʃtax** _noun_ prophet, psychic, fortune teller; one who prophesizes
++ **Elos** _p noun_ God (singular unique divine) `#2008.06.22`
++ **eloʃ.ir** _ton vb_ prophesying `#2008.06.22`
+  + **eloʃin** _noun_ prophecy `#2008.06.22`
+  + **eloʃtax** _noun_ prophet, psychic, fortune teller; one who prophesizes `#2008.06.22`
 + **Elressidin** _p noun_ Elressie
-+ **emraci** _noun_ armor, protective wear
-+ **-en** _nn sfx_ masculine suffix (possibly derived from **karen**)
-+ **enabeʃ** _kun vb_ to communicate the infinitive and present forms are identical
-  + **enabeʃik** _noun_ communication
-+ **enex** _noun_ robe, a long garment which is tied off to enclose the body
-  + **xal'enex** _noun_ a magic-user's robe, a robe with many external pockets and straps
-  + **koen'enex** _noun_ a priests robe, a robe meant to be tied off with a single sash and internal pockets
-  + **dér'enex** _noun_ formal robe, dress robe; typically made in the family colors of the wearer, with a single-colored sash
++ **emraçi** _noun_ armor, protective wear `#2008.06.22`
++ -**en** _nn sfx_ masculine suffix (possibly derived from **karen**) `#2008.06.22`
++ **enabeʃ** _kun vb_ to communicate (the infinitive and present forms are identical) `#2008.06.22`
+  + **enabeʃik** _noun_ communication `#2008.06.22`
++ **enex** _noun_ robe, a long garment which is tied off to enclose the body `#2004.07.13`
+  + **xál'enex** _noun_ a magic-user's robe, a robe with many external pockets and straps `#2004.07.13`
+  + **koen'enex** _noun_ a priests robe, a robe meant to be tied off with a single sash and internal pockets `#2004.07.13`
+  + **dér'enex** _noun_ formal robe, dress robe; typically made in the family colors of the wearer, with a single-colored sash `#2004.07.13`
 + **enla** _expr_ in-law `#2003.12.25`
 + **enmi.s** _ton vb_ lose (an object), misplace `#2003.12.25`
-+ **enros** _noun_ mind, brain, ego, sense of self
++ **enros** _noun_ mind, brain, ego, sense of self `#2008.06.22`
 + **enti.re** _ton vb_ hope `#2003.12.25`
-+ **enx** _noun_ head (referring to anatomical head)
-+ **ejis** _ton vb_ chase, pursue
-+ **eraz.el** _ton vb_ grind
++ **enx** _noun_ head (referring to anatomical head) `#2008.06.22`
++ **eji.s** _ton vb_ chase, pursue `#2008.06.22` 
++ **eraz.el** _ton vb_ grind `#2008.06.22`
   + **erapwen** _noun_ meal, ground grain or starch
-+ **estag** _noun_ shadow
++ **estag** _noun_ shadow `#2008.06.22`
 + **etarjé** _noun_ length
 + **exan** _noun_ steel, a metal composed of iron mixed with high-carbon coal `#2007.11.26` `#2022.06.05`
 
@@ -1167,16 +1167,16 @@
 
 ## F
 
-+ **faic.es** _ton vb_ defend `#2003.12.25`
-  + **faici** _noun_ defense `#2003.12.25`
-+ **faile.res** _ton vb_ love, make an emotional connection
-  + **failes** _noun_ love, romantic, emotional connection
++ **faiç.es** _ton vb_ defend `#2003.12.25`
+  + **faiçi** _noun_ defense `#2003.12.25`
++ **faile.res** _ton vb_ love, make an emotional connection `#2008.06.22`
+  + **failes** _noun_ love, romantic, emotional connection `#2008.06.22`
   + **failefaile.res** _ton vb_ infatuating, entrancing, arousing, crushing (emotionally)
 + **fainu.l** _ton vb_ sleep `#2003.12.25`
   + **fainen** _noun_ sleep `#2003.12.25`
 + **fairo** _noun_ sugar `#2003.12.25`
-+ **falc.et** _ton vb_ feel or sense, emotional
-+ **fanguen** _desc_ fertile
++ **falc.et** _ton vb_ feel or sense, emotional `#2008.06.22`
++ **fanguen** _desc_ fertile `#2008.06.22`
 + **fant.els** _ton vb_ forgiving `#2003.12.25`
 + **feis** _noun_ glory `#2003.12.25`
   + **feisaun** _desc_ glorious `#2003.12.25`
@@ -1187,19 +1187,19 @@
 + **fent** _n_ fox
 + **fi** _f pron_ she, her `#2003.12.25`
 + **finit** _noun_ rival `#2003.12.25`
-+ **fir** _desc_ grey, gray
++ **fir** _desc_ grey, gray `#2008.06.22`
 + **flin.gel** _ton vb_ stranding `#2003.12.25`
 + **frelmagi** _desc_ important
 + **frilt.orv** _ton vb_ reply
   + **frilnef** _noun_ reply
 + **furak** _noun_ lemon, citrus fruit `#2003.12.25`
-  + **furaten** _noun_ lemon, erotic story (the genre of stories written for sexual enjoyment) `#2003.12.25`
-+ **furí** _prep_ over, past, beyond `#2003.12.25`
+  + **furatan** _noun_ lemon, erotic story (the genre of stories written for sexual enjoyment) `#2003.12.25` _formerly "furatri"_
++ **fúri** _prep_ over, past, beyond `#2003.12.25`
 + **furin.s** _ton vb_ swim `#2003.12.25`
   + **furin** _noun_ swim `#2003.12.25`
 + **folar** _ton vb_ flow, course, move
 + **folre** _kun vb_ stop `#2003.12.25`
-  + **folredai** _noun_ stop mark, full stop, period `#2003.12.25`
+  + **folredai** _noun_ stop mark, full stop, period `#2008.06.22` _formerly "folretruk"_
 + **fomark** _desc_ as, for the purpose of `#2003.12.25`
 + **forti.n** _ton vb_ climb `#2003.12.25`
   + **fortenk** _noun_ climb `#2003.12.25`
@@ -1288,16 +1288,16 @@
 + **westak** _noun_ shade
 + **wi** _pron_ who `#2003.12.25`
 + **win** _desc_ one `#2003.12.25`
- + **winilarn** _noun_ half, literally "one (part) of two"
- + **Winilardin** _p noun_ one-half of a person, half-sized person (halfling)
- + **Winilarn** _pfx_ Half-race
- + **winirin** _desc_ first `#2003.12.25`
- + **winlin** _descriptor_ like one, as one, united, in unison, co-ordinated `#2007.11.26` `#2022.06.05`
+  + **winilarn** _noun_ half, literally "one (part) of two"
+    + **Winilardin** _p noun_ one-half of a person, half-sized person (halfling)
+    + **Winilarn** _pfx_ Half-race
+  + **winirin** _desc_ first `#2003.12.25`
+  + **winlin** _descriptor_ like one, as one, united, in unison, co-ordinated `#2007.11.26` `#2022.06.05`
 + **wor** _prep_ as, while `#2003.12.25`
 + **Woredin** _p noun_ Woren
 + **worka.in** _ton vb_ bear, carry
- + **workait** _vb form_ be born from "born"
- + **workatol** _vb form_ give birth Literally "bearing"
+  + **workait** _vb form_ be born from "born"
+  + **workatol** _vb form_ give birth Literally "bearing"
 
 ## OLD FORMS
 
