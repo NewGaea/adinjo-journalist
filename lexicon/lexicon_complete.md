@@ -1031,7 +1031,7 @@
 + **sif** _pron_ why
 + **sinba.ras** _ton vb_ evolve, metamorphose `#2003.12.25`
 + **sinju** _noun_ face `#2003.12.25`
- + **sinju.las** _ton vb_ facing, encountering, looking towards `#2003.12.25`
+  + **sinju.las** _ton vb_ facing, encountering, looking towards `#2003.12.25`
 + **sintwa** _noun_ diary `#2003.12.25`
 + **stad.én** _ton verb_ to remain, to stay `2003.04.24` `#2022.06.05`
 + **sug** _art_ the, definite article `#2003.12.25`
