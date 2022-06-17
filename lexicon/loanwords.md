@@ -84,7 +84,7 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 ## P
 
-+ N/A
++ **politikaen** (_anc. greek_) political, cf. *ikangraen*
 
 ## R
 

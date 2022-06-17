@@ -219,4 +219,6 @@ The words listed in this section may be repurposed and redefined as they have mo
 
 + N/A
 + **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
-* **gaya.m** _ton verb_ to give birth, to conceive, to impregnate, to breed `#2008.06.22`
++ **gaya.m** _ton verb_ to give birth, to conceive, to impregnate, to breed `#2008.06.22` `#2022.06.15` _recovered from a dictionary dated to 2008-Jun-22_
++ **jurabi** _noun_ afternoon, midday `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin jurabi" and "sayu jurabi"_
++ **kolbu** _noun_ evening, dusk `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin kolbu" and "sayu kolbu"_
