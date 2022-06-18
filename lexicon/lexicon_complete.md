@@ -149,6 +149,7 @@
 + **garuud** _noun_ captive, prisoner `#2008.06.22`
 + **gatla.ʃi** _ton vb_ disguising `#2003.12.25`
   + **gatlan** _noun_ disguise `#2003.12.25`
++ **gaya.m** _ton verb_ to give birth, to conceive, to impregnate, to breed `#2008.06.22` `#2022.06.15` _recovered from a dictionary dated to 2008-Jun-22_
 + **gelm** _noun_ pride, confidence, surety `#2007.11.26` `#2022.06.04`
 + **gezud.em** _ton vb_ expecting, anticipating; hoping `#2021.04.22`
   + **gezudral** _noun_ expectation `#2021.04.22`
@@ -283,6 +284,7 @@
 
 ## E
 
++ **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
 + **elðarél** _kun vb_ to rage, to be angry `#2008.06.22` _formerly a **ton verb**_
 + **elek** _noun_ trial, legal proceedings `#2003.12.25`
 + **elz** _noun_ ice, frozen or solid water `#2021.04.22`
@@ -598,6 +600,7 @@
 + **kolt.es** _ton vb_ freeze, go from liquid to solid `#2003.12.25` _formerly "koton"_
 + **kobal** _noun_ memory `#2008.06.22`
 + **koen** _noun_ priest, teacher, instructor `#2021.04.22`
++ **kolbu** _noun_ evening, dusk `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin kolbu" and "sayu kolbu"_
 + **kolcon** _noun_ middle finger (esp. on the right hand) `#2003.12.25`
 + **kolen.ger** _ton vb_ betray `#2003.12.25`
   + **kolengaus** _noun_ betrayal `#2003.12.25`
@@ -905,6 +908,7 @@
   + **jumanai** _noun_ death `#2021.04.22`
   + **Jumaye** _p noun_ Death, the Reaper, Fate; the personification of Death in Adin, "Death's Hand" `#2021.04.22`
 + **jun** _prep_ (temporal) at, in x location, during x time `#2003.12.25`
++ **jurabi** _noun_ afternoon, midday `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin jurabi" and "sayu jurabi"_
 + **jurag** _desc_ selfless `#2008.06.22`
 + **jurai** _noun_ reality `#2003.12.25`
   + **jurau** _desc_ real `#2003.12.25`

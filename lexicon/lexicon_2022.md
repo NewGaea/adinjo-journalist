@@ -22,6 +22,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 + **gaeani** _descriptor_ Human, Gaean (culturally), of or related to the human cultures native to Gaea. `#2022.06.04`
 + **galmcabi.nd** _ton verb_ mood-showing, potential-showing `2003.04.24` `#2022.06.05`
++ **gaya.m** _ton verb_ to give birth, to conceive, to impregnate, to breed `#2008.06.22` `#2022.06.15` _recovered from a dictionary dated to 2008-Jun-22_
 + **gelm** _noun_ pride, confidence, surety `#2007.11.26` `#2022.06.04`
 + **géxa.la** _verb_ to laugh, to chuckle, to cackle
 + **gurioni** _descriptor_ Adin (culturally), especially of the Imperial Culture or the Shipboard culture of Emissaries. `#2022.06.04`
@@ -45,6 +46,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## E
 
++ **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
 + **exan** _noun_ steel, a metal composed of iron mixed with high-carbon coal `#2007.11.26` `#2022.06.05`
 
 ## Z
@@ -84,6 +86,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 + **kitaoʃi** _noun_ snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard `#2022.05.31`
 + **kitemain** _noun_ wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs `#2022.05.31`
 + **kladen** _noun_ cave, cavern, grotto `#2003` `#2022.06.04` _found in an old barely used journal in the phrase "Dunerin Kladen"_
++ **kolbu** _noun_ evening, dusk `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin kolbu" and "sayu kolbu"_
 + **konten** _noun_ field, flatland, commons `#2022.06.04`
   + **kontagro** _noun_ marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare
 
@@ -127,6 +130,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 + **jálunu** _noun_ clothing, garment, covering; literally "wrappings"
 + **jukan** _noun_ card, dice, game tile, game piece `2003.04.24` `#2022.06.05`
 + **julajak.en** _ton verb_ to regress, to revert; from "to change back(wards)" `#2022.05.31`
++ **jurabi** _noun_ afternoon, midday `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin jurabi" and "sayu jurabi"_
 + **jonqonjinu** _descriptor_ trilingual, familiar with three languages `#2022.06.04`
 
 ## P
@@ -218,7 +222,3 @@ The words listed in this section may be repurposed and redefined as they have mo
 ## UNSORTED
 
 + N/A
-+ **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
-+ **gaya.m** _ton verb_ to give birth, to conceive, to impregnate, to breed `#2008.06.22` `#2022.06.15` _recovered from a dictionary dated to 2008-Jun-22_
-+ **jurabi** _noun_ afternoon, midday `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin jurabi" and "sayu jurabi"_
-+ **kolbu** _noun_ evening, dusk `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin kolbu" and "sayu kolbu"_
