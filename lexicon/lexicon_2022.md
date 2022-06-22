@@ -4,6 +4,8 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## A
 
++ -**a** _ton verb suffix_ not; negative, applied to the end of tense/voice suffix `#2003.12.25`
++ -**a**- _kun verb suffix_ not; replaces the last vowel in the root `#2003.12.25`
 + **ademba** _pronoun_ any time, one time `#2022.06.01`
 + **aduprani** _descriptor_ pansexual `#2022.06.04`
 + **aldyur** _descriptor_ ancient, very old, antique `#2007.11.26` `#2022.06.05`
@@ -46,6 +48,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## E
 
++ -**el** _verb suffix_ perfective marker; indicates an action with noteworthy or unusual duration for that action `#2003.12.25`
 + **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
 + **exan** _noun_ steel, a metal composed of iron mixed with high-carbon coal `#2007.11.26` `#2022.06.05`
 
@@ -63,6 +66,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## C
 
++ -**c** _kun verb suffix_ is, am, are, -ing; present tense (_kun_ verbs which end in vowels) `#2003.12.25`
 + **cáve.n** _ton verb_ 1. passive to produce a constant sound, as a hum or buzz 2. active to dart about between tasks or actions `#2022.04.06`
 + **céjo** _noun_ breast, chest
 + **cún** _positional_ out, outside `#2003.12.25`
@@ -86,6 +90,13 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 + **kitaoʃi** _noun_ snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard `#2022.05.31`
 + **kitemain** _noun_ wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs `#2022.05.31`
 + **kladen** _noun_ cave, cavern, grotto `#2003` `#2022.06.04` _found in an old barely used journal in the phrase "Dunerin Kladen"_
++ **kuci** _pronoun_ your, yours `#2003.12.25`
++ **kuki** _pronoun_ our, ours `#2003.12.25`
++ -**kun** _kun verb suffix_ will, shall; future tense (_kun_ verbs which end in vowels) `#2003.12.25`
++ **kuji** _pronoun_ his `#2003.12.25`
++ **kushi** _pronoun_ their, theirs `#2003.12.25`
++ **kuyi** _pronoun_ my, mine `#2003.12.25`
++ **kufi** _pronoun_ her, hers `#2003.12.25`
 + **kolbu** _noun_ evening, dusk `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin kolbu" and "sayu kolbu"_
 + **konten** _noun_ field, flatland, commons `#2022.06.04`
   + **kontagro** _noun_ marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare
@@ -110,6 +121,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 + **mamar.in** _ton verb_ 1. a small walk, a recreational walk; _walkies_ `2022.04.14`
 + **mant.ak** _ton verb_ to pass gradually, to change constantly `2003.04.24` `#2022.06.05`
 + **memédra** _noun_ 1. mama, mommy (may be shortened to _memé_) `#2022.04.14`
++ -**mer** _verb suffix_ may, able to; indicates the potentive or potential aspect, wheter a verb is possible `#2003.12.25`
 + **mokure.nd** _ton verb_ learning, studying `2003.04.24` `#2022.06.05`
 + **mokuri.das** _ton verb_ to know, to study `#2003.12.25` `#2022.06.06`
 
@@ -117,6 +129,8 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 + **nakirm** _noun_ flight, formation, aerial squadron or unit `#2007.11.26` `#2022.06.05`
 + **nikar** _positional_ inside, within `#2007.11.26` `#2022.06.05`
++ -**ns** _kun verb suffix_  was, did; past tense `#2003.12.25`
++ -**no**- _kun verb infix_ -ing; forms the gerund, inserted after the first vowel of the verb `#2003.12.25`
 
 ### Ñ (NY)
 
@@ -149,6 +163,7 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## S
 
++ -**s** _kun verb suffix_ is, am, are, -ing; present tense (_kun_ verbs which end in consonants) `#2003.12.25`
 + **sali** _prep_ against
 + **sedra** _kun verb_ to ride, to drive or steer (of an animal or animal-powered vehicle) `#2007.11.26` `#2022.06.05`
 + **stad.én** _ton verb_ to remain, to stay `2003.04.24` `#2022.06.05`
@@ -162,8 +177,14 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 + **takem** _positional_ between, back and forth `#2022.06.01`
 + **téça** _noun_ half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly 2.88 kg, 101.589 (101.6) ounces, 6.349313 (6.35) pounds, or precisely _tomo tolisu_ (12 tolis) `#2007` `#2022.06.04`
++ -**toçi** _ton verb suffix_ will happen; future tense, passive voice `#2003.12.25`
++ -**tol** _ton verb suffix_ is doing, am doing; present tense, active voice `#2003.12.25`
 + **tolis** _noun_ half-pound, a light weight or mass, roughly 240 grams, 8.46 ounces, or precisely _tomo onsu_ (12 onz) `#2007` `#2022.06.04`
++ -**toloçi** _ton verb suffix_ will, shall; future tense, active voice `#2003.12.25`
++ -**tolot** _ton verb suffix_ have finished, was doing; past tense, active voice `#2003.12.25`
++ -**ton** _ton verb suffix_ is, am; present tense, passive voice `#2003.12.25`
 + **toʃipáci** _noun_ snowbank, snow dune `#2022.05.31`
++ -**tot** _ton verb suffix_ did, was; past tense, passive voice `#2003.12.25`
 
 ### Þ (TH)
 
@@ -175,7 +196,8 @@ This list contains only words which are confirmed as added in 2021 and 2022.
 
 ## Y
 
-+ N/A
++ -**ya**- _kun verb suffix_ not; replaces the last vowel in the root (especially after another vowel) `#2003.12.25`
++ -**ykun** _kun verb suffix_ will, shall; future tense (_kun_ verbs which end in consonants) `#2003.12.25`
 
 ## F
 

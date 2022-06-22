@@ -5,6 +5,8 @@
 ## A
 
 + **[-a](a/a.md)** _suffix_ no, not, negative `#2003.12.25`
++ -**a** _ton verb suffix_ not; negative, applied to the end of tense/voice suffix `#2003.12.25`
++ -**a**- _kun verb suffix_ not; replaces the last vowel in the root `#2003.12.25`
 + **[a](a/a.md)** _pronoun_ all, each, every `#2003.12.25`
 + **[a](a/a.md)** _descriptor_ great, grand, superior `#2003.12.25`
 + **[abse](a/abs.md)** _descriptor_ black `#2003.12.25`
@@ -284,6 +286,7 @@
 
 ## E
 
++ -**el** _verb suffix_ perfective marker; indicates an action with noteworthy or unusual duration for that action `#2003.12.25`
 + **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
 + **elðarél** _kun vb_ to rage, to be angry `#2008.06.22` _formerly a **ton verb**_
 + **elek** _noun_ trial, legal proceedings `#2003.12.25`
@@ -388,6 +391,7 @@
 
 ## C
 
++ -**c** _kun verb suffix_ is, am, are, -ing; present tense (_kun_ verbs which end in vowels) `#2003.12.25`
 + **cabi.nd** _ton vb_ show, reveal `#2008.06.22`
 + **calu.s** _ton vb_ continue, resume `#2003.12.25`
 + **campi.x** _ton vb_ test `#2003.12.25`
@@ -581,16 +585,23 @@
 + **kuha** _noun_ sun; generic term for any star with at least one planet `#2008.06.22`
   + **kuhajia** _noun_ Sunday of an odd week
   + **kuha'iluan** _noun_ sunmoon, March, the month of the vernal equinox, the fourth month of the Imperial Adin calendar for Earth
++ **kuci** _pronoun_ your, yours `#2003.12.25`
 + **kulan.d** _ton vb_ grow `#2008.06.22`
   + **kulanzel** _noun_ growth `#2008.06.22`
++ **kuki** _pronoun_ our, ours `#2003.12.25`
 + **kum** _noun_ tear, tears, teardrop (as when crying) `#2008.06.22`
++ -**kun** _kun verb suffix_ will, shall; future tense (_kun_ verbs which end in vowels) `#2003.12.25`
++ **kuji** _pronoun_ his `#2003.12.25`
 + **kura'ind** _desc_ simple, basic `#2003.12.25`
 + **kurba.tul** _ton vb_ conform `#2003.12.25`
   + **kurbaci** _noun_ conformity `#2003.12.25`
 + **kureʃ** _ton vb_ wash `#2008.06.22`
 + **kuri** _noun_ all `#2003.12.25`
 + **kuroln** _noun_ platform `#2003.12.25`
++ **kushi** _pronoun_ their, theirs `#2003.12.25`
 + **kust** _nn sfx_ smith, one who forges or shapes; can be applied after any material or tool `#2003.12.25`
++ **kuyi** _pronoun_ my, mine `#2003.12.25`
++ **kufi** _pronoun_ her, hers `#2003.12.25`
 + **kybrau** _desc_ cybernetic, electronic `#2016.02.29`
   + **kybratox** _noun_ electronic endpoint, terminal, mobile phone `#2016.02.29`
   + **kybraxoltwa** _noun_ electronic journal, blog `#2016.01.31`
@@ -763,6 +774,7 @@
 + **menaʃ** _noun_ button, as on clothing (clothing buttons only) `#2021.04.22`
 + **menju** _noun_ button, a switch which is pressed (mechanical push-button, not clothing buttons) `#2003.12.25`
 + **menra** _desc_ glad, happy `#2008.06.22`
++ -**mer** _verb suffix_ may, able to; indicates the potentive or potential aspect, wheter a verb is possible `#2003.12.25`
 + **merçin** _noun_ blood `#2008.06.22`
   + **merçinal.en** _ton vb_ bloody, to cover or mark with blood `#2021.04.22`
   + **merçinens** _desc_ bloody, covered or marked by blood `#2021.04.22`
@@ -837,9 +849,11 @@
 + **nikar** _positional_ inside, within `#2007.11.26` `#2022.06.05`
 + **nikobal.sa** _ton vb_ memorize "into memory"
 + **nimel.orm** _ton vb_ carve, cut into `#2003.12.25`
++ -**ns** _kun verb suffix_  was, did; past tense `#2003.12.25`
 + -**nu**, -**u** _nn sfx_ pluralization `#2003.12.25`
 + **nugo.rem** _ton vb_ cast something away cast away from oneself `#2021.04.22`
 + **nuqesir** _noun_ search, hunt, investigate, seek something in the physical world `#2021.04.22`
++ -**no**- _kun verb infix_ -ing; forms the gerund, inserted after the first vowel of the verb `#2003.12.25`
 + **noc** _noun_ 1. rock, stone 2. mug, a drinking vessel made of baked and glazed clay; these cups tend to come in sizes of ¼, ½, and 1 chuort sizes. The smallest is considered appropriate for tea, coffee, and other drinks offered to social guests during the day, and is about 10.9 US fluid ounces (~321 mL) `#2003.12.25`
 + **nokal** _noun_ hunt `#2008.06.22`
 + **nola** _noun_ noun; a word which refers to a person, place, thing, or concept `#2003.12.25`
@@ -1000,6 +1014,7 @@
 
 ## S
 
++ -**s** _kun verb suffix_ is, am, are, -ing; present tense (_kun_ verbs which end in consonants) `#2003.12.25`
 + **sabak** _noun_ sabacc a card game in which the black and red suits have opposing point values, and in which the goal is to form a score of tomomu (21 in base ten) in a hand of 2 or 3 cards. This game is usually played with only the black and red suits, with no standard rule for handling the green suits (stars and sickles). `#2003.12.25`
 + **sairent** _noun_ find, loot, reward, prize `#2021.04.22`
 + **sali** _prep_ against `#2021.04.22`
@@ -1116,12 +1131,17 @@
   + **tumari'kupredanax** _noun_ sportsman's pants, athletic pants `#2004.07.13`
   + **tumaraiti** _noun_ feminine pants; trousers designed to accentuate the shape of the legs especially at the hips `#2004.07.13`
 + **tobi.ru** _ton vb_ allow, free, release; come, orgasm (colloquially used for both orgasm and orgasmic fluids) `#2003.12.25`
++ -**toçi** _ton verb suffix_ will happen; future tense, passive voice `#2003.12.25`
 + **toca.s** _ton vb_ smoke `#2003.12.25`
   + **tolam** _noun_ smoke `#2003.12.25`
++ -**tol** _ton verb suffix_ is doing, am doing; present tense, active voice `#2003.12.25`
 + **tolis** _noun_ half-pound, a light weight or mass, roughly 240 grams, 8.46 ounces, or precisely _tomo onsu_ (12 onz) `#2007` `#2022.06.04`
++ -**toloçi** _ton verb suffix_ will, shall; future tense, active voice `#2003.12.25`
++ -**tolot** _ton verb suffix_ have finished, was doing; past tense, active voice `#2003.12.25`
 + **tok** _noun_ minute `#2003.12.25`
 + **tomo** _desc_ twelve `#2003.12.25`
   + -**mo** _sfx_ twelves (10s) `#2003.12.25`
++ -**ton** _ton verb suffix_ is, am; present tense, passive voice `#2003.12.25`
 + **tons.en** _ton vb_ become, change to `#2003.12.25`
 + **tóji** _desc_ great gross; one thousand, seven hundred twenty eight (1,728<sub>10</sub>, or 1,000<sub>12</sub>) `#2003.12.25`
   + **-ji** _sfx_ great grosses (1728s<sub>10</sub>, or 1,000s<sub>12</sub>) `#2003.12.25`
@@ -1131,6 +1151,7 @@
 + **toric** _desc_ magical (as if by magic, inexplicable) `#2003.12.25`
 + **toʃi** _noun_ snow `#2003.12.25`
   + **toʃipáci** _noun_ snowbank, snow dune `#2022.05.31`
++ -**tot** _ton verb suffix_ did, was; past tense, passive voice `#2003.12.25`
 + **tox** _kun vb_ to lose, to end (as a game or contest) `#2003.12.25`
 + **twa** _noun_ book `#2003.12.25`
 + **twar** _noun_ water `#2003.12.25`
@@ -1155,6 +1176,7 @@
 ## Y
 
 + **ya** _pron_ that `#2003.12.25`
++ -**ya**- _kun verb suffix_ not; replaces the last vowel in the root (especially after another vowel) `#2003.12.25`
 + **yani.s** _ton vb_ say `#2003.12.25`
  + **yaniqon.ij** _ton vb_ speech writing, taking dictation
  + **yanicin** _noun_ saying, expression `#2021.04.22`
@@ -1163,13 +1185,14 @@
 + **yent** _noun_ text, written language `#2003.12.25`
 + **yev** _noun_ mouth `#2008.06.22`
 + **yi** _pron_ I, me `#2003.12.25`
-+ **yok.els** _ton vb_ lead, be ahead of `#2003.12.25`
-  + **yoken** _noun_ lead, a distance between two `#2003.12.25`
-  + **yoketax** _noun_ leader, one who is ahead `#2003.12.25`
++ -**ykun** _kun verb suffix_ will, shall; future tense (_kun_ verbs which end in consonants) `#2003.12.25`
 + **yr** _conj_ or `#2008.06.22`
 + **yréons** _arc vb_ to come first (archaic, proper name) `#2008.06.22`
 + **yuga** _noun_ thing `#2003.12.25` _formerly "yugi"_
 + **yumare** _noun_ compassion, diffused love `#2008.06.22`
++ **yok.els** _ton vb_ lead, be ahead of `#2003.12.25`
+  + **yoken** _noun_ lead, a distance between two `#2003.12.25`
+  + **yoketax** _noun_ leader, one who is ahead `#2003.12.25`
 
 ## F
 

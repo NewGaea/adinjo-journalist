@@ -4,13 +4,15 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## A
 
-+ **ashara**: (from _ashaun_ + _ipera_) "horse spirit"
++ **ariyel**
++ **aʃara**: (from _ashaun_ + _ipera_) "horse spirit"
 
 ## B
 
-+ **bal**
-+ **bál**
++ **bal**: (_bal_) "tempo"
++ **bál**: (variant of _bal_) "tempo"
 + **bançiel**: (from _bançi_ + _elos_) "gift from the gods"
++ **bançiþéo**: (from _bançi_ + _téol_) "gift from the gods", "gift from the spirits"
 
 ## G
 
@@ -19,6 +21,9 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## D
 
++ **danel**
++ **darmi**
++ **dar**
 + **dogart**
 
 ### Ð (dh)
@@ -33,6 +38,7 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 + **enkidu**
 + **enkura**
++ **esas** _borrowed from Hebrew_
 
 ## Z
 
@@ -40,28 +46,31 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## H
 
-+ N/A
++ **hiro**: (_hiro_) "king"
 
 ## C
 
-+ **ciel** (1): _çijin_ (knowledge) + _elaure_ (to keep) = "keeper of knowledge" (cf. _çiel (1)_)
-+ **ciel** (2): _çijin_ (knowledge) + _porhel_ (grace) = "knowledge and grace" or "wise judgement" (cf. _çiel (2)_)
++ **ciel** (1): (from _çijin_ + _elaure_) = "keeper of knowledge" (cf. _çiel (1)_)
++ **ciel** (2): (from _çijin_ + _porhel_) = "knowledge and grace" or "wise judgement" (cf. _çiel (2)_)
 
 ### Ç (CH)
 
 + **çérin**
-+ **çiel** (1): _çijin_ (knowledge) + _elaure_ (to keep) = "keeper of knowledge" (cf. _ciel (1)_)
-+ **ciel** (2): _çijin_ (knowledge) + _porhel_ (grace) = "knowledge and grace" or "wise judgement" (cf. _çiel (2)_)
-+ **çotax**
++ **çiel** (1): (from _çijin_ + _elaure_) = "keeper of knowledge" (cf. _ciel (1)_)
++ **çiel** (2): (from _çijin_ + _porhel_) = "knowledge and grace" or "wise judgement" (cf. _çiel (2)_)
++ **çotax**: (from _çota_ + _tax_) "faithful"
 
 ## I
 
-+ N/A
++ **ipera**
 
 ## K
 
-+ **kadelya**: _kadai_ (daughter) + _relja_ (brave) = "brave daughter"
-+ **kaumé**: _kaumé_ (rose)
++ **kadelya**: (from _kadai_ + _relja_) = "brave daughter"
++ **kaumé**: (_kaumé_) rose
++ **kaumelos**: (from _kaume_ + _elos_) = "rose of god" or "rose of the gods"
++ **keiro**
++ **kiðara**
 + **kirora**
 + **kitaʃa**: _kita_ (dog) + _aʃa_ (peace) = "peaceful dog"
 + **kitaure**: _kita_ (dog) + _elaure_ (to keep) = "keeper of dog(s)"
@@ -73,18 +82,21 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## L
 
++ **laven**
 + **liyer**
 + **luko**
++ **lorebac**
 
 ## M
 
 + **mael**: _mai_ (sure, certain) + _porhel_ (grace) = "confident grace"
++ **mazaru**
 + **mana**
 + **miktén**
 
 ## N
 
-+ N/A
++ **neþen**
 
 ### Ñ (NY)
 
@@ -93,6 +105,8 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 ## J
 
 + **jenesis**
++ **jesen**
++ **jura**
 + **jurin**
 
 ## P
@@ -103,12 +117,14 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 + **reixa**
 + **rhea**
++ **rino**
 + **roger**
 + **roman**
++ **romari**
 
 ## S
 
-+ N/A
++ **saraiti**
 
 ### ʃ (SH)
 
@@ -116,13 +132,15 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## T
 
++ **teçias**
 + **tessa**
 + **teʃ**
 + **towar**
 
 ### Þ (TH)
 
-+ **Þeʃua**
++ **þeʃua**
++ **þesa**
 
 ## U
 
@@ -130,7 +148,11 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## Y
 
++ **yasu**
++ **yehoshua** _borrowed from Hebrew_
 + **yemain**
++ **yesa** _borrowed from Hebrew_
++ **yuwei**
 
 ## F
 
@@ -144,7 +166,8 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 
 ## X (KH)
 
-+ N/A
++ **xairon**
++ **xorinoc**
 
 ## O
 
@@ -157,34 +180,3 @@ This list contains only Modern Adinjo Journalist names which are confirmed as in
 ## UNSORTED
 
 + N/A
-+ **techias**
-+ **theshua**
-+ **thesa**
-+ **yehoshua** _borrowed from Hebrew_
-+ **jesen**
-+ **saraiti**
-+ **lorebac**
-+ **darmi**
-+ **dar**
-+ **nethen**
-+ ipera
-+ yasu
-+ hiro
-+ banchiel
-+ banchitheo
-+ kaumelos
-+ xorinoc
-+ esas _borrowed from Hebrew_
-+ yesa _borrowed from Hebrew_
-+ roman
-+ danel
-+ laven
-+ jura
-+ mazaru
-+ romari
-+ keiro
-+ rino
-+ kidhara
-+ xairon
-+ yuwei
-+ ariyel

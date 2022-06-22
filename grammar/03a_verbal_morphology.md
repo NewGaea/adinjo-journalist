@@ -26,7 +26,8 @@ In vowel-final words, past /**_ns_**/ follows the final vowel. Present -**_c_** 
 #### Tense and Voice ####
 
 There are three tenses, past, present, and future in Adinjo, along with five primary voices which modify the basic shape of the verb. The voices are the gerund, the infinitive, the passive, the active, and the negative. The negative is a special voice which can merge with any of the others as a final suffix.
-	Voices in Adinjo are ways in which one can discuss or refer to an action.
+
+Voices in Adinjo are ways in which one can discuss or refer to an action.
 
 ##### Tense and Voice Suffixes for TON Verbs #####
 
