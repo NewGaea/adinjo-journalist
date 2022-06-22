@@ -21,7 +21,7 @@ I strongly dislike Sam-I-Am!
 
 Aur çi jeimas veron puton?
 INT 2S ham.PL green like.PRESACT
-Do you like green ham?
+Do you like green eggs?
 
 Yi ba putonha, SAM-YI-IÇ.
 Yi jeimas veron putonha.

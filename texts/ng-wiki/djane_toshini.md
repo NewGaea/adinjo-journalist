@@ -26,3 +26,7 @@ Acoréru'jun, Djane Toshini win xátoric Aurok ku'Karmìkatri çumatoloçi.
 # HILL IN-SNOW
 
 HILL IN-SNOW is a land property of the COLLECTIVE EARL LAKE, near the border of Fairbanks, Alaska. The land will be inherited to TIFA ZABAT in year-1207 by the last will of EVALUN AKPIK. At the inheritance time, TIFA to-STAMEN UNIVERSITY will live as-member of SPARKLE HOUSE of KADY SONHIR. KON\'ILUAN year-1207 after ELLY LOCKLEAR return, the collective and Adin artificers will construct a house on the land property. In the house, KELLY and RIRIKO AMAYURI and their daughters (LIARA and NATSUKO) will move to. Doctor LISANNE REID and ELLY LOCKLEAR \[undecided\] at-HILL IN-SNOW will live when it opens.
+
+## Land Property Leaders
+
+HILL IN-SNOW is he sit of a family-style house, and at any time (up to) four families will live in the houses.
