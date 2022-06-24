@@ -61,7 +61,7 @@ This list contains only Modern Adinjo Journalist family names or surnames which 
 
 ## L
 
-+ N/A
++ **lamarce**: Forest-walking Beast, Deer, Caribou, Stag
 
 ## M
 
@@ -114,7 +114,7 @@ This list contains only Modern Adinjo Journalist family names or surnames which 
 
 ## F
 
-+ **firom**: Grey-wind, Silver-wind
++ **firom**: Grey-wind, Silver-wind; Dolphin
 
 ## V
 
