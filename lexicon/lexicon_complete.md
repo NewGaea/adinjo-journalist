@@ -598,7 +598,7 @@
 + **kureʃ** _ton vb_ wash `#2008.06.22`
 + **kuri** _noun_ all `#2003.12.25`
 + **kuroln** _noun_ platform `#2003.12.25`
-+ **kushi** _pronoun_ their, theirs `#2003.12.25`
++ **kuʃi** _pronoun_ their, theirs `#2003.12.25`
 + **kust** _nn sfx_ smith, one who forges or shapes; can be applied after any material or tool `#2003.12.25`
 + **kuyi** _pronoun_ my, mine `#2003.12.25`
 + **kufi** _pronoun_ her, hers `#2003.12.25`
@@ -703,7 +703,6 @@
 + **lex.orma** _ton vb_ defeat (final), indicates a final, deadly or crippling defeat `#2003.12.25` _formerly "lesin"_
 + **libra.un** _ton vb_ free `#2008.06.22`
 + **lici** _noun_ stick `#2003.12.25`
-+ **lij.e** _ton vb_ title, give one a title; to label, to call by a label (especially in th active) `#2008.06.22`
   + **liju** _noun_ title, a term one is called by `#2008.06.22`
 + **lixa.st** _ton vb_ build, construct, create, make `#2003.12.25`
   + **lixajo** _noun_ artificial language, created language, conlang (noun), auxlang (noun)
@@ -712,6 +711,7 @@
 + **lin** _desc_ like, alike, as, similar to `#2003.12.25`
   + **linhiro** _desc_ king-like (for living things; more casual or informal) `#2021.04.22`
 + **link** _noun_ shirt `#2003.12.25`
++ **lij.e** _ton vb_ title, give one a title; to label, to call by a label (especially in th active) `#2008.06.22`
 + **liruja** _noun_ message; in any form `#2003.12.25`
   + **lirjatax** _noun_ messenger one who delivers messages `#2021.04.22`
 + **ligore.m** _ton vb_ to broadcast
@@ -1067,8 +1067,8 @@
 + **ʃak** _desc_ ten `#2003.12.25`
 + **ʃamp** _noun_ tribe `#2003.12.25`
 + **ʃan** _noun_ personal crest, coat of arms `#2003.12.25`
-+ **ʃemba.ru** _ton vb_ dust, clean up dust `#2021.04.22`
-+ **ʃeme.tí** _ton vb_ clean `#2021.04.22`
++ **ʃemba.ru** _ton vb_ dusting, cleaning up dust `#2021.04.22`
++ **ʃeme.tí** _ton vb_ cleaning `#2021.04.22`
 + **ʃenza.ku** _ton vb_ win a contest as victor `#2021.04.22`
 + **ʃenzai** _noun_ win, victory `#2021.04.22`
 + **ʃep** _noun_ fish
@@ -1077,12 +1077,12 @@
 + **ʃink.as** _ton vb_ persevere `#2003.12.25`
   + **ʃinkin** _noun_ perseverance `#2003.12.25`
 + **ʃiran** _noun_ wind `#2003.12.25`
-+ **ʃoxa.n** _ton vb_ sing `#2003.12.25`
-  + **ʃoxem** _noun_ song `#2003.12.25`
 + **ʃuka** _noun_ winter, cold season `#2007.11.26` `#2022.06.05`
 + **ʃulé** _kun vb_ kissing, the act of pressing one's lips to a thing `#2003.12.25`
   + **ʃulén** _noun_ a kiss `#2003.12.25`
   + **ʃulyadin** _noun, slang_ a virgin, lit. "no-kiss person"
++ **ʃoxa.n** _ton vb_ sing `#2003.12.25`
+  + **ʃoxem** _noun_ song `#2003.12.25`
 
 ## T
 

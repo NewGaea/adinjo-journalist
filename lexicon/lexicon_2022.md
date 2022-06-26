@@ -244,3 +244,10 @@ The words listed in this section may be repurposed and redefined as they have mo
 ## UNSORTED
 
 + N/A
++ **aki** `#2022.06.23` _pronoun_ all of us, everybody here `#2022.06.24`
++ **braubrú** `#2022.06.20` _noun_ a particularly notable fart
++ **gil** `#2022.06.23` 1. _noun_ a flat (or flattened) circular animal shell 2. _noun, slang_ shortened form of _gildern_, the name of international gold coins on Atrusius 3. _noun, slang_ the price of an item in a store or catalog
++ **gur**- `#2022.06.23` _descriptor_ imperial-
++ **dal** `#2022.06.23` _noun_ reward, prize
++ **cici** `#2022.06.23` 1. _pronoun, informal_ little one, a pronoun used to refer to young children, especially family
++ **umle.na** `#2022.06.23` _ton verb_ altering sounds, especially for poetic compositions `#2022.06.26`

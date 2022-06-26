@@ -2,7 +2,7 @@
 
 This is a list of approximately 900 randomly generated words for use in Adinjo: If you assign a meaning to one of these words, please note it here along with the date, then add it to the appropriate biennial file. From there, it will be sorted into other lexicon files.
 
-Nte that there is no guarantee that these random words are entirely suitable for use immediately: phonetic structures may need to be considered and altered before a word can be used. use an arrow, such as -\> if you change a word.
+Note that there is no guarantee that these random words are entirely suitable for use immediately: phonetic structures may need to be considered and altered before a word can be used. Please use an arrow, such as -\> or → if you change any of the letters or sounds in a word. This is not necessary if removing or adding or removing a glottal marking (\') or a (\.) to indicate the position of a ton verb's gerund ending.
 
 ## A
 
@@ -12,8 +12,8 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + aepaʃee `#2022.06.20`
 + aceki `#2022.06.23`
 + açintafo `#2022.06.23`
-+ akanmira `#2022.06.23`
-+ aki `#2022.06.23`
++ akanmira `#2022.06.23` 
++ **aki** `#2022.06.23` _pronoun_ all of us, everybody here `#2022.06.24`
 + al `#2022.06.23`
 + alu `#2022.06.23`
 + am `#2022.06.23`
@@ -44,9 +44,7 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + baí `#2022.06.20`
 + bað `#2022.06.23`
 + bakuhé `#2022.06.20`
-+ bal `#2022.06.23`
 + bamam `#2022.06.23`
-+ ban `#2022.06.23`
 + beá `#2022.06.20`
 + beheðá `#2022.06.20`
 + beçkakrikro `#2022.06.20`
@@ -60,7 +58,7 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + bimkin `#2022.06.23`
 + bimya `#2022.06.23`
 + bin `#2022.06.23`
-+ birzimtot `#2022.06.23`
++ birzimtot `#2022.06.23` _ton verb form_
 + birþezupit `#2022.06.23`
 + bitilom `#2022.06.23`
 + biþu `#2022.06.20`
@@ -68,7 +66,7 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + blebu `#2022.06.20`
 + blóá `#2022.06.20`
 + blomjo `#2022.06.23`
-+ braubrú `#2022.06.20`
++ **braubrú** `#2022.06.20` _noun_ a particularly notable fart
 + bre `#2022.06.20`
 + brésiki `#2022.06.20`
 + bri `#2022.06.20`
@@ -89,17 +87,15 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + gazisbusó `#2022.06.20`
 + gázi `#2022.06.20`
 + gan `#2022.06.23`
-+ gani `#2022.06.23`
 + gantur `#2022.06.23`
 + gapi `#2022.06.20`
 + gar `#2022.06.23`
 + garnanun `#2022.06.23`
 + gebli `#2022.06.20`
-+ gi `#2022.06.20`
 + gí `#2022.06.20`
 + giði `#2022.06.20`
 + giheis `#2022.06.23`
-+ gil `#2022.06.23`
++ **gil** `#2022.06.23` 1. _noun_ a flat (or flattened) circular animal shell 2. _noun, slang_ shortened form of _gildern_, the name of international gold coins on Atrusius 3. _noun, slang_ the price of an item in a store or catalog
 + ginpa `#2022.06.23`
 + gipapubre `#2022.06.20`
 + gir `#2022.06.23`
@@ -110,15 +106,14 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + gri `#2022.06.23`
 + gupilinkemra `#2022.06.23`
 + gu `#2022.06.23`
-+ gur `#2022.06.23`
++ **gur**- `#2022.06.23` _descriptor_ imperial-
 + go `#2022.06.23`
-+ gor `#2022.06.23`
 
 ## D
 
 + dazi `#2022.06.23`
 + damanman `#2022.06.23`
-+ dal `#2022.06.23`
++ **dal** `#2022.06.23` _noun_ reward, prize
 + dambenguxe `#2022.06.23`
 + dand `#2022.06.23`
 + danin `#2022.06.23`
@@ -209,10 +204,10 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + écxabro `#2022.06.20`
 + édi `#2022.06.20`
 + ezúa `#2022.06.20`
++ ékla `#2022.06.20`
 + elʤeʤi `#2022.06.23`
 + elni `#2022.06.23`
 + en `#2022.06.23`
-+ ékla `#2022.06.20`
 + er `#2022.06.23`
 + erbiʃer `#2022.06.23`
 + eri `#2022.06.23`
@@ -273,12 +268,11 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + ce `#2022.06.20`
 + cedíkrá `#2022.06.20`
 + ceen `#2022.06.23`
++ cezú `#2022.06.20`
 + ceçudoþ `#2022.06.23`
 + céíé `#2022.06.20`
-+ cezú `#2022.06.20`
-+ ci `#2022.06.20`
 + ciam `#2022.06.23`
-+ cici `#2022.06.23`
++ **cici** `#2022.06.23` 1. _pronoun, informal_ little one, a pronoun used to refer to young children, especially family
 + cililnki `#2022.06.23`
 + cinef `#2022.06.23`
 + cípe `#2022.06.20`
@@ -307,7 +301,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 
 ## I
 
-+ i `#2022.06.20`
 + ibo `#2022.06.23`
 + idazdii `#2022.06.23`
 + ídé `#2022.06.20`
@@ -320,7 +313,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + im `#2022.06.23`
 + imbilki `#2022.06.23`
 + imdru `#2022.06.23`
-+ in `#2022.06.23`
 + inbir `#2022.06.23`
 + indurne `#2022.06.23`
 + inri `#2022.06.23`
@@ -343,7 +335,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 
 ## K
 
-+ ka `#2022.06.23`
 + ká `#2022.06.20`
 + kaer `#2022.06.23`
 + kazan `#2022.06.23`
@@ -353,7 +344,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + kamonirtam `#2022.06.23`
 + kam `#2022.06.23`
 + kameral `#2022.06.23`
-+ kam `#2022.06.23`
 + kamna `#2022.06.23`
 + kan `#2022.06.23`
 + kananrijira `#2022.06.23`
@@ -368,7 +358,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + kécó `#2022.06.20`
 + keçam `#2022.06.23`
 + kek `#2022.06.23`
-+ kel `#2022.06.23`
 + kemim `#2022.06.23`
 + kenbaget `#2022.06.23`
 + kejheʃeizé `#2022.06.20`
@@ -376,7 +365,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + kera `#2022.06.23`
 + ketan `#2022.06.23`
 + kétroa `#2022.06.20`
-+ ki `#2022.06.23`
 + kiʤdrí `#2022.06.20`
 + kihlictróþéfpra `#2022.06.20`
 + kil `#2022.06.23`
@@ -384,7 +372,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + kiloir `#2022.06.23`
 + kim `#2022.06.23`
 + kimcakelaur `#2022.06.23`
-+ kin `#2022.06.23`
 + kinmul `#2022.06.23`
 + kíjótotródu `#2022.06.20`
 + kiraj `#2022.06.23`
@@ -425,13 +412,11 @@ Nte that there is no guarantee that these random words are entirely suitable for
 
 ## L
 
-+ la `#2022.06.23`
 + la'im `#2022.06.23`
 + laðupe `#2022.06.23`
 + laki `#2022.06.23`
 + lamhu `#2022.06.23`
 + lamno `#2022.06.23`
-+ lan `#2022.06.23`
 + le `#2022.06.23`
 + leg `#2022.06.23`
 + leder `#2022.06.23`
@@ -466,8 +451,8 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + mam `#2022.06.23`
 + mamamor `#2022.06.23`
 + mampamwam `#2022.06.23`
-+ maram `#2022.06.23`
 + mar `#2022.06.23`
++ maram `#2022.06.23`
 + maro `#2022.06.23`
 + mas `#2022.06.23`
 + maþi `#2022.06.23`
@@ -486,7 +471,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + mij `#2022.06.23`
 + mirim `#2022.06.23`
 + mi'uʃli `#2022.06.23`
-+ mu `#2022.06.23`
 + mumil `#2022.06.23`
 + murle `#2022.06.23`
 + mo `#2022.06.23`
@@ -513,7 +497,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + nanxan `#2022.06.23`
 + nar `#2022.06.23`
 + naran `#2022.06.23`
-+ narli `#2022.06.23`
 + nas `#2022.06.23`
 + ne `#2022.06.23`
 + nedolsane `#2022.06.23`
@@ -526,7 +509,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + neneri `#2022.06.23`
 + nerézaza `#2022.06.23`
 + neʃe `#2022.06.23`
-+ ni `#2022.06.23`
 + niker `#2022.06.23`
 + nile `#2022.06.23`
 + niltemk `#2022.06.23`
@@ -538,7 +520,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + niʃazi `#2022.06.23`
 + nito `#2022.06.23`
 + nio `#2022.06.23`
-+ nu `#2022.06.23`
 + nula `#2022.06.23`
 + no `#2022.06.23`
 + noʤikir `#2022.06.23`
@@ -546,6 +527,7 @@ Nte that there is no guarantee that these random words are entirely suitable for
 
 ### Ñ (NY)
 
++ N/A
 
 ## J
 
@@ -555,7 +537,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + jádu `#2022.06.20`
 + jacabancimum `#2022.06.23`
 + jamar `#2022.06.23`
-+ jan `#2022.06.23`
 + jar `#2022.06.23`
 + je `#2022.06.23`
 + jedilmerreka `#2022.06.23`
@@ -614,7 +595,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + pom `#2022.06.23`
 + pomi `#2022.06.23`
 + pomirna `#2022.06.23`
-+ pon `#2022.06.23`
 + ponmo `#2022.06.23`
 
 ## R
@@ -643,7 +623,7 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + rei `#2022.06.23`
 + réim `#2022.06.23`
 + rekimira `#2022.06.23`
-+ re'ligi `#2022.06.23`
++ religi `#2022.06.23`
 + resrim `#2022.06.23`
 + retel `#2022.06.23`
 + ri `#2022.06.23`
@@ -736,11 +716,10 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + ʃblódlegi `#2022.06.20`
 + ʃgiþú `#2022.06.20`
 + ʃgu `#2022.06.20`
-+ ʃeme `#2022.06.23`
++ ʃeme -> ʃéme `#2022.06.23`
 + ʃen'ak `#2022.06.23`
 + ʃenenum `#2022.06.23`
 + ʃeusa `#2022.06.23`
-+ ʃi `#2022.06.23`
 + ʃidim `#2022.06.23`
 + ʃinfier `#2022.06.23`
 + ʃíjdíþúʃude `#2022.06.20`
@@ -772,7 +751,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + tanviroar `#2022.06.23`
 + tanwacaʤi `#2022.06.23`
 + tajbir `#2022.06.23`
-+ tar `#2022.06.23`
 + tarre `#2022.06.23`
 + taxenko `#2022.06.23`
 + tépébleʃbri `#2022.06.20`
@@ -853,7 +831,7 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + uin `#2022.06.23`
 + ul `#2022.06.23`
 + ukotnal `#2022.06.23`
-+ umle `#2022.06.23`
++ **umle** -> **umle.na** `#2022.06.23` _ton verb_ altering sounds, especially for poetic compositions `#2022.06.26`
 + unil `#2022.06.23`
 + unyosa `#2022.06.23`
 + ujbon `#2022.06.23`
@@ -911,7 +889,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + xen `#2022.06.23`
 + xenerfam `#2022.06.23`
 + xeʃemja `#2022.06.23`
-+ xi `#2022.06.20`
 + xiðpadu `#2022.06.20`
 + xin `#2022.06.23`
 + xítá `#2022.06.20`
@@ -939,7 +916,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 + onko `#2022.06.23`
 + opre `#2022.06.20`
 + or `#2022.06.23`
-+ oro `#2022.06.23`
 + osyisin `#2022.06.23`
 + ófki `#2022.06.20`
 + oota `#2022.06.20`
@@ -948,7 +924,6 @@ Nte that there is no guarantee that these random words are entirely suitable for
 
 + wa `#2022.06.23`
 + we `#2022.06.23`
-+ wi `#2022.06.23`
 + wuca `#2022.06.23`
 + wohongiz `#2022.06.23`
 
