@@ -251,3 +251,8 @@ The words listed in this section may be repurposed and redefined as they have mo
 + **dal** `#2022.06.23` _noun_ reward, prize
 + **cici** `#2022.06.23` 1. _pronoun, informal_ little one, a pronoun used to refer to young children, especially family
 + **umle.na** `#2022.06.23` _ton verb_ altering sounds, especially for poetic compositions `#2022.06.26`
++ **amarau** _descriptor_ crying, weeping, mourning `#2022.06.27`
++ **andenau** _noun_ divinity `#2022.06.27`
++ **Andurusijo** _noun_ Andurusian (language) `#2022.06.27`
++ **Andurusau** _descriptor_ Andurusian (having an Andurusian quality) `#2022.06.27`
+

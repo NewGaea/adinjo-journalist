@@ -3,151 +3,177 @@ List of Words
 
 ## A
 
-+ **absolutely nothing**: atakama (expression)
-+ **act (performance)**: aygins (ton verb)
-  + **acting**: ayginsten (gerund)
-+ **alert**: amend (descriptor)
-+ **all**: a (descriptor)
-  + **all _x_**: a-
-+ **any**: adan (pronoun)
-+ **anybody**: adan (pronoun)
-+ **anyone**: adan (pronoun)
-+ **ask**: korant (ton vb)
-+ **awaken**: amen (ton verb)
-  + **awake**: amend (descriptor)
-  + **awakening**: amenru (gerund)
++ **Adin (person)**: (_proper noun_) adin `#1998.06.01`
++ **alert**: (_descriptor_) amend `#2003.12.25`
++ **all**: (_noun prefix_) a- `#2003.12.25`
++ **all people**: (_pronoun_) adin `#1998.06.01`
++ **amen**: (_expression_) amén `#2003.12.25`
++ **ancient**: (_descriptor_) aldyur `#2007.11.26` `#2022.06.05`
++ **Andurusian**: (_proper noun_) Andurusidin (person) `#2021.04.22`, Andurusijo (language) `#2022.06.27`; (_descriptor_) Andurusau `#2022.06.27`
++ **animal**: (_noun_) ace `#2003.12.25`, zoán `#2003.12.25`
++ **antique**: (_noun prefix_) aldyur `#2007.11.26` `#2022.06.05`
++ **any**: (_descriptor_) a- `#2003.12.25`
++ **anybody**: (_pronoun_) adan `#2007.12.29`
++ **anyone**: (_pronoun_) adan `#2007.12.29`
++ **any time**: (_pronoun_) ademba `#2022.06.01`
++ **awake**: (_descriptor_) amend `#2003.12.25`
++ **awakening**: (_ton verb_) amen.ru `#2003.12.25`
 
 ## B
 
-+ **bark (sound of a dog)** auf (ideophone)
-+ **beast** telar (noun)
-+ **be** [ani](a/ani.md) (ton verb)
-  + **being** [aniru](a/ani.md) (gerund)
-  + **being in a state of _x_**: an-
-+ **because** [armo](a/armo.md) (conjunction)
-+ **beyond** akar (positional)
-+ **bite** asen (ton verb)
-  + **biting** asenru (gerund)
-+ **black** [abse](a/abs.md) (descriptor)
-+ **bloom** _vb._ acoré (ton verb)
-  + **blooming** _ger._ acoréru (gerund)
-+ **blossom** _vb._ acoré (ton verb)
-  + **blossoming** acoréru (gerund)
-+ **blue** arzol (descriptor)
-+ **bonus** atki (noun, descriptor)
++ **be**: (_kun verb_) \[present\] ic `#2003.12.25`, \[past '_was_'\] ins, \[future '_will be_'\] ichikun; \[negative forms\] yac, yans, yaçikun
++ **being**: (_ton verb_) ani.ru `#2003.12.25`; (_gerund_) inoc `#2003.12.25`;  (_prefix_) an- (being _x_) `#2003.12.25`
++ **beyond**: (_positional_) akar `#2007.12.29`, fúri `#2003.12.25`; (_descriptor_) kel `#2021.04.22`
++ **black**: (_ton verb_) abse `#2003.12.25`, pazo `#2022.02.25`
++ **blooming**: (_descriptor_) acoré.ru `#2003.12.25`, reixa.l `#2021.04.22`
++ **blossoming**: (_ton verb_) acoré.ru `#2003.12.25`, reixa.l `#2021.04.22`
 
 ## C
 
-+ **calm** _n._ ayastel (noun), _ayas_ (ton verb)
-  + **calming**: _ayasuri_ (ton verb)
-+ **cat, housecat**: _blani_
-+ **chair**: _arush_
-+ **comfort**: _ayastel_ (noun), _ayas_ (ton verb)
-  + **comforting**: _ayasuri_ (ton verb),
-+ **creature**: _[ace](a/ace.md)_ (ton verb)
-+ **cry, crying**: _[amar.te](a/amar.md)_ (ton verb)
-+ **cushion**: _arush_
-+ **cut**: [amkei](a/amkei.md) (ton verb)
-  + **cutting**: _[amkei.l](a/amkei.md)_ (ton verb)
++ **calling**: (_ton verb_) amen.ru (calling upon) `#2003.12.25`
++ **creature**: (_noun_) ace `#2003.12.25`
++ **creamy**: (_descriptor_) almenin `#2022.06.27`
++ **crying**: (_ton verb_) amar.te `#2021.04.22`; (_descriptor_) amarau `#2022.06.27`
++ **cutting**: (_ton verb_) amkei.l `#2003.12.25`
 
 ## D
 
-+ **discover**: _aire_ (ton verb)
-  + **discovering**: _airend_ (ton verb)
-+ **divide**: _amkei_ (ton verb)
-  + **dividing**: _amkeil_ (ton verb)
++ **discovering**: (_ton verb_) aire.nd (finding out) `#2003.12.25`
++ **dividing**: (_ton verb_) amkei.l `#2003.12.25`
++ **divine**: (_descriptor_) andèn `#2022.06.27`
++ **divinity**: (_noun_) andenau `#2022.06.27`
 
 ## E
 
-+ **each**: _a-_
-+ **every**: _a-_
-+ **eye**: _aimi_
++ **each**: (_pronoun_) a- `#2003.12.25`
++ **electricity**: (_noun_) anesh `#2021.04.22`
++ **every**: (_noun prefix_) a- `#2003.12.25`
++ **everybody**: (_pronoun_) adin `#1998.06.01`
++ **eye**: (_noun_) aimi (_pl._ aiminu) `#2003.12.25`
 
 ## F
 
-+ **find**: _aire_ (ton verb)
-  + **finding**: _airend_ (ton verb)
++ **find**: (_noun_) sairent `#2021.04.22`
++ **finding**: (_ton verb_) aire.nd (finding out) `#2003.12.25`
++ **Friday**: (_proper noun_) Anedjia (of even-numbered weeks) `#2020.12.31`, Gif'jia (of odd numbered weeks) `#2020.12.31`
 
 ## G
 
-+ **grand**: _a-_
-+ **great**: _a-_
++ **governing**: (_ton verb_) alma.ru `#2008.06.22`
++ **governor**: (_noun_) almán (acting governor) `#2021.04.22`, almatax `#2008.06.22` (professional governor)
++ **grand**: (_noun prefix_) a- `#2003.12.25`
++ **great**: (_noun prefix_) a- `#2003.12.25`
++ **growing**: (_ton verb_) bax.at (growing upwards) `#2003.12.25`, gor.um (growing in number) `#2008.06.22`, carmi.lé (maturing) `#2003.12.25`, kulan.d (growing in size) `#2008.06.22`, reixa.l (growing in some quality) `#2021.04.22`
++ **growth**: (_noun_) kulanzel `#2008.06.22`
++ **guideline**: (_noun_) alnom `#2021.04.22`
 
 ## H
 
++ **holiness**: (_noun_) andenin `#2021.04.22`
++ **holy**: (_descriptor_) andèn `#2008.06.22`
+
 ## I
 
-+ **ink**: albor
++ **ink**: (_noun_) albor `#2003.12.25`
++ **invoking**: (_ton verb_) amen.ru `#2003.12.25`
 
 ## J
 
+
 ## K
+
 
 ## L
 
-+ **learn**: _aire_ (ton verb)
-  + **learning**: _airend_ (ton verb)
++ **law**: (_noun_) alnom `#2021.04.22`
++ **leader**: (_noun_) almán (acting leader) `#2021.04.22`, almatax `#2008.06.22` (professional leader)
++ **leading**: (_ton verb_) alma.ru `#2008.06.22`
++ **learning**: (_ton verb_) aire.nd (finding out) `#2003.12.25`, mokure.nd (studying, practicing) `#2003.04.24`
++ **lightning**: (_noun_) anesh `#2021.04.22`, anesh'do'ain (lightning bolt) `#2008.06.22`
 
 ## M
 
-+ **milk**: _almer_ (noun), _alme_ (ton verb)
-  + **milking**: _almen_ (ton verb)
-  + **milky**: _almenin_
-+ **monument**: _[ábul](a/ábul.md)_
++ **milking**: (_ton verb_) alme.n `#2003.12.25`
++ **milk**: (_noun_) almer `#2003.12.25`
++ **milky**: (_descriptor_) almenin `#2003.12.25`
++ **monument**: (_noun_) ábul `#2003.12.25`
++ **mourning**: (_ton verb_) amar.te `#2021.04.22`; (_descriptor_) amarau `#2022.06.27`
+
 
 ## N
 
-+ **negative**: _ha_, _-ha_, _-a_
-+ **no, not**: _ha_, _-ha_, _-a_
++ **negative**:  (_descriptor_) ha, (_suffix_) -ha, -a, (_kun verb infix_) -a- `#2003.12.25`
++ **no**:  (_descriptor_) ha, (_suffix_) -ha, -a, (_kun verb infix_) -a- `#2003.12.25`
++ **not**:  (_descriptor_) ha, (_suffix_) -ha, -a, (_kun verb infix_) -a- `#2003.12.25`
 
 ## O
 
++ **October**: (_proper noun_) Anesh'i'luan `#2020.12.31`
++ **oil paint**: (_noun_) albor `#2003.12.25`
++ **old**: (_descriptor_) ald `#2007.12.29`
++ **old blood**: (_noun_) aldjin `#2007.12.29`
++ **opening**: (_ton verb_) acoré.ru `#2003.12.25`, bider.in `#2008.06.22`
+
 ## P
 
-+ **potion**: _almer_
++ **potion**: (_noun_) almer `#2003.12.25`
 
 ## Q
 
+
 ## R
 
-+ **read** vb. _[anis](a/anis.md)_ (ton)
-  + **reading** ger. _[aniswa](a/anis.md)_
-+ **remove** vb. _[amkei](a/amkei.md)_ (ton verb)
-  + **removing** ger. _[amkeil](a/amkei.md)_ (ton verb)
++ **reading**: (_ton verb_) anis.wa
++ **ready**: (_descriptor_) amend (ready to act) `#2003.12.25`
++ **removing**: (_ton verb_) amkei.l `#2003.12.25`
++ **rule**: (_noun_) alnom `#2021.04.22`
++ **ruler (person)**: (_noun_) almán (acting ruler) `#2021.04.22`, almatax `#2008.06.22` (professional ruler)
++ **ruling**: (_ton verb_) alma.ru `#2008.06.22`
 
 ## S
 
-+ **scatter**: _[amur](a/amur.md)_ (ton verb)
-  + **scattering**: _[amur.ent](a/amur.md)_ (ton verb)
-+ **separate**: _[amkei](a/amkei.md)_ (ton verb)
-  + **separating**: _[amkei.l](a/amkei.md)_ (ton verb)
-+ **sex**: _[anjyu](a/anjyu.md)_
-+ **shear**: _[amkei](a/amkei.md)_ (ton verb)
-  + **shearing**: _[amkei.l](a/amkei.md)_ (ton verb)
-+ **sow (verb)**: _[amur](a/amur.md)_ (ton verb)
-  + **sowing**: _[amur.ent](a/amur.md)_ (ton verb)
-+ **split**: _[amkei](a/amkei.md)_ (ton verb)
-  + **splitting**: _[amkei.l](a/amkei.md)_ (ton verb)
-+ **spread**: _[amur](a/amur.md)_ (ton verb)
-  + **spreading**: _[amur.ent](a/amur.md)_ (ton verb)
-+ **superior**: _a-_
++ **sacred**: (_descriptor_) andèn `#2022.06.27`
++ **scattering**: (_ton verb_) amur.ent `#2003.12.25`
++ **separating**: (_ton verb_) amkei.l `#2003.12.25`
++ **shearing**: (_ton verb_) amkei.l `#2003.12.25`
++ **sowing**: (_ton verb_) amur.ent `#2003.12.25`
++ **splitting**: (_ton verb_) amkei.l `#2003.12.25`
++ **spreading**: (_ton verb_) amur.ent `#2003.12.25`
++ **studying**: (_ton verb_) mokure.nd (studying, practicing) `#2003.04.24`
++ **superior**: (_noun prefix_) a- `#2003.12.25`
 
 ## T
 
-+ **through**: _akar_
++ **tar**: (_noun_) albor `#2003.12.25`
++ **twin**: (_noun_) alren `#2008.06.22`
 
 ## U
 
++ **unfolding**: (_ton verb_) acoré.ru `#2003.12.25`, reixa.l `#2021.04.22`
++ **using**: (_ton verb_) ane.ru `#2003.12.25`
++ **utilizing**: (_ton verb_) ane.ru `#2022.06.27`
+
 ## V
+
 
 ## W
 
-+ **wake**: _amen_ (ton verb)
-  + **waking**: _amenru_ (ton verb)
-+ **white**: _abso_
++ **waking**: (_ton verb_) amen.ru `#2003.12.25`
++ **weeping**: (_ton verb_) amar.te `#2021.04.22`; (_descriptor_) amarau `#2022.06.27`
++ **white**: (_descriptor_) abso `#2003.12.25`, vic `#2022.02.25`
 
 ## X
 
+
 ## Y
 
+
 ## Z
+
+
+## UNSORTED
+
+<!-- Next Word: ANJYU -->
+
+
+

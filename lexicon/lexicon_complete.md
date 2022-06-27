@@ -12,7 +12,7 @@
 + **[abse](a/abs.md)** _descriptor_ black `#2003.12.25`
 + **[abso](a/abs.md)** _descriptor_ white `#2003.12.25`
 + **[ábul](a/ábul.md)** _noun_ monument `#2003.12.25`
-+ **[adan](a/adan.md)** _pronoun_ any, any one, no specific one
++ **[adan](a/adan.md)** _pronoun_ any, any one, no specific one `#2007.12.29`
 + **ademba** _pronoun_ any time, one time `#2022.06.01`
 + **[adin](a/adin.md)** _pronoun_ the people (universal, conceptual) `#1998.06.01`
 + **[adin](a/adin.md)** _noun_ people, universal (form of **dyn**) `#1998.06.01`
@@ -21,36 +21,40 @@
 + **[aimi](a/aimi.md)** _noun_ eye `#2003.12.25`
 + **[aire.nd](a/aire.md)** _ton verb_ finding, learning, discovering `#2003.12.25`
 + -**[aiti](a/aiti.md)** _gender suffix_ a suffix indicating a feminine aspect, gender, or nature; a suffix added to a name to indicate it belongs to a female (possibly a form of **daiti** or **naiti**)
-+ **[akar](a/akar.md)** _prep_ through, beyond
++ **[akar](a/akar.md)** _prep_ through, beyond `#2007.12.29`
 + **[albor](a/albor.md)** _noun_ 1. tar 2. ink, oil paint `#2003.12.25`
-+ **[ald](a/ald.md)** _descriptor_ old
-  + **[alʤin](a/aldjin.md)** (_al' djín_) _noun_ old blood, established names or families; Adin with bloodline traits
++ **[ald](a/ald.md)** _descriptor_ old `#2007.12.29`
+  + **[alʤin](a/aldjin.md)** (_al' djín_) _noun_ old blood, established names or families; Adin with bloodline traits `#2007.12.29`
   + **aldyur** _descriptor_ ancient, very old, antique `#2007.11.26` `#2022.06.05`
-+ **[alma](a/alma.md).ru** _ton verb_ ruling, leading, governing `#2008.06.22`
++ **[alma](a/alma.md).ru** _ton verb_ ruling, leading, governing `#2008.06.22` formerly _aluma.ru_
   + **[almán](a/almán.md)** _noun_ leader by circumstance, acting leader
   + **[almatax](a/almatax.md)** _noun_ leader by profession, manager
   + **[alnom](a/alnom.md)** _noun_ a rule or law
 + **[alme.n](a/alme.md)** *ton verb* milking `#2003.12.25`
-  + **[almenin](a/almenin.md)** _descriptor_ milky, of a consistency or color like milk
+  + **[almenin](a/almenin.md)** _descriptor_ milky, of a consistency or color like milk `#2021.04.21`, creamy `#2022.06.27`
   + **[almer](a/almer.md)** _noun_ milk, potion `#2003.12.25` _formerly "alman"_
 + **[alren](a/alren.md)** _noun_ twin `#2008.06.22`
 + **[amar.te](a/amar.md)** _ton verb_ crying, weeping, mourning `#2021.04.22`
-+ **[amen.ru](a/amen.md)** _ton verb_ waking, awakening, invoking, calling upon `#2003.12.24`
-  + **[amend](a/amend.md)** _descriptor_ awake; alert; in a state of readiness for action `#2003.12.24`
+  + **amarau** _descriptor_ crying, weeping, mourning `#2022.06.27`
++ **[amen.ru](a/amen.md)** _ton verb_ waking, awakening, invoking, calling upon `#2003.12.25`
+  + **[amend](a/amend.md)** _descriptor_ awake; alert; in a state of readiness for action `#2003.12.25`
   + **amén** _expression_ a voicing of agreement; a valediction used to conclude a wish, prayer, or request, serving as a call to action; to invoke or call to action `#2003.12.25`
 + **[amkei.l](a/amkei.md)** _ton verb_ cutting, splitting, separating, removing, shearing; dividing `#2003.12.25`
 + **[amur.ent](a/amur.md)** _ton vb_ scattering, spreading, sowing `#2003.12.25`
-+ **[andèn](a/andèn.md)** _desc_ holy `#2008.06.22`
++ **[andèn](a/andèn.md)** _desc_ holy, divine, sacred `#2008.06.22`
   + **[andenin](a/andenin.md)** _noun_ holiness `#2021.04.22`
-+ **Andurusidin** _p noun_ Andurusian `#2021.04.22`
-+ **[ane.ru](a/ane.md)** _ton vb_ using `#2003.12.25`
+  + **andenau** _noun_ divinity `#2022.06.27`
++ **Andurusidin** _p noun_ Andurusian (person) `#2021.04.22`
+  + **Andurusau** _descriptor_ Andurusian (having an Andurusian quality) `#2022.06.27`
+  + **Andurusijo** _noun_ Andurusian (language) `#2022.06.27`
++ **[ane.ru](a/ane.md)** _ton vb_ using `#2003.12.25`, utilizing `#2022.06.27`
 + **aneʃ** (_anesh_) _noun_ lightning, electricity
-  + **[aneʃdo'ain](a/aneʃdoain.md)** (_an esh do'ain_) _noun_ lightning bolt `#2008.06.22`
+  + **[aneʃdo'ain](a/aneʃdoain.md)** (_an esh do ain_) _noun_ lightning bolt `#2008.06.22`
   + **aneʃiluan** (_an esh i' luan_) _p noun_ October, Lightning's Month
   + **aneʤia** (_an e dji' a_) _p noun_ Friday (of even-numbered weeks), lightning-day
 + **[ani.ru](a/ani.md)** _ton vb_ being (as in, “to be or not to be…”) `#2003.12.25`
   + **[an-](a/an.md)** _desc pfx_ expresses that the word is a statement of state or status, “to be x” `#2003.12.25`
-+ **[anis.wa](a/anis.md)** ton vb reading `#2008.06.22`
++ **[anis.wa](a/anis.md)** _ton vb_ reading `#2008.06.22`
 + **[anjyu](a/anjyu.md)** _noun_ sex, gender `#2008.06.22`
   + **[an-](a/an.md)** _noun prefix_ sex, gender, class `#2008.06.22`
   + **[andaiti](a/andaiti.md)** _desc_ female `#2008.06.22`
@@ -449,12 +453,12 @@
 
 + **i** _prep_ of, from `#2003.12.25`
 + **ic** _kun vb_ to be, is, am, are (infinitive and present tenses are identical) `#2003.12.25`
-  + **ins** _vb form_ (past) to have been, was `#2003.12.25`
-  + **yans** _vb form_ (neg past) to not have been, was not `#2003.12.25`
-  + **iça** _vb form_ (neg inf/pres) to not be, is not, am not, are not `#2003.12.25`
   + **içikun** _vb form_ (fut) to be later, will be `#2003.12.25`
-  + **yacikun** _vb form_ (neg fut) to not be later, will not be `#2003.12.25`
+  + **ins** _vb form_ (past) to have been, was `#2003.12.25`
   + **inoc** _vb form_ (ger) being `#2003.12.25`
+  + **yac** _vb form_ (neg inf/pres) to not be, is not, am not, are not `#2003.12.25`
+  + **yans** _vb form_ (neg past) to not have been, was not `#2003.12.25`
+  + **yaçikun** _vb form_ (neg fut) to not be later, will not be `#2003.12.25`
   + **yanoc** _vb form_ (neg ger) not being `#2003.12.25`
 + **iljau** _noun_ depth `#2008.06.22`
   + **iljye** _desc_ deep `#2008.06.22`
@@ -795,7 +799,7 @@
 + **múri** _noun_ world `#2003.12.25`
 + **mogan** _prep_ across `#2008.06.22`
 + **moédamel** _noun_ shoulder `#2008.06.22`
-+ **mokure.nd** _ton verb_ learning, studying `2003.04.24` `#2022.06.05`
++ **mokure.nd** _ton verb_ learning, studying `#2003.04.24` `#2022.06.05`
 + **mokuri.das** _ton verb_ to know, to study `#2003.12.25` `#2022.06.06`
 + **monsi** _pron_ when `#2003.12.25`
 + **mors** _noun_ life (the span of life) `#2003.12.25` _formerly "mor"_
