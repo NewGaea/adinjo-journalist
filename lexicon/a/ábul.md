@@ -1,25 +1,23 @@
 ábul
 ====
 
-**àbul** _noun_
+## Forms
 
-1. a stepped temple (such as a ziggurat or pyramid) or a tower
-2. a structure honoring a hero or deity, a monument
-3. a site where deities or heroes were seen
-
-`#2002` `#noun`
+1. **ábul** _(noun)_ \[Tags:\] `#2002` `#noun`
+   1. a stepped temple (such as a ziggurat or pyramid) or a tower
+   2. a structure honoring a hero or deity, a monument
+   3. a site where deities or heroes were seen
 
 ### Other Forms
 
-> **ábulu** _plural_ temples; monuments; homes of the gods
++ **ábulu** _plural_ temples; monuments; homes of the gods
++ **ay'ábul** _universal_ all **_ábulu_**
++ **kábul** _genitive_ of **_ábul_**
++ **ábula** _negative_ ruins of **_ábul_**
 
-> **ay'ábul** _universal_ all **_ábulu_**
+## Derivation
 
-> **kábul** _genitive_ of **_ábul_**
-
-> **ábula** _negative_ ruins of **_ábul_**
-
-### Derivation
+> The following information may be irrelevant internally, but still reflects the origins of the word from a real-world perspective.
 
 **BÁBUL** is the name of a mythical site where non-Adin humans attempted to build a monument to themselves. This story is retained by the Adin as a lesson in the pride of humans, and among the more religious and spiritual Adin, is believed to be the reason why all people have different languages, as well as why languages change over time.
 
