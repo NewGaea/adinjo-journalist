@@ -205,8 +205,6 @@ Dictionary pages should be formatted in a manner that makes their migration to M
 
 This will render roughly as follows:
 
-# lexeme
-
 ## Forms
 
 1. **lexical form** (_part of speech_, _field of knowledge (optional)_) **[Tags: `#tag1` ...]
