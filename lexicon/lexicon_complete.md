@@ -30,7 +30,7 @@
   + **[almán](a/almán.md)** _noun_ leader by circumstance, acting leader
   + **[almatax](a/almatax.md)** _noun_ leader by profession, manager
   + **[alnom](a/alnom.md)** _noun_ a rule or law
-+ **[alme.n](a/alme.md)** *ton verb* milking `#2003.12.25`
++ **[alme.n](a/alme.md)** _ton verb_ milking `#2003.12.25`
   + **[almenin](a/almenin.md)** _descriptor_ milky, of a consistency or color like milk `#2021.04.21`, creamy `#2022.06.27`
   + **[almer](a/almer.md)** _noun_ milk, potion `#2003.12.25` _formerly "alman"_
 + **[alren](a/alren.md)** _noun_ twin `#2008.06.22`
@@ -1037,7 +1037,7 @@
     + **Sayomin jurabi** _expr_ good afternoon (when greeting) `#2003.12.25`
     + **Sayomin kolbu** _expr_ good evening (when greeting) `#2003.12.25`
     + **Sayomin krestu** _expr_ good morning (only as greeting) `#2003.12.25`
-  + **sayu** _desc_ well, sufficient, exception this is the diminutive and valedictive form of sayurín `#2003.12.25`
+  + **sayu** _desc_ well, sufficient, exceptional this is the diminutive and valedictive form of sayurín `#2003.12.25`
     + **Sayu bacima** _expr_ See you later (informal departure) `#2003.12.25`
     + **Sayu bajia** _expr_ good day (only when departing) `#2003.12.25`
     + **Sayu coci** _expr_ good night (only when departing) `#2003.12.25`

@@ -17,11 +17,11 @@ List of Words - A
   1. (_pronoun_) any, any one, no specific one
 + **[adin](a/adin.md)**
   1. (_pronoun_) the people (universal, conceptual)
-  2. (_noun_)	people, universal (form of **[dyn](d/dyn.md)**)
+  2. (_noun_) people, universal (form of **[dyn](d/dyn.md)**)
   3. (_proper noun_) the race of people descended from the nation of Atlantis
   4. (_proper noun_) a member of the species _Homo medeis_ or _Homo sapiens medeis_
 + **[ace](a/ace.md)**
-  1.  (_noun_) creature
+  1. (_noun_) creature
 + **[acoréru](a/acoré.md)**
   1. (_ton verb_) opening
   2. unfolding, revealing
@@ -41,11 +41,11 @@ List of Words - A
   1. (_positional_) through
   2. beyond
 + **[akendan](a/akendan.md)**
-  1.  (_noun_) high tale, great legend, grand fantasy (form of **[kendan](k/kendan.md)**)
+  1. (_noun_) high tale, great legend, grand fantasy (form of **[kendan](k/kendan.md)**)
 + **[albor](a/albor.md)**
   1. (_noun_) tar, ink, oil paint
 + **[ald](a/ald.md)**
-  1. (_descriptor_)	old
+  1. (_descriptor_) old
   + **[alʤin](a/aldjin.md)**
     1. (_noun_) old blood, established names or families; Adin with bloodline traits
 + **[almaru](a/alma.md)**
@@ -101,7 +101,7 @@ List of Words - A
   3. removing, shearing
   4. dividing
 + **[amurent](a/amur.md)**
-  1.  (_ton verb_) scattering
+  1. (_ton verb_) scattering
   2. spreading out, hiding
   3. sowing seeds
   4. (_via (3)_) to have (typically casual) sexual relations with various partners
@@ -121,132 +121,132 @@ List of Words - A
   1. (_descriptor_) holy
   + **[andenin](a/andenin.md)**
     1. (_noun_) holiness
-+ **Andurusidin**	(_proper noun_)	Andurusian
++ **Andurusidin** (_proper noun_) Andurusian
 + **[anen](a/anen.md)** (_descriptor_) male (der. from an- + en ‘masculine gender’)
 + **[ane.ru](a/ane.md)** (_ton verb_) using
-  + **aneruha**	_vb form_	(pass past)
-  + **ane**	_vb form_	(pass past)
-  + **aneha**	_vb form_	(pass past)
-  + **anetot**	_vb form_	(pass past)
-  + **anetota**	_vb form_	(pass past)
-  + **aneton**	_vb form_	(pass past)
-  + **anetona**	_vb form_	(pass past)
-  + **anetoçi**	_vb form_	(pass past)
-  + **anetoçiha**	_vb form_	(pass past)
-  + **anetolot**	_vb form_	(pass past)
-  + **anetolota**	_vb form_	(pass past)
-  + **anetol**	_vb form_	(pass past)
-  + **anetola**	_vb form_	(pass past)
-  + **anetoloçi**	_vb form_	(pass past)
-  + **anetoloçiha**	_vb form_	(pass past)
-+ **aneʃdoain**	_noun_	lightning bolt
-+ **ani.ru**	_ton vb_	being (as in, “to be or not to be…”)
-  + **aniruha**	_vb form_	(pass past)
-  + **ani**	_vb form_	(pass past)
-  + **aniha**	_vb form_	(pass past)
-  + **anitot**	_vb form_	(pass past)
-  + **anitota**	_vb form_	(pass past)
-  + **aniton**	_vb form_	(pass past)
-  + **anitona**	_vb form_	(pass past)
-  + **anitoçi**	_vb form_	(pass past)
-  + **anitoçiha**	_vb form_	(pass past)
-  + **anitolot**	_vb form_	(pass past)
-  + **anitolota**	_vb form_	(pass past)
-  + **anitol**	_vb form_	(pass past)
-  + **anitola**	_vb form_	(pass past)
-  + **anitoloçi**	_vb form_	(pass past)
-  + **anitoloçiha**	_vb form_	(pass past)
-  + **an-**	_desc pfx_	expresses that the word is a statement of state or status, “to be x”
-+ **anis.wa**	_ton vb_	reading
-  + **aniswaha**	_vb form_	(pass past)
-  + **anis**	_vb form_	(pass past)
-  + **anisa**	_vb form_	(pass past)
-  + **anistot**	_vb form_	(pass past)
-  + **anistota**	_vb form_	(pass past)
-  + **aniston**	_vb form_	(pass past)
-  + **anistona**	_vb form_	(pass past)
-  + **anistoçi**	_vb form_	(pass past)
-  + **anistoçiha**	_vb form_	(pass past)
-  + **anistolot**	_vb form_	(pass past)
-  + **anistolota**	_vb form_	(pass past)
-  + **anistol**	_vb form_	(pass past)
-  + **anistola**	_vb form_	(pass past)
-  + **anistoloçi**	_vb form_	(pass past)
-  + **anitoloçiha**	_vb form_	(pass past)
-+ **anjyu**	_noun_	sex, gender
-  + **an-**	_pfx_	sex, gender, class
-+ **anko.ro**	_ton vb_	existing
-  + **ankoroha**	_vb form_	(pass past)
-  + **anko**	_vb form_	(pass past)
-  + **ankoha**	_vb form_	(pass past)
-  + **ankotot**	_vb form_	(pass past)
-  + **ankotota**	_vb form_	(pass past)
-  + **ankoton**	_vb form_	(pass past)
-  + **ankotona**	_vb form_	(pass past)
-  + **ankotoçi**	_vb form_	(pass past)
-  + **ankotoçiha**	_vb form_	(pass past)
-  + **ankotolot**	_vb form_	(pass past)
-  + **ankotolota**	_vb form_	(pass past)
-  + **ankotol**	_vb form_	(pass past)
-  + **ankotola**	_vb form_	(pass past)
-  + **ankotoloçi**	_vb form_	(pass past)
-  + **ankotoloçiha**	_vb form_	(pass past)
-  + **ankomar**	_noun_	existence
-+ **anon**	_desc_	neuter, ungendered
-+ **ajan**	_p noun_	Lord (the Lord, divine)
-+ **ar.i**	_ton vb_	throwing
-  + **ariha**	_vb form_	(pass past)
-  + **ar**	_vb form_	(pass past)
-  + **ara**	_vb form_	(pass past)
-  + **artot**	_vb form_	(pass past)
-  + **artota**	_vb form_	(pass past)
-  + **arton**	_vb form_	(pass past)
-  + **artona**	_vb form_	(pass past)
-  + **artoçi**	_vb form_	(pass past)
-  + **artoçiha**	_vb form_	(pass past)
-  + **artolot**	_vb form_	(pass past)
-  + **artolota**	_vb form_	(pass past)
-  + **artol**	_vb form_	(pass past)
-  + **artola**	_vb form_	(pass past)
-  + **artoloçi**	_vb form_	(pass past)
-  + **artoloçiha**	_vb form_	(pass past)
-+ **aramdekcin**	_noun_	pass word, pass code (literally, word to pass)
-+ **aram.el**	_ton vb_	passing, going through, going beyond
-  + **aramela**	_vb form_	(pass past)
-  + **aram**	_vb form_	(pass past)
-  + **arama**	_vb form_	(pass past)
-  + **aramtot**	_vb form_	(pass past)
-  + **aramtota**	_vb form_	(pass past)
-  + **aramton**	_vb form_	(pass past)
-  + **aramtona**	_vb form_	(pass past)
-  + **aramtoçi**	_vb form_	(pass past)
-  + **aramtoçiha**	_vb form_	(pass past)
-  + **aramtolot**	_vb form_	(pass past)
-  + **aramtolota**	_vb form_	(pass past)
-  + **aramtol**	_vb form_	(pass past)
-  + **aramtola**	_vb form_	(pass past)
-  + **aramtoloçi**	_vb form_	(pass past)
-  + **aramtoloçiha**	_vb form_	(pass past)
-+ **arlic**	_noun_	pen	a permanent writing implement
-+ **armo**	_prep_	because, for the sake or purpose of
-+ **arus.é**	_ton vb_	sitting, lounging
-  + **aruséha**	_vb form_	(pass past)
-  + **arus**	_vb form_	(pass past)
-  + **arusa**	_vb form_	(pass past)
-  + **arustot**	_vb form_	(pass past)
-  + **arustota**	_vb form_	(pass past)
-  + **aruston**	_vb form_	(pass past)
-  + **arustona**	_vb form_	(pass past)
-  + **arustoçi**	_vb form_	(pass past)
-  + **arustoçiha**	_vb form_	(pass past)
-  + **arustolot**	_vb form_	(pass past)
-  + **arustolota**	_vb form_	(pass past)
-  + **arustol**	_vb form_	(pass past)
-  + **arustola**	_vb form_	(pass past)
-  + **arustoloçi**	_vb form_	(pass past)
-  + **arustoloçiha**	_vb form_	(pass past)
-+ **aruʃ**	_noun_	seat, chair, cushion, sofa
-+ **aruʃ.en**	_ton vb_	seating, providing or offering seats
+  + **aneruha** _vb form_ (pass past)
+  + **ane** _vb form_ (pass past)
+  + **aneha** _vb form_ (pass past)
+  + **anetot** _vb form_ (pass past)
+  + **anetota** _vb form_ (pass past)
+  + **aneton** _vb form_ (pass past)
+  + **anetona** _vb form_ (pass past)
+  + **anetoçi** _vb form_ (pass past)
+  + **anetoçiha** _vb form_ (pass past)
+  + **anetolot** _vb form_ (pass past)
+  + **anetolota** _vb form_ (pass past)
+  + **anetol** _vb form_ (pass past)
+  + **anetola** _vb form_ (pass past)
+  + **anetoloçi** _vb form_ (pass past)
+  + **anetoloçiha** _vb form_ (pass past)
++ **aneʃdoain** _noun_ lightning bolt
++ **ani.ru** _ton vb_ being (as in, “to be or not to be…”)
+  + **aniruha** _vb form_ (pass past)
+  + **ani** _vb form_ (pass past)
+  + **aniha** _vb form_ (pass past)
+  + **anitot** _vb form_ (pass past)
+  + **anitota** _vb form_ (pass past)
+  + **aniton** _vb form_ (pass past)
+  + **anitona** _vb form_ (pass past)
+  + **anitoçi** _vb form_ (pass past)
+  + **anitoçiha** _vb form_ (pass past)
+  + **anitolot** _vb form_ (pass past)
+  + **anitolota** _vb form_ (pass past)
+  + **anitol** _vb form_ (pass past)
+  + **anitola** _vb form_ (pass past)
+  + **anitoloçi** _vb form_ (pass past)
+  + **anitoloçiha** _vb form_ (pass past)
+  + **an-** _desc pfx_ expresses that the word is a statement of state or status, “to be x”
++ **anis.wa** _ton vb_ reading
+  + **aniswaha** _vb form_ (pass past)
+  + **anis** _vb form_ (pass past)
+  + **anisa** _vb form_ (pass past)
+  + **anistot** _vb form_ (pass past)
+  + **anistota** _vb form_ (pass past)
+  + **aniston** _vb form_ (pass past)
+  + **anistona** _vb form_ (pass past)
+  + **anistoçi** _vb form_ (pass past)
+  + **anistoçiha** _vb form_ (pass past)
+  + **anistolot** _vb form_ (pass past)
+  + **anistolota** _vb form_ (pass past)
+  + **anistol** _vb form_ (pass past)
+  + **anistola** _vb form_ (pass past)
+  + **anistoloçi** _vb form_ (pass past)
+  + **anitoloçiha** _vb form_ (pass past)
++ **anjyu** _noun_ sex, gender
+  + **an-** _pfx_ sex, gender, class
++ **anko.ro** _ton vb_ existing
+  + **ankoroha** _vb form_ (pass past)
+  + **anko** _vb form_ (pass past)
+  + **ankoha** _vb form_ (pass past)
+  + **ankotot** _vb form_ (pass past)
+  + **ankotota** _vb form_ (pass past)
+  + **ankoton** _vb form_ (pass past)
+  + **ankotona** _vb form_ (pass past)
+  + **ankotoçi** _vb form_ (pass past)
+  + **ankotoçiha** _vb form_ (pass past)
+  + **ankotolot** _vb form_ (pass past)
+  + **ankotolota** _vb form_ (pass past)
+  + **ankotol** _vb form_ (pass past)
+  + **ankotola** _vb form_ (pass past)
+  + **ankotoloçi** _vb form_ (pass past)
+  + **ankotoloçiha** _vb form_ (pass past)
+  + **ankomar** _noun_ existence
++ **anon** _desc_ neuter, ungendered
++ **ajan** _p noun_ Lord (the Lord, divine)
++ **ar.i** _ton vb_ throwing
+  + **ariha** _vb form_ (pass past)
+  + **ar** _vb form_ (pass past)
+  + **ara** _vb form_ (pass past)
+  + **artot** _vb form_ (pass past)
+  + **artota** _vb form_ (pass past)
+  + **arton** _vb form_ (pass past)
+  + **artona** _vb form_ (pass past)
+  + **artoçi** _vb form_ (pass past)
+  + **artoçiha** _vb form_ (pass past)
+  + **artolot** _vb form_ (pass past)
+  + **artolota** _vb form_ (pass past)
+  + **artol** _vb form_ (pass past)
+  + **artola** _vb form_ (pass past)
+  + **artoloçi** _vb form_ (pass past)
+  + **artoloçiha** _vb form_ (pass past)
++ **aramdekcin** _noun_ pass word, pass code (literally, word to pass)
++ **aram.el** _ton vb_ passing, going through, going beyond
+  + **aramela** _vb form_ (pass past)
+  + **aram** _vb form_ (pass past)
+  + **arama** _vb form_ (pass past)
+  + **aramtot** _vb form_ (pass past)
+  + **aramtota** _vb form_ (pass past)
+  + **aramton** _vb form_ (pass past)
+  + **aramtona** _vb form_ (pass past)
+  + **aramtoçi** _vb form_ (pass past)
+  + **aramtoçiha** _vb form_ (pass past)
+  + **aramtolot** _vb form_ (pass past)
+  + **aramtolota** _vb form_ (pass past)
+  + **aramtol** _vb form_ (pass past)
+  + **aramtola** _vb form_ (pass past)
+  + **aramtoloçi** _vb form_ (pass past)
+  + **aramtoloçiha** _vb form_ (pass past)
++ **arlic** _noun_ pen a permanent writing implement
++ **armo** _prep_ because, for the sake or purpose of
++ **arus.é** _ton vb_ sitting, lounging
+  + **aruséha** _vb form_ (pass past)
+  + **arus** _vb form_ (pass past)
+  + **arusa** _vb form_ (pass past)
+  + **arustot** _vb form_ (pass past)
+  + **arustota** _vb form_ (pass past)
+  + **aruston** _vb form_ (pass past)
+  + **arustona** _vb form_ (pass past)
+  + **arustoçi** _vb form_ (pass past)
+  + **arustoçiha** _vb form_ (pass past)
+  + **arustolot** _vb form_ (pass past)
+  + **arustolota** _vb form_ (pass past)
+  + **arustol** _vb form_ (pass past)
+  + **arustola** _vb form_ (pass past)
+  + **arustoloçi** _vb form_ (pass past)
+  + **arustoloçiha** _vb form_ (pass past)
++ **aruʃ** _noun_ seat, chair, cushion, sofa
++ **aruʃ.en** _ton vb_ seating, providing or offering seats
   + **aruʃena**
   + **aruʃ**
   + **aruʃa**
@@ -262,102 +262,101 @@ List of Words - A
   + **aruʃtola**
   + **aruʃtoloçi**
   + **aruʃtoloçiha**
-+ **arzol**	_desc_	blue
-+ **asen.ru**	_ton vb_	biting
-  + **asenruha**	_vb form_	(pass past)
-  + **asen**	_vb form_	(pass past)
-  + **asena**	_vb form_	(pass past)
-  + **asentot**	_vb form_	(pass past)
-  + **asentota**	_vb form_	(pass past)
-  + **asenton**	_vb form_	(pass past)
-  + **asentona**	_vb form_	(pass past)
-  + **asentoçi**	_vb form_	(pass past)
-  + **asentoçiha**	_vb form_	(pass past)
-  + **asentolot**	_vb form_	(pass past)
-  + **asentolota**	_vb form_	(pass past)
-  + **asentol**	_vb form_	(pass past)
-  + **asentola**	_vb form_	(pass past)
-  + **asentoloçi**	_vb form_	(pass past)
-  + **asentoloçiha**	_vb form_	(pass past)
-  + **asenger**	_noun_	bite (the physical remains of biting)
-+ **asent**	_noun_	east, rising to the right
-+ **aʃa**	_noun_	peace
-  + **aʃaun**	_noun_	horse
-  + **aʃaus**	_desc_	peaceful
-  + **aʃrath**	_noun_	raid
-  + **aʃurt.as**	_ton vb_	raiding
-  + **aʃurtasa**	_vb form_	(pass past)
-  + **aʃurt**	_vb form_	(pass past)
-  + **aʃurta**	_vb form_	(pass past)
-  + **aʃurtot**	_vb form_	(pass past)
-  + **aʃurtota**	_vb form_	(pass past)
-  + **aʃurton**	_vb form_	(pass past)
-  + **aʃurtona**	_vb form_	(pass past)
-  + **aʃurtoçi**	_vb form_	(pass past)
-  + **aʃurtoçiha**	_vb form_	(pass past)
-  + **aʃurtolot**	_vb form_	(pass past)
-  + **aʃurtolota**	_vb form_	(pass past)
-  + **aʃurtol**	_vb form_	(pass past)
-  + **aʃurtola**	_vb form_	(pass past)
-  + **aʃurtoloçi**	_vb form_	(pass past)
-  + **aʃurtoloçiha**	_vb form_	(pass past)
-+ **atakama**	_expr_	absolutely nothing (less formal version of "nothing at all")
-+ **atin**	_noun_	descendant
-+ **atki**	_desc_	bonus, extra, spare
-+ **auf**	_ono_	woof, bark, bow-wow, arf (sound of a dog)
-+ **aur**	_part_	question marker (spoken; means the following utterance is a question)
-  + **aurdai**	_noun_	question mark
-+ **aurok**	_noun_	room, space
-+ **aurpwéna**	_desc_	mealy, feeling like meal
-+ **ause.ne**	_ton vb_	lying (down), laying
-  + **auseneha**	_vb form_	(pass past)
-  + **ause**	_vb form_	(pass past)
-  + **auseha**	_vb form_	(pass past)
-  + **ausetot**	_vb form_	(pass past)
-  + **ausetota**	_vb form_	(pass past)
-  + **auseton**	_vb form_	(pass past)
-  + **ausetona**	_vb form_	(pass past)
-  + **ausetoçi**	_vb form_	(pass past)
-  + **ausetoçiha**	_vb form_	(pass past)
-  + **ausetolot**	_vb form_	(pass past)
-  + **ausetolota**	_vb form_	(pass past)
-  + **ausetol**	_vb form_	(pass past)
-  + **ausetola**	_vb form_	(pass past)
-  + **ausetoloçi**	_vb form_	(pass past)
-  + **ausetoloçiha**	_vb form_	(pass past)
-+ **ayas.uri**	_ton vb_	comforting, soothing, calming
-  + **ayasuriha**	_vb form_	(pass past)
-  + **ayas**	_vb form_	(pass past)
-  + **ayasa**	_vb form_	(pass past)
-  + **ayastot**	_vb form_	(pass past)
-  + **ayastota**	_vb form_	(pass past)
-  + **ayaston**	_vb form_	(pass past)
-  + **ayastona**	_vb form_	(pass past)
-  + **ayastoçi**	_vb form_	(pass past)
-  + **ayastoçiha**	_vb form_	(pass past)
-  + **ayastolot**	_vb form_	(pass past)
-  + **ayastolota**	_vb form_	(pass past)
-  + **ayastol**	_vb form_	(pass past)
-  + **ayastola**	_vb form_	(pass past)
-  + **ayastoloçi**	_vb form_	(pass past)
-  + **ayastoloçiha**	_vb form_	(pass past)
-  + **ayastel**	_noun_	comfort
-+ **aye**	_noun_	hand; may be literal or figurative
-+ **aygins.ten**	_ton vb_	playing (a game), acting, engaging in a hobby or pursuit of passion
-  + **ayginstena**	_vb form_	(pass past)
-  + **aygins**	_vb form_	(pass past)
-  + **ayginsa**	_vb form_	(pass past)
-  + **ayginstot**	_vb form_	(pass past)
-  + **ayginstota**	_vb form_	(pass past)
-  + **ayginston**	_vb form_	(pass past)
-  + **ayginstona**	_vb form_	(pass past)
-  + **ayginstoçi**	_vb form_	(pass past)
-  + **ayginstoçiha**	_vb form_	(pass past)
-  + **ayginstolot**	_vb form_	(pass past)
-  + **ayginstolota**	_vb form_	(pass past)
-  + **ayginstol**	_vb form_	(pass past)
-  + **ayginstola**	_vb form_	(pass past)
-  + **ayginstoloçi**	_vb form_	(pass past)
-  + **ayginstoloçiha**	_vb form_	(pass past)
-+ **axen**	_desc_	last, final, the last, the final; term of absolution, indicates finality
-+
++ **arzol** _desc_ blue
++ **asen.ru** _ton vb_ biting
+  + **asenruha** _vb form_ (pass past)
+  + **asen** _vb form_ (pass past)
+  + **asena** _vb form_ (pass past)
+  + **asentot** _vb form_ (pass past)
+  + **asentota** _vb form_ (pass past)
+  + **asenton** _vb form_ (pass past)
+  + **asentona** _vb form_ (pass past)
+  + **asentoçi** _vb form_ (pass past)
+  + **asentoçiha** _vb form_ (pass past)
+  + **asentolot** _vb form_ (pass past)
+  + **asentolota** _vb form_ (pass past)
+  + **asentol** _vb form_ (pass past)
+  + **asentola** _vb form_ (pass past)
+  + **asentoloçi** _vb form_ (pass past)
+  + **asentoloçiha** _vb form_ (pass past)
+  + **asenger** _noun_ bite (the physical remains of biting)
++ **asent** _noun_ east, rising to the right
++ **aʃa** _noun_ peace
+  + **aʃaun** _noun_ horse
+  + **aʃaus** _desc_ peaceful
+  + **aʃrath** _noun_ raid
+  + **aʃurt.as** _ton vb_ raiding
+  + **aʃurtasa** _vb form_ (pass past)
+  + **aʃurt** _vb form_ (pass past)
+  + **aʃurta** _vb form_ (pass past)
+  + **aʃurtot** _vb form_ (pass past)
+  + **aʃurtota** _vb form_ (pass past)
+  + **aʃurton** _vb form_ (pass past)
+  + **aʃurtona** _vb form_ (pass past)
+  + **aʃurtoçi** _vb form_ (pass past)
+  + **aʃurtoçiha** _vb form_ (pass past)
+  + **aʃurtolot** _vb form_ (pass past)
+  + **aʃurtolota** _vb form_ (pass past)
+  + **aʃurtol** _vb form_ (pass past)
+  + **aʃurtola** _vb form_ (pass past)
+  + **aʃurtoloçi** _vb form_ (pass past)
+  + **aʃurtoloçiha** _vb form_ (pass past)
++ **atakama** _expr_ absolutely nothing (less formal version of "nothing at all")
++ **atin** _noun_ descendant
++ **atki** _desc_ bonus, extra, spare
++ **auf** _ono_ woof, bark, bow-wow, arf (sound of a dog)
++ **aur** _part_ question marker (spoken; means the following utterance is a question)
+  + **aurdai** _noun_ question mark
++ **aurok** _noun_ room, space
++ **aurpwéna** _desc_ mealy, feeling like meal
++ **ause.ne** _ton vb_ lying (down), laying
+  + **auseneha** _vb form_ (pass past)
+  + **ause** _vb form_ (pass past)
+  + **auseha** _vb form_ (pass past)
+  + **ausetot** _vb form_ (pass past)
+  + **ausetota** _vb form_ (pass past)
+  + **auseton** _vb form_ (pass past)
+  + **ausetona** _vb form_ (pass past)
+  + **ausetoçi** _vb form_ (pass past)
+  + **ausetoçiha** _vb form_ (pass past)
+  + **ausetolot** _vb form_ (pass past)
+  + **ausetolota** _vb form_ (pass past)
+  + **ausetol** _vb form_ (pass past)
+  + **ausetola** _vb form_ (pass past)
+  + **ausetoloçi** _vb form_ (pass past)
+  + **ausetoloçiha** _vb form_ (pass past)
++ **ayas.uri** _ton vb_ comforting, soothing, calming
+  + **ayasuriha** _vb form_ (pass past)
+  + **ayas** _vb form_ (pass past)
+  + **ayasa** _vb form_ (pass past)
+  + **ayastot** _vb form_ (pass past)
+  + **ayastota** _vb form_ (pass past)
+  + **ayaston** _vb form_ (pass past)
+  + **ayastona** _vb form_ (pass past)
+  + **ayastoçi** _vb form_ (pass past)
+  + **ayastoçiha** _vb form_ (pass past)
+  + **ayastolot** _vb form_ (pass past)
+  + **ayastolota** _vb form_ (pass past)
+  + **ayastol** _vb form_ (pass past)
+  + **ayastola** _vb form_ (pass past)
+  + **ayastoloçi** _vb form_ (pass past)
+  + **ayastoloçiha** _vb form_ (pass past)
+  + **ayastel** _noun_ comfort
++ **aye** _noun_ hand; may be literal or figurative
++ **aygins.ten** _ton vb_ playing (a game), acting, engaging in a hobby or pursuit of passion
+  + **ayginstena** _vb form_ (pass past)
+  + **aygins** _vb form_ (pass past)
+  + **ayginsa** _vb form_ (pass past)
+  + **ayginstot** _vb form_ (pass past)
+  + **ayginstota** _vb form_ (pass past)
+  + **ayginston** _vb form_ (pass past)
+  + **ayginstona** _vb form_ (pass past)
+  + **ayginstoçi** _vb form_ (pass past)
+  + **ayginstoçiha** _vb form_ (pass past)
+  + **ayginstolot** _vb form_ (pass past)
+  + **ayginstolota** _vb form_ (pass past)
+  + **ayginstol** _vb form_ (pass past)
+  + **ayginstola** _vb form_ (pass past)
+  + **ayginstoloçi** _vb form_ (pass past)
+  + **ayginstoloçiha** _vb form_ (pass past)
++ **axen** _desc_ last, final, the last, the final; term of absolution, indicates finality

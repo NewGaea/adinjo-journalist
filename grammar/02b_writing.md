@@ -1,5 +1,4 @@
-Writing Systems for Adinjo
-==========================
+# Writing Systems for Adinjo
 
 ## Native Script
 
@@ -11,7 +10,7 @@ Adinjo Journalist has 26 letters (_dakmelu_) and the _adobat_ is ordered loosely
 
 ## Romanization
 
-When writing Adinjo Journalist in latin script, three orthographies are available.
+When writing Adinjo Journalist in latin script, three orthographies are available:
 
 ### Simple Romanization
 
