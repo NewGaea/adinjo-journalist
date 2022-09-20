@@ -111,7 +111,7 @@
 + **bal** _noun_ tempo, rhythmic timing `#2009.11.06`
 + **ban** _noun_ bread `#2003.12.25`
 + **banc.els** _ton vb_ giving `#2003.12.25` _formerly "borchton"_
- + **bançi** _noun_ gift `#2003.12.25`
+  + **bançi** _noun_ gift `#2003.12.25`
 + **banij** _pronoun_ here, this place `#2003` `#2022.06.04` _found in an old barely used journal_
 + **banklaf** _noun_ a major festival or sacred season
 + **baru** _noun_ dust `#2008.06.22`
@@ -319,7 +319,7 @@
 + **enros** _noun_ mind, brain, ego, sense of self `#2008.06.22`
 + **enti.re** _ton vb_ hope `#2003.12.25`
 + **enx** _noun_ head (referring to anatomical head) `#2008.06.22`
-+ **eji.s** _ton vb_ chase, pursue `#2008.06.22` 
++ **eji.s** _ton vb_ chase, pursue `#2008.06.22`
 + **eraz.el** _ton vb_ grind `#2008.06.22`
   + **erapwen** _noun_ meal, ground grain or starch `#2021.04.22`
 + **estag** _noun_ shadow `#2008.06.22`
@@ -494,7 +494,7 @@
 + **kalú** _noun_ leather, tanned animal skin or hide `#2003.12.25`
 + **kamar.ej** _ton vb_ war `#2008.06.22`
   + **kaman** _noun_ war `#2008.06.22`
-  + **kamani natrein** _noun_ martial art, strategy, tactics this refers to military arts, not combat arts 
+  + **kamani natrein** _noun_ martial art, strategy, tactics this refers to military arts, not combat arts
 + **kami** _positional_ among `#2003.12.25`
 + **kamp.is** _ton vb_ tell `#2003.12.25`
 + **kamuli** _noun_ surface, especially  of a structure or planet `#2003.12.25`
@@ -534,7 +534,7 @@
   + **kels** _noun_ check, verification, confirmation `#2003.12.25`
 + **kempo** _kun verb, pro-vb_ do `#2003.12.25`
 + **kénas** _noun_ canine (dog-like creature) `#2008.06.22`
-  + **kénareʃ** _noun_ canine (tooth) 
+  + **kénareʃ** _noun_ canine (tooth)
 + **kenci.s** _ton vb_ cast a spell `#2003.12.25`
 + **kend** _prep_ beside; however, but (less formal than "kentin") `#2003.12.25`
 + **kendai** _noun_ wife, bride `#2008.06.22`
@@ -557,8 +557,8 @@
 + **kílik** _noun_ colleague, associate `#2008.06.22`
 + **kimari** _noun_ limit, border
 + **kimbanc.els** _ton verb_ inherit, entrust, pass along `#2022.05.31`
-+ **kími** _desc_ grand gross; twenty thousand, seven hundred thirty six (20,736<sub>10</sub>, or 10,000<sub>12</sub>) `#2003.12.25`
-  + -**mi** _sfx_ twenty thousands, ten thousands (20,736s<sub>10</sub>, or 10,000s<sub>12</sub>) `#2003.12.25`
++ **kími** _desc_ grand gross; twenty thousand, seven hundred thirty six (${20,736_{10}}$, or ${10,000_{12}}$) `#2003.12.25`
+  + -**mi** _sfx_ twenty thousands, ten thousands (${20,736s_{10}}$, or ${10,000s_{12}}$) `#2003.12.25`
 + **kin** _noun_ system, a set of functioning parts `#2003.12.25`
 + **kinar** _expr_ sorry, a very informal apology `#2003.12.25`
 + **kinma** _noun_ death (as an event) `#2003.12.25`
@@ -642,7 +642,6 @@
 + **koru** _prep_ since `#2003.12.25`
 + **kosij** _desc_ eight `#2003.12.25`
 
-
 ## Q
 
 + **qali** _noun_ a festival, sacred time, or holiday `#2021`
@@ -663,8 +662,8 @@
   + -**jo** _sfx_ language `#2003.12.25`
 + **qon.ti** _ton vb_ write `#2003.12.25`
   + **qonij** _noun_ writing `#2003.12.25`
-+ **qori** _desc_ one hundred forty four (144<sub>10</sub>, or 100<sub>12</sub>) `#2003.12.25`
-  + -**ri** _sfx_ grosses (144s<sub>10</sub>, or 100s<sub>12</sub>) `#2003.12.25`
++ **qori** _desc_ one hundred forty four (${144_{10}}$, or ${100_{12}}$) `#2003.12.25`
+  + -**ri** _sfx_ grosses (${144s_{10}}$, or ${100s_{12}}$) `#2003.12.25`
 
 ## L
 
@@ -809,11 +808,11 @@
 + **mori** _noun_ heart `#2008.06.22`
 + **mortis** _desc_ young `#2008.06.22`
   + **mor**- _pfx_ younger, shorter, less so `#2003.12.25`
-   + **morcin** _noun_ younger brother `#2003.12.25`
-   + **morkada** _noun_ younger sister `#2003.12.25`
-   + **morneyaci** _noun_ knight, female junior similar to miss `#2021.04.22`
-   + **morneyen** _noun_ knight, male junior similar to sir `#2021.04.22`
-   + **Mortadin** _noun_ short-lived person used as an insult to short lived races `#2021.04.22`
+    + **morcin** _noun_ younger brother `#2003.12.25`
+    + **morkada** _noun_ younger sister `#2003.12.25`
+    + **morneyaci** _noun_ knight, female junior similar to miss `#2021.04.22`
+    + **morneyen** _noun_ knight, male junior similar to sir `#2021.04.22`
+    + **Mortadin** _noun_ short-lived person used as an insult to short lived races `#2021.04.22`
 + **moura** _noun_ buttocks, posterior, rear-end, rump (refers to the anatomy) `#2008.06.22`
 
 ## N
@@ -1029,7 +1028,7 @@
 + **sanji** _noun_ trooper, hired soldier `#2003.12.25`
 + **satehn** _noun_ space, frame of time, pause between words `#2008.06.22`
 + **sauken.ta** _ton vb_ lead, take command of `#2021.04.22`
- + **saukentax** _noun_ leader, one who commands `#2021.04.22`
+  + **saukentax** _noun_ leader, one who commands `#2021.04.22`
 + **sayurín** _desc_ well, sufficient, exceptional `#2003.12.25`
   + **-rín** _d sfx_ well, sufficient, exceptional `#2003.12.25`
   + **sayoma** _noun_ goodness `#2003.12.25`
@@ -1147,8 +1146,8 @@
   + -**mo** _sfx_ twelves (10s) `#2003.12.25`
 + -**ton** _ton verb suffix_ is, am; present tense, passive voice `#2003.12.25`
 + **tons.en** _ton vb_ become, change to `#2003.12.25`
-+ **tóji** _desc_ great gross; one thousand, seven hundred twenty eight (1,728<sub>10</sub>, or 1,000<sub>12</sub>) `#2003.12.25`
-  + **-ji** _sfx_ great grosses (1728s<sub>10</sub>, or 1,000s<sub>12</sub>) `#2003.12.25`
++ **tóji** _desc_ great gross; one thousand, seven hundred twenty eight (${1728_{10}}$, or ${1000_{12}}$) `#2003.12.25`
+  + **-ji** _sfx_ great grosses (${1728s_{10}}$, or ${1000s_{12}}$) `#2003.12.25`
 + **top** _prep_ of, by, with `#2003.12.25`
 + **torek** _kun vb, pro-vb_ shall `#2003.12.25`
   + -**rek** _v sfx_ shall `#2003.12.25`
@@ -1182,8 +1181,8 @@
 + **ya** _pron_ that `#2003.12.25`
 + -**ya**- _kun verb suffix_ not; replaces the last vowel in the root (especially after another vowel) `#2003.12.25`
 + **yani.s** _ton vb_ say `#2003.12.25`
- + **yaniqon.ij** _ton vb_ speech writing, taking dictation
- + **yanicin** _noun_ saying, expression `#2021.04.22`
+  + **yaniqon.ij** _ton vb_ speech writing, taking dictation
+  + **yanicin** _noun_ saying, expression `#2021.04.22`
 + **yemain** _noun_ wolf `#2008.06.22`
 + **yenek** _noun_ generation, age gap from parent to child `#2008.06.22`
 + **yent** _noun_ text, written language `#2003.12.25`
@@ -1242,11 +1241,9 @@
 + **va** _noun_ secret `#2021.04.22`
 + **varm** _noun_ mortar (to hold bricks together), grout `#2003.12.25`
 + **varmel** _desc_ together `#2021.04.22`
- + **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
- + **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
+  + **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
+  + **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
 + **varme.st** _ton vb_ bind bricks together with mortar `#2021.04.22`
- + **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
- + **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
 + **vélon** _desc_ average (definition 2) `#2003.12.25`
 + **venari** _noun_ native `#2008.06.22`
 + **ventro.l** _ton vb_ move `#2003.12.25`
@@ -1264,7 +1261,7 @@
   + **xá peratamani** _noun_ magical charm, mind-altering magic `#2022.06.04`
   + **xámul** _noun_ magic spell `#2021.04.22`
   + **xáron** _noun_ mage, magic user `#2003.12.25`
-  + **xátri** _desc_ magical (achieved by magic) `#2021.04.22` 
+  + **xátri** _desc_ magical (achieved by magic) `#2021.04.22`
   + **xájia** _p noun_ Saturday (of odd-numbered weeks), magic-day
   + **xábitke** _noun_ magical portal, magical gateway `#2022.06.01`
   + **xátoric** _noun_ artifice, magitech `#2022.05.31`
@@ -1292,13 +1289,12 @@
 + **xlari** _noun_ forest `#2008.06.22`
 + **xumas** _desc_ cruel, harsh `#2021.04.22`
   + **xumbiro** _noun_ dictator, cruel or harsh leader  `#2008.06.22`
-+ **xune.m** _ton verb_ to excuse, to justify, to rationalize `#2005.11.04` `#2022.06.04` _discovered in an early attempt to make a dictionary using Adinjo as 'axunem' translated as 'no excusing'_
++ **xune.m** _ton verb_ to excuse, to justify, to rationalize `#2005.11.04` `#2022.06.04` _discovered in an early attempt to make a dictionary, using Adinjo as 'axunem' translated as 'no excusing'_
 + **xoci.da** _ton vb_ conjugate, build the forms of a verb `#2003.12.25`
 + **xoltwa** _noun_ journal `#2003.12.25`
 + **xori.mas** _ton vb_ protect `#2003.12.25`
- + **xorii** _noun_ protection `#2003.12.25`
+  + **xorii** _noun_ protection `#2003.12.25`
 + **xorli** _noun_ dialect `#2003.12.25`
-
 
 ## O
 
@@ -1308,7 +1304,7 @@
 + **opporhel** _desc_ gracious `#2021.04.22`
 + **Orgdin** _p noun_ Ork (Atrusian) `#2021.04.22`
 + **orìnd** _noun, desc_ gold, metal or color `#2008.06.22`
- + **orìndomi** _noun_ store, shop, an artisan's house; from _orind_ + _domya_, 'goldhouse' `#2022.06.04`
+  + **orìndomi** _noun_ store, shop, an artisan's house; from _orind_ + _domya_, 'goldhouse' `#2022.06.04`
 + **Orxdin** _p noun_ Orc (Warcraft) `#2021.04.22`
 + **ormer.cin** _ton vb_ bleed, to drain blood `#2021.04.22`
 + **oro** _noun_ lap, time around a course `#2008.06.22`
