@@ -1,5 +1,4 @@
-List of Words - A
-=================
+# List of Words - A
 
 + **[a](a/a.md)**
   1. (_pronoun_, _prefix_) all, each, every

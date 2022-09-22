@@ -4,280 +4,277 @@
 
 ## A
 
-+ **[-a](a/a.md)** _suffix_ no, not, negative `#2003.12.25`
-+ -**a** _ton verb suffix_ not; negative, applied to the end of tense/voice suffix `#2003.12.25`
-+ -**a**- _kun verb suffix_ not; replaces the last vowel in the root `#2003.12.25`
-+ **[a](a/a.md)** _pronoun_ all, each, every `#2003.12.25`
-+ **[a](a/a.md)** _descriptor_ great, grand, superior `#2003.12.25`
-+ **[abse](a/abs.md)** _descriptor_ black `#2003.12.25`
-+ **[abso](a/abs.md)** _descriptor_ white `#2003.12.25`
-+ **[ábul](a/ábul.md)** _noun_ monument `#2003.12.25`
-+ **[adan](a/adan.md)** _pronoun_ any, any one, no specific one `#2007.12.29`
-+ **ademba** _pronoun_ any time, one time `#2022.06.01`
-+ **[adin](a/adin.md)** _pronoun_ the people (universal, conceptual) `#1998.06.01`
-+ **[adin](a/adin.md)** _noun_ people, universal (form of **dyn**) `#1998.06.01`
-+ **[ace](a/ace.md)** _noun_ creature `#2003.12.25`
-+ **[acoré.ru](a/acoré.md)** _ton verb_ unfold, open, bloom or blossom `#2003.12.25`
-+ **[aimi](a/aimi.md)** _noun_ eye `#2003.12.25`
-+ **[aire.nd](a/aire.md)** _ton verb_ finding, learning, discovering `#2003.12.25`
-+ -**[aiti](a/aiti.md)** _gender suffix_ a suffix indicating a feminine aspect, gender, or nature; a suffix added to a name to indicate it belongs to a female (possibly a form of **daiti** or **naiti**)
-+ **[akar](a/akar.md)** _prep_ through, beyond `#2007.12.29`
-+ **[albor](a/albor.md)** _noun_ 1. tar 2. ink, oil paint `#2003.12.25`
-+ **[ald](a/ald.md)** _descriptor_ old `#2007.12.29`
-  + **[alʤin](a/aldjin.md)** (_al' djín_) _noun_ old blood, established names or families; Adin with bloodline traits `#2007.12.29`
-  + **aldyur** _descriptor_ ancient, very old, antique `#2007.11.26` `#2022.06.05`
-+ **[alma](a/alma.md).ru** _ton verb_ ruling, leading, governing `#2008.06.22` formerly _aluma.ru_
-  + **[almán](a/almán.md)** _noun_ leader by circumstance, acting leader
-  + **[almatax](a/almatax.md)** _noun_ leader by profession, manager
-  + **[alnom](a/alnom.md)** _noun_ a rule or law
-+ **[alme.n](a/alme.md)** _ton verb_ milking `#2003.12.25`
-  + **[almenin](a/almenin.md)** _descriptor_ milky, of a consistency or color like milk `#2021.04.21`, creamy `#2022.06.27`
-  + **[almer](a/almer.md)** _noun_ milk, potion `#2003.12.25` _formerly "alman"_
-+ **[alren](a/alren.md)** _noun_ twin `#2008.06.22`
-+ **[amar.te](a/amar.md)** _ton verb_ crying, weeping, mourning `#2021.04.22`
-  + **amarau** _descriptor_ crying, weeping, mourning `#2022.06.27`
-+ **[amen.ru](a/amen.md)** _ton verb_ waking, awakening, invoking, calling upon `#2003.12.25`
-  + **[amend](a/amend.md)** _descriptor_ awake; alert; in a state of readiness for action `#2003.12.25`
-  + **amén** _expression_ a voicing of agreement; a valediction used to conclude a wish, prayer, or request, serving as a call to action; to invoke or call to action `#2003.12.25`
-+ **[amkei.l](a/amkei.md)** _ton verb_ cutting, splitting, separating, removing, shearing; dividing `#2003.12.25`
-+ **[amur.ent](a/amur.md)** _ton vb_ scattering, spreading, sowing `#2003.12.25`
-+ **[andèn](a/andèn.md)** _desc_ holy, divine, sacred `#2008.06.22`
-  + **[andenin](a/andenin.md)** _noun_ holiness `#2021.04.22`
-  + **andenau** _noun_ divinity `#2022.06.27`
-+ **Andurusidin** _p noun_ Andurusian (person) `#2021.04.22`
-  + **Andurusau** _descriptor_ Andurusian (having an Andurusian quality) `#2022.06.27`
-  + **Andurusijo** _noun_ Andurusian (language) `#2022.06.27`
-+ **[ane.ru](a/ane.md)** _ton vb_ using `#2003.12.25`, utilizing `#2022.06.27`
-+ **aneʃ** (_anesh_) _noun_ lightning, electricity
-  + **[aneʃdo'ain](a/aneʃdoain.md)** (_an esh do ain_) _noun_ lightning bolt `#2008.06.22`
-  + **aneʃiluan** (_an esh i' luan_) _p noun_ October, Lightning's Month
-  + **aneʤia** (_an e dji' a_) _p noun_ Friday (of even-numbered weeks), lightning-day
-+ **[ani.ru](a/ani.md)** _ton vb_ being (as in, “to be or not to be…”) `#2003.12.25`
-  + **[an-](a/an.md)** _desc pfx_ expresses that the word is a statement of state or status, “to be x” `#2003.12.25`
-+ **[anis.wa](a/anis.md)** _ton vb_ reading `#2008.06.22`
-+ **[anjyu](a/anjyu.md)** _noun_ sex, gender `#2008.06.22`
-  + **[an-](a/an.md)** _noun prefix_ sex, gender, class `#2008.06.22`
-  + **[andaiti](a/andaiti.md)** _desc_ female `#2008.06.22`
-  + **[anen](a/anen.md)** _desc_ male `#2008.06.22`
-  + **[anon](a/anon.md)** _desc_ neuter, ungendered `#2008.06.22`
-+ **[anko.ro](a/anko.md)** ton vb existing `#2008.06.22`
-  + **ankomar** _noun_ existence `#2008.06.22`
-+ **[ar.i](a/ar.md)** _ton vb_ throwing `#2008.06.22`
-+ **[aram.el](a/aram.md)** _ton vb_ passing, going through, going beyond `#2003.12.25`
-  + **aramdekçin** _noun_ password, passcode `#2021.04.21`
-+ **arconir** _noun_ bear (animal)
-+ **[arlic](a/arlic.md)** _noun_ pen, a permanent writing implement
-+ **[armo](a/armo.md)** _prep_ because, for the sake or purpose of `#2003.12.25`
-+ **arus.é** _ton vb_ sitting, lounging `#2003.12.25`
-+ **aruʃ.èn** (_ar ush en_) _ton vb_ seating, providing or offering seats `#2003.12.25`
-  + **aruʃ** _noun_ seat, chair, cushion, sofa `#2003.12.25`
-+ **arzol** _desc_ blue `#2003.12.25`
-+ **asen.ru** _ton vb_ biting `#2003.12.25`
-  + **asenger** _noun_ bite (the physical remains or damage of a bite)
-+ **asent** _noun_ east; _descriptor_ a shape or mark which is rising to the right `#2003.12.25`
-+ **aʃa** _noun_ peace `#2008.06.22`
-  + **aʃaun** _noun_ horse `#2008.06.22`
-  + **aʃaus** _desc_ peaceful `#2008.06.22`
-+ **aʃurt.as** _ton vb_ raiding `#2003.12.25`
-  + **aʃurtath** _noun_ raid `#2003.12.25`
-+ **atin** _noun_ descendant `#2008.06.22`
-+ **atki** _desc_ bonus, extra, spare `#2003.12.25`
-+ **auf** _ono_ woof, bark, bow-wow, arf (sound of a dog) `#2008.06.22`
-+ **aur** _part_ question marker (spoken; means the following utterance is a question) `#2008.06.22`
-  + **aurdai** _noun_ question mark `#2008.06.22`
-+ **aureʃ** _noun_ tunic, blouse, shirt (alternate **aresh**) `#2004.07.13`
-  + **aureʃ'tal** _noun_ little shirt, camisole `#2004.07.13`
-  + **aureʃ'ektar** _noun_ tight shirt, tank top, undershirt `#2004.07.13`
-  + **aureʃ'anden** _noun_ holy tunic, a buttoned tunic with sleeves and a single pocket over the left breast `#2004.07.13`
-  + **aureʃ'enaiten** _noun_ heavy tunic, a (usually heavy) tunic that hangs loose so as to conceal the appearance `#2004.07.13`
-+ **aurok** _noun_ room, space `#2008.06.22`
-+ **aurpwéna** _desc_ mealy, feeling like meal `#2021.04.22`
-+ **ause.ne** _ton vb_ lying (down), laying `#2008.06.22`
-+ **ayas.uri** _ton vb_ comforting, soothing, calming `#2008.06.22`
-  + **ayastel** _noun_ comfort `#2008.06.22`
-+ **aye** _noun_ hand; may be literal or figurative `#2008.06.22`
-  + -**ye** _d sfx_ hand `#2008.06.22`
-+ **aygins.ten** _ton vb_ playing (a game), acting, engaging in a hobby or pursuit of passion `#2021.04.21`
-+ **afailesi** _descriptor_ panromantic `#2022.06.04`
++ **[-a](a/a.md)** 1. (_suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_)
++ **[a-](a/a.md)** 1. ((_pronoun_)) all, each, every (att. 2003-Dec-25)
++ **[a-](a/a.md)** 1. (_descriptor_) great, grand, superior (att. 2003-Dec-25)
++ **[abse](a/abs.md)** 1. (_descriptor_) black (att. 2003-Dec-25)
++ **[abso](a/abs.md)** 1. (_descriptor_) white (att. 2003-Dec-25)
++ **[ábul](a/ábul.md)** 1. (_noun_) monument (att. 2003-Dec-25)
++ **[adan](a/adan.md)** 1. (_pronoun_) any, any one, no specific one (att. 2007-Dec-29)
++ **ademba** (_pronoun_) any time, one time (att. 2022-Jun-01; cf. _temba_)
++ **[adin](a/adin.md)** 1. (_pronoun_) the people (universal, conceptual) (att. 1998-Jun-01) 2. (_noun_) people, universal (att. 1998-Jun-01; cf. **dyn**)
++ **[ace](a/ace.md)** 1. (_noun_) creature (att. 2003-Dec-25)
++ **[acoré.ru](a/acoré.md)** 1. (_ton verb_) unfold, open, bloom or blossom (att. 2003-Dec-25)
++ **[aimi](a/aimi.md)** 1. (_noun_) eye (att. 2003-Dec-25)
++ **[aire.nd](a/aire.md)** 1. (_ton verb_) finding, learning, discovering (att. 2003-Dec-25)
++ **[-aiti](a/aiti.md)** 1. (_suffix, gender_) a suffix indicating a feminine aspect, gender, or nature; a suffix added to a name to indicate it belongs to a female (possibly a form of _daiti_ or _naiti_)
++ **[akar](a/akar.md)** 1. (_positional_) through, beyond (att. 2007-Dec-29)
++ **[albor](a/albor.md)** 1. (_noun_) tar (att. 2003-Dec-25) 2. (_noun_) ink, oil paint
++ **[ald](a/ald.md)** 1. (_descriptor_) old (att. 2007-Dec-29)
++ **[aldjin](a/aldjin.md)** 1. (_noun_) old blood, established names or families 2. (_noun_) Adin with bloodline traits (att. 2007-Dec-29)
++ **aldyur** (_descriptor_) 1. ancient, very old, antique (att. 2007-Nov-26; red. 2022-Jun-05)
++ **[alma](a/alma.md).ru** 1. (_ton verb_) ruling, leading, governing (att. 2008-Jun-22; formerly _aluma.ru_)
++ **[almán](a/almán.md)** 1. (_noun_) leader by circumstance, acting leader
++ **[almatax](a/almatax.md)** 1. (_noun_) leader by profession, manager
++ **[alme.n](a/alme.md)** 1. (_ton verb_) milking (att. 2003-Dec-25)
++ **[almenin](a/almenin.md)** 1. (_descriptor_) milky, of a consistency or color like milk (att. 2021-Apr-21), creamy (att. 2022-Jun-27)
++ **[almer](a/almer.md)** 1. (_noun_) milk, potion (att. 2003-Dec-25) _formerly "alman"_
++ **[alnom](a/alnom.md)** 1. (_noun_) a rule or law
++ **[alren](a/alren.md)** 1. (_noun_) twin (att. 2008-Jun-22)
++ **amarau** 1. (_descriptor_) crying, weeping, mourning (att. 2022-Jun-27)
++ **[amar.te](a/amar.md)** 1. (_ton verb_) crying, weeping, mourning (att. 2021-Apr-22)
++ **amén** 1. (_expression_) a voicing of agreement; a valediction used to conclude a wish, prayer, or request, serving as a call to action; to invoke or call to action (att. 2003-Dec-25)
++ **[amen.ru](a/amen.md)** 1. (_ton verb_) waking, awakening, invoking, calling upon (att. 2003-Dec-25)
++ **[amend](a/amend.md)** 1. (_descriptor_) awake; alert; in a state of readiness for action (att. 2003-Dec-25)
++ **[amkei.l](a/amkei.md)** 1. (_ton verb_) cutting, splitting, separating, removing, shearing; dividing (att. 2003-Dec-25)
++ **[amur.ent](a/amur.md)** 1. (_ton verb_) scattering, spreading, sowing (att. 2003-Dec-25)
++ **[an-](a/an.md)** 1. (_prefix, descriptor_) expresses that the word is a statement of state or status, “to be x” (att. 2003-Dec-25) 2. (_prefix, noun_) sex, gender, class (att. 2008-Jun-22)
++ **[andèn](a/andèn.md)** 1. (_descriptor_) holy, divine, sacred (att. 2008-Jun-22)
++ **andenau** 1. (_noun_) divinity (att. 2022-Jun-27)
++ **[andenin](a/andenin.md)** 1. (_noun_) holiness (att. 2021-Apr-22)
++ **Andurusau** 1. (_descriptor_) Andurusian (having an Andurusian quality) (att. 2022-Jun-27)
++ **Andurusidin** 1. (_proper noun_) Andurusian (person) (att. 2021-Apr-22)
++ **Andurusijo** 1. (_noun_) the Andurusian language (att. 2022-Jun-27)
++ **[ane.ru](a/ane.md)** 1. (_ton verb_) using (att. 2003-Dec-25), 2. (_ton verb_) utilizing (att. 2022-Jun-27)
++ **anesh** (_noun_) 1. lightning, electricity
++ **ane'djia** 1. (_proper noun_) Friday (of even-numbered weeks), lightning-day
++ **[aneshdo'ain](a/aneʃdoain.md)** 1. (_noun_) lightning bolt (att. 2008-Jun-22)
++ **anesh'iluan** 1. (_an esh i' luan_) (_proper noun_) October, Lightning's Month
++ `!-- 2022 Formatting Update Progress: Delete when formatting update is complete--!`
++ **[ani.ru](a/ani.md)** (_ton verb_) being (as in, “to be or not to be…”) (att. 2003-Dec-25)
++ **[anis.wa](a/anis.md)** (_ton verb_) reading (att. 2008-Jun-22)
++ **[anjyu](a/anjyu.md)** (_noun_) sex, gender (att. 2008-Jun-22)
++ **[andaiti](a/andaiti.md)** (_descriptor_) female (att. 2008-Jun-22)
++ **[anen](a/anen.md)** (_descriptor_) male (att. 2008-Jun-22)
++ **[anon](a/anon.md)** (_descriptor_) neuter, ungendered (att. 2008-Jun-22)
++ **[anko.ro](a/anko.md)** ton vb existing (att. 2008-Jun-22)
++ **ankomar** (_noun_) existence (att. 2008-Jun-22)
++ **[ar.i](a/ar.md)** (_ton verb_) throwing (att. 2008-Jun-22)
++ **[aram.el](a/aram.md)** (_ton verb_) passing, going through, going beyond (att. 2003-Dec-25)
+  + **aramdekçin** (_noun_) password, passcode (att. 2021-Apr-21)
++ **arconir** (_noun_) bear (animal)
++ **[arlic](a/arlic.md)** (_noun_) pen, a permanent writing implement
++ **[armo](a/armo.md)** (_positional_) because, for the sake or purpose of (att. 2003-Dec-25)
++ **arus.é** (_ton verb_) sitting, lounging (att. 2003-Dec-25)
++ **aruʃ.èn** (_ar ush en_) (_ton verb_) seating, providing or offering seats (att. 2003-Dec-25)
+  + **aruʃ** (_noun_) seat, chair, cushion, sofa (att. 2003-Dec-25)
++ **arzol** (_descriptor_) blue (att. 2003-Dec-25)
++ **asen.ru** (_ton verb_) biting (att. 2003-Dec-25)
+  + **asenger** (_noun_) bite (the physical remains or damage of a bite)
++ **asent** (_noun_) east; (_descriptor_) a shape or mark which is rising to the right (att. 2003-Dec-25)
++ **aʃa** (_noun_) peace (att. 2008-Jun-22)
+  + **aʃaun** (_noun_) horse (att. 2008-Jun-22)
+  + **aʃaus** (_descriptor_) peaceful (att. 2008-Jun-22)
++ **aʃurt.as** (_ton verb_) raiding (att. 2003-Dec-25)
+  + **aʃurtath** (_noun_) raid (att. 2003-Dec-25)
++ **atin** (_noun_) descendant (att. 2008-Jun-22)
++ **atki** (_descriptor_) bonus, extra, spare (att. 2003-Dec-25)
++ **auf** (_idiophone, onomatopoeia_) woof, bark, bow-wow, arf (sound of a dog) (att. 2008-Jun-22)
++ **aur** (_particle_) question marker (spoken; means the following utterance is a question) (att. 2008-Jun-22)
+  + **aurdai** (_noun_) question mark (att. 2008-Jun-22)
++ **aureʃ** (_noun_) tunic, blouse, shirt (alternate **aresh**) (att. 2004-Jul-13)
+  + **aureʃ'tal** (_noun_) little shirt, camisole (att. 2004-Jul-13)
+  + **aureʃ'ektar** (_noun_) tight shirt, tank top, undershirt (att. 2004-Jul-13)
+  + **aureʃ'anden** (_noun_) holy tunic, a buttoned tunic with sleeves and a single pocket over the left breast (att. 2004-Jul-13)
+  + **aureʃ'enaiten** (_noun_) heavy tunic, a (usually heavy) tunic that hangs loose so as to conceal the appearance (att. 2004-Jul-13)
++ **aurok** (_noun_) room, space (att. 2008-Jun-22)
++ **aurpwéna** (_descriptor_) mealy, feeling like meal (att. 2021-Apr-22)
++ **ause.ne** (_ton verb_) lying (down), laying (att. 2008-Jun-22)
++ **ayas.uri** (_ton verb_) comforting, soothing, calming (att. 2008-Jun-22)
+  + **ayastel** (_noun_) comfort (att. 2008-Jun-22)
++ **aye** (_noun_) hand; may be literal or figurative (att. 2008-Jun-22)
+  + -**ye** (_suffix_) hand (att. 2008-Jun-22)
++ **aygins.ten** (_ton verb_) playing (a game), acting, engaging in a hobby or pursuit of passion (att. 2021-Apr-21)
++ **afailesi** (_descriptor_) panromantic (att. 2022-Jun-04)
 
 ## B
 
-+ **ba-** _n pfx_ this; proximate demonstrative `#2003.12.25`
-  + **bajia** _noun_ today (literally "this-day") `#2003.12.25`
-+ **baci.re** _ton vb_ seeing, viewing; watching
-+ **bak** _noun_ card, a sturdy piece of paper often containing images `2022.06.04`
-+ **bakato** _expr_ "bite me," a colloquial expression meaning "cook and serve" (pejorative) `#2003.12.25`
-+ **bakira...** _expr_ by the way, also, furthermore; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention `#2003.12.25`
-+ **bal** _noun_ tempo, rhythmic timing `#2009.11.06`
-+ **ban** _noun_ bread `#2003.12.25`
-+ **banc.els** _ton vb_ giving `#2003.12.25` _formerly "borchton"_
-  + **bançi** _noun_ gift `#2003.12.25`
-+ **banij** _pronoun_ here, this place `#2003` `#2022.06.04` _found in an old barely used journal_
-+ **banklaf** _noun_ a major festival or sacred season
-+ **baru** _noun_ dust `#2008.06.22`
-+ **bax.at** _ton vb_ rising, growing `#2003.12.25`
-+ **beʤi** _noun_ beard `#2008.06.22`
-+ **béra** _noun_ grape, berry
-+ **berík** _noun_ castle; a fortified, walled, building, usually housing a leader `#2008.06.22`
-+ **bider.in** _ton vb_ opening `#2008.06.22`
-+ **bir.mak** _ton vb_ finishing `#2003.12.25`
-  + **bironga** _noun_ finish, final touches
-+ **bitke** _noun_ door, heavy gate `#2003.12.25`
-+ **blamed** _noun_ brick, block; man-made block of wood or mixed materials (not cut stone) `#2003.12.25`
-+ **blani** _noun_ cat, feline; refers to any cat-like creature `#2003.12.25`
-  + **blanisa** _noun_ cat, housecat, pet, tame `#2003.12.25`
-  + **blani'urdin** _noun_ cat-like person (any cat-like person) `#2003.12.25`
-+ **blut** _prep_ down `#2003.12.25`
-+ **brak.eʃ** _ton vb_ lifting, raising `#2008.06.22`
-+ **bralum** _noun_ lead, metal
-  + **bralyumé** _desc_ leaden, made of lead
-+ **brau.jen** _ton vb_ blowing, exhaling; farting (this is considered a polite way to refer to farting) `#2003.12.25` _formerly "bura.nu"_
-+ **bron.ru** _ton vb_ waiting, staying, holding position `#2003.12.25`
-  + **bront** _noun_ a wait, a period of time spent delayed or awaiting something `#2003.12.25`
-+ **burme.las** _ton vb_ cooking, baking, boiling `#2003.12.25`
-+ **bor.ak** _ton vb_ getting, acquiring `#2003.12.25`
-+ **borç.ent** _ton verb_ sending to, revealing to, inspiring `#2007.11.26` `#2022.06.05`
-+ **bot.ek** _ton vb_ pressing, pushing `#2003.12.25`
-  + **botan** _noun_ button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed `#2003.12.25`
++ **ba-** (_prefix_) this; proximate demonstrative (att. 2003-Dec-25)
+  + **bajia** (_noun_) today (literally "this-day") (att. 2003-Dec-25)
++ **baci.re** (_ton verb_) seeing, viewing; watching
++ **bak** (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
++ **bakato** (_expression_) "bite me," a colloquial expression meaning "cook and serve" (pejorative) (att. 2003-Dec-25)
++ **bakira...** (_expression_) by the way, also, furthermore; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
++ **bal** (_noun_) tempo, rhythmic timing (att. 2009-Nov-06)
++ **ban** (_noun_) bread (att. 2003-Dec-25)
++ **banc.els** (_ton verb_) giving (att. 2003-Dec-25) _formerly "borchton"_
+  + **bançi** (_noun_) gift (att. 2003-Dec-25)
++ **banij** (_pronoun_) here, this place (att. 2003, rediscovered 2022-Jun-04; _found in an old barely used journal_)
++ **banklaf** (_noun_) a major festival or sacred season
++ **baru** (_noun_) dust (att. 2008-Jun-22)
++ **bax.at** (_ton verb_) rising, growing (att. 2003-Dec-25)
++ **beʤi** (_noun_) beard (att. 2008-Jun-22)
++ **béra** (_noun_) grape, berry
++ **berík** (_noun_) castle; a fortified, walled, building, usually housing a leader (att. 2008-Jun-22)
++ **bider.in** (_ton verb_) opening (att. 2008-Jun-22)
++ **bir.mak** (_ton verb_) finishing (att. 2003-Dec-25)
+  + **bironga** (_noun_) finish, final touches
++ **bitke** (_noun_) door, heavy gate (att. 2003-Dec-25)
++ **blamed** (_noun_) brick, block; man-made block of wood or mixed materials (not cut stone) (att. 2003-Dec-25)
++ **blani** (_noun_) cat, feline; refers to any cat-like creature (att. 2003-Dec-25)
+  + **blanisa** (_noun_) cat, housecat, pet, tame (att. 2003-Dec-25)
+  + **blani'urdin** (_noun_) cat-like person (any cat-like person) (att. 2003-Dec-25)
++ **blut** (_positional_) down (att. 2003-Dec-25)
++ **brak.eʃ** (_ton verb_) lifting, raising (att. 2008-Jun-22)
++ **bralum** (_noun_) lead, metal
+  + **bralyumé** (_descriptor_) leaden, made of lead
++ **brau.jen** (_ton verb_) blowing, exhaling; farting (this is considered a polite way to refer to farting) (att. 2003-Dec-25; _formerly "bura.nu"_)
++ **bron.ru** (_ton verb_) waiting, staying, holding position (att. 2003-Dec-25)
+  + **bront** (_noun_) a wait, a period of time spent delayed or awaiting something (att. 2003-Dec-25)
++ **burme.las** (_ton verb_) cooking, baking, boiling (att. 2003-Dec-25)
++ **bor.ak** (_ton verb_) getting, acquiring (att. 2003-Dec-25)
++ **borç.ent** (_ton verb_) sending to, revealing to, inspiring (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **bot.ek** (_ton verb_) pressing, pushing (att. 2003-Dec-25)
+  + **botan** (_noun_) button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed (att. 2003-Dec-25)
 
 ## G
 
-+ **gaeani** _descriptor_ Human, Gaean (culturally), of or related to the human cultures native to Gaea. `#2022.06.04`
-+ **galmcabi.nd** _ton verb_ mood-showing, potential-showing `2003.04.24` `#2022.06.05`
-  + -**galm** _vb sfx_ may do verb; indicates the potential to perform an action `#2003.12.25`
-+ **gambu** _noun_ lake `#2003.12.25`
-+ **gamer.çin** _ton vb_ bleeding
-+ **gani.s** _ton vb_ making a contract; signing a contract `#2008.06.22`
-  + **ganwas** _noun_ contract, legal document `#2008.06.22`
-+ **gant** _noun_ rate, speed `#2003.12.25`
-+ **gante.dz** _ton vb_ transporting, carrying, exchanging `#2003.12.25`
-+ **ganto** _noun_ member of a group `#2008.06.22`
-+ **garuud** _noun_ captive, prisoner `#2008.06.22`
-+ **gatla.ʃi** _ton vb_ disguising `#2003.12.25`
-  + **gatlan** _noun_ disguise `#2003.12.25`
-+ **gaya.m** _ton verb_ to give birth, to conceive, to impregnate, to breed `#2008.06.22` `#2022.06.15` _recovered from a dictionary dated to 2008-Jun-22_
-+ **gelm** _noun_ pride, confidence, surety `#2007.11.26` `#2022.06.04`
-+ **gezud.em** _ton vb_ expecting, anticipating; hoping `#2021.04.22`
-  + **gezudral** _noun_ expectation `#2021.04.22`
-+ **gent** _noun_ child `#2008.06.22`
-+ **géxa.la** _verb_ to laugh, to chuckle, to cackle
-+ **gi** _conj_ so that `#2003.12.25` _formerly glossed as "this," presumed typo of "thus"_
-+ **gif** _noun_ fire, flame `#1998.06.01`
-  + **gifiluan** _p noun_ August, Fire's Month
-  + **gifjia** _p noun_ Friday (of odd-numbered weeks), fire-day
-+ **Gramurdin** _p noun_ Gramurn `#2008.06.22`
-+ -**grat** _desc suffix_ least `#2003.12.25`
-+ **greimík** _noun_ costume, outfit `#2003.12.25`
-+ **greis** _noun_ mercy `#2008.06.22`
-  + **greiʃaun** _desc_ merciful `#2008.06.22`
-+ **gyumi.da** _ton vb_ requiring `#2008.06.22`
-+ **gubra** _conj_ though, while `#2008.06.22`
-+ **gurias** _noun_ empire `#2008.06.22`
-  + **gurion** _descriptor_ imperial, of or relating to an empire `#2003.12.25`
-    + **gurioni** _descriptor_ Adin (culturally), especially of the Imperial Culture or the Shipboard culture of Emissaries. `#2022.06.04`
-  + **Gurneim** _noun_ knight, rank in Imperial Military; rank title, lowest rank of non-commissioned officer `#2021.04.22`
-+ **god** _p noun_ God (singular unique divine, typically refers to YHWH or XIIC) `#2003.12.25`
-+ **goju** _desc_ after, following `#2003.12.25`
-  + **gojia** _noun_ tomorrow
-  + **gojudekçin** _noun_ suffix, post script, afterword `2006.06.04` `#2022.06.05`
-+ **gore.m** _ton vb_ casting away, sending away
-+ **gor.um** _ton vb_ growing, increasing; adding to `#2008.06.22`
++ **gaeani** (_descriptor_) Human, Gaean (culturally), of or related to the human cultures native to Gaea. (att. 2022-Jun-04)
++ **galmcabi.nd** (_ton verb_) mood-showing, potential-showing (att. 2003-Apr-24, rediscovered 2022-Jun-05)
+  + -**galm** (_verb affix_) may do verb; indicates the potential to perform an action (att. 2003-Dec-25)
++ **gambu** (_noun_) lake (att. 2003-Dec-25)
++ **gamer.çin** (_ton verb_) bleeding
++ **gani.s** (_ton verb_) making a contract; signing a contract (att. 2008-Jun-22)
+  + **ganwas** (_noun_) contract, legal document (att. 2008-Jun-22)
++ **gant** (_noun_) rate, speed (att. 2003-Dec-25)
++ **gante.dz** (_ton verb_) transporting, carrying, exchanging (att. 2003-Dec-25)
++ **ganto** (_noun_) member of a group (att. 2008-Jun-22)
++ **garuud** (_noun_) captive, prisoner (att. 2008-Jun-22)
++ **gatla.ʃi** (_ton verb_) disguising (att. 2003-Dec-25)
+  + **gatlan** (_noun_) disguise (att. 2003-Dec-25)
++ **gaya.m** (_ton verb_) to give birth, to conceive, to impregnate, to breed (att. 2008-Jun-22, rediscovered 2022-Jun-15 \[recovered from a dictionary dated to 2008-Jun-22\])
++ **gelm** (_noun_) pride, confidence, surety (att. 2007-Nov-26, rediscovered 2022-Jun-04)
++ **gezud.em** (_ton verb_) expecting, anticipating; hoping (att. 2021-Apr-22)
+  + **gezudral** (_noun_) expectation (att. 2021-Apr-22)
++ **gent** (_noun_) child (att. 2008-Jun-22)
++ **géxa.la** (_ton verb_) to laugh, to chuckle, to cackle
++ **gi** (_conjunction_) so that (att. 2003-Dec-25) _formerly glossed as "this," presumed typo of "thus"_
++ **gif** (_noun_) fire, flame (att. 1998-Jun-01)
+  + **gifiluan** (_proper noun_) August, Fire's Month
+  + **gifjia** (_proper noun_) Friday (of odd-numbered weeks), fire-day
++ **Gramurdin** (_proper noun_) Gramurn (att. 2008-Jun-22)
++ -**grat** (_affix, descriptor_) least (att. 2003-Dec-25)
++ **greimík** (_noun_) costume, outfit (att. 2003-Dec-25)
++ **greis** (_noun_) mercy (att. 2008-Jun-22)
+  + **greiʃaun** (_descriptor_) merciful (att. 2008-Jun-22)
++ **gyumi.da** (_ton verb_) requiring (att. 2008-Jun-22)
++ **gubra** (_conjunction_) though, while (att. 2008-Jun-22)
++ **gurias** (_noun_) empire (att. 2008-Jun-22)
+  + **gurion** (_descriptor_) imperial, of or relating to an empire (att. 2003-Dec-25)
+    + **gurioni** (_descriptor_) Adin (culturally), especially of the Imperial Culture or the Shipboard culture of Emissaries. (att. 2022-Jun-04)
+  + **Gurneim** (_noun_) knight, rank in Imperial Military; rank title, lowest rank of non-commissioned officer (att. 2021-Apr-22)
++ **god** (_proper noun_) God (singular unique divine, typically refers to YHWH or XIIC) (att. 2003-Dec-25)
++ **goju** (_descriptor_) after, following (att. 2003-Dec-25)
+  + **gojia** (_noun_) tomorrow
+  + **gojudekçin** (_noun_) suffix, post script, afterword (att. 2006-Jun-04, rediscovered 2022-Jun-05)
++ **gore.m** (_ton verb_) casting away, sending away
++ **gor.um** (_ton verb_) growing, increasing; adding to (att. 2008-Jun-22)
 
 ## D
 
-+ **da'salji** _noun_ milk; juice of the _leng eni isa_ `#2021.04.22` _this word, like "leng eni isa," has been imported from the Kenyu Language of Peace_
-+ **dagaxen** _noun_ alcohol `#2008.06.22`
-  + **dagaxen'din** _noun_ alcoholic, one who drinks alcohol in excess the Adin prefer euphemism to direct labeling of problem, so this word is rarely used `#2008.06.22`
-  + **dagaxenya** _desc_ alcoholic, containing alcohol `#2008.06.22`
-+ **dahan** _noun_ poison, toxin dangerous to life `#2003.12.25`
-+ **dai** _prep_ on `#2003.12.25`
-+ **dailorn** _noun_ tabletop, countertop, desktop; the top surface of a table, counter, desk, or similar `#2022.06.04`
-+ **daiti** _noun_ daughter `#2008.06.22`
-  + **dait**- _nn pfx_ daughter, “daughter of”; often used in initial introductions or matronymic surnames `#2008.06.22`
-+ **daxin** _noun_ point in time, time-frame; era; tense of a verb `#2008.06.22`
-+ **dakmel** _noun_ letter, glyph, rune may be used to refer to any written symbol of language, regardless of + the writing system used `#2008.06.22`
-+ **dal.eru** _ton vb_ win something as a prize `#2003.12.25`
-+ **dalme.x** _ton vb_ process or prepare food
-+ **dama** _desc_ new `#2003.12.25`
-+ **Damaçi** _expr_ Thank you casual expression of gratitude, "thanks" `#2003.12.25`
-  + **Damaçi ci** _expr_ Thank you more formal than "Damaci" `#2003.12.25`
-  + **Adamaçi saci** _expr_ Thank you very formal version of "thank you" `#2003.12.25`
-+ **dama.rio** _ton verb_ happening, occuring, especially inevitably or passively `2003.04.24` `#2022.06.05`
-+ **dame.ren** _ton vb_ license, allow one to use; lease, rent `#2003.12.25`
-  + **damer** _noun_ a license, permission to use; a lease or rental agreement `#2003.12.25`
-+ **dan** _art_ indefinite article; a, one, singular of multiple `#2003.12.25`
-+ **dán** _pron_ where `#2003.12.25`
-+ **dan.sen** _ton vb_ serve `#2003.12.25` _formerly "chanton"_
-  + **dankos** _noun_ a service `#2021.04.22`
-  + **dantax** _noun_ a servant `#2021.04.22`
-+ **dange.lar** _ton vb_ meet `#2008.06.22`
-  + **danglun** _noun_ meeting `#2008.06.22`
-+ **dapis.é** _ton vb_ pause, hesitate `#2008.06.22`
-  + **dapis** _noun_ comma, pause symbol `#2008.06.22`
-+ **daré** _noun_ rat, mouse `#2003.12.25`
-+ **darel** _noun_ leg `#2008.06.22`
-+ **daʃ.el** _ton vb_ track, follow a path `#2008.06.22`
-  + **daʃin** _noun_ track, path `#2008.06.22`
-+ **deham** _noun_ wing `#2008.06.22`
-+ **deirin** _noun_ power `#2003.12.25`
-  + **deiraun** _desc_ powerful `#2003.12.25`
-+ **dekçin** _noun_ word `#2008.06.22`
-  + **dekçin i xá** _noun_ magic word `#2008.06.22`
-+ **del** _pro-vb_ how `#2008.06.22`
-+ **delma.fas** _ton vb_ processing, interpreting; deliberating, particularly as of a command or idea, suggests that one cannot or has not yet decided upon how to act upon information `#2008.06.22`
-  + **delmak** _noun_ a process, a task, an action `#2008.06.22`
-+ **delman** _expr_ how about `#2003.12.25` _formerly "delmaré"_
-+ **delmaré** _kun vb_ to enjoy `#2003.12.25`
-+ **dema.rk** _ton vb_ command `#2003.12.25`
-  + **demargel** _noun_ command, order `#2003.12.25`
-+ **demika** _noun_ orange, citrus fruit `#2021.04.22`
-+ **denbrak** _noun_ lift, a device which raises a pulley, elevator, et cetera `#2021.04.22`
-+ **denij** _kun vb_ to place, to set, to locate `#2021.04.22`
-+ **dép.al** _ton vb_ departing, leaving `#2021.04.22`
-+ **dér**- _descriptor prefix_ proper, dress, formal clothing the sort of clothes suited for a wedding `#2008.06.22`
-+ **dìn.rol** _ton vb_ cycle, repeat sounds or actions `#2003.12.25`
-  + **dìnla** _noun_ a cycle, repetition of sounds or actions `#2003.12.25`
-  + **dìnrolai** _descriptor_ regular, repeating, recurring, consistent `#2022.06.04`
-+ **dirma** _noun_ chicory `#2003.12.25`
-+ **draikan** _noun_ dragon, drake, predatory lizard `#2021.04.22`
-+ **drak'holm** _noun_ dragon, farmed lizard `#2003.12.25`
-+ **duca.bix** _ton vb_ showing
-+ **dul**- _descriptor prefix_ older, longer, more so `#2003.12.25`
-  + **dulcin** _noun_ older brother `#2003.12.25`
-  + **dulkada** _noun_ older sister `#2003.12.25`
-  + **dulkant** _noun_ older sibling `#2003.12.25`
-  + **dulneyaci** _f noun_ knight, female senior, similar to ma'am or madam; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. `#2021.04.22`
-  + **dulneyen** _m noun_ knight, male senior, similar to sir; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. `#2021.04.22`
-  + -**dul** _descriptor suffix_ more
-+ **dula** _noun_ sound, noise `#2008.06.22`
-+ **dulayast** _desc_ comfortable `#2021.04.22`
-+ **dun** _desc_ small, short of stature, less so `#2021.04.22`
-  + **dunyeidin** _noun_ small, strong person (corresponds to typical fantasy Dwarf)
-  + **dunerin** _descriptor_ Dwarfish, Semerikän `#2003` `#2022.06.04` _found in an old barely used journal in the phrase "Dunerin Kladen"_
-+ **dupran.iʃ** _ton vb_ pleasure, provide sensual stimulation typically a sensual or sexual use `#2021.04.22`
-  + **aduprani** _descriptor_ pansexual `#2022.06.04`
-+ **dur** _noun_ flower `#2003.12.25`
-+ **durab.en** _ton vb_ trapping, capturing, confining `#2003.12.25`
-  + **durabit** _noun_ trap door `#2003.12.25`
-  + **duré** _noun_ trap `#2003.12.25`
-+ **dyn** _noun_ person, singular `#2003.12.25`
-  + -**din** _nn sfx_ person of type `#2003.12.25`
-  + **diniro** _noun_ president, a leader chosen by the people "people's king" `#2008.06.22`
-  + **dynari** _desc_ personal `#2008.06.22`
-  + **dynu** _noun_ people, plural `#2003.12.25`
-+ **-dyur** _sfx_ oldest, longest, most `#2003.12.25`
-+ **dober.u** _ton vb_ working `#2003.12.25`
-  + **dobra** _noun_ work, job `#2003.12.25`
-+ **dokré** _noun_ dagger `#2003.12.25`
-+ **doman** _noun_ month (calendar month) `#2003.12.25` `#2022.06.06`
-+ **domel.ta** _ton vb_ happen `#2003.12.25` _formerly "dometon"_
-+ **domp.e** _ton vb_ burning to provide light `#2008.06.22`
-  + **dompren** _noun_ flare, signal `#2008.06.22`
-+ **domya** _noun_ home `#2003.12.25`
-+ **doram.u** _ton vb_ spoiling, rotting, decaying, eroding `#2008.06.22`
-  + **doramukran** _expr_ spoilsport `#2008.06.22`
-+ **doran** _noun_ lip `#2008.06.22`
-+ **dorja** _noun_ adventurer, soldier, fighter; one who focuses on martial tactics `#2003.12.25`
++ **da'salji** (_noun_) milk; juice of the _leng eni isa_ (att. 2021-Apr-22; _this word, like "leng eni isa," has been imported from the Kenyu Language of Peace_)
++ **dagaxen** (_noun_) alcohol (att. 2008-Jun-22)
+  + **dagaxen'din** (_noun_) alcoholic, one who drinks alcohol in excess the Adin prefer euphemism to direct labeling of problem, so this word is rarely used (att. 2008-Jun-22)
+  + **dagaxenya** (_descriptor_) alcoholic, containing alcohol (att. 2008-Jun-22)
++ **dahan** (_noun_) poison, toxin dangerous to life (att. 2003-Dec-25)
++ **dai** (_positional_) on (att. 2003-Dec-25)
++ **dailorn** (_noun_) tabletop, countertop, desktop; the top surface of a table, counter, desk, or similar (att. 2022-Jun-04)
++ **daiti** (_noun_) daughter (att. 2008-Jun-22)
+  + **dait**- (_prefix, noun_) daughter, “daughter of”; often used in initial introductions or matronymic surnames (att. 2008-Jun-22)
++ **daxin** (_noun_) point in time, time-frame; era; tense of a verb (att. 2008-Jun-22)
++ **dakmel** (_noun_) letter, glyph, rune; may be used to refer to any written symbol of language, regardless of the writing system used (att. 2008-Jun-22)
++ **dal.eru** (_ton verb_) win something as a prize (att. 2003-Dec-25)
++ **dalme.x** (_ton verb_) process or prepare food
++ **dama** (_descriptor_) new (att. 2003-Dec-25)
++ **Damaçi** (_expression_) Thank you casual expression of gratitude, "thanks" (att. 2003-Dec-25)
+  + **Damaçi ci** (_expression_) Thank you more formal than "Damaci" (att. 2003-Dec-25)
+  + **Adamaçi saci** (_expression_) Thank you very formal version of "thank you" (att. 2003-Dec-25)
++ **dama.rio** (_ton verb_) happening, occuring, especially inevitably or passively (att. 2003-Apr-24; rediscovered 2022-Jun-05)
++ **dame.ren** (_ton verb_) license, allow one to use; lease, rent (att. 2003-Dec-25)
+  + **damer** (_noun_) a license, permission to use; a lease or rental agreement (att. 2003-Dec-25)
++ **dan** (_article_) indefinite article; a, one, singular of multiple (att. 2003-Dec-25)
++ **dán** (_pronoun_) where (att. 2003-Dec-25)
++ **dan.sen** (_ton verb_) serve (att. 2003-Dec-25) _formerly "chanton"_
+  + **dankos** (_noun_) a service (att. 2021-Apr-22)
+  + **dantax** (_noun_) a servant (att. 2021-Apr-22)
++ **dange.lar** (_ton verb_) meet (att. 2008-Jun-22)
+  + **danglun** (_noun_) meeting (att. 2008-Jun-22)
++ **dapis.é** (_ton verb_) pause, hesitate (att. 2008-Jun-22)
+  + **dapis** (_noun_) comma, pause symbol (att. 2008-Jun-22)
++ **daré** (_noun_) rat, mouse (att. 2003-Dec-25)
++ **darel** (_noun_) leg (att. 2008-Jun-22)
++ **daʃ.el** (_ton verb_) track, follow a path (att. 2008-Jun-22)
+  + **daʃin** (_noun_) track, path (att. 2008-Jun-22)
++ **deham** (_noun_) wing (att. 2008-Jun-22)
++ **deirin** (_noun_) power (att. 2003-Dec-25)
+  + **deiraun** (_descriptor_) powerful (att. 2003-Dec-25)
++ **dekçin** (_noun_) word (att. 2008-Jun-22)
+  + **dekçin i xá** (_noun_) magic word (att. 2008-Jun-22)
++ **del** (_pro-verb_) how (att. 2008-Jun-22)
++ **delma.fas** (_ton verb_) processing, interpreting; deliberating, particularly as of a command or idea, suggests that one cannot or has not yet decided upon how to act upon information (att. 2008-Jun-22)
+  + **delmak** (_noun_) a process, a task, an action (att. 2008-Jun-22)
++ **delman** (_expression_) how about (att. 2003-Dec-25) _formerly "delmaré"_
++ **delmaré** (_kun verb_) to enjoy (att. 2003-Dec-25)
++ **dema.rk** (_ton verb_) command (att. 2003-Dec-25)
+  + **demargel** (_noun_) command, order (att. 2003-Dec-25)
++ **demika** (_noun_) orange, citrus fruit (att. 2021-Apr-22)
++ **denbrak** (_noun_) lift, a device which raises a pulley, elevator, et cetera (att. 2021-Apr-22)
++ **denij** (_kun verb_) to place, to set, to locate (att. 2021-Apr-22)
++ **dép.al** (_ton verb_) departing, leaving (att. 2021-Apr-22)
++ **dér**- (_prefix, descriptor_) proper, dress, formal clothing the sort of clothes suited for a wedding (att. 2008-Jun-22)
++ **dìn.rol** (_ton verb_) cycle, repeat sounds or actions (att. 2003-Dec-25)
+  + **dìnla** (_noun_) a cycle, repetition of sounds or actions (att. 2003-Dec-25)
+  + **dìnrolai** (_descriptor_) regular, repeating, recurring, consistent (att. 2022-Jun-04)
++ **dirma** (_noun_) chicory (att. 2003-Dec-25)
++ **draikan** (_noun_) dragon, drake, predatory lizard (att. 2021-Apr-22)
++ **drak'holm** (_noun_) dragon, farmed lizard (att. 2003-Dec-25)
++ **duca.bix** (_ton verb_) showing
++ **dul**- (_prefix, descriptor_) older, longer, more so (att. 2003-Dec-25)
+  + **dulcin** (_noun_) older brother (att. 2003-Dec-25)
+  + **dulkada** (_noun_) older sister (att. 2003-Dec-25)
+  + **dulkant** (_noun_) older sibling (att. 2003-Dec-25)
+  + **dulneyaci** (_noun, feminine_) knight, female senior, similar to ma'am or madam; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
+  + **dulneyen** (_noun, masculine_) knight, male senior, similar to sir; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
+  + -**dul** (_suffix, descriptor_) more
++ **dula** (_noun_) sound, noise (att. 2008-Jun-22)
++ **dulayast** (_descriptor_) comfortable (att. 2021-Apr-22)
++ **dun** (_descriptor_) small, short of stature, less so (att. 2021-Apr-22)
+  + **dunyeidin** (_noun_) small, strong person (corresponds to typical fantasy Dwarf)
+  + **dunerin** (_descriptor_) Dwarfish, Semerikän (att. 2003, rediscovered 2022-Jun-04; _found in an old barely used journal in the phrase "Dunerin Kladen"_)
++ **dupran.iʃ** (_ton verb_) pleasure, provide sensual stimulation typically a sensual or sexual use (att. 2021-Apr-22)
+  + **aduprani** (_descriptor_) pansexual (att. 2022-Jun-04)
++ **dur** (_noun_) flower (att. 2003-Dec-25)
++ **durab.en** (_ton verb_) trapping, capturing, confining (att. 2003-Dec-25)
+  + **durabit** (_noun_) trap door (att. 2003-Dec-25)
+  + **duré** (_noun_) trap (att. 2003-Dec-25)
++ **dyn** (_noun_) person, singular (att. 2003-Dec-25)
+  + -**din**(_suffix_) person of type (att. 2003-Dec-25)
+  + **diniro** (_noun_) president, a leader chosen by the people "people's king" (att. 2008-Jun-22)
+  + **dynari** (_descriptor_) personal (att. 2008-Jun-22)
+  + **dynu** (_noun_) people, plural (att. 2003-Dec-25)
++ **-dyur** (_suffix, descriptor_) oldest, longest, most (att. 2003-Dec-25)
++ **dober.u** (_ton verb_) working (att. 2003-Dec-25)
+  + **dobra** (_noun_) work, job (att. 2003-Dec-25)
++ **dokré** (_noun_) dagger (att. 2003-Dec-25)
++ **doman** (_noun_) month (calendar month) (att. 2003-Dec-25, rediscovered 2006-Jun-04)
++ **domel.ta** (_ton verb_) happen (att. 2003-Dec-25; _formerly "dometon"_)
++ **domp.e** (_ton verb_) burning to provide light (att. 2008-Jun-22)
+  + **dompren** (_noun_) flare, signal (att. 2008-Jun-22)
++ **domya** (_noun_) home (att. 2003-Dec-25)
++ **doram.u** (_ton verb_) spoiling, rotting, decaying, eroding (att. 2008-Jun-22)
+  + **doramukran** (_expression_) spoilsport (att. 2008-Jun-22)
++ **doran** (_noun_) lip (att. 2008-Jun-22)
++ **dorja** (_noun_) adventurer, soldier, fighter; one who focuses on martial tactics (att. 2003-Dec-25)
 
 ### Ð (dh)
 
@@ -285,1056 +282,1056 @@
 
 ### ʤ (dj)
 
-+ **ʤanen** _noun_ rolling and gentle hills `#2008.06.22`
-+ **ʤoi** _noun_ meal (as breakfast, lunch, dinner) `#2008.06.22` _formerly "joi"_
++ **ʤanen** (_noun_) rolling and gentle hills (att. 2008-Jun-22)
++ **ʤoi** (_noun_) meal (as breakfast, lunch, dinner) (att. 2008-Jun-22) _formerly "joi"_
 
 ## E
 
-+ -**el** _verb suffix_ perfective marker; indicates an action with noteworthy or unusual duration for that action `#2003.12.25`
-+ **elaure.na** _ton verb_ keeping, safeguarding, stewarding `#2008.07.06` `#2022.06.14` _word found attested in name element list from 2007, never recorded in lexicon until 2022_
-+ **elðarél** _kun vb_ to rage, to be angry `#2008.06.22` _formerly a **ton verb**_
-+ **elek** _noun_ trial, legal proceedings `#2003.12.25`
-+ **elz** _noun_ ice, frozen or solid water `#2021.04.22`
-  + **elzblaméd** _noun_ icebox, cooler, fridge or freezer
-  + **elzjia** _noun_ iceday, Tuesday of even weeks
-  + **elziluan** _noun_ icemoon, January, the second month of the Imperial Adin calendar for Earth
-+ **elle.st** _ton vb_ touching `#2008.06.22`
-  + **ellar** _noun_ touch, physical contact `#2008.06.22`
-+ **ellorek** _kun vb_ to light up, to illuminate `#2003.12.25`
-+ **Elos** _p noun_ God (singular unique divine) `#2008.06.22`
-+ **eloʃ.ir** _ton vb_ prophesying `#2008.06.22`
-  + **eloʃin** _noun_ prophecy `#2008.06.22`
-  + **eloʃtax** _noun_ prophet, psychic, fortune teller; one who prophesizes `#2008.06.22`
-+ **Elressidin** _p noun_ Elressie `#2021.04.22`
-+ **emraçi** _noun_ armor, protective wear `#2008.06.22`
-+ -**en** _nn sfx_ masculine suffix (possibly derived from **nen** or **karen**) `#2008.06.22`
-+ **enabeʃ** _kun vb_ to communicate (the infinitive and present forms are identical) `#2008.06.22`
-  + **enabeʃik** _noun_ communication `#2008.06.22`
-+ **enex** _noun_ robe, a long garment which is tied off to enclose the body `#2004.07.13`
-  + **xál'enex** _noun_ a magic-user's robe, a robe with many external pockets and straps `#2004.07.13`
-  + **koen'enex** _noun_ a priests robe, a robe meant to be tied off with a single sash and internal pockets `#2004.07.13`
-  + **dér'enex** _noun_ formal robe, dress robe; typically made in the family colors of the wearer, with a single-colored sash `#2004.07.13`
-+ **enla** _expr_ in-law `#2003.12.25`
-+ **enmi.s** _ton vb_ lose (an object), misplace `#2003.12.25`
-+ **enros** _noun_ mind, brain, ego, sense of self `#2008.06.22`
-+ **enti.re** _ton vb_ hope `#2003.12.25`
-+ **enx** _noun_ head (referring to anatomical head) `#2008.06.22`
-+ **eji.s** _ton vb_ chase, pursue `#2008.06.22`
-+ **eraz.el** _ton vb_ grind `#2008.06.22`
-  + **erapwen** _noun_ meal, ground grain or starch `#2021.04.22`
-+ **estag** _noun_ shadow `#2008.06.22`
-+ **etarjé** _noun_ length `#2021.04.22`
-+ **exan** _noun_ steel, a metal composed of iron mixed with high-carbon coal `#2007.11.26` `#2022.06.05`
++ -**el** (_verb affix_) perfective marker; indicates an action with noteworthy or unusual duration for that action (att. 2003-Dec-25)
++ **elaure.na** (_ton verb_) keeping, safeguarding, stewarding (att. 2008-Jul-06, rediscovered 2022-Jun-14; _word found att. in name element list from 2007, never recorded in lexicon until 2022_)
++ **elðarél** (_kun verb_) to rage, to be angry (att. 2008-Jun-22) _formerly a **ton verb**_
++ **elek** (_noun_) trial, legal proceedings (att. 2003-Dec-25)
++ **elz** (_noun_) ice, frozen or solid water (att. 2021-Apr-22)
+  + **elzblaméd** (_noun_) icebox, cooler, fridge or freezer
+  + **elzjia** (_noun_) iceday, Tuesday of even weeks
+  + **elziluan** (_noun_) icemoon, January, the second month of the Imperial Adin calendar for Earth
++ **elle.st** (_ton verb_) touching (att. 2008-Jun-22)
+  + **ellar** (_noun_) touch, physical contact (att. 2008-Jun-22)
++ **ellorek** (_kun verb_) to light up, to illuminate (att. 2003-Dec-25)
++ **Elos** (_proper noun_) God (singular unique divine) (att. 2008-Jun-22)
++ **eloʃ.ir** (_ton verb_) prophesying (att. 2008-Jun-22)
+  + **eloʃin** (_noun_) prophecy (att. 2008-Jun-22)
+  + **eloʃtax** (_noun_) prophet, psychic, fortune teller; one who prophesizes (att. 2008-Jun-22)
++ **Elressidin** (_proper noun_) Elressie (att. 2021-Apr-22)
++ **emraçi** (_noun_) armor, protective wear (att. 2008-Jun-22)
++ -**en**(_suffix_) masculine suffix  (att. 2008-Jun-22; cf. _nen_, _karen_)
++ **enabeʃ** (_kun verb_) to communicate (the infinitive and present forms are identical) (att. 2008-Jun-22)
+  + **enabeʃik** (_noun_) communication (att. 2008-Jun-22)
++ **enex** (_noun_) robe, a long garment which is tied off to enclose the body (att. 2004-Jul-13)
+  + **xál'enex** (_noun_) a magic-user's robe, a robe with many external pockets and straps (att. 2004-Jul-13)
+  + **koen'enex** (_noun_) a priests robe, a robe meant to be tied off with a single sash and internal pockets (att. 2004-Jul-13)
+  + **dér'enex** (_noun_) formal robe, dress robe; typically made in the family colors of the wearer, with a single-colored sash (att. 2004-Jul-13)
++ **enla** (_expression_) in-law (att. 2003-Dec-25)
++ **enmi.s** (_ton verb_) lose (an object), misplace (att. 2003-Dec-25)
++ **enros** (_noun_) mind, brain, ego, sense of self (att. 2008-Jun-22)
++ **enti.re** (_ton verb_) hope (att. 2003-Dec-25)
++ **enx** (_noun_) head (referring to anatomical head) (att. 2008-Jun-22)
++ **eji.s** (_ton verb_) chase, pursue (att. 2008-Jun-22)
++ **eraz.el** (_ton verb_) grind (att. 2008-Jun-22)
+  + **erapwen** (_noun_) meal, ground grain or starch (att. 2021-Apr-22)
++ **estag** (_noun_) shadow (att. 2008-Jun-22)
++ **etarjé** (_noun_) length (att. 2021-Apr-22)
++ **exan** (_noun_) steel, a metal composed of iron mixed with high-carbon coal (att. 2007-Nov-26) (att. 2022-Jun-05)
 
 ## Z
 
-+ **zamur** _expr_ okay, alright `#2021.04.22`
-+ **zanbo** _desc_ intense `#2003.12.25`
-+ **zekenal** _noun_ note, comment, commentary, aside `#2005.11.04` `2022.06.04` _discovered in an early attempt to make a dictionary using Adinjo_
-+ **zen.ís** _ton vb_ look `#2003.12.25`
-  + **zenzen** _expr_ seem to be `#2003.12.25`
-+ **zintar** _desc_ early `#2003.12.25`
-+ **zirta** _noun_ spider, scorpion
-+ **zudo.la** _ton vb_ expecting `#2003.12.25`
-+ **zoán** _noun_ animal `#2003.12.25`
++ **zamur** (_expression_) okay, alright (att. 2021-Apr-22)
++ **zanbo** (_descriptor_) intense (att. 2003-Dec-25)
++ **zekenal** (_noun_) note, comment, commentary, aside (att. 2005-Nov-04, rediscovered 2022-Jun-04; _discovered in an early attempt to make a dictionary using Adinjo_)
++ **zen.ís** (_ton verb_) look (att. 2003-Dec-25)
+  + **zenzen** (_expression_) seem to be (att. 2003-Dec-25)
++ **zintar** (_descriptor_) early (att. 2003-Dec-25)
++ **zirta** (_noun_) spider, scorpion
++ **zudo.la** (_ton verb_) expecting (att. 2003-Dec-25)
++ **zoán** (_noun_) animal (att. 2003-Dec-25)
 
 ## H
 
-+ **habijad** _noun_ partner `#2003.12.25`
-+ **habru.k** _ton vb_ snore `#2003.12.25`
-+ **haç** _noun_ will, desire `#2003.12.25`
-  + **haçanwas** _noun_ will contract, last will `#2022.05.31`
-+ **hai!** _intj_ come forth; this interjection expresses shock, awe, interest, or excitement `#2003.12.25`
-  + **haidai** _noun_ exclamation mark `#2003.12.25`
-+ **hait** _prep_ than `#2008.06.22`
-+ **hakason** _kun verb_ to negate, to invert, to reverse `#2003.04.24` `#2022.06.05`
-+ **hangu.re** _ton verb_ pounding, beating, pulsing, especially of the heart `2003.04.24` `#2022.06.05`
-+ **handé.o** _ton vb_ blush, grow red, flustered or embarrassed can be used to politely excuse oneself from company `#2008.06.22`
-  + **harndél** _noun_ blush `#2008.06.22`
-+ **hardja** _noun_ plasma (state of matter) `#2003.12.25` _formerly "hardza"_
-+ **haréne** _noun_ spirit of a man, a masculine spirit `#2008.06.22`
-+ **harÞ** _desc_ pink, faded red `#2003.12.25`
-+ **haru** _desc_ euphonic, pleasant to hear or listen to
-+ **harudj** _noun_ enemy `#2003.12.25`
-+ **harzu** _noun_ gas (state of matter) `#2003.12.25`
-+ **hauk.ru** _ton vb_ love as an intimate couple (make love) `#2008.06.22`
-  + **hauket** _noun_ the love of a physically intimate couple `#2008.06.22`
-+ **hayle.n** _ton vb_ greet `#2003.12.25`
-  + **hayl** _expr_ greetings (any time), hello `#2003.12.25`
-+ **hejion** _noun_ hell, the place of the dead also means 'grave' `#2008.06.22`
-+ **hekamu.r** _ton vb_ to surface, to come to the surface (usually through upward motion)
-+ **hemeil** _noun_ slave `#2008.06.22`
-+ **hemle** _ton vb_ come, move towards `#2003.12.25`
-  + **hemlé** _prep_ to, towards `#2003.12.25`
-+ **hi** _conj_ and `#2003.12.25`
-+ **hiare.son** _ton vb_ marry, to hold a ceremony legally recognizing marriage `#2003.12.25`
-  + **hiaren** _noun_ marriage, a romantic bond `#2003.12.25`
-  + **hiarejia** _noun_ a wedding day
-+ **hijoli** _noun_ boomerang `#2003.12.25`
-+ **hiju.ru** _ton vb_ turn, rotate `#2003.12.25`
-+ **hil.tes** _ton vb_ inhabiting, residing `#2003.12.25`
-  + **hiltedin** _noun_ inhabitant, resident `#2003.12.25`
-+ **hima** _prep_ and so `#2003.12.25`
-+ **hincet** _noun_ vest, a light covering worn over a shirt `#2003.12.25`
-+ **hiro** _noun_ king `#2003.12.25`
-  + **Hirocedin** _noun_ king-thinking person `#2008.06.22`
-  + **hiro'urda** _desc_ king-like (for living things, more polite or formal) `#2008.06.22`
-  + **hirsau** _desc_ kingly (descriptive of non-living things) `#2008.06.22`
-+ **Hol'din** _p noun_ Hol'tiin `#2008.06.22`
-+ **hork.el** _ton vb_ pervert, distort, twist, mutate `#2003.12.25`
-  + **horkek** _desc_ perverse `#2003.12.25` _formerly "horek"_
-  + **hork.ers** _ton vb_ to speak unintelligibly, to speak nonsense; to foretell misfortune
-+ **hort** _prep_ with `#2003.12.25`
-+ **hotan** _noun_ tiger `#2003.12.25`
-+ **hufan** _ton vb_ knock, to hit upon something lightly `#2008.06.22` _originally "huwan"_
-+ **huir** _noun_ tongue (part of body) `#2008.06.22`
-+ **humaren** _desc_ proper, right, good `#2008.06.22`
-+ **hunt.elar** _ton vb_ explode `#2003.12.25`
-  + **huntensai** _noun_ explosion `#2003.12.25`
-+ **hyan** _noun_ kind, form, type; this word is used in a similar manner to species or clade `#2003.12.25`
++ **habijad** (_noun_) partner (att. 2003-Dec-25)
++ **habru.k** (_ton verb_) snore (att. 2003-Dec-25)
++ **haç** (_noun_) will, desire (att. 2003-Dec-25)
+  + **haçanwas** (_noun_) will contract, last will (att. 2022-May-31)
++ **hai!** (_interjection_) come forth; this interjection expresses shock, awe, interest, or excitement (att. 2003-Dec-25)
+  + **haidai** (_noun_) exclamation mark (att. 2003-Dec-25)
++ **hait** (_positional_) than (att. 2008-Jun-22)
++ **hakason**(_kun verb_) to negate, to invert, to reverse (att. 2004-Apr-24) (att. 2022-Jun-05)
++ **hangu.re** (_ton verb_) pounding, beating, pulsing, especially of the heart (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **handé.o** (_ton verb_) blush, grow red, flustered or embarrassed can be used to politely excuse oneself from company (att. 2008-Jun-22)
+  + **harndél** (_noun_) blush (att. 2008-Jun-22)
++ **hardja** (_noun_) plasma (state of matter) (att. 2003-Dec-25; _formerly "hardza"_)
++ **haréne** (_noun_) spirit of a man, a masculine spirit (att. 2008-Jun-22)
++ **harÞ** (_descriptor_) pink, faded red (att. 2003-Dec-25)
++ **haru** (_descriptor_) euphonic, pleasant to hear or listen to
++ **harudj** (_noun_) enemy (att. 2003-Dec-25)
++ **harzu** (_noun_) gas (state of matter) (att. 2003-Dec-25)
++ **hauk.ru** (_ton verb_) love as an intimate couple (make love) (att. 2008-Jun-22)
+  + **hauket** (_noun_) the love of a physically intimate couple (att. 2008-Jun-22)
++ **hayle.n** (_ton verb_) greet (att. 2003-Dec-25)
+  + **hayl** (_expression_) greetings (any time), hello (att. 2003-Dec-25)
++ **hejion** (_noun_) hell, the place of the dead also means 'grave' (att. 2008-Jun-22)
++ **hekamu.r** (_ton verb_) to surface, to come to the surface (usually through upward motion)
++ **hemeil** (_noun_) slave (att. 2008-Jun-22)
++ **hemle** (_ton verb_) come, move towards (att. 2003-Dec-25)
+  + **hemlé** (_positional_) to, towards (att. 2003-Dec-25)
++ **hi** (_conjunction_) and (att. 2003-Dec-25)
++ **hiare.son** (_ton verb_) marry, to hold a ceremony legally recognizing marriage (att. 2003-Dec-25)
+  + **hiaren** (_noun_) marriage, a romantic bond (att. 2003-Dec-25)
+  + **hiarejia** (_noun_) a wedding day
++ **hijoli** (_noun_) boomerang (att. 2003-Dec-25)
++ **hiju.ru** (_ton verb_) turn, rotate (att. 2003-Dec-25)
++ **hil.tes** (_ton verb_) inhabiting, residing (att. 2003-Dec-25)
+  + **hiltedin** (_noun_) inhabitant, resident (att. 2003-Dec-25)
++ **hima** (_positional_) and so (att. 2003-Dec-25)
++ **hincet** (_noun_) vest, a light covering worn over a shirt (att. 2003-Dec-25)
++ **hiro** (_noun_) king (att. 2003-Dec-25)
+  + **Hirocedin** (_noun_) king-thinking person (att. 2008-Jun-22)
+  + **hiro'urda** (_descriptor_) king-like (for living things, more polite or formal) (att. 2008-Jun-22)
+  + **hirsau** (_descriptor_) kingly (descriptive of non-living things) (att. 2008-Jun-22)
++ **Hol'din** (_proper noun_) Hol'tiin (att. 2008-Jun-22)
++ **hork.el** (_ton verb_) pervert, distort, twist, mutate (att. 2003-Dec-25)
+  + **horkek** (_descriptor_) perverse (att. 2003-Dec-25; _formerly "horek"_)
+  + **hork.ers** (_ton verb_) to speak unintelligibly, to speak nonsense; to foretell misfortune
++ **hort** (_positional_) with (att. 2003-Dec-25)
++ **hotan** (_noun_) tiger (att. 2003-Dec-25)
++ **hufan** (_ton verb_) knock, to hit upon something lightly (att. 2008-Jun-22; _originally "huwan"_)
++ **huir** (_noun_) tongue (part of body) (att. 2008-Jun-22)
++ **humaren** (_descriptor_) proper, right, good (att. 2008-Jun-22)
++ **hunt.elar** (_ton verb_) explode (att. 2003-Dec-25)
+  + **huntensai** (_noun_) explosion (att. 2003-Dec-25)
++ **hyan** (_noun_) kind, form, type; this word is used in a similar manner to species or clade (att. 2003-Dec-25)
 
 ## C
 
-+ -**c** _kun verb suffix_ is, am, are, -ing; present tense (_kun_ verbs which end in vowels) `#2003.12.25`
-+ **cabi.nd** _ton vb_ show, reveal `#2008.06.22`
-+ **calu.s** _ton vb_ continue, resume `#2003.12.25`
-+ **campi.x** _ton vb_ test `#2003.12.25`
-  + **campan** _noun_ test, challenge, quest `#2003.12.25`
-+ **can** _desc_ seven `#2003.12.25`
-  + **canjia** _noun_ week `#2003.12.25` _formerly "gia"_
-+ **carma.n** _ton vb_ lean `#2003.12.25`
-+ **carmi.lé** _ton vb_ mature, to grow or become developed `#2003.12.25`
-  + **carmin** _noun_ mature, state of being developed `#2003.12.25`
-  + **carmiláns** _noun_ maturity, progress towards being mature `#2021.04.22`
-+ **cáve.n** _ton verb_ 1. passive to produce a constant sound, as a hum or buzz 2. active to dart about between tasks or actions `#2022.04.06`
-+ **céjo** _noun_ breast, chest
-+ **ceríl.as** _ton vb_ relax `#2003.12.25`
-  + **cerína** _noun_ relaxation `#2003.12.25`
-+ **ci** _pron_ you `#2003.12.25`
-+ **cimaru** _noun_ history, times past; the past
-  + **cimarutwa** _noun_ history book
-+ **cin** _noun_ brother `#2003.12.25`
-  + **-cin** _sfx_ brother of; used as a title, particularly when one has a renowned sibling `#2003.12.25`
-+ **cir** _prep_ near, close, soon `#2008.06.22`
-+ **ciron** _desc_ yellow `#2003.12.25` _formerly "ksiron"_
-+ **cún** _positional_ out, outside `#2003.12.25`
-+ **coci** _noun_ night `#2003.12.25`
-+ **con** _noun_ pig, hog, swine `#2003.12.25` _formerly "chon"_
-+ **coré.ru** _ton vb_ fold `#2021.04.22`
-+ **cori** _desc_ some `#2003.12.25`
-  + **coridin** _pron_ some people, folks, part of a group
-  + **corinanfailia** _descriptor_ polyamorous `#2022.06.04`
-  + **coriju** _pron_ some time (at present),
++ -**c**(_kun verb affix_) is, am, are, -ing; present tense (_kun_ verbs which end in vowels) (att. 2003-Dec-25)
++ **cabi.nd** (_ton verb_) show, reveal (att. 2008-Jun-22)
++ **calu.s** (_ton verb_) continue, resume (att. 2003-Dec-25)
++ **campi.x** (_ton verb_) test (att. 2003-Dec-25)
+  + **campan** (_noun_) test, challenge, quest (att. 2003-Dec-25)
++ **can** (_descriptor_) seven (att. 2003-Dec-25)
+  + **canjia** (_noun_) week (att. 2003-Dec-25; _formerly "gia"_)
++ **carma.n** (_ton verb_) lean (att. 2003-Dec-25)
++ **carmi.lé** (_ton verb_) mature, to grow or become developed (att. 2003-Dec-25)
+  + **carmin** (_noun_) mature, state of being developed (att. 2003-Dec-25)
+  + **carmiláns** (_noun_) maturity, progress towards being mature (att. 2021-Apr-22)
++ **cáve.n** (_ton verb_) 1. passive to produce a constant sound, as a hum or buzz 2. active to dart about between tasks or actions (att. 2022-Apr-06)
++ **céjo** (_noun_) breast, chest
++ **ceríl.as** (_ton verb_) relax (att. 2003-Dec-25)
+  + **cerína** (_noun_) relaxation (att. 2003-Dec-25)
++ **ci** (_pronoun_) you (att. 2003-Dec-25)
++ **cimaru** (_noun_) history, times past; the past
+  + **cimarutwa** (_noun_) history book
++ **cin** (_noun_) brother (att. 2003-Dec-25)
+  + **-cin** (_suffix, descriptor_) brother of; used as a title, particularly when one has a renowned sibling (att. 2003-Dec-25)
++ **cir** (_positional_) near, close, soon (att. 2008-Jun-22)
++ **ciron** (_descriptor_) yellow (att. 2003-Dec-25; _formerly "ksiron"_)
++ **cún** (_positional_) out, outside (att. 2003-Dec-25)
++ **coci** (_noun_) night (att. 2003-Dec-25)
++ **con** (_noun_) pig, hog, swine (att. 2003-Dec-25; _formerly "chon"_)
++ **coré.ru** (_ton verb_) fold (att. 2021-Apr-22)
++ **cori** (_descriptor_) some (att. 2003-Dec-25)
+  + **coridin** (_pronoun_) some people, folks, part of a group
+  + **corinanfailia** (_descriptor_) polyamorous (att. 2022-Jun-04)
+  + **coriju** (_pronoun_) some time (at present),
 
 ### Ç (CH)
 
-+ **çamp.es** _ton vb_ collide `#2003.12.25`
-  + **çampín** _noun_ collision `#2003.12.25`
-+ **çérí.sol** _ton vb_ introduce `#2003.12.25`
-  + **çerílya** _noun_ introduction `#2003.12.25`
-+ **çijin** _noun_ knowledge `#2003.12.25`
-+ **çuma.stel** _ton vb_ have `#2003.12.25`
-+ **çurito** _desc_ great, grand `#2003.12.25`
-  + **çu-**, **çur-** _n pfx_ great, grand `#2003.12.25`
-  + **çuméd** _noun_ grandma informal, indicates close relationship `#2003.12.25`
-  + **çumedra** _noun_ grandmother `#2003.12.25`
-  + **çuporen** _noun_ grandfather `#2003.12.25`
-  + **çuprén** _noun_ grandpa informal, indicates close relationship `#2003.12.25`
-+ **çuort** _noun_ a unit of liquid measure roughly equivalent to 43 US fluid ounces, or 1.28 liters; this is the standard size of small waterskins (the largest hold about 6 _çuortu_) and standard-size noc mugs
-+ **çolrex** _noun_ shit, excrement, feces; this word is used as a mild expletive `#2003.12.25`
-+ **çon** _noun_ sea `#2003.12.25` _formerly "ch'hon"_
-  + **çonraʃi** _noun_ recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally `#2022.04.13`
-  + **çonthia** _noun_ seaport `#2008.06.22`
-+ **çota** _noun_ faith `#2003.12.25`
-  + **çotak** _desc_ faithful, trustworthy `#2003.12.25`
-  + **çotakau** _noun_ fidelity, faithfulness `#2003.12.25`
++ **çamp.es** (_ton verb_) collide (att. 2003-Dec-25)
+  + **çampín** (_noun_) collision (att. 2003-Dec-25)
++ **çérí.sol** (_ton verb_) introduce (att. 2003-Dec-25)
+  + **çerílya** (_noun_) introduction (att. 2003-Dec-25)
++ **çijin** (_noun_) knowledge (att. 2003-Dec-25)
++ **çuma.stel** (_ton verb_) have (att. 2003-Dec-25)
++ **çurito** (_descriptor_) great, grand (att. 2003-Dec-25)
+  + **çu-**, **çur-** (_prefix_) great, grand (att. 2003-Dec-25)
+  + **çuméd** (_noun_) grandma informal, indicates close relationship (att. 2003-Dec-25)
+  + **çumedra** (_noun_) grandmother (att. 2003-Dec-25)
+  + **çuporen** (_noun_) grandfather (att. 2003-Dec-25)
+  + **çuprén** (_noun_) grandpa informal, indicates close relationship (att. 2003-Dec-25)
++ **çuort** (_noun_) a unit of liquid measure roughly equivalent to 43 US fluid ounces, or 1.28 liters; this is the standard size of small waterskins (the largest hold about 6 _çuortu_) and standard-size noc mugs
++ **çolrex** (_noun_) shit, excrement, feces; this word is used as a mild expletive (att. 2003-Dec-25)
++ **çon** (_noun_) sea (att. 2003-Dec-25; _formerly "ch'hon"_)
+  + **çonraʃi** (_noun_) recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally (att. 2022-Apr-13)
+  + **çonthia** (_noun_) seaport (att. 2008-Jun-22)
++ **çota** (_noun_) faith (att. 2003-Dec-25)
+  + **çotak** (_descriptor_) faithful, trustworthy (att. 2003-Dec-25)
+  + **çotakau** (_noun_) fidelity, faithfulness (att. 2003-Dec-25)
 
 ## I
 
-+ **i** _prep_ of, from `#2003.12.25`
-+ **ic** _kun vb_ to be, is, am, are (infinitive and present tenses are identical) `#2003.12.25`
-  + **içikun** _vb form_ (fut) to be later, will be `#2003.12.25`
-  + **ins** _vb form_ (past) to have been, was `#2003.12.25`
-  + **inoc** _vb form_ (ger) being `#2003.12.25`
-  + **yac** _vb form_ (neg inf/pres) to not be, is not, am not, are not `#2003.12.25`
-  + **yans** _vb form_ (neg past) to not have been, was not `#2003.12.25`
-  + **yaçikun** _vb form_ (neg fut) to not be later, will not be `#2003.12.25`
-  + **yanoc** _vb form_ (neg ger) not being `#2003.12.25`
-+ **iljau** _noun_ depth `#2008.06.22`
-  + **iljye** _desc_ deep `#2008.06.22`
-+ **ímat.a** _ton vb_ shoot `#2003.12.25` _formerly "imáton"_
-  + **ímar** _noun_ shot `#2003.12.25`
-+ **imparé** _noun_ spirit of a woman, a feminine spirit `#2008.06.22`
-+ **in-** _pfx_ for
-+ **inda** _prep_ for `#2003.12.25`
-  + **inda atemba** _expr_ forever; primarily used historically or in art, literally ‘for all time’
-+ **inkar.is** _ton vb_ abandon
-+ **ija** _noun_ screw `#2008.06.22`
-  + **ijakan** _ton vb_ screw, move in or out by turning `#2008.06.22`
-+ **ijin.rel** _ton vb_ know `#2021.04.22`
-  + **ijin** _desc_ knowing, aware, wise `#2021.04.22`
-+ **ipera** _noun_ a living soul or spirit `#2021.04.22`
-+ **ip.tan** _ton verb_ to shine, to reflect strong light `#2007.11.26` `#2022.06.05`
-+ **ira** _pron_ which `#2008.06.22`
++ **i** (_positional_) of, from (att. 2003-Dec-25)
++ **ic** (_kun verb_) to be, is, am, are (infinitive and present tenses are identical) (att. 2003-Dec-25)
+  + **içikun** _vb form_ (fut) to be later, will be (att. 2003-Dec-25)
+  + **ins** _vb form_ (past) to have been, was (att. 2003-Dec-25)
+  + **inoc** _vb form_ (ger) being (att. 2003-Dec-25)
+  + **yac** _vb form_ (neg inf/pres) to not be, is not, am not, are not (att. 2003-Dec-25)
+  + **yans** _vb form_ (neg past) to not have been, was not (att. 2003-Dec-25)
+  + **yaçikun** _vb form_ (neg fut) to not be later, will not be (att. 2003-Dec-25)
+  + **yanoc** _vb form_ (neg ger) not being (att. 2003-Dec-25)
++ **iljau** (_noun_) depth (att. 2008-Jun-22)
+  + **iljye** (_descriptor_) deep (att. 2008-Jun-22)
++ **ímat.a** (_ton verb_) shoot (att. 2003-Dec-25) _formerly "imáton"_
+  + **ímar** (_noun_) shot (att. 2003-Dec-25)
++ **imparé** (_noun_) spirit of a woman, a feminine spirit (att. 2008-Jun-22)
++ **in-** (_prefix, positional_) for
++ **inda** (_positional_) for (att. 2003-Dec-25)
+  + **inda atemba** (_expression_) forever; primarily used historically or in art, literally ‘for all time’
++ **inkar.is** (_ton verb_) abandon
++ **ija** (_noun_) screw (att. 2008-Jun-22)
+  + **ijakan** (_ton verb_) screw, move in or out by turning (att. 2008-Jun-22)
++ **ijin.rel** (_ton verb_) know (att. 2021-Apr-22)
+  + **ijin** (_descriptor_) knowing, aware, wise (att. 2021-Apr-22)
++ **ipera** (_noun_) a living soul or spirit (att. 2021-Apr-22)
++ **ip.tan** (_ton verb_) to shine, to reflect strong light (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **ira** (_pronoun_) which (att. 2008-Jun-22)
 
 ## K
 
-+ **ka** _conj_ if `#2003.12.25`
-+ **kabu-** _pfx_ very own, only; absolute singular `#2003.12.25`
-+ **kada** _f noun_ sister `#2003.12.25`
-+ **kadai** _noun_ body, form, figure; the entire figure, a collection of works `#2003.12.25`
-  + -**dai** _nn sfx_ body, form, level (from **kadai**) `#2003.12.25`
-+ **kada.st** _ton vb_ sail `#2003.12.25`
-  + **kadas** _noun_ sail `#2003.12.25`
-+ **kaza.de** _ton vb_ fuck, have sex with `#2003.12.25`
-  + **kazau** _noun_ fuck, sexual intercourse `#2003.12.25`
-+ **kairo** _noun_ queen `#2021.04.22`
-+ **kaja** _noun_ corkscrew `#2003.12.25`
-+ **kalat.u** _ton vb_ hunt `#2008.06.22`
-+ **kalú** _noun_ leather, tanned animal skin or hide `#2003.12.25`
-+ **kamar.ej** _ton vb_ war `#2008.06.22`
-  + **kaman** _noun_ war `#2008.06.22`
-  + **kamani natrein** _noun_ martial art, strategy, tactics this refers to military arts, not combat arts
-+ **kami** _positional_ among `#2003.12.25`
-+ **kamp.is** _ton vb_ tell `#2003.12.25`
-+ **kamuli** _noun_ surface, especially  of a structure or planet `#2003.12.25`
-+ **kan** _noun_ son `#2003.12.25`
-+ **kanakana** _ono_ the sound of spinning, especially of spinning metal `#2003.12.25`
-+ **kando** _noun_ nation `#2003.12.25`
-+ **kangré** _noun_ city `#2003.12.25`
-  + **ikangraen** _desc_ political, "of city-states" _formerly "politikaen"_ `#2021.04.22`
-  + **kangraena** _noun_ politics, "city-state things" `#2021.04.22`
-  + **kangraetax** _noun_ politician "one who works in politics" `#2021.04.22`
-  + **kangrau** _desc_ polite "city-like" `#2021.04.22`
-+ **kani** _noun_ baby, infant, young `#2003.12.25`
-+ **kannu.les** _ton vb_ reject `#2003.12.25`
-  + **kannura** _noun_ rejection `#2003.12.25`
-+ **kant** _noun_ older sibling `#2003.12.25`
-+ **kanzai** _desc_ aware `#2003.12.25`
-+ **karadu** _noun_ phoenix, legendary bird of fire and rebirth `#1998.06.01`
-+ **karen** _noun_ bull, ox, male bovine `#2003.12.25`
-+ **karm** _noun_ game `#2003.12.25`
-+ **karni** _noun_ west `#2003.12.25`
-+ **kaʃa kasontax** _noun_ peace maker; from ku'aʃa kasontax "peace imparter" `#2008.06.22`
-  + **kaʃontax** _noun_ peace maker; contraction of "kaʃa kasontax" `#2008.06.22`
-+ **kaʃt** _noun_ vagina `#2008.06.22`
-+ **kason** _kun vb_ to make; impart quality X to Y (infinitive; may be used as a helper, as in kein kason ‘to impart beauty’) `#2008.06.22`
-  + **kasontax** _noun_ maker, creator, artist `#2008.06.22`
-+ **katon** _noun_ cotton `#2008.06.22`
-+ **katri** _pron_ everybody (a very casual term) `#2003.12.25`
-+ **kaumé** _noun_ rose `#2008.06.22`
-+ **kein** _noun_ 1. joy 2. beauty `#2003.12.25`
-  + **keinau** _desc_ 1. joyous, joyful 2. beautiful `#2003.12.25`
-+ **kejas.ala** _ton vb_ honor, respect `#2021.04.22`
-  + **kejasem** _noun_ honor `#2008.06.22`
-+ **kejé** _kun vb_ to hate `#2003.12.25`
-+ **kel** _desc_ super, beyond `#2021.04.22`
-  + **keldin** _noun_ superhuman, superman `#2021.04.22`
-+ **kelsot.o** _ton vb_ check, verify, confirm `#2003.12.25`
-  + **kels** _noun_ check, verification, confirmation `#2003.12.25`
-+ **kempo** _kun verb, pro-vb_ do `#2003.12.25`
-+ **kénas** _noun_ canine (dog-like creature) `#2008.06.22`
-  + **kénareʃ** _noun_ canine (tooth)
-+ **kenci.s** _ton vb_ cast a spell `#2003.12.25`
-+ **kend** _prep_ beside; however, but (less formal than "kentin") `#2003.12.25`
-+ **kendai** _noun_ wife, bride `#2008.06.22`
-+ **kendan** _noun_ legend, tale, story, fantasy `#2003.12.25`
-  + **[akendan](a/akendan.md)** _noun_ high tale, great legend, grand fantasy (form of **kendan**)
-  + **kendsaun** _desc_ legendary `#2021.04.22`
-+ **kendarwa** _noun_ company, companionship `#2008.06.22`
-+ **keng** _noun_ hair (atop head), mane `#2008.06.22`
-+ **kentin** _conj_ however; except, unless `#2003.12.25`
-+ **Kenyudin** _noun_ Kenyu person (Elf) `#2008.06.22`
-+ **kérin** _prep_ before, afore, in front of `#2003.12.25`
-+ **kérlic** _noun_ pencil, stylus any erasable writing implement `#2008.06.22`
-+ **ket** _noun_ younger sibling `#2003.12.25`
-+ **kef.ol** _ton vb_ start, begin `#2003.12.25`
-  + **kefonel** _noun_ beginning `#2008.06.22`
-+ **ki** _pron_ we, us `#2003.12.25`
-+ **kieres** _noun_ carpenter `#2009.11.06`
-+ **kizuen** _desc_ usual, normal, plain `#2008.06.22`
-+ **kijuci** _desc_ common, normal, medium, of an average quality `#2003.12.25`
-+ **kílik** _noun_ colleague, associate `#2008.06.22`
-+ **kimari** _noun_ limit, border
-+ **kimbanc.els** _ton verb_ inherit, entrust, pass along `#2022.05.31`
-+ **kími** _desc_ grand gross; twenty thousand, seven hundred thirty six (${20,736_{10}}$, or ${10,000_{12}}$) `#2003.12.25`
-  + -**mi** _sfx_ twenty thousands, ten thousands (${20,736s_{10}}$, or ${10,000s_{12}}$) `#2003.12.25`
-+ **kin** _noun_ system, a set of functioning parts `#2003.12.25`
-+ **kinar** _expr_ sorry, a very informal apology `#2003.12.25`
-+ **kinma** _noun_ death (as an event) `#2003.12.25`
-+ **kintas** _desc_ sorry, poorly presented, underdressed `#2021.04.22`
-  + **kinyan.is** _ton vb_ to stutter in speech, to speak poorly or inelegantly; from _kintas_ + _yan.is_
-+ -**kino** _verb suffix_ to want (verb) to happen, to want to do (verb) `2003.04.24` `#2022.06.05`
-+ **kir** _noun_ fist `#2003.12.25`
-+ **kiren.gyu** _ton vb_ desiring, wishing, wanting to have `#2003.12.25`
-  + **kirénos** _noun_ desire, wish, want `#2003.12.25`
-+ **kirmaradi** _noun_ shoe, boot `#2004.07.13`
-  + **kirmaradi ektal** _noun_ work shoe, work boot `#2004.07.13`
-+ **kirmel.as** _ton vb_ fly `#2003.12.25`
-  + **kirmaels** _noun_ flight `#2003.12.25`
-  + **kirmagella** _desc_ flying `#2003.12.25`
-+ **kita** _noun_ dog `#2008.06.22`
-  + **kikíta** _noun_ doggy, puppy
-  + **kita'urdin** _noun_ dog-like person `#2021.04.22`
-  + **kitaoʃi** _noun_ snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard `#2022.05.31`
-  + **kitemain** _noun_ wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs `#2022.05.31`
-+ **kladen** _noun_ cave, cavern, grotto `#2003` `#2022.06.04` _found in an old barely used journal in the phrase "Dunerin Kladen"_
-+ **klik** _noun_ hour `#2003.12.25`
-+ **klor** _prep_ up `#2003.12.25`
-  + **klor'das** _noun_ upright bar, pole `#2008.06.22`
-+ **krestu** _noun_ morning `#2003.12.25`
-+ **kruçi.k** _ton vb_ eat `#2003.12.25`
-+ **krulex** _desc_ deluxe `#2003.12.25`
-+ **ku-**, **k-** _nn pfx_ possessive/genitive prefix `#2003.12.25`
-+ **kuha** _noun_ sun; generic term for any star with at least one planet `#2008.06.22`
-  + **kuhajia** _noun_ Sunday of an odd week
-  + **kuha'iluan** _noun_ sunmoon, March, the month of the vernal equinox, the fourth month of the Imperial Adin calendar for Earth
-+ **kuci** _pronoun_ your, yours `#2003.12.25`
-+ **kulan.d** _ton vb_ grow `#2008.06.22`
-  + **kulanzel** _noun_ growth `#2008.06.22`
-+ **kuki** _pronoun_ our, ours `#2003.12.25`
-+ **kum** _noun_ tear, tears, teardrop (as when crying) `#2008.06.22`
-+ -**kun** _kun verb suffix_ will, shall; future tense (_kun_ verbs which end in vowels) `#2003.12.25`
-+ **kuji** _pronoun_ his `#2003.12.25`
-+ **kura'ind** _desc_ simple, basic `#2003.12.25`
-+ **kurba.tul** _ton vb_ conform `#2003.12.25`
-  + **kurbaci** _noun_ conformity `#2003.12.25`
-+ **kureʃ** _ton vb_ wash `#2008.06.22`
-+ **kuri** _noun_ all `#2003.12.25`
-+ **kuroln** _noun_ platform `#2003.12.25`
-+ **kuʃi** _pronoun_ their, theirs `#2003.12.25`
-+ **kust** _nn sfx_ smith, one who forges or shapes; can be applied after any material or tool `#2003.12.25`
-+ **kuyi** _pronoun_ my, mine `#2003.12.25`
-+ **kufi** _pronoun_ her, hers `#2003.12.25`
-+ **kybrau** _desc_ cybernetic, electronic `#2016.02.29`
-  + **kybratox** _noun_ electronic endpoint, terminal, mobile phone `#2016.02.29`
-  + **kybraxoltwa** _noun_ electronic journal, blog `#2016.01.31`
-+ **kyorel** _conj_ then, next, after `#2003.12.25`
-+ **kyuri.nas** _ton vb_ blast, use pressure rather than brute force `#2003.12.25`
-  + **kyurnila** _noun_ blast, a wave of pressure `#2022.04.21`
-+ **kolt.es** _ton vb_ freeze, go from liquid to solid `#2003.12.25` _formerly "koton"_
-+ **kobal** _noun_ memory `#2008.06.22`
-+ **koen** _noun_ priest, teacher, instructor `#2021.04.22`
-+ **kolbu** _noun_ evening, dusk `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin kolbu" and "sayu kolbu"_
-+ **kolcon** _noun_ middle finger (esp. on the right hand) `#2003.12.25`
-+ **kolen.ger** _ton vb_ betray `#2003.12.25`
-  + **kolengaus** _noun_ betrayal `#2003.12.25`
-  + **kolentax** _noun_ betrayer, traitor `#2003.12.25`
-  + **kolentau** _desc_ traitorous `#2003.12.25`
-+ **kolmen** _expr_ greetings, welcome (informal) `#2003.12.25`
-+ **kom** _desc_ five `#2003.12.25`
-+ **kon** _noun_ metal `#2003.12.25`
-  + **koniluan** _p noun_ July, Metal's Month
-  + **konjia** _p noun_ Thursday (of even-numbered weeks), metal-day
-  + **konurd** _desc_ metallic `#2022.04.22`
-+ **konge.ma** _ton vb_ praise `#2008.06.22`
-  + **kongera** _noun_ praise `#2008.06.22`
-+ **konten** _noun_ field, flatland, commons `#2022.06.04`
-  + **kontagro** _noun_ marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare `#2022`
-  + **kontabin** _noun_ field trip `#2003.12.25`
-+ **koran.t** _ton vb_ ask `#2003.12.25`
-+ **korbalc** _noun_ chicken `#2003.12.25` _formerly spelled as "korbaltz"_
-+ **koremn** _noun_ heaven `#2003.12.25`
-  + **koremnu** _noun_ heavens `#2003.12.25`
-+ **korja** _noun_ angel, heavenly messenger `#2008.06.22`
-  + **korjau** _desc_ angelic, reflecting heaven's glory `#2008.06.22`
-+ **kormin** _expr_ in order to, so that `#2003.12.25`
-+ **koru** _prep_ since `#2003.12.25`
-+ **kosij** _desc_ eight `#2003.12.25`
++ **ka** (_conjunction_) if (att. 2003-Dec-25)
++ **kabu-** (_prefix, positional_) very own, only; absolute singular (att. 2003-Dec-25)
++ **kada** (_noun, feminine_) sister (att. 2003-Dec-25)
++ **kadai** (_noun_) body, form, figure; the entire figure, a collection of works (att. 2003-Dec-25)
+  + -**dai**(_suffix_) body, form, level (att. 2003-Dec-25; cf. _kadai_)
++ **kada.st** (_ton verb_) sail (att. 2003-Dec-25)
+  + **kadas** (_noun_) sail (att. 2003-Dec-25)
++ **kaza.de** (_ton verb_) fuck, have sex with (att. 2003-Dec-25)
+  + **kazau** (_noun_) fuck, sexual intercourse (att. 2003-Dec-25)
++ **kairo** (_noun_) queen (att. 2021-Apr-22)
++ **kaja** (_noun_) corkscrew (att. 2003-Dec-25)
++ **kalat.u** (_ton verb_) hunt (att. 2008-Jun-22)
++ **kalú** (_noun_) leather, tanned animal skin or hide (att. 2003-Dec-25)
++ **kamar.ej** (_ton verb_) war (att. 2008-Jun-22)
+  + **kaman** (_noun_) war (att. 2008-Jun-22)
+  + **kamani natrein** (_noun_) martial art, strategy, tactics this refers to military arts, not combat arts
++ **kami** (_positional_) among (att. 2003-Dec-25)
++ **kamp.is** (_ton verb_) tell (att. 2003-Dec-25)
++ **kamuli** (_noun_) surface, especially  of a structure or planet (att. 2003-Dec-25)
++ **kan** (_noun_) son (att. 2003-Dec-25)
++ **kanakana** (_idiophone, onomatopoeia_) the sound of spinning, especially of spinning metal (att. 2003-Dec-25)
++ **kando** (_noun_) nation (att. 2003-Dec-25)
++ **kangré** (_noun_) city (att. 2003-Dec-25)
+  + **ikangraen** (_descriptor_) political, "of city-states" (att. 2021-Apr-22, _formerly "politikaen"_ )
+  + **kangraena** (_noun_) politics, "city-state things" (att. 2021-Apr-22)
+  + **kangraetax** (_noun_) politician "one who works in politics" (att. 2021-Apr-22)
+  + **kangrau** (_descriptor_) polite "city-like" (att. 2021-Apr-22)
++ **kani** (_noun_) baby, infant, young (att. 2003-Dec-25)
++ **kannu.les** (_ton verb_) reject (att. 2003-Dec-25)
+  + **kannura** (_noun_) rejection (att. 2003-Dec-25)
++ **kant** (_noun_) older sibling (att. 2003-Dec-25)
++ **kanzai** (_descriptor_) aware (att. 2003-Dec-25)
++ **karadu** (_noun_) phoenix, legendary bird of fire and rebirth (att. 1998-Jun-01)
++ **karen** (_noun_) bull, ox, male bovine (att. 2003-Dec-25)
++ **karm** (_noun_) game (att. 2003-Dec-25)
++ **karni** (_noun_) west (att. 2003-Dec-25)
++ **kaʃa kasontax** (_noun_) peace maker; from _ku'aʃa kasontax_ "peace imparter" (att. 2008-Jun-22)
+  + **kaʃontax** (_noun_) peace maker; contraction of "_kaʃa kasontax_" (att. 2008-Jun-22)
++ **kaʃt** (_noun_) vagina (att. 2008-Jun-22)
++ **kason** (_kun verb_) to make; impart quality X to Y (infinitive; may be used as a helper, as in kein kason ‘to impart beauty’) (att. 2008-Jun-22)
+  + **kasontax** (_noun_) maker, creator, artist (att. 2008-Jun-22)
++ **katon** (_noun_) cotton (att. 2008-Jun-22)
++ **katri** (_pronoun_) everybody (a very casual term) (att. 2003-Dec-25)
++ **kaumé** (_noun_) rose (att. 2008-Jun-22)
++ **kein** (_noun_) 1. joy 2. beauty (att. 2003-Dec-25)
+  + **keinau** (_descriptor_) 1. joyous, joyful 2. beautiful (att. 2003-Dec-25)
++ **kejas.ala** (_ton verb_) honor, respect (att. 2021-Apr-22)
+  + **kejasem** (_noun_) honor (att. 2008-Jun-22)
++ **kejé** (_kun verb_) to hate (att. 2003-Dec-25)
++ **kel** (_descriptor_) super, beyond (att. 2021-Apr-22)
+  + **keldin** (_noun_) superhuman, superman (att. 2021-Apr-22)
++ **kelsot.o** (_ton verb_) check, verify, confirm (att. 2003-Dec-25)
+  + **kels** (_noun_) check, verification, confirmation (att. 2003-Dec-25)
++ **kempo** (_pro-verb, kun verb_) do (att. 2003-Dec-25)
++ **kénas** (_noun_) canine (dog-like creature) (att. 2008-Jun-22)
+  + **kénareʃ** (_noun_) canine (tooth)
++ **kenci.s** (_ton verb_) cast a spell (att. 2003-Dec-25)
++ **kend** (_positional_) beside; however, but (less formal than "kentin") (att. 2003-Dec-25)
++ **kendai** (_noun_) wife, bride (att. 2008-Jun-22)
++ **kendan** (_noun_) legend, tale, story, fantasy (att. 2003-Dec-25)
+  + **[akendan](a/akendan.md)** (_noun_) high tale, great legend, grand fantasy (form of **kendan**)
+  + **kendsaun** (_descriptor_) legendary (att. 2021-Apr-22)
++ **kendarwa** (_noun_) company, companionship (att. 2008-Jun-22)
++ **keng** (_noun_) hair (atop head), mane (att. 2008-Jun-22)
++ **kentin** (_conjunction_) however; except, unless (att. 2003-Dec-25)
++ **Kenyudin** (_noun_) Kenyu person (Elf) (att. 2008-Jun-22)
++ **kérin** (_positional_) before, afore, in front of (att. 2003-Dec-25)
++ **kérlic** (_noun_) pencil, stylus any erasable writing implement (att. 2008-Jun-22)
++ **ket** (_noun_) younger sibling (att. 2003-Dec-25)
++ **kef.ol** (_ton verb_) start, begin (att. 2003-Dec-25)
+  + **kefonel** (_noun_) beginning (att. 2008-Jun-22)
++ **ki** (_pronoun_) we, us (att. 2003-Dec-25)
++ **kieres** (_noun_) carpenter (att. 2009-Nov-06)
++ **kizuen** (_descriptor_) usual, normal, plain (att. 2008-Jun-22)
++ **kijuci** (_descriptor_) common, normal, medium, of an average quality (att. 2003-Dec-25)
++ **kílik** (_noun_) colleague, associate (att. 2008-Jun-22)
++ **kimari** (_noun_) limit, border
++ **kimbanc.els** (_ton verb_) inherit, entrust, pass along (att. 2022-May-31)
++ **kími** (_descriptor_) grand gross; twenty thousand, seven hundred thirty six (${20,736_{10}}$, or ${10,000_{12}}$) (att. 2003-Dec-25)
+  + -**mi** (_suffix, descriptor_) twenty thousands, ten thousands (${20,736s_{10}}$, or ${10,000s_{12}}$) (att. 2003-Dec-25)
++ **kin** (_noun_) system, a set of functioning parts (att. 2003-Dec-25)
++ **kinar** (_expression_) sorry, a very informal apology (att. 2003-Dec-25)
++ **kinma** (_noun_) death (as an event) (att. 2003-Dec-25)
++ **kintas** (_descriptor_) sorry, poorly presented, underdressed (att. 2021-Apr-22)
+  + **kinyan.is** (_ton verb_) to stutter in speech, to speak poorly or inelegantly; from _kintas_ + _yan.is_
++ -**kino** (_verb affix_) to want (verb) to happen, to want to do (verb) (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **kir** (_noun_) fist (att. 2003-Dec-25)
++ **kiren.gyu** (_ton verb_) desiring, wishing, wanting to have (att. 2003-Dec-25)
+  + **kirénos** (_noun_) desire, wish, want (att. 2003-Dec-25)
++ **kirmaradi** (_noun_) shoe, boot (att. 2004-Jul-13)
+  + **kirmaradi ektal** (_noun_) work shoe, work boot (att. 2004-Jul-13)
++ **kirmel.as** (_ton verb_) fly (att. 2003-Dec-25)
+  + **kirmaels** (_noun_) flight (att. 2003-Dec-25)
+  + **kirmagella** (_descriptor_) flying (att. 2003-Dec-25)
++ **kita** (_noun_) dog (att. 2008-Jun-22)
+  + **kikíta** (_noun_) doggy, puppy
+  + **kita'urdin** (_noun_) dog-like person (att. 2021-Apr-22)
+  + **kitaoʃi** (_noun_) snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard (att. 2022-May-31)
+  + **kitemain** (_noun_) wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs (att. 2022-May-31)
++ **kladen** (_noun_) cave, cavern, grotto (att. 2003, rediscovered 2022-Jun-04; _found in an old barely used journal in the phrase "Dunerin Kladen"_)
++ **klik** (_noun_) hour (att. 2003-Dec-25)
++ **klor** (_positional_) up (att. 2003-Dec-25)
+  + **klor'das** (_noun_) upright bar, pole (att. 2008-Jun-22)
++ **krestu** (_noun_) morning (att. 2003-Dec-25)
++ **kruçi.k** (_ton verb_) eat (att. 2003-Dec-25)
++ **krulex** (_descriptor_) deluxe (att. 2003-Dec-25)
++ **ku-**, **k-** (_prefix, noun_) possessive/genitive prefix (att. 2003-Dec-25)
++ **kuha** (_noun_) sun; generic term for any star with at least one planet (att. 2008-Jun-22)
+  + **kuhajia** (_noun_) Sunday of an odd week
+  + **kuha'iluan** (_noun_) sunmoon, March, the month of the vernal equinox, the fourth month of the Imperial Adin calendar for Earth
++ **kuci** (_pronoun_) your, yours (att. 2003-Dec-25)
++ **kulan.d** (_ton verb_) grow (att. 2008-Jun-22)
+  + **kulanzel** (_noun_) growth (att. 2008-Jun-22)
++ **kuki** (_pronoun_) our, ours (att. 2003-Dec-25)
++ **kum** (_noun_) tear, tears, teardrop (as when crying) (att. 2008-Jun-22)
++ -**kun**(_kun verb affix_) will, shall; future tense (_kun_ verbs which end in vowels) (att. 2003-Dec-25)
++ **kuji** (_pronoun_) his (att. 2003-Dec-25)
++ **kura'ind** (_descriptor_) simple, basic (att. 2003-Dec-25)
++ **kurba.tul** (_ton verb_) conform (att. 2003-Dec-25)
+  + **kurbaci** (_noun_) conformity (att. 2003-Dec-25)
++ **kureʃ** (_ton verb_) wash (att. 2008-Jun-22)
++ **kuri** (_noun_) all (att. 2003-Dec-25)
++ **kuroln** (_noun_) platform (att. 2003-Dec-25)
++ **kuʃi** (_pronoun_) their, theirs (att. 2003-Dec-25)
++ **kust**(_suffix_) smith, one who forges or shapes; can be applied after any material or tool (att. 2003-Dec-25)
++ **kuyi** (_pronoun_) my, mine (att. 2003-Dec-25)
++ **kufi** (_pronoun_) her, hers (att. 2003-Dec-25)
++ **kybrau** (_descriptor_) cybernetic, electronic (att. 2016-Feb-29)
+  + **kybratox** (_noun_) electronic endpoint, terminal, mobile phone (att. 2016-Feb-29)
+  + **kybraxoltwa** (_noun_) electronic journal, blog (att. 2016-Jan-31)
++ **kyorel** (_conjunction_) then, next, after (att. 2003-Dec-25)
++ **kyuri.nas** (_ton verb_) blast, use pressure rather than brute force (att. 2003-Dec-25)
+  + **kyurnila** (_noun_) blast, a wave of pressure (att. 2022-Apr-21)
++ **kolt.es** (_ton verb_) freeze, go from liquid to solid (att. 2003-Dec-25) _formerly "koton"_
++ **kobal** (_noun_) memory (att. 2008-Jun-22)
++ **koen** (_noun_) priest, teacher, instructor (att. 2021-Apr-22)
++ **kolbu** (_noun_) evening, dusk (att. 2003-Dec-25) (att. 2022-Jun-16; _att. in all found dictionaries, but only ever in "sayomin kolbu" and "sayu kolbu"_)
++ **kolcon** (_noun_) middle finger (esp. on the right hand) (att. 2003-Dec-25)
++ **kolen.ger** (_ton verb_) betray (att. 2003-Dec-25)
+  + **kolengaus** (_noun_) betrayal (att. 2003-Dec-25)
+  + **kolentax** (_noun_) betrayer, traitor (att. 2003-Dec-25)
+  + **kolentau** (_descriptor_) traitorous (att. 2003-Dec-25)
++ **kolmen** (_expression_) greetings, welcome (informal) (att. 2003-Dec-25)
++ **kom** (_descriptor_) five (att. 2003-Dec-25)
++ **kon** (_noun_) metal (att. 2003-Dec-25)
+  + **koniluan** (_proper noun_) July, Metal's Month
+  + **konjia** (_proper noun_) Thursday (of even-numbered weeks), metal-day
+  + **konurd** (_descriptor_) metallic (att. 2022-Apr-22)
++ **konge.ma** (_ton verb_) praise (att. 2008-Jun-22)
+  + **kongera** (_noun_) praise (att. 2008-Jun-22)
++ **konten** (_noun_) field, flatland, commons (att. 2022-Jun-04)
+  + **kontagro** (_noun_) marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare (att. 2022)
+  + **kontabin** (_noun_) field trip (att. 2003-Dec-25)
++ **koran.t** (_ton verb_) ask (att. 2003-Dec-25)
++ **korbalc** (_noun_) chicken (att. 2003-Dec-25; _formerly spelled as "korbaltz"_)
++ **koremn** (_noun_) heaven (att. 2003-Dec-25)
+  + **koremnu** (_noun_) heavens (att. 2003-Dec-25)
++ **korja** (_noun_) angel, heavenly messenger (att. 2008-Jun-22)
+  + **korjau** (_descriptor_) angelic, reflecting heaven's glory (att. 2008-Jun-22)
++ **kormin** (_expression_) in order to, so that (att. 2003-Dec-25)
++ **koru** (_positional_) since (att. 2003-Dec-25)
++ **kosij** (_descriptor_) eight (att. 2003-Dec-25)
 
 ## Q
 
-+ **qali** _noun_ a festival, sacred time, or holiday `#2021`
-+ **qani.go** _ton vb_ cause `#2003.12.25` _formerly 'kanigo'_
-+ **qarin.s** _ton vb_ fill `#2003.12.25`
-  + **qarilé** _noun_ fill `#2003.12.25`
-  + **qarit** _desc_ full `#2003.12.25`
-+ **qasi.ral** _ton vb_ search, consider, reflect, contemplate (to seek something within) `#2008.06.22`
-+ **qe** _pron_ what `#2003.12.25`
-  + **qe’c dama**? _expr_ What's up? (lit. "What's new?") `#2003.12.25`
-+ **qi** _pron_ another, an unknown person `#2003.12.25`
-+ **qimal.der** _ton vb_ pet, pat, rub, stroke `#2021.04.22`
-+ **qin** _desc_ eleven `#2003.12.25`
-+ **qinc.el** _ton vb_ float on water `#2003.12.25`
-+ **qonjo** _noun_ language `#2003.12.25`
-  + **qonqon.ij** _ton vb_ chattering, babbling, rambling
-  + **qonlixa.st** _ton vb_ create language, make language, conlang (act)
-  + -**jo** _sfx_ language `#2003.12.25`
-+ **qon.ti** _ton vb_ write `#2003.12.25`
-  + **qonij** _noun_ writing `#2003.12.25`
-+ **qori** _desc_ one hundred forty four (${144_{10}}$, or ${100_{12}}$) `#2003.12.25`
-  + -**ri** _sfx_ grosses (${144s_{10}}$, or ${100s_{12}}$) `#2003.12.25`
++ **qali** (_noun_) a festival, sacred time, or holiday (att. 2021)
++ **qani.go** (_ton verb_) cause (att. 2003-Dec-25) _formerly 'kanigo'_
++ **qarin.s** (_ton verb_) fill (att. 2003-Dec-25)
+  + **qarilé** (_noun_) fill (att. 2003-Dec-25)
+  + **qarit** (_descriptor_) full (att. 2003-Dec-25)
++ **qasi.ral** (_ton verb_) search, consider, reflect, contemplate (to seek something within) (att. 2008-Jun-22)
++ **qe** (_pronoun_) what (att. 2003-Dec-25)
+  + **qe’c dama**? (_expression_) What's up? (lit. "What's new?") (att. 2003-Dec-25)
++ **qi** (_pronoun_) another, an unknown person (att. 2003-Dec-25)
++ **qimal.der** (_ton verb_) pet, pat, rub, stroke (att. 2021-Apr-22)
++ **qin** (_descriptor_) eleven (att. 2003-Dec-25)
++ **qinc.el** (_ton verb_) float on water (att. 2003-Dec-25)
++ **qonjo** (_noun_) language (att. 2003-Dec-25)
+  + **qonqon.ij** (_ton verb_) chattering, babbling, rambling
+  + **qonlixa.st** (_ton verb_) create language, make language, conlang (act)
+  + -**jo** (_suffix, descriptor_) language (att. 2003-Dec-25)
++ **qon.ti** (_ton verb_) write (att. 2003-Dec-25)
+  + **qonij** (_noun_) writing (att. 2003-Dec-25)
++ **qori** (_descriptor_) one hundred forty four (${144_{10}}$, or ${100_{12}}$) (att. 2003-Dec-25)
+  + -**ri** (_suffix, descriptor_) grosses (${144s_{10}}$, or ${100s_{12}}$) (att. 2003-Dec-25)
 
 ## L
 
-+ **la** _conj_ yet, however; _desc_ yet, by now, until now
-+ **lai** _d pron_ dual gender pronoun `#2021.04.22`
-+ **laire** _noun_ bank of a river `#2008.06.22`
-+ **laive.ns** _ton vb_ pale, fade
-+ **lakulu** _ton vb_ rule, guideline, law
-+ **lama** _noun_ chin `#2008.06.22`
-+ **lama.j** _ton vb_ scare, frighten, startle `#2008.06.22` _formerly "lamu.ji"_
-  + **lama he kinma** _expr_ scare half to death `#2003.12.25` _formerly "lama to kinma"_
-+ **lambi.ra** _ton vb_ complete `#2003.12.25`
-  + **lambin** _noun_ completion, conclusion `#2003.12.25`
-+ **lamo** _noun_ only, just, simply `#2003.12.25`
-+ **lan**- _nn pfx_ self, indicator of the reflexive pronoun `#2003.12.25`
-+ **lanai** _d desc_ of both genders, male and female, hermaphrodite `#2021.04.22`
-+ **landjyu** _d noun_ hermaphrodite `#2021.04.22`
-+ **lanja** _noun_ island, especially a volcanic island `#2022.04.13`
-+ **lapi.n** _ton vb_ consider `#2003.12.25`
-  + **lapiné** _desc_ considerate `#2003.12.25`
-  + **lapuindo** _noun_ consideration `#2003.12.25`
-+ **larijmo** _noun_ kingdom, country, nation `#2003.12.25`
-+ **larn** _desc_ two `#2003.12.25`
-  + **larngu** _noun_ double, duplicate
-  + **larngudin** _noun_ doppelganger
-  + **larndelma** _pronoun_ both actions `#2022.06.04`
-  + **larndin** _pronoun_ both people `#2022.06.04`
-  + **larnqonjinu** _descriptor_ bilingual, familiar with two languages `#2022.06.04`
-  + **larnjyu** _descriptor_ of two categories, both `#2022.06.04`
-+ **laume.r** _ton vb_ call, summon `#2008.06.22`
-  + **laumétax** _noun_ page, one who delivers summons `#2008.06.22`
-+ **lav** _noun_ soul, spirit `#1998.06.01`
-+ **laven** _desc_ pale `#2003.12.25`
-+ **leka.ki** _ton vb_ fight, battle, engage in combat `2003.12.25` _at one point, the root was "lekak-" rather than the current "leka-"_
-  + **leka'e** _noun_ fight, battle, combat `#2003.12.25` _formerly "lekake"_
-  + **leka'e'i natrein** _noun_ martial art, combat style
-  + **lekatax** _noun_ soldier
-+ **lekto** _noun_ liquid (state of matter) `#2003.12.25` _formerly "lektho"_
-+ **lesin** _noun_ page of a book `#2008.06.22`
-+ **lex.orma** _ton vb_ defeat (final), indicates a final, deadly or crippling defeat `#2003.12.25` _formerly "lesin"_
-+ **libra.un** _ton vb_ free `#2008.06.22`
-+ **lici** _noun_ stick `#2003.12.25`
-  + **liju** _noun_ title, a term one is called by `#2008.06.22`
-+ **lixa.st** _ton vb_ build, construct, create, make `#2003.12.25`
-  + **lixajo** _noun_ artificial language, created language, conlang (noun), auxlang (noun)
-+ **limien** _noun_ example `#2008.06.22`
-+ **limpa** _noun_ pit, hole, well (for water) `#2003.12.25`
-+ **lin** _desc_ like, alike, as, similar to `#2003.12.25`
-  + **linhiro** _desc_ king-like (for living things; more casual or informal) `#2021.04.22`
-+ **link** _noun_ shirt `#2003.12.25`
-+ **lij.e** _ton vb_ title, give one a title; to label, to call by a label (especially in th active) `#2008.06.22`
-+ **liruja** _noun_ message; in any form `#2003.12.25`
-  + **lirjatax** _noun_ messenger one who delivers messages `#2021.04.22`
-+ **ligore.m** _ton vb_ to broadcast
-+ **liwin** _desc_ alone `#2021.04.22`
-+ **liyer** _desc_ gentle, kind `#2009.11.06`
-+ **luan** _noun_ moon `#2008.06.22`
-  + **luanjia** _noun_ moonday, Monday of odd weeks
-  + **luaniluan** _noun_ moon's moon, moon's month, September, the month of the autumnal equinox, the 10th month of the Imperial Adin calendar for Earth
-  + **luando** _noun_ month `#2008.06.22`
-+ **lukar.el** _ton vb_ offer `#2003.12.25`
-  + **lukard** _noun_ offer, proposition `#2003.12.25`
-+ **lum** _desc_ six `#2003.12.25` _formerly "lumen"_
-+ **lurok.an** _ton vb_ tense, tighten `#2021.04.22`
-  + **lurokel** _noun_ tension, tightness, tautness `#2021.04.22`
-+ **lux** _noun_ sage, scholar, bard, minstrel `#2008.06.22`
-+ **luxe.ʃ** _ton vb_ select, choose `#2003.12.25`
-+ **luxan** _desc_ four `#2003.12.25`
-+ **loika** _noun_ devil, demon, a malicious or mischievous spirit `#2008.06.22`
-+ **lok.ec** _ton vb_ care, have compassion `#2003.12.25`
-+ **lokþa.rel** _ton vb_ create, make `#2003.12.25`
-  + **lokþamer** _noun_ creation `#2003.12.25`
-  + **lokþatax** _noun_ creator `#2003.12.25`
-+ **lolos.en** _ton vb_ avenge `#2003.12.25`
-  + **lolo** _noun_ vengeance `#2003.12.25`
-+ **lomaruhen** _noun_ gene `#2008.06.22`
-+ **lonakudj** _noun_ pass word, pass code (unknown origin, modern slang) `#2003.12.25`
-+ **lorek** _noun_ light `#2003.12.25`
-+ **lorn** _noun_ 1. plain, flatland `#2003.12.25` 2. surface, table `#2022.06.05`
-+ **lotre.gur** _ton vb_ enter an area or place
-  + **lotrek** _noun_ entry, a path or means of entering
-+ **lofar** _desc_ slow, deliberate, measured, cautious
-+ **lofke** _kun vb_ counter, defeat (halting); this term indicates that the defeat was a slowing or halting `#2003.12.25`
++ **la** (_conjunction_) yet, however; (_descriptor_) yet, by now, until now
++ **lai** (_pronoun, dual gender_) dual gender pronoun (att. 2021-Apr-22)
++ **laire** (_noun_) bank of a river (att. 2008-Jun-22)
++ **laive.ns** (_ton verb_) pale, fade
++ **lakulu** (_ton verb_) rule, guideline, law
++ **lama** (_noun_) chin (att. 2008-Jun-22)
++ **lama.j** (_ton verb_) scare, frighten, startle (att. 2008-Jun-22) _formerly "lamu.ji"_
+  + **lama he kinma** (_expression_) scare half to death (att. 2003-Dec-25) _formerly "lama to kinma"_
++ **lambi.ra** (_ton verb_) complete (att. 2003-Dec-25)
+  + **lambin** (_noun_) completion, conclusion (att. 2003-Dec-25)
++ **lamo** (_noun_) only, just, simply (att. 2003-Dec-25)
++ **lan**- (_prefix, noun_) self, indicator of the reflexive pronoun (att. 2003-Dec-25)
++ **lanai** (_descriptor, dual gender_) of both genders, male and female, hermaphrodite (att. 2021-Apr-22)
++ **landjyu** (_noun, dual gender_) hermaphrodite (att. 2021-Apr-22)
++ **lanja** (_noun_) island, especially a volcanic island (att. 2022-Apr-13)
++ **lapi.n** (_ton verb_) consider (att. 2003-Dec-25)
+  + **lapiné** (_descriptor_) considerate (att. 2003-Dec-25)
+  + **lapuindo** (_noun_) consideration (att. 2003-Dec-25)
++ **larijmo** (_noun_) kingdom, country, nation (att. 2003-Dec-25)
++ **larn** (_descriptor_) two (att. 2003-Dec-25)
+  + **larngu** (_noun_) double, duplicate
+  + **larngudin** (_noun_) doppelganger
+  + **larndelma** (_pronoun_) both actions (att. 2022-Jun-04)
+  + **larndin** (_pronoun_) both people (att. 2022-Jun-04)
+  + **larnqonjinu** (_descriptor_) bilingual, familiar with two languages (att. 2022-Jun-04)
+  + **larnjyu** (_descriptor_) of two categories, both (att. 2022-Jun-04)
++ **laume.r** (_ton verb_) call, summon (att. 2008-Jun-22)
+  + **laumétax** (_noun_) page, one who delivers summons (att. 2008-Jun-22)
++ **lav** (_noun_) soul, spirit (att. 1998-Jun-01)
++ **laven** (_descriptor_) pale (att. 2003-Dec-25)
++ **leka.ki** (_ton verb_) fight, battle, engage in combat (att. 2003-Dec-25; _at one point, the root was "lekak-" rather than the current "leka-"_)
+  + **leka'e** (_noun_) fight, battle, combat (att. 2003-Dec-25; _formerly "lekake"_)
+  + **leka'e'i natrein** (_noun_) martial art, combat style
+  + **lekatax** (_noun_) soldier
++ **lekto** (_noun_) liquid (state of matter) (att. 2003-Dec-25; _formerly "lektho"_)
++ **lesin** (_noun_) page of a book (att. 2008-Jun-22)
++ **lex.orma** (_ton verb_) defeat (final), indicates a final, deadly or crippling defeat (att. 2003-Dec-25; _formerly "lesin"_)
++ **libra.un** (_ton verb_) free (att. 2008-Jun-22)
++ **lici** (_noun_) stick (att. 2003-Dec-25)
+  + **liju** (_noun_) title, a term one is called by (att. 2008-Jun-22)
++ **lixa.st** (_ton verb_) build, construct, create, make (att. 2003-Dec-25)
+  + **lixajo** (_noun_) artificial language, created language, conlang (noun), auxlang (noun)
++ **limien** (_noun_) example (att. 2008-Jun-22)
++ **limpa** (_noun_) pit, hole, well (for water) (att. 2003-Dec-25)
++ **lin** (_descriptor_) like, alike, as, similar to (att. 2003-Dec-25)
+  + **linhiro** (_descriptor_) king-like (for living things; more casual or informal) (att. 2021-Apr-22)
++ **link** (_noun_) shirt (att. 2003-Dec-25)
++ **lij.e** (_ton verb_) title, give one a title; to label, to call by a label (especially in th active) (att. 2008-Jun-22)
++ **liruja** (_noun_) message; in any form (att. 2003-Dec-25)
+  + **lirjatax** (_noun_) messenger one who delivers messages (att. 2021-Apr-22)
++ **ligore.m** (_ton verb_) to broadcast
++ **liwin** (_descriptor_) alone (att. 2021-Apr-22)
++ **liyer** (_descriptor_) gentle, kind (att. 2009-Nov-06)
++ **luan** (_noun_) moon (att. 2008-Jun-22)
+  + **luanjia** (_noun_) moonday, Monday of odd weeks
+  + **luaniluan** (_noun_) moon's moon, moon's month, September, the month of the autumnal equinox, the 10th month of the Imperial Adin calendar for Earth
+  + **luando** (_noun_) month (att. 2008-Jun-22)
++ **lukar.el** (_ton verb_) offer (att. 2003-Dec-25)
+  + **lukard** (_noun_) offer, proposition (att. 2003-Dec-25)
++ **lum** (_descriptor_) six (att. 2003-Dec-25; _formerly "lumen"_)
++ **lurok.an** (_ton verb_) tense, tighten (att. 2021-Apr-22)
+  + **lurokel** (_noun_) tension, tightness, tautness (att. 2021-Apr-22)
++ **lux** (_noun_) sage, scholar, bard, minstrel (att. 2008-Jun-22)
++ **luxe.ʃ** (_ton verb_) select, choose (att. 2003-Dec-25)
++ **luxan** (_descriptor_) four (att. 2003-Dec-25)
++ **loika** (_noun_) devil, demon, a malicious or mischievous spirit (att. 2008-Jun-22)
++ **lok.ec** (_ton verb_) care, have compassion (att. 2003-Dec-25)
++ **lokþa.rel** (_ton verb_) create, make (att. 2003-Dec-25)
+  + **lokþamer** (_noun_) creation (att. 2003-Dec-25)
+  + **lokþatax** (_noun_) creator (att. 2003-Dec-25)
++ **lolos.en** (_ton verb_) avenge (att. 2003-Dec-25)
+  + **lolo** (_noun_) vengeance (att. 2003-Dec-25)
++ **lomaruhen** (_noun_) gene (att. 2008-Jun-22)
++ **lonakudj** (_noun_) pass word, pass code (unknown origin, modern slang) (att. 2003-Dec-25)
++ **lorek** (_noun_) light (att. 2003-Dec-25)
++ **lorn** (_noun_) 1. plain, flatland (att. 2003-Dec-25) 2. surface, table (att. 2022-Jun-05)
++ **lotre.gur** (_ton verb_) enter an area or place
+  + **lotrek** (_noun_) entry, a path or means of entering
++ **lofar** (_descriptor_) slow, deliberate, measured, cautious
++ **lofke** (_kun verb_) counter, defeat (halting); this term indicates that the defeat was a slowing or halting (att. 2003-Dec-25)
 
 ## M
 
-+ -**ma** _nn sfx_ attributive suffix, ‘by x’, is preceded by a comma, or added to noun, name (i.e. _Lor'ma_ means "by Lor") `#2003.12.25`
-+ **madis** _noun_ penis (technical term, not vulgar) `#2003.12.25`
-+ **madyu** _conj_ so that, in order to `#2003.12.25`
-+ **mácuj** _noun_ breast, mammary, udder
-  + **mácujálunu** _noun_ breast wrap, bandeau, brassiere, bra
-+ **mai** _desc_ sure, certain `#2003.12.25`
-+ **maiñu** _prep_ instead, in place of `#2008.06.22`
-+ **mak** _noun_ rain `#2008.06.22`
-+ **make.nd** _ton vb_ raining, falling from the clouds or heavens
-+ **makowa** _noun_ palace, luxurious home of a ruler (typically an unfortified mansion) `#2003.12.25`
-+ **mant.ak** _ton verb_ to pass gradually, to change constantly `2003.04.24` `#2022.06.05`
-+ **mar.in** _ton vb_ walking
-  + **mamar.in** _ton verb_ 1. a small walk, a recreational walk; _walkies_ `2022.04.14`
-+ **marx.ét** _ton vb_ kill, destroy, end or take a life neutral, not equal to murder `#2003.12.25`
-  + **maxen** _noun_ a kill, a trophy taken from killing a living thing (as in one's first kill in battle or a hunt) `#2003.12.25`
-+ **mayu** _noun_ cloud `#2003.12.25`
-+ **mao** _ono_ meow, mew, mya (sound made by a cat) `#2003.12.25`
-+ **medra** _noun_ mother `#2008.06.22`
-  + **memédra** _noun_ 1. mama, mommy (may be shortened to _memé_) `#2022.04.14`
-+ **megani** _noun_ ear `#2008.06.22`
-+ **melkocar** _noun_ difficulty `#2003.12.25`
-  + **melkoci** _desc_ difficult `#2003.12.25`
-+ **men.aru** _ton vb_ name `#2003.12.25`
-  + **menax** _noun_ name `#2003.12.25`
-+ **menaʃ** _noun_ button, as on clothing (clothing buttons only) `#2021.04.22`
-+ **menju** _noun_ button, a switch which is pressed (mechanical push-button, not clothing buttons) `#2003.12.25`
-+ **menra** _desc_ glad, happy `#2008.06.22`
-+ -**mer** _verb suffix_ may, able to; indicates the potentive or potential aspect, wheter a verb is possible `#2003.12.25`
-+ **merçin** _noun_ blood `#2008.06.22`
-  + **merçinal.en** _ton vb_ bloody, to cover or mark with blood `#2021.04.22`
-  + **merçinens** _desc_ bloody, covered or marked by blood `#2021.04.22`
-+ **metral** _noun_ foot part of body; also for animal paws `#2008.06.22`
-+ **midox** _noun_ error, mistake `#2003.12.25`
-+ **mijin** _desc_ zero `#2003.12.25`
-  + **mijli** _pron_ none `#2003.12.25`
-+ **mikau** _noun_ south `#2003.12.25`
-+ **mikto** _noun_ might `#2003.12.25`
-  + **miktan** _desc_ mighty `#2003.12.25`
-+ **minit** _ton vb_ think `#2003.12.25`
-  + **minic** _noun_ thought `#2003.12.25`
-+ **miranc** _noun_ power, inborn special or magical ability `#2003.12.25`
-+ **mirta** _noun_ fly (insect), gnat `#2008.06.22`
-+ **mirya** _noun_ turtle, tortoise `#2003.12.25`
-+ **mu** _desc_ nine `#2003.12.25`
-+ **mué** _pron_ there `#2003.12.25`
-+ **múri** _noun_ world `#2003.12.25`
-+ **mogan** _prep_ across `#2008.06.22`
-+ **moédamel** _noun_ shoulder `#2008.06.22`
-+ **mokure.nd** _ton verb_ learning, studying `#2003.04.24` `#2022.06.05`
-+ **mokuri.das** _ton verb_ to know, to study `#2003.12.25` `#2022.06.06`
-+ **monsi** _pron_ when `#2003.12.25`
-+ **mors** _noun_ life (the span of life) `#2003.12.25` _formerly "mor"_
-+ **moras.on** _ton vb_ purify `#2008.06.22`
-  + **morai** _desc_ pure, clean, untainted `#2008.06.22`
-+ **morent** _noun_ climate, mood, sense, feeling `#2021.04.22`
-+ **mori** _noun_ heart `#2008.06.22`
-+ **mortis** _desc_ young `#2008.06.22`
-  + **mor**- _pfx_ younger, shorter, less so `#2003.12.25`
-    + **morcin** _noun_ younger brother `#2003.12.25`
-    + **morkada** _noun_ younger sister `#2003.12.25`
-    + **morneyaci** _noun_ knight, female junior similar to miss `#2021.04.22`
-    + **morneyen** _noun_ knight, male junior similar to sir `#2021.04.22`
-    + **Mortadin** _noun_ short-lived person used as an insult to short lived races `#2021.04.22`
-+ **moura** _noun_ buttocks, posterior, rear-end, rump (refers to the anatomy) `#2008.06.22`
++ -**ma** (_suffix_) attributive suffix, ‘by x’, is preceded by a comma, or added to noun, name (i.e. _Lor'ma_ means "by Lor") (att. 2003-Dec-25)
++ **madis** (_noun_) penis (technical term, not vulgar) (att. 2003-Dec-25)
++ **madyu** (_conjunction_) so that, in order to (att. 2003-Dec-25)
++ **mácuj** (_noun_) breast, mammary, udder
+  + **mácujálunu** (_noun_) breast wrap, bandeau, brassiere, bra
++ **mai** (_descriptor_) sure, certain (att. 2003-Dec-25)
++ **maiñu** (_positional_) instead, in place of (att. 2008-Jun-22)
++ **mak** (_noun_) rain (att. 2008-Jun-22)
++ **make.nd** (_ton verb_) raining, falling from the clouds or heavens
++ **makowa** (_noun_) palace, luxurious home of a ruler (typically an unfortified mansion) (att. 2003-Dec-25)
++ **mant.ak** (_ton verb_) to pass gradually, to change constantly (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **mar.in** (_ton verb_) walking
+  + **mamar.in** (_ton verb_) 1. a small walk, a recreational walk; _walkies_ (att. 2022-Apr-14)
++ **marx.ét** (_ton verb_) kill, destroy, end or take a life neutral, not equal to murder (att. 2003-Dec-25)
+  + **maxen** (_noun_) a kill, a trophy taken from killing a living thing (as in one's first kill in battle or a hunt) (att. 2003-Dec-25)
++ **mayu** (_noun_) cloud (att. 2003-Dec-25)
++ **mao** (_idiophone, onomatopoeia_) meow, mew, mya (sound made by a cat) (att. 2003-Dec-25)
++ **medra** (_noun_) mother (att. 2008-Jun-22)
+  + **memédra** (_noun_) 1. mama, mommy (may be shortened to _memé_) (att. 2022-Apr-14)
++ **megani** (_noun_) ear (att. 2008-Jun-22)
++ **melkocar** (_noun_) difficulty (att. 2003-Dec-25)
+  + **melkoci** (_descriptor_) difficult (att. 2003-Dec-25)
++ **men.aru** (_ton verb_) name (att. 2003-Dec-25)
+  + **menax** (_noun_) name (att. 2003-Dec-25)
++ **menaʃ** (_noun_) button, as on clothing (clothing buttons only) (att. 2021-Apr-22)
++ **menju** (_noun_) button, a switch which is pressed (mechanical push-button, not clothing buttons) (att. 2003-Dec-25)
++ **menra** (_descriptor_) glad, happy (att. 2008-Jun-22)
++ -**mer** (_verb affix_) may, able to; indicates the potentive or potential aspect, wheter a verb is possible (att. 2003-Dec-25)
++ **merçin** (_noun_) blood (att. 2008-Jun-22)
+  + **merçinal.en** (_ton verb_) bloody, to cover or mark with blood (att. 2021-Apr-22)
+  + **merçinens** (_descriptor_) bloody, covered or marked by blood (att. 2021-Apr-22)
++ **metral** (_noun_) foot part of body; also for animal paws (att. 2008-Jun-22)
++ **midox** (_noun_) error, mistake (att. 2003-Dec-25)
++ **mijin** (_descriptor_) zero (att. 2003-Dec-25)
+  + **mijli** (_pronoun_) none (att. 2003-Dec-25)
++ **mikau** (_noun_) south (att. 2003-Dec-25)
++ **mikto** (_noun_) might (att. 2003-Dec-25)
+  + **miktan** (_descriptor_) mighty (att. 2003-Dec-25)
++ **minit** (_ton verb_) think (att. 2003-Dec-25)
+  + **minic** (_noun_) thought (att. 2003-Dec-25)
++ **miranc** (_noun_) power, inborn special or magical ability (att. 2003-Dec-25)
++ **mirta** (_noun_) fly (insect), gnat (att. 2008-Jun-22)
++ **mirya** (_noun_) turtle, tortoise (att. 2003-Dec-25)
++ **mu** (_descriptor_) nine (att. 2003-Dec-25)
++ **mué** (_pronoun_) there (att. 2003-Dec-25)
++ **múri** (_noun_) world (att. 2003-Dec-25)
++ **mogan** (_positional_) across (att. 2008-Jun-22)
++ **moédamel** (_noun_) shoulder (att. 2008-Jun-22)
++ **mokure.nd** (_ton verb_) learning, studying (att. 2004-Apr-24) (att. 2022-Jun-05)
++ **mokuri.das** (_ton verb_) to know, to study (att. 2003-Dec-25) (att. 2006-Jun-04)
++ **monsi** (_pronoun_) when (att. 2003-Dec-25)
++ **mors** (_noun_) life (the span of life) (att. 2003-Dec-25; _formerly "mor"_)
++ **moras.on** (_ton verb_) purify (att. 2008-Jun-22)
+  + **morai** (_descriptor_) pure, clean, untainted (att. 2008-Jun-22)
++ **morent** (_noun_) climate, mood, sense, feeling (att. 2021-Apr-22)
++ **mori** (_noun_) heart (att. 2008-Jun-22)
++ **mortis** (_descriptor_) young (att. 2008-Jun-22)
+  + **mor**- (_prefix, positional_) younger, shorter, less so (att. 2003-Dec-25)
+    + **morcin** (_noun_) younger brother (att. 2003-Dec-25)
+    + **morkada** (_noun_) younger sister (att. 2003-Dec-25)
+    + **morneyaci** (_noun_) knight, female junior similar to miss (att. 2021-Apr-22)
+    + **morneyen** (_noun_) knight, male junior similar to sir (att. 2021-Apr-22)
+    + **Mortadin** (_noun_) short-lived person used as an insult to short lived races (att. 2021-Apr-22)
++ **moura** (_noun_) buttocks, posterior, rear-end, rump (refers to the anatomy) (att. 2008-Jun-22)
 
 ## N
 
-+ **nadir** _noun_ destiny
-+ **nahertu** _noun_ nature, essence `#2003.12.25`
-+ **naiti** _noun_ woman `#2003.12.25`
-+ **nak** _desc_ forever, eternal `#2003.12.25`
-+ **nakirm** _noun_ flight, formation, aerial squadron or unit `#2007.11.26` `#2022.06.05`
-+ **nanda** _noun_ number, numeric value, symbol of such `#2008.06.22` _formerly "nada"_
-+ **nanef** _noun_ fairy, sprite; playful spirits `#2008.06.22`
-+ **nani.ʃ** _ton vb_ scout `#2003.12.25`
-  + **nantax** _noun_ scout `#2003.12.25`
-+ **narika** _kun vb_ own, possess, hold `#2021.04.22`
-  + **narídin** _noun_ owner `#2021.04.22`
-  + **narikadin** _noun_ owner, possessor, holder, master, landlord `#2021.04.22`
-+ **narli.k** _ton vb_ jab, impale, thrust, spear `#2021.04.22`
-  + **narliç** _noun_ spear, lance, javelin `#2021.04.22`
-+ **narug** _desc_ orange `#2003.12.25` _formerly "naru"_
-+ **natrein** _noun_ art, picture, story, song, dance this is a broad and generic term which can refer to any form of art, and can be used in compounds to refer to artistic work or discipline
-  + **natreqon.ij** _ton vb_ art writing, practicing or creating calligraphy
-+ **natha** _pron_ here `#2008.06.22`
-+ **nayu** _noun_ arrow, dart, bolt, missile; generically used for any missile weapon `#2003.12.25`
-+ **neim** _noun_ knight `#2008.06.22`
-  + **neim'jait** _f noun_ knight-lady (rare usage; a female knight-lord)
-  + **neim'jan** _noun_ knight-lord (a knight who has acquired land)
-  + **neimjia** _p noun_ Sunday (of even-numbered weeks), knight-day
-  + **neim'soma** _noun_ knight-master (a knight in command of other knights)
-  + **neim'somait** _f noun_ knight-mistress (rare usage; a female knight-master)
-  + **néyaci** _f noun_ knight (female); similar to ma'am, madam, miss
-  + **néyen** _m noun_ knight (male); similar to sir
-+ **nemal** _noun_ glass `#2008.06.22`
-+ **nen** _m noun_ man, masculine person `#2008.06.22`
-+ **nevel** _noun_ average
-+ **ni** _prep_ in, during `#2003.12.25`
-+ **nij** _noun_ place `#2008.06.22`
-+ **nikar** _positional_ inside, within `#2007.11.26` `#2022.06.05`
-+ **nikobal.sa** _ton vb_ memorize "into memory"
-+ **nimel.orm** _ton vb_ carve, cut into `#2003.12.25`
-+ -**ns** _kun verb suffix_  was, did; past tense `#2003.12.25`
-+ -**nu**, -**u** _nn sfx_ pluralization `#2003.12.25`
-+ **nugo.rem** _ton vb_ cast something away cast away from oneself `#2021.04.22`
-+ **nuqesir** _noun_ search, hunt, investigate, seek something in the physical world `#2021.04.22`
-+ -**no**- _kun verb infix_ -ing; forms the gerund, inserted after the first vowel of the verb `#2003.12.25`
-+ **noc** _noun_ 1. rock, stone 2. mug, a drinking vessel made of baked and glazed clay; these cups tend to come in sizes of ¼, ½, and 1 chuort sizes. The smallest is considered appropriate for tea, coffee, and other drinks offered to social guests during the day, and is about 10.9 US fluid ounces (~321 mL) `#2003.12.25`
-+ **nokal** _noun_ hunt `#2008.06.22`
-+ **nola** _noun_ noun; a word which refers to a person, place, thing, or concept `#2003.12.25`
-+ **nolambé** _desc_ complete, finished `#2008.06.22`
-+ **nolibrau** _noun_ freedom `#2021.04.22`
-+ -**nom** _nn sfx_ -self, -own, the reflexive pronoun `#2003.12.25`
-+ **nomor.eks** _ton vb_ drinking, sipping; consuming fluid
-+ **nonke** _noun_ mountain `#2021.04.22`
-+ **noventir** _noun_ hope `#2008.06.22`
-+ **noventrol** _noun_ journey `#2008.06.22`
-+ **novra.k** _ton vb_ need, require `#2008.06.22`
-  + **novrul** _noun_ need, necessity `#2008.06.22`
++ **nadir** (_noun_) destiny
++ **nahertu** (_noun_) nature, essence (att. 2003-Dec-25)
++ **naiti** (_noun_) woman (att. 2003-Dec-25)
++ **nak** (_descriptor_) forever, eternal (att. 2003-Dec-25)
++ **nakirm** (_noun_) flight, formation, aerial squadron or unit (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **nanda** (_noun_) number, numeric value, symbol of such (att. 2008-Jun-22; _formerly "nada"_)
++ **nanef** (_noun_) fairy, sprite; playful spirits (att. 2008-Jun-22)
++ **nani.ʃ** (_ton verb_) scout (att. 2003-Dec-25)
+  + **nantax** (_noun_) scout (att. 2003-Dec-25)
++ **narika** (_kun verb_) own, possess, hold (att. 2021-Apr-22)
+  + **narídin** (_noun_) owner (att. 2021-Apr-22)
+  + **narikadin** (_noun_) owner, possessor, holder, master, landlord (att. 2021-Apr-22)
++ **narli.k** (_ton verb_) jab, impale, thrust, spear (att. 2021-Apr-22)
+  + **narliç** (_noun_) spear, lance, javelin (att. 2021-Apr-22)
++ **narug** (_descriptor_) orange (att. 2003-Dec-25; _formerly "naru"_)
++ **natrein** (_noun_) art, picture, story, song, dance this is a broad and generic term which can refer to any form of art, and can be used in compounds to refer to artistic work or discipline
+  + **natreqon.ij** (_ton verb_) art writing, practicing or creating calligraphy
++ **natha** (_pronoun_) here (att. 2008-Jun-22)
++ **nayu** (_noun_) arrow, dart, bolt, missile; generically used for any missile weapon (att. 2003-Dec-25)
++ **neim** (_noun_) knight (att. 2008-Jun-22)
+  + **neim'jait** (_noun, feminine_) knight-lady (rare usage; a female knight-lord)
+  + **neim'jan** (_noun_) knight-lord (a knight who has acquired land)
+  + **neimjia** (_proper noun_) Sunday (of even-numbered weeks), knight-day
+  + **neim'soma** (_noun_) knight-master (a knight in command of other knights)
+  + **neim'somait** (_noun, feminine_) knight-mistress (rare usage; a female knight-master)
+  + **néyaci** (_noun, feminine_) knight (female); similar to ma'am, madam, miss
+  + **néyen** (_noun, masculine_) knight (male); similar to sir
++ **nemal** (_noun_) glass (att. 2008-Jun-22)
++ **nen** (_noun, masculine_) man, masculine person (att. 2008-Jun-22)
++ **nevel** (_noun_) average
++ **ni** (_positional_) in, during (att. 2003-Dec-25)
++ **nij** (_noun_) place (att. 2008-Jun-22)
++ **nikar** (_positional_) inside, within (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **nikobal.sa** (_ton verb_) memorize "into memory"
++ **nimel.orm** (_ton verb_) carve, cut into (att. 2003-Dec-25)
++ -**ns**(_kun verb affix_)  was, did; past tense (att. 2003-Dec-25)
++ -**nu**, -**u**(_suffix_) pluralization (att. 2003-Dec-25)
++ **nugo.rem** (_ton verb_) cast something away cast away from oneself (att. 2021-Apr-22)
++ **nuqesir** (_noun_) search, hunt, investigate, seek something in the physical world (att. 2021-Apr-22)
++ -**no**- _kun verb infix_ -ing; forms the gerund, inserted after the first vowel of the verb (att. 2003-Dec-25)
++ **noc** (_noun_) 1. rock, stone 2. mug, a drinking vessel made of baked and glazed clay; these cups tend to come in sizes of ¼, ½, and 1 chuort sizes. The smallest is considered appropriate for tea, coffee, and other drinks offered to social guests during the day, and is about 10.9 US fluid ounces (~321 mL) (att. 2003-Dec-25)
++ **nokal** (_noun_) hunt (att. 2008-Jun-22)
++ **nola** (_noun_) noun; a word which refers to a person, place, thing, or concept (att. 2003-Dec-25)
++ **nolambé** (_descriptor_) complete, finished (att. 2008-Jun-22)
++ **nolibrau** (_noun_) freedom (att. 2021-Apr-22)
++ -**nom**(_suffix_) -self, -own, the reflexive pronoun (att. 2003-Dec-25)
++ **nomor.eks** (_ton verb_) drinking, sipping; consuming fluid
++ **nonke** (_noun_) mountain (att. 2021-Apr-22)
++ **noventir** (_noun_) hope (att. 2008-Jun-22)
++ **noventrol** (_noun_) journey (att. 2008-Jun-22)
++ **novra.k** (_ton verb_) need, require (att. 2008-Jun-22)
+  + **novrul** (_noun_) need, necessity (att. 2008-Jun-22)
 
 ### Ñ (NY)
 
-+ **ñeje.l** _ton vb_ pray `#2008.06.22`
-  + **ñéjín** _noun_ prayer `#2008.06.22`
-+ **ñore** _noun_ year `#2003.12.25`
++ **ñeje.l** (_ton verb_) pray (att. 2008-Jun-22)
+  + **ñéjín** (_noun_) prayer (att. 2008-Jun-22)
++ **ñore** (_noun_) year (att. 2003-Dec-25)
 
 ## J
 
-+ -**ja** _pronoun suffix_ -ever (as in whichever, however, whomever)`#2003.12.25` `#2022.06.05`
-+ **ja'ur** _noun_ guest `#2008.06.22`
-+ **jak** _noun_ back, rear side, hind side; commonly used for the anatomical "back" `#2008.06.22` _was backformed from "jaktomít"
-  + **jaktomít** _noun_ backpack (a bag or pack carried on the back) `#2003.12.25`
-+ **jak.el** _ton vb_ damn, curse, condemn `#2003.12.25`
-  + **jak'ha** _expl_ damn (a minor profanity, usually spoken to oneself) `#2003.12.25`
-  + **jak'hau** _expl_ damn you (a minor profanity, spoken to the intended party) `#2003.12.25`
-+ **jalu** _noun_ earth (as an element), land, ground, dirt, stones, etc. `#2003.12.25`
-  + **jalunarika** _kun verb_ to own land `#2022.05.31`
-  + **jalunanorika** _noun_ owned land, land property `#2022.05.31`
-  + **jalu'iluan** _p noun_ May, Earth's Month
-  + **jalunarika** _kun verb_ to own land `#2022.05.31`
-  + **jalunanorika** _noun_ owned land, land property `#2022.05.31`
-  + **jalujia** _p noun_ Thursday (of odd-numbered weeks), earth-day
-+ **jálu.ré** _ton vb_ wrap, embrace, hold closely `#2003.12.25`
-  + **jálunu** _noun_ clothing, garment, covering; literally "wrappings"
-  + **jálutot kur ju** _expr_ I'm tied up right now (lit. ‘tied tight now’, indicates one is busy) `#2003.12.25` _formerly "jaltot kurin"_
-  + **jálust** _noun_ wrapper, wrapping; hug; grip `#2021.04.22`
-+ **jalyu.men** _ton vb_ develop `#2008.06.22`
-  + **jalygres** _noun_ development `#2008.06.22`
-+ **jan** _nn sfx_ lord, landowner, servant keeper `#2003.12.25`
-  + **[ajan](a/ajan.md)** _p noun, title_ The Lord, My God, referring a deity or patron spirit `#2003.12.25`
-+ **janyu** _desc_ again `#2003.12.25`
-+ **japas** _noun_ palm of hand, pads of paw `#2008.06.22`
-+ **jeimas** _noun_ egg, ova `#2021.04.22`
-+ **jene.sal** _ton vb_ live (to be alive, to dwell, to sustain oneself) `#2003.12.25`
-  + **jenesís** _noun_ life (the presence or existence of life) `#2003.12.25`
-+ **jera.nzu** _ton vb_ respond `#2003.12.25`
-  + **jerad** _noun_ response, return `#2003.12.25`
-+ **jeso.a** _ton vb_ heal `#2008.06.22`
-+ **ji** _m pron_ he, him `#2003.12.25`
-  + **kuji** _m pron_ his `#2003.12.25`
-+ **jia** _noun_ day (both the period of daylight, and the entire period of time between two sunrises) `#2003.12.25`
-  + **jiabi** _desc_ daily `#2003.12.25`
-+ **jimar.u** _ton vb_ hear, listen `#2008.06.22`
-+ **ju** _desc_ now, the present `#2003.12.25`
-+ **jua** _conj_ too, as well, also `#2003.12.25` _formerly "zhu"_
-+ **jubaci** _noun_ lion `#2003.12.25` _formerly meant "tiger," conflicted with "hotan"_
-+ **judaxin** _desc_ present-passive; outside of technical uses, "that which merely is"
-+ **jukan** _noun_ card, dice, game tile, game piece `2003.04.24` `#2022.06.05`
-+ **julax.en** _ton vb_ change, alter `#2003.12.25`
-  + **julajak.en** _ton verb_ to regress, to revert; from "to change back(wards)" `#2022.05.31`
-  + **julaxan** _noun_ change, difference, variation `#2003.12.25`
-+ **juman.o** _ton vb_ die `#2003.12.25`
-  + **jumanai** _noun_ death `#2021.04.22`
-  + **Jumaye** _p noun_ Death, the Reaper, Fate; the personification of Death in Adin, "Death's Hand" `#2021.04.22`
-+ **jun** _prep_ (temporal) at, in x location, during x time `#2003.12.25`
-+ **jurabi** _noun_ afternoon, midday `#2003.12.25` `#2022.06.16` _attested in all found dictionaries, but only ever in "sayomin jurabi" and "sayu jurabi"_
-+ **jurag** _desc_ selfless `#2008.06.22`
-+ **jurai** _noun_ reality `#2003.12.25`
-  + **jurau** _desc_ real `#2003.12.25`
-+ **juria** _noun_ north `#2003.12.25`
-+ **joba.l** _ton vb_ shout `#2003.12.25`
-  + **jobas** _noun_ shout `#2003.12.25`
-+ **jon** _desc_ three `#2003.12.25`
-  + **jonqonjinu** _descriptor_ trilingual, familiar with three languages `#2022.06.04`
-+ **jon.tes** _ton vb_ dream, wish, fantasize `#2003.12.25`
-  + **jont** _noun_ dream `#2003.12.25`
-+ **joco.n** _ton vb_ adventuring `#2003.12.25`
-  + **joçon** _noun_ adventure `#2003.12.25`
-  + **jocotax** _noun_ adventurer `#2003.12.25`
++ -**ja** _pronoun suffix_ -ever (as in whichever, however, whomever)(att. 2003-Dec-25) (att. 2022-Jun-05)
++ **ja'ur** (_noun_) guest (att. 2008-Jun-22)
++ **jak** (_noun_) back, rear side, hind side; commonly used for the anatomical "back" (att. 2008-Jun-22) _was backformed from "jaktomít"
+  + **jaktomít** (_noun_) backpack (a bag or pack carried on the back) (att. 2003-Dec-25)
++ **jak.el** (_ton verb_) damn, curse, condemn (att. 2003-Dec-25)
+  + **jak'ha** _expl_ damn (a minor profanity, usually spoken to oneself) (att. 2003-Dec-25)
+  + **jak'hau** _expl_ damn you (a minor profanity, spoken to the intended party) (att. 2003-Dec-25)
++ **jalu** (_noun_) earth (as an element), land, ground, dirt, stones, etc. (att. 2003-Dec-25)
+  + **jalunarika**(_kun verb_) to own land (att. 2022-May-31)
+  + **jalunanorika** (_noun_) owned land, land property (att. 2022-May-31)
+  + **jalu'iluan** (_proper noun_) May, Earth's Month
+  + **jalunarika**(_kun verb_) to own land (att. 2022-May-31)
+  + **jalunanorika** (_noun_) owned land, land property (att. 2022-May-31)
+  + **jalujia** (_proper noun_) Thursday (of odd-numbered weeks), earth-day
++ **jálu.ré** (_ton verb_) wrap, embrace, hold closely (att. 2003-Dec-25)
+  + **jálunu** (_noun_) clothing, garment, covering; literally "wrappings"
+  + **jálutot kur ju** (_expression_) I'm tied up right now (lit. ‘tied tight now’, indicates one is busy) (att. 2003-Dec-25; _formerly "jaltot kurin"_)
+  + **jálust** (_noun_) wrapper, wrapping; hug; grip (att. 2021-Apr-22)
++ **jalyu.men** (_ton verb_) develop (att. 2008-Jun-22)
+  + **jalygres** (_noun_) development (att. 2008-Jun-22)
++ **jan**(_suffix_) lord, landowner, servant keeper (att. 2003-Dec-25)
+  + **[ajan](a/ajan.md)** _p noun, title_ The Lord, My God, referring a deity or patron spirit (att. 2003-Dec-25)
++ **janyu** (_descriptor_) again (att. 2003-Dec-25)
++ **japas** (_noun_) palm of hand, pads of paw (att. 2008-Jun-22)
++ **jeimas** (_noun_) egg, ova (att. 2021-Apr-22)
++ **jene.sal** (_ton verb_) live (to be alive, to dwell, to sustain oneself) (att. 2003-Dec-25)
+  + **jenesís** (_noun_) life (the presence or existence of life) (att. 2003-Dec-25)
++ **jera.nzu** (_ton verb_) respond (att. 2003-Dec-25)
+  + **jerad** (_noun_) response, return (att. 2003-Dec-25)
++ **jeso.a** (_ton verb_) heal (att. 2008-Jun-22)
++ **ji** _m pron_ he, him (att. 2003-Dec-25)
+  + **kuji** _m pron_ his (att. 2003-Dec-25)
++ **jia** (_noun_) day (both the period of daylight, and the entire period of time between two sunrises) (att. 2003-Dec-25)
+  + **jiabi** (_descriptor_) daily (att. 2003-Dec-25)
++ **jimar.u** (_ton verb_) hear, listen (att. 2008-Jun-22)
++ **ju** (_descriptor_) now, the present (att. 2003-Dec-25)
++ **jua** (_conjunction_) too, as well, also (att. 2003-Dec-25) _formerly "zhu"_
++ **jubaci** (_noun_) lion (att. 2003-Dec-25) _formerly meant "tiger," conflicted with "hotan"_
++ **judaxin** (_descriptor_) present-passive; outside of technical uses, "that which merely is"
++ **jukan** (_noun_) card, dice, game tile, game piece (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **julax.en** (_ton verb_) change, alter (att. 2003-Dec-25)
+  + **julajak.en** (_ton verb_) to regress, to revert; from "to change back(wards)" (att. 2022-May-31)
+  + **julaxan** (_noun_) change, difference, variation (att. 2003-Dec-25)
++ **juman.o** (_ton verb_) die (att. 2003-Dec-25)
+  + **jumanai** (_noun_) death (att. 2021-Apr-22)
+  + **Jumaye** (_proper noun_) Death, the Reaper, Fate; the personification of Death in Adin, "Death's Hand" (att. 2021-Apr-22)
++ **jun** (_positional_) (temporal) at, in x location, during x time (att. 2003-Dec-25)
++ **jurabi** (_noun_) afternoon, midday (att. 2003-Dec-25; rediscovered 2022-Jun-16) _att. in all found dictionaries, but only ever in "sayomin jurabi" and "sayu jurabi"_
++ **jurag** (_descriptor_) selfless (att. 2008-Jun-22)
++ **jurai** (_noun_) reality (att. 2003-Dec-25)
+  + **jurau** (_descriptor_) real (att. 2003-Dec-25)
++ **juria** (_noun_) north (att. 2003-Dec-25)
++ **joba.l** (_ton verb_) shout (att. 2003-Dec-25)
+  + **jobas** (_noun_) shout (att. 2003-Dec-25)
++ **jon** (_descriptor_) three (att. 2003-Dec-25)
+  + **jonqonjinu** (_descriptor_) trilingual, familiar with three languages (att. 2022-Jun-04)
++ **jon.tes** (_ton verb_) dream, wish, fantasize (att. 2003-Dec-25)
+  + **jont** (_noun_) dream (att. 2003-Dec-25)
++ **joco.n** (_ton verb_) adventuring (att. 2003-Dec-25)
+  + **joçon** (_noun_) adventure (att. 2003-Dec-25)
+  + **jocotax** (_noun_) adventurer (att. 2003-Dec-25)
 
 ## P
 
-+ **páci** _noun_ sand dune, hill; an unstable geological feature `#2008.06.22`
-+ **para** _noun_ sheet, page, tablet; a thin cloth used to cover surfaces `#2021.04.22`
-  + **paratwa** _noun_ letter, missive, message (lit. sheet book, usually a single sheet) `#2021.04.22`
-+ **pazo** _noun, descriptor_ black `#2022.02.25`
-+ **pau.re** _ton verb_ to bid, to bet, to gamble; to make a play or move in a game `2003.04.24` `#2022.06.05`
-+ **pera.das** _ton vb_ please
-  + **peranti** _noun_ pleasure `#2008.06.22`
-  + **peraint** _expr_ "if you please" (may be a request for, or granting of, permission) `#2021.04.22`
-  + **peratamani** _noun_ charm, grace, guile `#2022.06.04`
-+ **Peradin** _p noun_ Halfling (Atrusian) `#2021.04.22`
-+ **pído** _noun_ skin `#2008.06.22`
-+ **planci** _noun_ frontier, unexplored land `#2008.06.22`
-+ **prame** _prep_ (physical) about, around `#2008.06.22`
-+ **promei.s** _ton vb_ enter or make a record in a book or list `#2008.06.22`
-  + **promeid** _noun_ entry, record; as in a journal, diary, or logbook `#2008.06.22`
-+ **pu.ru** _ton vb_ like, appreciate, enjoy `#2008.06.22`
-+ **pol.tek** _ton vb_ sin `#2003.12.25` _formerly "polaton"_
-  + **polt** _noun_ sin `#2003.12.25`
-+ **pon** _noun_ a measure of mass/weight used by the native residents of Atrusius, roughly equal to 1.04 _tolis_, 250 grams, or 8.81849 (8.82) ounces (about half a pound) `#2007` `#2022.06.04`
-+ **pontif.ar** _ton vb_ advising `#2003.12.25`
-+ **poren** _noun_ father `#2003.12.25`
-  + **poraiti** _noun_ mother (lit. female father, a remnant of an old movement; rare) `#2008.06.22`
-  + **popóren** _noun_ 1. dada, papa, daddy (may be shorted to _popo_) `#2022.04.14`
-+ **porén** _noun_ strength `#2003.12.25`
-  + **poraun** _desc_ strong `#2003.12.25`
-+ **porhel** _noun_ grace `#2008.06.22`
-  + **porhelan** _desc_ graceful `#2008.06.22`
-+ **poromf** _noun_ advice `#2021.04.22`
-+ **porpun.gal** _ton vb_ play music `#2003.12.25`
-+ **poxe** _noun_ age, era, period of time (often used in regards to a leader's reign) `#2008.06.22`
++ **páci** (_noun_) sand dune, hill; an unstable geological feature (att. 2008-Jun-22)
++ **para** (_noun_) sheet, page, tablet; a thin cloth used to cover surfaces (att. 2021-Apr-22)
+  + **paratwa** (_noun_) letter, missive, message (lit. sheet book, usually a single sheet) (att. 2021-Apr-22)
++ **pazo** _noun, descriptor_ black (att. 2022-Feb-25)
++ **pau.re** (_ton verb_) to bid, to bet, to gamble; to make a play or move in a game (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **pera.das** (_ton verb_) please
+  + **peranti** (_noun_) pleasure (att. 2008-Jun-22)
+  + **peraint** (_expression_) "if you please" (may be a request for, or granting of, permission) (att. 2021-Apr-22)
+  + **peratamani** (_noun_) charm, grace, guile (att. 2022-Jun-04)
++ **Peradin** (_proper noun_) Halfling (Atrusian) (att. 2021-Apr-22)
++ **pído** (_noun_) skin (att. 2008-Jun-22)
++ **planci** (_noun_) frontier, unexplored land (att. 2008-Jun-22)
++ **prame** (_positional_) (physical) about, around (att. 2008-Jun-22)
++ **promei.s** (_ton verb_) enter or make a record in a book or list (att. 2008-Jun-22)
+  + **promeid** (_noun_) entry, record; as in a journal, diary, or logbook (att. 2008-Jun-22)
++ **pu.ru** (_ton verb_) like, appreciate, enjoy (att. 2008-Jun-22)
++ **pol.tek** (_ton verb_) sin (att. 2003-Dec-25; _formerly "polaton"_)
+  + **polt** (_noun_) sin (att. 2003-Dec-25)
++ **pon** (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to 1.04 _tolis_, 250 grams, or 8.81849 (8.82) ounces (about half a pound) `#2007` (att. 2022-Jun-04)
++ **pontif.ar** (_ton verb_) advising (att. 2003-Dec-25)
++ **poren** (_noun_) father (att. 2003-Dec-25)
+  + **poraiti** (_noun_) mother (lit. female father, a remnant of an old movement; rare) (att. 2008-Jun-22)
+  + **popóren** (_noun_) 1. dada, papa, daddy (may be shorted to _popo_) (att. 2022-Apr-14)
++ **porén** (_noun_) strength (att. 2003-Dec-25)
+  + **poraun** (_descriptor_) strong (att. 2003-Dec-25)
++ **porhel** (_noun_) grace (att. 2008-Jun-22)
+  + **porhelan** (_descriptor_) graceful (att. 2008-Jun-22)
++ **poromf** (_noun_) advice (att. 2021-Apr-22)
++ **porpun.gal** (_ton verb_) play music (att. 2003-Dec-25)
++ **poxe** (_noun_) age, era, period of time (often used in regards to a leader's reign) (att. 2008-Jun-22)
 
 ## R
 
-+ **rac.el** _ton vb_ knee, kneel, to take to the knee, defer or submit to `#2021.04.22`
-  + **racan** _noun_ knee `#2021.04.22`
-+ **ragunes** _noun_ mercenary `#2021.04.22`
-+ **rai** _noun_ way, fashion, path `#2008.06.22`
-+ **raji** _noun_ star `#2003.12.25`
-+ **rakim** _prep_ beside, aside, next to `#2008.06.22`
-+ **ramu.ld** _ton vb_ lacking `#2003.12.25`
-+ **rank** _desc_ wrong, perverse `#2021.04.22`
-+ **raʃ** _noun_ sand
-  + **raʃi** _noun_ bank of a river, beach (lake, sea, ocean); sandy area along body of water `#2008.06.22`
-+ **redjam** _kun vb_ to saddle, to prepare an animal for riding `#2008.06.22`
-  + **redjau** _noun_ saddle `#2008.06.22`
-+ **rez.as** _ton verb_ to stand, to present or show respect, to (stand or be) ready for a struggle or challenge `#2007.11.26` `#2022.06.05`
-+ **reixa** _ton vb_ bloom, grow, unfold (as a flower)
-+ **réjo** _noun_ family `#2008.06.22`
-+ **relja** _noun_ courage, valour, bravery `#2003.12.25`
-+ **ren.is** _ton vb_ fearing, worrying
-+ **repin.gos** _ton vb_ to enter information, to input `#2003.12.25` _formerly "kunrepton"_
-  + **repin** _noun_ a source of input, the value of an input `#2003.12.25` _formerly "kunrep"_
-+ **ríntaro** _noun_ possible `#2008.06.22`
-  + **-rin** _v sfx_ possible to do `#2008.06.22`
-+ **riʃe.ru** _ton vb_ farm `#2008.06.22`
-  + **riʃen** _noun_ farm `#2008.06.22`
-  + **riʃetax** _noun_ farmer `#2008.06.22`
-+ **rist** _desc_ right, proper, correct `#2021.04.22`
-+ **rukam.os** _ton vb_ guard, protect `#2003.12.25`
-  + **rukamakend** _noun_ umbrella; from _rukam_ + _makend_
-  + **rukamtax** _noun_ guardian `#2003.12.25`
-+ **rukib** _noun_ odds, probability, ratio `#2003.12.25`
-+ **robar** _noun_ robot, automaton `#2003.12.25` _formerly "robo"_
-+ **rodaiti** _noun_ grand-daughter `#2003.12.25`
-+ **roha** _desc_ red `#2003.12.25`
-+ **rokan** _noun_ grandson `#2003.12.25`
-+ **rom** _noun_ wind, air, sky; element or region `#2008.06.22`
-  + **romjia** _p noun_ Tuesday (of odd-numbered weeks), wind-day
-  + **romiluan** _p noun_ November, Wind's Month
-+ **romar.ing** _ton vb_ compare `#2003.12.25`
-  + **romari** _noun_ comparison `#2003.12.25`
-+ **roqints.el** _ton vb_ float on air `#2021.04.22`
++ **rac.el** (_ton verb_) knee, kneel, to take to the knee, defer or submit to (att. 2021-Apr-22)
+  + **racan** (_noun_) knee (att. 2021-Apr-22)
++ **ragunes** (_noun_) mercenary (att. 2021-Apr-22)
++ **rai** (_noun_) way, fashion, path (att. 2008-Jun-22)
++ **raji** (_noun_) star (att. 2003-Dec-25)
++ **rakim** (_positional_) beside, aside, next to (att. 2008-Jun-22)
++ **ramu.ld** (_ton verb_) lacking (att. 2003-Dec-25)
++ **rank** (_descriptor_) wrong, perverse (att. 2021-Apr-22)
++ **raʃ** (_noun_) sand
+  + **raʃi** (_noun_) bank of a river, beach (lake, sea, ocean); sandy area along body of water (att. 2008-Jun-22)
++ **redjam** (_kun verb_) to saddle, to prepare an animal for riding (att. 2008-Jun-22)
+  + **redjau** (_noun_) saddle (att. 2008-Jun-22)
++ **rez.as** (_ton verb_) to stand, to present or show respect, to (stand or be) ready for a struggle or challenge (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **reixa** (_ton verb_) bloom, grow, unfold (as a flower)
++ **réjo** (_noun_) family (att. 2008-Jun-22)
++ **relja** (_noun_) courage, valour, bravery (att. 2003-Dec-25)
++ **ren.is** (_ton verb_) fearing, worrying
++ **repin.gos** (_ton verb_) to enter information, to input (att. 2003-Dec-25; _formerly "kunrepton"_)
+  + **repin** (_noun_) a source of input, the value of an input (att. 2003-Dec-25; _formerly "kunrep"_)
++ **ríntaro** (_noun_) possible (att. 2008-Jun-22)
+  + **-rin** _v sfx_ possible to do (att. 2008-Jun-22)
++ **riʃe.ru** (_ton verb_) farm (att. 2008-Jun-22)
+  + **riʃen** (_noun_) farm (att. 2008-Jun-22)
+  + **riʃetax** (_noun_) farmer (att. 2008-Jun-22)
++ **rist** (_descriptor_) right, proper, correct (att. 2021-Apr-22)
++ **rukam.os** (_ton verb_) guard, protect (att. 2003-Dec-25)
+  + **rukamakend** (_noun_) umbrella; from _rukam_ + _makend_
+  + **rukamtax** (_noun_) guardian (att. 2003-Dec-25)
++ **rukib** (_noun_) odds, probability, ratio (att. 2003-Dec-25)
++ **robar** (_noun_) robot, automaton (att. 2003-Dec-25; _formerly "robo"_)
++ **rodaiti** (_noun_) grand-daughter (att. 2003-Dec-25)
++ **roha** (_descriptor_) red (att. 2003-Dec-25)
++ **rokan** (_noun_) grandson (att. 2003-Dec-25)
++ **rom** (_noun_) wind, air, sky; element or region (att. 2008-Jun-22)
+  + **romjia** (_proper noun_) Tuesday (of odd-numbered weeks), wind-day
+  + **romiluan** (_proper noun_) November, Wind's Month
++ **romar.ing** (_ton verb_) compare (att. 2003-Dec-25)
+  + **romari** (_noun_) comparison (att. 2003-Dec-25)
++ **roqints.el** (_ton verb_) float on air (att. 2021-Apr-22)
 
 ## S
 
-+ -**s** _kun verb suffix_ is, am, are, -ing; present tense (_kun_ verbs which end in consonants) `#2003.12.25`
-+ **sabak** _noun_ sabacc a card game in which the black and red suits have opposing point values, and in which the goal is to form a score of tomomu (21 in base ten) in a hand of 2 or 3 cards. This game is usually played with only the black and red suits, with no standard rule for handling the green suits (stars and sickles). `#2003.12.25`
-+ **sairent** _noun_ find, loot, reward, prize `#2021.04.22`
-+ **sali** _prep_ against `#2021.04.22`
-+ **sali.mo** _ton vb_ to welcome `#2003.12.25`
-+ **salix** _ton vb_ pit, set against `#2021.04.22`
-+ **sameya** _noun_ area, region, contents `#2008.06.22`
-+ -**sami** _n sfx_ mister, sir, missus this is a generic honor title, equivalent to Japanese -san, though typically used with given names `#2021.04.22`
-+ **sanji** _noun_ trooper, hired soldier `#2003.12.25`
-+ **satehn** _noun_ space, frame of time, pause between words `#2008.06.22`
-+ **sauken.ta** _ton vb_ lead, take command of `#2021.04.22`
-  + **saukentax** _noun_ leader, one who commands `#2021.04.22`
-+ **sayurín** _desc_ well, sufficient, exceptional `#2003.12.25`
-  + **-rín** _d sfx_ well, sufficient, exceptional `#2003.12.25`
-  + **sayoma** _noun_ goodness `#2003.12.25`
-  + **sayomin** _desc_ good, well, pleasant this is the benefactive, honorific, and salutory form of sayurín, used in greetings with most people `#2003.12.25`
-    + **Sayomin jurabi** _expr_ good afternoon (when greeting) `#2003.12.25`
-    + **Sayomin kolbu** _expr_ good evening (when greeting) `#2003.12.25`
-    + **Sayomin krestu** _expr_ good morning (only as greeting) `#2003.12.25`
-  + **sayu** _desc_ well, sufficient, exceptional this is the diminutive and valedictive form of sayurín `#2003.12.25`
-    + **Sayu bacima** _expr_ See you later (informal departure) `#2003.12.25`
-    + **Sayu bajia** _expr_ good day (only when departing) `#2003.12.25`
-    + **Sayu coci** _expr_ good night (only when departing) `#2003.12.25`
-    + **Sayu jurabi** _expr_ good afternoon (when leaving) `#2003.12.25`
-    + **Sayu kolbu** _expr_ good evening (when leaving) `#2003.12.25`
-  + **sayoçi** _desc_ good, well, sufficient, exceptional this is the informal honorific form of sayurín, it is used to wish well to people with whom one is close in class, but it is also the preferred form in the invocation of magic and religious usage  `#2003.12.25`
-  + **sayuqon.ij** _ton vb_ good writing, practice of proper writing (both handwriting and composing written rhetoric)
-+ **segyudin** _noun_ entry, as in a contest or competition "participate person" `#2021.04.22`
-+ **sedra** _kun verb_ to ride, to drive or steer (of an animal or animal-powered vehicle) `#2007.11.26` `#2022.06.05`
-+ **sem** _prep_ (spatial) by, near, close to `#2021.04.22`
-+ **senaert** _desc_ natural `#2021.04.22`
-+ **sen'gyu.ré** _ton vb_ enter a contest or competition `#2021.04.22`
-+ **senkin** _desc_ false, imitation `#2008.06.22`
-+ **sif** _pron_ why
-+ **sinba.ras** _ton vb_ evolve, metamorphose `#2003.12.25`
-+ **sinju** _noun_ face `#2003.12.25`
-  + **sinju.las** _ton vb_ facing, encountering, looking towards `#2003.12.25`
-+ **sintwa** _noun_ diary `#2003.12.25`
-+ **stad.én** _ton verb_ to remain, to stay `2003.04.24` `#2022.06.05`
-+ **sug** _art_ the, definite article `#2003.12.25`
-+ **sugo** _desc_ especially, particularly `#2003.12.25` _was formerly "sugoi"_
-+ **sukendai** _desc_ fantastic, of fantasy `#2021.04.22`
-+ **sóda** _noun_ soda, a drink made with bubbling water
-+ **soma** _n sfx_ master, teacher, slave holder `#2008.06.22`
-+ **sorok** _noun, title_ Doctor, Professor, Master of a Study `#2003.12.25`
-+ **sourax** _noun_ tailor `#2021.04.22`
-+ **stram** _noun_ storm `#2021.04.22`
++ -**s**(_kun verb affix_) is, am, are, -ing; present tense (_kun_ verbs which end in consonants) (att. 2003-Dec-25)
++ **sabak** (_noun_) sabacc a card game in which the black and red suits have opposing point values, and in which the goal is to form a score of tomomu (21 in base ten) in a hand of 2 or 3 cards. This game is usually played with only the black and red suits, with no standard rule for handling the green suits (stars and sickles). (att. 2003-Dec-25)
++ **sairent** (_noun_) find, loot, reward, prize (att. 2021-Apr-22)
++ **sali** (_positional_) against (att. 2021-Apr-22)
++ **sali.mo** (_ton verb_) to welcome (att. 2003-Dec-25)
++ **salix** (_ton verb_) pit, set against (att. 2021-Apr-22)
++ **sameya** (_noun_) area, region, contents (att. 2008-Jun-22)
++ -**sami** _n sfx_ mister, sir, missus this is a generic honor title, equivalent to Japanese -san, though typically used with given names (att. 2021-Apr-22)
++ **sanji** (_noun_) trooper, hired soldier (att. 2003-Dec-25)
++ **satehn** (_noun_) space, frame of time, pause between words (att. 2008-Jun-22)
++ **sauken.ta** (_ton verb_) lead, take command of (att. 2021-Apr-22)
+  + **saukentax** (_noun_) leader, one who commands (att. 2021-Apr-22)
++ **sayurín** (_descriptor_) well, sufficient, exceptional (att. 2003-Dec-25)
+  + **-rín** (_suffix_) well, sufficient, exceptional (att. 2003-Dec-25)
+  + **sayoma** (_noun_) goodness (att. 2003-Dec-25)
+  + **sayomin** (_descriptor_) good, well, pleasant this is the benefactive, honorific, and salutory form of sayurín, used in greetings with most people (att. 2003-Dec-25)
+    + **Sayomin jurabi** (_expression_) good afternoon (when greeting) (att. 2003-Dec-25)
+    + **Sayomin kolbu** (_expression_) good evening (when greeting) (att. 2003-Dec-25)
+    + **Sayomin krestu** (_expression_) good morning (only as greeting) (att. 2003-Dec-25)
+  + **sayu** (_descriptor_) well, sufficient, exceptional this is the diminutive and valedictive form of sayurín (att. 2003-Dec-25)
+    + **Sayu bacima** (_expression_) See you later (informal departure) (att. 2003-Dec-25)
+    + **Sayu bajia** (_expression_) good day (only when departing) (att. 2003-Dec-25)
+    + **Sayu coci** (_expression_) good night (only when departing) (att. 2003-Dec-25)
+    + **Sayu jurabi** (_expression_) good afternoon (when leaving) (att. 2003-Dec-25)
+    + **Sayu kolbu** (_expression_) good evening (when leaving) (att. 2003-Dec-25)
+  + **sayoçi** (_descriptor_) good, well, sufficient, exceptional this is the informal honorific form of sayurín, it is used to wish well to people with whom one is close in class, but it is also the preferred form in the invocation of magic and religious usage  (att. 2003-Dec-25)
+  + **sayuqon.ij** (_ton verb_) good writing, practice of proper writing (both handwriting and composing written rhetoric)
++ **segyudin** (_noun_) entry, as in a contest or competition "participate person" (att. 2021-Apr-22)
++ **sedra**(_kun verb_) to ride, to drive or steer (of an animal or animal-powered vehicle) (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **sem** (_positional_) (spatial) by, near, close to (att. 2021-Apr-22)
++ **senaert** (_descriptor_) natural (att. 2021-Apr-22)
++ **sen'gyu.ré** (_ton verb_) enter a contest or competition (att. 2021-Apr-22)
++ **senkin** (_descriptor_) false, imitation (att. 2008-Jun-22)
++ **sif** (_pronoun_) why
++ **sinba.ras** (_ton verb_) evolve, metamorphose (att. 2003-Dec-25)
++ **sinju** (_noun_) face (att. 2003-Dec-25)
+  + **sinju.las** (_ton verb_) facing, encountering, looking towards (att. 2003-Dec-25)
++ **sintwa** (_noun_) diary (att. 2003-Dec-25)
++ **stad.én** (_ton verb_) to remain, to stay (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **sug** (_article_) the, definite article (att. 2003-Dec-25)
++ **sugo** (_descriptor_) especially, particularly (att. 2003-Dec-25) _was formerly "sugoi"_
++ **sukendai** (_descriptor_) fantastic, of fantasy (att. 2021-Apr-22)
++ **sóda** (_noun_) soda, a drink made with bubbling water
++ **soma** _n sfx_ master, teacher, slave holder (att. 2008-Jun-22)
++ **sorok** _noun, title_ Doctor, Professor, Master of a Study (att. 2003-Dec-25)
++ **sourax** (_noun_) tailor (att. 2021-Apr-22)
++ **stram** (_noun_) storm (att. 2021-Apr-22)
 
 ### ʃ (SH)
 
-+ **ʃak** _desc_ ten `#2003.12.25`
-+ **ʃamp** _noun_ tribe `#2003.12.25`
-+ **ʃan** _noun_ personal crest, coat of arms `#2003.12.25`
-+ **ʃemba.ru** _ton vb_ dusting, cleaning up dust `#2021.04.22`
-+ **ʃeme.tí** _ton vb_ cleaning `#2021.04.22`
-+ **ʃenza.ku** _ton vb_ win a contest as victor `#2021.04.22`
-+ **ʃenzai** _noun_ win, victory `#2021.04.22`
-+ **ʃep** _noun_ fish
-+ **ʃi** _pron_ them, they `#2003.12.25`
-+ **ʃinbarél** _noun_ evolution `#2021.04.22`
-+ **ʃink.as** _ton vb_ persevere `#2003.12.25`
-  + **ʃinkin** _noun_ perseverance `#2003.12.25`
-+ **ʃiran** _noun_ wind `#2003.12.25`
-+ **ʃuka** _noun_ winter, cold season `#2007.11.26` `#2022.06.05`
-+ **ʃulé** _kun vb_ kissing, the act of pressing one's lips to a thing `#2003.12.25`
-  + **ʃulén** _noun_ a kiss `#2003.12.25`
++ **ʃak** (_descriptor_) ten (att. 2003-Dec-25)
++ **ʃamp** (_noun_) tribe (att. 2003-Dec-25)
++ **ʃan** (_noun_) personal crest, coat of arms (att. 2003-Dec-25)
++ **ʃemba.ru** (_ton verb_) dusting, cleaning up dust (att. 2021-Apr-22)
++ **ʃeme.tí** (_ton verb_) cleaning (att. 2021-Apr-22)
++ **ʃenza.ku** (_ton verb_) win a contest as victor (att. 2021-Apr-22)
++ **ʃenzai** (_noun_) win, victory (att. 2021-Apr-22)
++ **ʃep** (_noun_) fish
++ **ʃi** (_pronoun_) them, they (att. 2003-Dec-25)
++ **ʃinbarél** (_noun_) evolution (att. 2021-Apr-22)
++ **ʃink.as** (_ton verb_) persevere (att. 2003-Dec-25)
+  + **ʃinkin** (_noun_) perseverance (att. 2003-Dec-25)
++ **ʃiran** (_noun_) wind (att. 2003-Dec-25)
++ **ʃuka** (_noun_) winter, cold season (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **ʃulé** (_kun verb_) kissing, the act of pressing one's lips to a thing (att. 2003-Dec-25)
+  + **ʃulén** (_noun_) a kiss (att. 2003-Dec-25)
   + **ʃulyadin** _noun, slang_ a virgin, lit. "no-kiss person"
-+ **ʃoxa.n** _ton vb_ sing `#2003.12.25`
-  + **ʃoxem** _noun_ song `#2003.12.25`
++ **ʃoxa.n** (_ton verb_) sing (att. 2003-Dec-25)
+  + **ʃoxem** (_noun_) song (att. 2003-Dec-25)
 
 ## T
 
-+ **ta.skel** _ton vb_ call by a name `#2003.12.25`
-+ **tago.rem** _ton vb_ cast something out cast out from another `#2021.04.22`
-+ **tak** _prep_ from, moving away `#2003.12.25`
-  + **takem** _positional_ between, back and forth `#2022.06.01`
-+ -**ták** _vb sfx_ apprentice, student
-+ **takama** _pron_ nothing `#2003.12.25`
-  + **atakama** _expr_ absolutely nothing (less formal version of "nothing at all") `#2003.12.25`
-  + **takama jun kuri** _expr_ Nothing at all `#2003.12.25` _formerly "takama hi mur"_
-+ **taksu** _desc_ funky, wierd `#2003.12.25` _formerly "takchu" and "takcu"_
-+ -**tal** _desc_ short, less `#2003.12.25`
-+ **tala** _desc_ perfect `#2021.04.22`
-  + **talau** _noun_ perfection `#2021.04.22`
-+ **tamano** _noun_ friend `#2003.12.25`
-+ **tamar** _noun_ pet, animal kept for company `#2003.12.25`
-+ **tanxa** _noun_ stuff, miscellaneous objects `#2003.12.25`
-+ **tar** _desc_ long `#2003.12.25`
-+ **tariye** _noun_ future `#2008.06.22`
-+ **taʃi** _prep_ front `#2008.06.22`
-+ -**tax** _v sfx_ one who does (root verb) `#2003.12.25`
-+ **taxoþ** _expr_ "fuck!" (intense profanity, avoid if possible) `#2003.12.25`
-+ **teçi** _noun_ yes `#2003.12.25`
-+ **téça** _noun_ half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly 2.88 kg, 101.589 (101.6) ounces, 6.349313 (6.35) pounds, or precisely _tomo tolisu_ (12 tolis) `#2007` `#2022.06.04`
-+ **teha** _desc_ never
-+ **telar** _noun_ beast, creature (a generic term for wild or unknown animals) `#2003.12.25`
-  + **teljia** _p noun_ Monday (of even-numbered weeks), beast-day
-+ **temba** _noun_ time `#2003.12.25`
-+ **ten** _noun_ sword `#2003.12.25`
-+ **tena.re** _ton vb_ hallow, make holy or sacred `#2003.12.25`
-+ **téol** _noun_ god (singular, usually of multiple) `#2003.12.25`
-  + **téolu'iluan** _p noun_ December, Gods' Month, Spirits' Month
-  + **téoljia** _p noun_ Saturday (of even-numbered weeks), spirit-day, god-day
-+ **tlor** _noun_ mud `#2003.12.25`
-+ **trák.eru** _ton vb_ visit `#2003.12.25`
-  + **trakdin** _noun_ visitor `#2003.12.25`
-  + **trakt** _noun_ visit `#2003.12.25`
-+ **trellu.n** _ton vb_ ignore `#2021.04.22`
-  + **trellamet** _noun_ ignorance `#2021.04.22`
-+ **treno** _prep_ about, around; _conjunction_ concerning `#2003.12.25`
-+ **trini** _noun_ bird `#2003.12.25`
-+ **tumari** _noun_ leggings, trousers; a garment with split leg coverings `#2004.07.13` _alternatively "tumarau"_
-  + **tumari'mor** _noun_ short pants, shorts, capri pants; leggings which typically end near the knees, though always significantly above the ankles `#2004.07.13`
-  + **tumari'ektar** _noun_ tight pants, tights `#2004.07.13`
-  + **tumari'kupredanax** _noun_ sportsman's pants, athletic pants `#2004.07.13`
-  + **tumaraiti** _noun_ feminine pants; trousers designed to accentuate the shape of the legs especially at the hips `#2004.07.13`
-+ **tobi.ru** _ton vb_ allow, free, release; come, orgasm (colloquially used for both orgasm and orgasmic fluids) `#2003.12.25`
-+ -**toçi** _ton verb suffix_ will happen; future tense, passive voice `#2003.12.25`
-+ **toca.s** _ton vb_ smoke `#2003.12.25`
-  + **tolam** _noun_ smoke `#2003.12.25`
-+ -**tol** _ton verb suffix_ is doing, am doing; present tense, active voice `#2003.12.25`
-+ **tolis** _noun_ half-pound, a light weight or mass, roughly 240 grams, 8.46 ounces, or precisely _tomo onsu_ (12 onz) `#2007` `#2022.06.04`
-+ -**toloçi** _ton verb suffix_ will, shall; future tense, active voice `#2003.12.25`
-+ -**tolot** _ton verb suffix_ have finished, was doing; past tense, active voice `#2003.12.25`
-+ **tok** _noun_ minute `#2003.12.25`
-+ **tomo** _desc_ twelve `#2003.12.25`
-  + -**mo** _sfx_ twelves (10s) `#2003.12.25`
-+ -**ton** _ton verb suffix_ is, am; present tense, passive voice `#2003.12.25`
-+ **tons.en** _ton vb_ become, change to `#2003.12.25`
-+ **tóji** _desc_ great gross; one thousand, seven hundred twenty eight (${1728_{10}}$, or ${1000_{12}}$) `#2003.12.25`
-  + **-ji** _sfx_ great grosses (${1728s_{10}}$, or ${1000s_{12}}$) `#2003.12.25`
-+ **top** _prep_ of, by, with `#2003.12.25`
-+ **torek** _kun vb, pro-vb_ shall `#2003.12.25`
-  + -**rek** _v sfx_ shall `#2003.12.25`
-+ **toric** _desc_ magical (as if by magic, inexplicable) `#2003.12.25`
-+ **toʃi** _noun_ snow `#2003.12.25`
-  + **toʃipáci** _noun_ snowbank, snow dune `#2022.05.31`
-+ -**tot** _ton verb suffix_ did, was; past tense, passive voice `#2003.12.25`
-+ **tox** _kun vb_ to lose, to end (as a game or contest) `#2003.12.25`
-+ **twa** _noun_ book `#2003.12.25`
-+ **twar** _noun_ water `#2003.12.25`
-  + **twariluan** _p noun_ February, Water's Month
-  + **twarjia** _p noun_ Wednesday (of odd-numbered weeks), water-day
++ **ta.skel** (_ton verb_) call by a name (att. 2003-Dec-25)
++ **tago.rem** (_ton verb_) cast something out cast out from another (att. 2021-Apr-22)
++ **tak** (_positional_) from, moving away (att. 2003-Dec-25)
+  + **takem** (_positional_) between, back and forth (att. 2002-Jun-01)
++ -**ták** (_verb affix_) apprentice, student
++ **takama** (_pronoun_) nothing (att. 2003-Dec-25)
+  + **atakama** (_expression_) absolutely nothing (less formal version of "nothing at all") (att. 2003-Dec-25)
+  + **takama jun kuri** (_expression_) Nothing at all (att. 2003-Dec-25) _formerly "takama hi mur"_
++ **taksu** (_descriptor_) funky, wierd (att. 2003-Dec-25) _formerly "takchu" and "takcu"_
++ -**tal** (_descriptor_) short, less (att. 2003-Dec-25)
++ **tala** (_descriptor_) perfect (att. 2021-Apr-22)
+  + **talau** (_noun_) perfection (att. 2021-Apr-22)
++ **tamano** (_noun_) friend (att. 2003-Dec-25)
++ **tamar** (_noun_) pet, animal kept for company (att. 2003-Dec-25)
++ **tanxa** (_noun_) stuff, miscellaneous objects (att. 2003-Dec-25)
++ **tar** (_descriptor_) long (att. 2003-Dec-25)
++ **tariye** (_noun_) future (att. 2008-Jun-22)
++ **taʃi** (_positional_) front (att. 2008-Jun-22)
++ -**tax** _v sfx_ one who does (root verb) (att. 2003-Dec-25)
++ **taxoþ** (_expression_) "fuck!" (intense profanity, avoid if possible) (att. 2003-Dec-25)
++ **teçi** (_noun_) yes (att. 2003-Dec-25)
++ **téça** (_noun_) half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly 2.88 kg, 101.589 (101.6) ounces, 6.349313 (6.35) pounds, or precisely _tomo tolisu_ (${12_{10}}$ tolis) (att. 2007, rediscovered 2022-Jun-04)
++ **teha** (_descriptor_) never
++ **telar** (_noun_) beast, creature (a generic term for wild or unknown animals) (att. 2003-Dec-25)
+  + **teljia** (_proper noun_) Monday (of even-numbered weeks), beast-day
++ **temba** (_noun_) time (att. 2003-Dec-25)
++ **ten** (_noun_) sword (att. 2003-Dec-25)
++ **tena.re** (_ton verb_) hallow, make holy or sacred (att. 2003-Dec-25)
++ **téol** (_noun_) god (singular, usually of multiple) (att. 2003-Dec-25)
+  + **téolu'iluan** (_proper noun_) December, Gods' Month, Spirits' Month
+  + **téoljia** (_proper noun_) Saturday (of even-numbered weeks), spirit-day, god-day
++ **tlor** (_noun_) mud (att. 2003-Dec-25)
++ **trák.eru** (_ton verb_) visit (att. 2003-Dec-25)
+  + **trakdin** (_noun_) visitor (att. 2003-Dec-25)
+  + **trakt** (_noun_) visit (att. 2003-Dec-25)
++ **trellu.n** (_ton verb_) ignore (att. 2021-Apr-22)
+  + **trellamet** (_noun_) ignorance (att. 2021-Apr-22)
++ **treno** (_positional_) about, around; _conjunction_ concerning (att. 2003-Dec-25)
++ **trini** (_noun_) bird (att. 2003-Dec-25)
++ **tumari** (_noun_) leggings, trousers; a garment with split leg coverings (att. 2004-Jul-13) _alternatively "tumarau"_
+  + **tumari'mor** (_noun_) short pants, shorts, capri pants; leggings which typically end near the knees, though always significantly above the ankles (att. 2004-Jul-13)
+  + **tumari'ektar** (_noun_) tight pants, tights (att. 2004-Jul-13)
+  + **tumari'kupredanax** (_noun_) sportsman's pants, athletic pants (att. 2004-Jul-13)
+  + **tumaraiti** (_noun_) feminine pants; trousers designed to accentuate the shape of the legs especially at the hips (att. 2004-Jul-13)
++ **tobi.ru** (_ton verb_) allow, free, release; come, orgasm (colloquially used for both orgasm and orgasmic fluids) (att. 2003-Dec-25)
++ -**toçi** _ton verb suffix_ will happen; future tense, passive voice (att. 2003-Dec-25)
++ **toca.s** (_ton verb_) smoke (att. 2003-Dec-25)
+  + **tolam** (_noun_) smoke (att. 2003-Dec-25)
++ -**tol** _ton verb suffix_ is doing, am doing; present tense, active voice (att. 2003-Dec-25)
++ **tolis** (_noun_) half-pound, a light weight or mass, roughly 240 grams, 8.46 ounces, or precisely _tomo onsu_ (${12_{10}}$ onz) (att. 2007, rediscovered 2022-Jun-04)
++ -**toloçi** _ton verb suffix_ will, shall; future tense, active voice (att. 2003-Dec-25)
++ -**tolot** _ton verb suffix_ have finished, was doing; past tense, active voice (att. 2003-Dec-25)
++ **tok** (_noun_) minute (att. 2003-Dec-25)
++ **tomo** (_descriptor_) twelve (att. 2003-Dec-25)
+  + -**mo** (_suffix, descriptor_) twelves (10s) (att. 2003-Dec-25)
++ -**ton** _ton verb suffix_ is, am; present tense, passive voice (att. 2003-Dec-25)
++ **tons.en** (_ton verb_) become, change to (att. 2003-Dec-25)
++ **tóji** (_descriptor_) great gross; one thousand, seven hundred twenty eight (${1728_{10}}$, or ${1000_{12}}$) (att. 2003-Dec-25)
+  + **-ji** (_suffix, descriptor_) great grosses (${1728s_{10}}$, or ${1000s_{12}}$) (att. 2003-Dec-25)
++ **top** (_positional_) of, by, with (att. 2003-Dec-25)
++ **torek** _kun vb, pro-vb_ shall (att. 2003-Dec-25)
+  + -**rek** _v sfx_ shall (att. 2003-Dec-25)
++ **toric** (_descriptor_) magical (as if by magic, inexplicable) (att. 2003-Dec-25)
++ **toʃi** (_noun_) snow (att. 2003-Dec-25)
+  + **toʃipáci** (_noun_) snowbank, snow dune (att. 2022-May-31)
++ -**tot** _ton verb suffix_ did, was; past tense, passive voice (att. 2003-Dec-25)
++ **tox** (_kun verb_) to lose, to end (as a game or contest) (att. 2003-Dec-25)
++ **twa** (_noun_) book (att. 2003-Dec-25)
++ **twar** (_noun_) water (att. 2003-Dec-25)
+  + **twariluan** (_proper noun_) February, Water's Month
+  + **twarjia** (_proper noun_) Wednesday (of odd-numbered weeks), water-day
 
 ### Þ (TH)
 
-+ **þelirutax** _noun_ prophet, oracle (a mortal who brings messages from a god) `#2008.06.22`
-+ **þost** _ton vb_ try `#2021.04.22`
++ **þelirutax** (_noun_) prophet, oracle (a mortal who brings messages from a god) (att. 2008-Jun-22)
++ **þost** (_ton verb_) try (att. 2021-Apr-22)
 
 ## U
 
-+ **ucama.ret** _ton vb_ housing, sheltering, providing a house `#2003.12.25`
-  + **ucmat** _noun_ house `#2003.12.25`
-+ **ufaln** _noun_ knock (the sound of hitting something lightly) `#2021.04.22`
-+ **ulic** _noun_ staff `#2008.06.22`
-+ **umaʃ** _ton vb_ hide `#2021.04.22`
-+ **urda** _desc_ like, alike, as, similar to (archaic, largely bound in modern speech) `#2021.04.22`
-+ **urén** _noun_ car, carriage, cart, wagon `#2003.12.25`
++ **ucama.ret** (_ton verb_) housing, sheltering, providing a house (att. 2003-Dec-25)
+  + **ucmat** (_noun_) house (att. 2003-Dec-25)
++ **ufaln** (_noun_) knock (the sound of hitting something lightly) (att. 2021-Apr-22)
++ **ulic** (_noun_) staff (att. 2008-Jun-22)
++ **umaʃ** (_ton verb_) hide (att. 2021-Apr-22)
++ **urda** (_descriptor_) like, alike, as, similar to (archaic, largely bound in modern speech) (att. 2021-Apr-22)
++ **urén** (_noun_) car, carriage, cart, wagon (att. 2003-Dec-25)
 
 ## Y
 
-+ **ya** _pron_ that `#2003.12.25`
-+ -**ya**- _kun verb suffix_ not; replaces the last vowel in the root (especially after another vowel) `#2003.12.25`
-+ **yani.s** _ton vb_ say `#2003.12.25`
-  + **yaniqon.ij** _ton vb_ speech writing, taking dictation
-  + **yanicin** _noun_ saying, expression `#2021.04.22`
-+ **yemain** _noun_ wolf `#2008.06.22`
-+ **yenek** _noun_ generation, age gap from parent to child `#2008.06.22`
-+ **yent** _noun_ text, written language `#2003.12.25`
-+ **yev** _noun_ mouth `#2008.06.22`
-+ **yi** _pron_ I, me `#2003.12.25`
-+ -**ykun** _kun verb suffix_ will, shall; future tense (_kun_ verbs which end in consonants) `#2003.12.25`
-+ **yr** _conj_ or `#2008.06.22`
-+ **yréons** _arc vb_ to come first (archaic, proper name) `#2008.06.22`
-+ **yuga** _noun_ thing `#2003.12.25` _formerly "yugi"_
-+ **yumare** _noun_ compassion, diffused love `#2008.06.22`
-+ **yok.els** _ton vb_ lead, be ahead of `#2003.12.25`
-  + **yoken** _noun_ lead, a distance between two `#2003.12.25`
-  + **yoketax** _noun_ leader, one who is ahead `#2003.12.25`
++ **ya** (_pronoun_) that (att. 2003-Dec-25)
++ -**ya**-(_kun verb affix_) not; replaces the last vowel in the root (especially after another vowel) (att. 2003-Dec-25)
++ **yani.s** (_ton verb_) say (att. 2003-Dec-25)
+  + **yaniqon.ij** (_ton verb_) speech writing, taking dictation
+  + **yanicin** (_noun_) saying, expression (att. 2021-Apr-22)
++ **yemain** (_noun_) wolf (att. 2008-Jun-22)
++ **yenek** (_noun_) generation, age gap from parent to child (att. 2008-Jun-22)
++ **yent** (_noun_) text, written language (att. 2003-Dec-25)
++ **yev** (_noun_) mouth (att. 2008-Jun-22)
++ **yi** (_pronoun_) I, me (att. 2003-Dec-25)
++ -**ykun**(_kun verb affix_) will, shall; future tense (_kun_ verbs which end in consonants) (att. 2003-Dec-25)
++ **yr** (_conjunction_) or (att. 2008-Jun-22)
++ **yréons** _arc vb_ to come first (archaic, proper name) (att. 2008-Jun-22)
++ **yuga** (_noun_) thing (att. 2003-Dec-25) _formerly "yugi"_
++ **yumare** (_noun_) compassion, diffused love (att. 2008-Jun-22)
++ **yok.els** (_ton verb_) lead, be ahead of (att. 2003-Dec-25)
+  + **yoken** (_noun_) lead, a distance between two (att. 2003-Dec-25)
+  + **yoketax** (_noun_) leader, one who is ahead (att. 2003-Dec-25)
 
 ## F
 
-+ **faiç.es** _ton vb_ defend `#2003.12.25`
-  + **faiçi** _noun_ defense `#2003.12.25`
-+ **faile.res** _ton vb_ love, make an emotional connection `#2008.06.22`
-  + **failes** _noun_ love, romantic, emotional connection `#2008.06.22`
-  + **failefaile.res** _ton vb_ infatuating, entrancing, arousing, crushing (emotionally)
-+ **fainu.l** _ton vb_ sleep `#2003.12.25`
-  + **fainen** _noun_ sleep `#2003.12.25`
-+ **fairo** _noun_ sugar `#2003.12.25`
-+ **falc.et** _ton vb_ feel or sense, emotional `#2008.06.22`
-+ **fanguen** _desc_ fertile `#2008.06.22`
-+ **fant.els** _ton vb_ forgiving `#2003.12.25`
-+ **feis** _noun_ glory `#2003.12.25`
-  + **feisaun** _desc_ glorious `#2003.12.25`
-  + **feiso.na** _ton vb_ glorify `#2003.12.25`
-+ **felimin** _desc_ soft, gentle, quiet `#2003.12.25`
-  + **feliman.is** _ton vb_ to speak softly and indistinctly, to speak quietly; from _felimin_ + _yan.is_
-+ **felorn** _desc_ sturdy `#2009.11.06`
++ **faiç.es** (_ton verb_) defend (att. 2003-Dec-25)
+  + **faiçi** (_noun_) defense (att. 2003-Dec-25)
++ **faile.res** (_ton verb_) love, make an emotional connection (att. 2008-Jun-22)
+  + **failes** (_noun_) love, romantic, emotional connection (att. 2008-Jun-22)
+  + **failefaile.res** (_ton verb_) infatuating, entrancing, arousing, crushing (emotionally)
++ **fainu.l** (_ton verb_) sleep (att. 2003-Dec-25)
+  + **fainen** (_noun_) sleep (att. 2003-Dec-25)
++ **fairo** (_noun_) sugar (att. 2003-Dec-25)
++ **falc.et** (_ton verb_) feel or sense, emotional (att. 2008-Jun-22)
++ **fanguen** (_descriptor_) fertile (att. 2008-Jun-22)
++ **fant.els** (_ton verb_) forgiving (att. 2003-Dec-25)
++ **feis** (_noun_) glory (att. 2003-Dec-25)
+  + **feisaun** (_descriptor_) glorious (att. 2003-Dec-25)
+  + **feiso.na** (_ton verb_) glorify (att. 2003-Dec-25)
++ **felimin** (_descriptor_) soft, gentle, quiet (att. 2003-Dec-25)
+  + **feliman.is** (_ton verb_) to speak softly and indistinctly, to speak quietly; from _felimin_ + _yan.is_
++ **felorn** (_descriptor_) sturdy (att. 2009-Nov-06)
 + **fent** _n_ fox
-+ **fi** _f pron_ she, her `#2003.12.25`
-+ **finit** _noun_ rival `#2003.12.25`
-+ **fir** _desc_ grey, gray `#2008.06.22`
-+ **flin.gel** _ton vb_ stranding `#2003.12.25`
-+ **frelmagi** _desc_ important `#2021.04.22`
-+ **frilt.orv** _ton vb_ reply `#2021.04.22`
-  + **frilnef** _noun_ reply `#2021.04.22`
-+ **furak** _noun_ lemon, citrus fruit `#2021.04.22`
-  + **furatan** _noun_ lemon, erotic story (the genre of stories written for sexual enjoyment) `#2003.12.25` _formerly "furatri"_
-+ **fúri** _prep_ over, past, beyond `#2003.12.25`
-+ **furin.s** _ton vb_ swim `#2003.12.25`
-  + **furin** _noun_ swim `#2003.12.25`
-+ **folar** _ton vb_ flow, course, move `#2021.04.22`
-+ **folre** _kun vb_ stop `#2003.12.25`
-  + **folredai** _noun_ stop mark, full stop, period `#2008.06.22` _formerly "folretruk"_
-+ **fomark** _desc_ as, for the purpose of `#2003.12.25`
-+ **forti.n** _ton vb_ climb `#2003.12.25`
-  + **fortenk** _noun_ climb `#2003.12.25`
++ **fi** _f pron_ she, her (att. 2003-Dec-25)
++ **finit** (_noun_) rival (att. 2003-Dec-25)
++ **fir** (_descriptor_) grey, gray (att. 2008-Jun-22)
++ **flin.gel** (_ton verb_) stranding (att. 2003-Dec-25)
++ **frelmagi** (_descriptor_) important (att. 2021-Apr-22)
++ **frilt.orv** (_ton verb_) reply (att. 2021-Apr-22)
+  + **frilnef** (_noun_) reply (att. 2021-Apr-22)
++ **furak** (_noun_) lemon, citrus fruit (att. 2021-Apr-22)
+  + **furatan** (_noun_) lemon, erotic story (the genre of stories written for sexual enjoyment) (att. 2003-Dec-25) _formerly "furatri"_
++ **fúri** (_positional_) over, past, beyond (att. 2003-Dec-25)
++ **furin.s** (_ton verb_) swim (att. 2003-Dec-25)
+  + **furin** (_noun_) swim (att. 2003-Dec-25)
++ **folar** (_ton verb_) flow, course, move (att. 2021-Apr-22)
++ **folre** (_kun verb_) stop (att. 2003-Dec-25)
+  + **folredai** (_noun_) stop mark, full stop, period (att. 2008-Jun-22) _formerly "folretruk"_
++ **fomark** (_descriptor_) as, for the purpose of (att. 2003-Dec-25)
++ **forti.n** (_ton verb_) climb (att. 2003-Dec-25)
+  + **fortenk** (_noun_) climb (att. 2003-Dec-25)
 
 ## V
 
-+ **va** _noun_ secret `#2021.04.22`
-+ **varm** _noun_ mortar (to hold bricks together), grout `#2003.12.25`
-+ **varmel** _desc_ together `#2021.04.22`
-  + **varnarika** _kun verb_ to own in common, to share communally `#2022.05.31`
-  + **varnanorika** _noun_ a commune, a collective, the commons `#2022.05.31`
-+ **varme.st** _ton vb_ bind bricks together with mortar `#2021.04.22`
-+ **vélon** _desc_ average (definition 2) `#2003.12.25`
-+ **venari** _noun_ native `#2008.06.22`
-+ **ventro.l** _ton vb_ move `#2003.12.25`
-+ **véol** _desc_ violet `#2003.12.25`
-+ **veron** _desc_ green `#2003.12.25`
-+ **verlic** _noun_ vine
-+ **vérst** _noun_ whim `#2021.04.22`
-+ **vic** _noun, descriptor_ white `#2022.02.25`
-+ **voten** _noun_ verb, a word which represents an action `#2003.12.25`
++ **va** (_noun_) secret (att. 2021-Apr-22)
++ **varm** (_noun_) mortar (to hold bricks together), grout (att. 2003-Dec-25)
++ **varmel** (_descriptor_) together (att. 2021-Apr-22)
+  + **varnarika**(_kun verb_) to own in common, to share communally (att. 2022-May-31)
+  + **varnanorika** (_noun_) a commune, a collective, the commons (att. 2022-May-31)
++ **varme.st** (_ton verb_) bind bricks together with mortar (att. 2021-Apr-22)
++ **vélon** (_descriptor_) average (definition 2) (att. 2003-Dec-25)
++ **venari** (_noun_) native (att. 2008-Jun-22)
++ **ventro.l** (_ton verb_) move (att. 2003-Dec-25)
++ **véol** (_descriptor_) violet (att. 2003-Dec-25)
++ **veron** (_descriptor_) green (att. 2003-Dec-25)
++ **verlic** (_noun_) vine
++ **vérst** (_noun_) whim (att. 2021-Apr-22)
++ **vic** _noun, descriptor_ white (att. 2022-Feb-25)
++ **voten** (_noun_) verb, a word which represents an action (att. 2003-Dec-25)
 
 ## X (KH)
 
-+ **xá** _noun_ magic `#2003.12.25`
-  + **xá'iluan** _p noun_ June, Magic's Month
-  + **xá peratamani** _noun_ magical charm, mind-altering magic `#2022.06.04`
-  + **xámul** _noun_ magic spell `#2021.04.22`
-  + **xáron** _noun_ mage, magic user `#2003.12.25`
-  + **xátri** _desc_ magical (achieved by magic) `#2021.04.22`
-  + **xájia** _p noun_ Saturday (of odd-numbered weeks), magic-day
-  + **xábitke** _noun_ magical portal, magical gateway `#2022.06.01`
-  + **xátoric** _noun_ artifice, magitech `#2022.05.31`
-    + **xátoricax** _noun_ artificer, magitech engineer `#2022.05.31`
-+ **xagi** _noun_ tree `#2003.12.25`
-  + **xagijia** _p noun_ Wednesday (of even-numbered weeks), tree-day
-  + **xagi'iluan** _p noun_ April, Tree's Month
-+ **xajii** _desc_ rising, increasing, upwards, tall `#2003.12.25`
-+ **xal** _noun_ wood `#2003.12.25`
-+ **xampe.rs** _ton vb_ falling, stumbling, tripping; wilt `#2003.12.25`
-  + **xampaldin** _p noun_ Orc (Tolkien-esque) `#2021.04.22`
-+ **xand** _prep_ out `#2003.12.25`
-  + **xandar** _noun_ outcast `#2003.12.25`
-+ **xar** _desc_ solid (state of matter), firm, sturdy `#2003.12.25`
-+ **xata.ar** _ton vb_ prepare, make ready `#2008.06.22`
-  + **xatan** _desc_ ready, prepared `#2008.06.22`
-+ **xaf** _noun_ truth `#2003.12.25`
-  + **xau** _desc_ true `#2003.12.25`
-  + **xai** _desc_ truly `#2003.12.25`
-+ **xen** _desc_ last, final `#2008.06.22`
-  + **axen** _desc_ last, final, the last, the final; term of absolution, indicates finality `#2008.06.22`
-+ **xi** _pron_ it `#2003.12.25`
-+ **xlama.st** _ton vb_ translate (mathematically), change from A to B `#2003.12.25`
-  + **xlamarn** _noun_ translation (mathematically) `#2003.12.25`
-+ **xlari** _noun_ forest `#2008.06.22`
-+ **xumas** _desc_ cruel, harsh `#2021.04.22`
-  + **xumbiro** _noun_ dictator, cruel or harsh leader  `#2008.06.22`
-+ **xune.m** _ton verb_ to excuse, to justify, to rationalize `#2005.11.04` `#2022.06.04` _discovered in an early attempt to make a dictionary, using Adinjo as 'axunem' translated as 'no excusing'_
-+ **xoci.da** _ton vb_ conjugate, build the forms of a verb `#2003.12.25`
-+ **xoltwa** _noun_ journal `#2003.12.25`
-+ **xori.mas** _ton vb_ protect `#2003.12.25`
-  + **xorii** _noun_ protection `#2003.12.25`
-+ **xorli** _noun_ dialect `#2003.12.25`
++ **xá** (_noun_) magic (att. 2003-Dec-25)
+  + **xá'iluan** (_proper noun_) June, Magic's Month
+  + **xá peratamani** (_noun_) magical charm, mind-altering magic (att. 2022-Jun-04)
+  + **xámul** (_noun_) magic spell (att. 2021-Apr-22)
+  + **xáron** (_noun_) mage, magic user (att. 2003-Dec-25)
+  + **xátri** (_descriptor_) magical (achieved by magic) (att. 2021-Apr-22)
+  + **xájia** (_proper noun_) Saturday (of odd-numbered weeks), magic-day
+  + **xábitke** (_noun_) magical portal, magical gateway (att. 2002-Jun-01)
+  + **xátoric** (_noun_) artifice, magitech (att. 2022-May-31)
+    + **xátoricax** (_noun_) artificer, magitech engineer (att. 2022-May-31)
++ **xagi** (_noun_) tree (att. 2003-Dec-25)
+  + **xagijia** (_proper noun_) Wednesday (of even-numbered weeks), tree-day
+  + **xagi'iluan** (_proper noun_) April, Tree's Month
++ **xajii** (_descriptor_) rising, increasing, upwards, tall (att. 2003-Dec-25)
++ **xal** (_noun_) wood (att. 2003-Dec-25)
++ **xampe.rs** (_ton verb_) falling, stumbling, tripping; wilt (att. 2003-Dec-25)
+  + **xampaldin** (_proper noun_) Orc (Tolkien-esque) (att. 2021-Apr-22)
++ **xand** (_positional_) out (att. 2003-Dec-25)
+  + **xandar** (_noun_) outcast (att. 2003-Dec-25)
++ **xar** (_descriptor_) solid (state of matter), firm, sturdy (att. 2003-Dec-25)
++ **xata.ar** (_ton verb_) prepare, make ready (att. 2008-Jun-22)
+  + **xatan** (_descriptor_) ready, prepared (att. 2008-Jun-22)
++ **xaf** (_noun_) truth (att. 2003-Dec-25)
+  + **xau** (_descriptor_) true (att. 2003-Dec-25)
+  + **xai** (_descriptor_) truly (att. 2003-Dec-25)
++ **xen** (_descriptor_) last, final (att. 2008-Jun-22)
+  + **axen** (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
++ **xi** (_pronoun_) it (att. 2003-Dec-25)
++ **xlama.st** (_ton verb_) translate (mathematically), change from A to B (att. 2003-Dec-25)
+  + **xlamarn** (_noun_) translation (mathematically) (att. 2003-Dec-25)
++ **xlari** (_noun_) forest (att. 2008-Jun-22)
++ **xumas** (_descriptor_) cruel, harsh (att. 2021-Apr-22)
+  + **xumbiro** (_noun_) dictator, cruel or harsh leader  (att. 2008-Jun-22)
++ **xune.m** (_ton verb_) to excuse, to justify, to rationalize (att. 2005-Nov-04) (att. 2022-Jun-04) _discovered in an early attempt to make a dictionary, using Adinjo as 'axunem' translated as 'no excusing'_
++ **xoci.da** (_ton verb_) conjugate, build the forms of a verb (att. 2003-Dec-25)
++ **xoltwa** (_noun_) journal (att. 2003-Dec-25)
++ **xori.mas** (_ton verb_) protect (att. 2003-Dec-25)
+  + **xorii** (_noun_) protection (att. 2003-Dec-25)
++ **xorli** (_noun_) dialect (att. 2003-Dec-25)
 
 ## O
 
-+ **okei** _expr_ okay, alright `#2003.12.25`
-+ **ol** _noun_ a measure of mass/weight used by the native residents of Atrusius, roughly equal to about 1.25 _onz_, 25 grams, or 0.881849 (0.89) ounces `#2007` `#2022.06.04`
-+ **ons** _noun_ ounce, a small weight or mass, roughly 20 grams or 0.705479 (0.71) ounces by weight `#2007` `#2022.06.04`
-+ **opporhel** _desc_ gracious `#2021.04.22`
-+ **Orgdin** _p noun_ Ork (Atrusian) `#2021.04.22`
-+ **orìnd** _noun, desc_ gold, metal or color `#2008.06.22`
-  + **orìndomi** _noun_ store, shop, an artisan's house; from _orind_ + _domya_, 'goldhouse' `#2022.06.04`
-+ **Orxdin** _p noun_ Orc (Warcraft) `#2021.04.22`
-+ **ormer.cin** _ton vb_ bleed, to drain blood `#2021.04.22`
-+ **oro** _noun_ lap, time around a course `#2008.06.22`
-+ **orom** _descriptor_ same, similar, identical, stable `2003.04.24` `#2022.06.05`
-+ **owala** _noun_ nose `#2008.06.22`
++ **okei** (_expression_) okay, alright (att. 2003-Dec-25)
++ **ol** (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about 1.25 _onz_, 25 grams, or 0.881849 (0.89) ounces (att. 2007, rediscovered 2022-Jun-04)
++ **ons** (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (0.71) ounces by weight (att. 2007, rediscovered 2022-Jun-04)
++ **opporhel** (_descriptor_) gracious (att. 2021-Apr-22)
++ **Orgdin** (_proper noun_) Ork (Atrusian) (att. 2021-Apr-22)
++ **orìnd** _noun, desc_ gold, metal or color (att. 2008-Jun-22)
+  + **orìndomi** (_noun_) store, shop, an artisan's house; from _orind_ + _domya_, 'goldhouse' (att. 2022-Jun-04)
++ **Orxdin** (_proper noun_) Orc (Warcraft) (att. 2021-Apr-22)
++ **ormer.cin** (_ton verb_) bleed, to drain blood (att. 2021-Apr-22)
++ **oro** (_noun_) lap, time around a course (att. 2008-Jun-22)
++ **orom** (_descriptor_) same, similar, identical, stable (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **owala** (_noun_) nose (att. 2008-Jun-22)
 
 ## W
 
-+ **walu** _desc_ evil `#2003.12.25`
-+ **wendok** _noun_ weapon `#2003.12.25`
-+ **westak** _noun_ shade `#2021.04.22`
-+ **wi** _pron_ who `#2003.12.25`
-+ **win** _desc_ one `#2003.12.25`
-  + **winilarn** _noun_ half, literally "one (part) of two" `#2021.04.22`
-    + **Winilardin** _p noun_ one-half of a person, half-sized person (halfling) `#2021.04.22`
-    + **Winilarn** _pfx_ Half-race `#2021.04.22`
-  + **winirin** _desc_ first `#2003.12.25`
-  + **winlin** _descriptor_ like one, as one, united, in unison, co-ordinated `#2007.11.26` `#2022.06.05`
-+ **wor** _prep_ as, while `#2003.12.25`
-+ **Woredin** _p noun_ Woren `#2021.04.22`
-+ **worka.in** _ton vb_ bear, carry `#2008.06.22`
-  + **workait** _vb form_ be born from "born" `#2021.04.22`
-  + **workatol** _vb form_ give birth Literally "bearing" `#2021.04.22`
++ **walu** (_descriptor_) evil (att. 2003-Dec-25)
++ **wendok** (_noun_) weapon (att. 2003-Dec-25)
++ **westak** (_noun_) shade (att. 2021-Apr-22)
++ **wi** (_pronoun_) who (att. 2003-Dec-25)
++ **win** (_descriptor_) one (att. 2003-Dec-25)
+  + **winilarn** (_noun_) half, literally "one (part) of two" (att. 2021-Apr-22)
+    + **Winilardin** (_proper noun_) one-half of a person, half-sized person (halfling) (att. 2021-Apr-22)
+    + **Winilarn** (_prefix, positional_) Half-race (att. 2021-Apr-22)
+  + **winirin** (_descriptor_) first (att. 2003-Dec-25)
+  + **winlin** (_descriptor_) like one, as one, united, in unison, co-ordinated (att. 2007-Nov-26, rediscovered 2022-Jun-05)
++ **wor** (_positional_) as, while (att. 2003-Dec-25)
++ **Woredin** (_proper noun_) Woren (att. 2021-Apr-22)
++ **worka.in** (_ton verb_) bear, carry (att. 2008-Jun-22)
+  + **workait** _vb form_ be born from "born" (att. 2021-Apr-22)
+  + **workatol** _vb form_ give birth Literally "bearing" (att. 2021-Apr-22)
 
 ## OLD FORMS
 
 The words listed in this section may be repurposed and redefined as they have modern forms in the lexicon.
 
-+ **bura.nu** _ton verb_ to blow, to exhale `#2003.12.25` _has become modern "brau.jen"_
-+ **imá.ton** _ton verb_ to shoot `#2003.12.25` `#2022.06.05` _has become modern "íma.ta"_
++ **bura.nu** (_ton verb_) to blow, to exhale (att. 2003-Dec-25; _has become modern "brau.jen"_)
++ **imá.ton** (_ton verb_) to shoot (att. 2003-Dec-25, rediscovered 2022-Jun-05; _has become modern "íma.ta"_)
 
 ## UNSORTED
 

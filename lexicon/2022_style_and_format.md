@@ -106,7 +106,7 @@ From the start of this update, it is intended that all lexicon pages within the 
 Going forward, all lexicon lists should stop using mother-daughter hierarchies for words, and should instead reference related words in a parenthetical. The proposed format is as follows:
 
 ```plaintext
-+ **[alma.ru](a/alma.md)** 1. (_ton verb_) ruling, leading, governing (attested 2008.06.22; formerly _aluma.ru_)
++ **[alma.ru](a/alma.md)** 1. (_ton verb_) ruling, leading, governing (attested 2008-Jun-22; formerly _aluma.ru_)
 + **[almán](a/almán.md)** 1. (_noun_) leader by circumstance, acting leader (cf. _almaru_)
 + **[almatax](a/almatax.md)** 1. (_noun_) leader by profession, manager (cf. _almaru_)
 + **[alnom](a/alnom.md)** 1. (_noun_) a rule or law (cf. _almaru_)
@@ -120,6 +120,7 @@ Which ought to render, roughly, as such:
 + **[alnom](a/alnom.md)** 1. (_noun_) a rule or law (cf. _almaru_)
 
 1. All entries are part of an _unordered list_ denoted with a \+ symbol. Ordering of this list is manual, following the alphabetic conventions of the language in which entries are listed.
+   1. In the updated lexicon, a straightforward transcription is preferred to the use of IPA or special characters for digraphs.
 2. When linked to a lexicon entry page, the full dictionary form of the entry is included in the link, though the lexicon entry page should still be named based on the verb stem.
 3. Each sense of the lexicon entry receives a numbered listing, helping to alleviate confusion over comma-separated and semicolon separated entries.
    1. The part of speech is **emphasis** formatted and contained in a pair of parentheses
@@ -203,31 +204,20 @@ Dictionary pages should be formatted in a manner that makes their migration to M
 + **related word** (_part of speech_) definition or gloss
 ```
 
-This will render roughly as follows:
-
-## Forms
-
-1. **lexical form** (_part of speech_, _field of knowledge (optional)_) **[Tags: `#tag1` ...]
-   1. definition or gloss
-      + Usage Notes
-
-### Other Forms
-
-+ **(Applicable Sense/s)**
-  + **_alternate form_** (_part of speech_) usage or definition
-
-## Derivation
-
-+ **(Applicable Sense/s)**
-  + Derivational information
-
-### Etymology (optional)
-
-+ **(Applicable Sense/s)**
-  + etymological information
-
-## Related Words
-
-+ **related word** (_part of speech_) definition or gloss
-
 This format should provide the easiest translation into the preferred Mediawiki structure, though some changes may still need to be made at the time of conversion (such as stripping of the H1/title of the dictionary page).
+
+#### Verbal Paradigms
+
+Dictionary pages for verbs may include tables to show the primary paradigm for the verb. This should follow one of the following layouts, for _ton verbs_ or _kun verbs_.
+
+```plaintext
+|             | Gerund       | Infinitive  |
+|:-----------:|:------------:|:-----------:|
+| Root/Gerund | root.ger     | root        |
+| Negative    | root.ger.neg | root.neg    |
+
+|             | Past       | Present   | Future      |
+|:-----------:|:----------:|:---------:|:-----------:|
+| Active      | root.tot   | root.ton  | root.toçi   |
+| Passive     | root.tolot | root.tol  | root.toloçi |
+```
