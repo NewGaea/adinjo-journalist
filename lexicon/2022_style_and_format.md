@@ -208,16 +208,32 @@ This format should provide the easiest translation into the preferred Mediawiki 
 
 #### Verbal Paradigms
 
-Dictionary pages for verbs may include tables to show the primary paradigm for the verb. This should follow one of the following layouts, for _ton verbs_ or _kun verbs_.
+Dictionary pages for verbs may include tables to show the primary paradigm for the verb. This should follow one of the following layouts, for _ton verbs_ or _kun verbs_. The terms _foo_ and _bar_ are used as placeholders in these paradigm templates.
+
+##### **Paradigm for Ton Verbs**
 
 ```plaintext
-|             | Gerund       | Infinitive  |
-|:-----------:|:------------:|:-----------:|
-| Root/Gerund | root.ger     | root        |
-| Negative    | root.ger.neg | root.neg    |
+|          | Gerund       | Infinitive  |
+|:--------:|:------------:|:-----------:|
+| Positive | foo.GER      | foo         |
+| Negative | foo.GER.(h)a | foo.(h)a    |
 
 |             | Past       | Present   | Future      |
 |:-----------:|:----------:|:---------:|:-----------:|
-| Active      | root.tot   | root.ton  | root.toçi   |
-| Passive     | root.tolot | root.tol  | root.toloçi |
+| Active      | foo.tot    | foo.ton   | foo.toçi    |
+| Passive     | foo.tolot  | foo.tol   | foo.toloçi  |
+```
+
+##### **Paradigm for Kun Verbs**
+
+```plaintext
+|          | Gerund     | Infinitive |
+|:--------:|:----------:|:----------:|
+| Positive | fo.no.o    | foo        |
+| Negative | fo.no.ya   | fo.ya      |
+
+|         | Past   | Present | Future   |
+|:-------:|:------:|:-------:|:--------:|
+| C Final | bar.ns | bar.s   | bar.ykun |
+| V Final | foo.ns | foo.c   | foo.kun  |
 ```
