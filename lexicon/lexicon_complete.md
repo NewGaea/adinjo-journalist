@@ -58,7 +58,7 @@
 + **[anko.ro](a/anko.md)** 1. (_ton verb_) existing (att. 2008-Jun-22)
 + **ankomar** 1. (_noun_) existence (att. 2008-Jun-22)
 + **[anon](a/anon.md)** 1. (_descriptor_) neuter, ungendered (att. 2008-Jun-22)
-+ **aramdekçin** 1. (_noun_) password, passcode (att. 2021-Apr-21; cf. _aramel_, _dekcin_)
++ **aramdekchin** 1. (_noun_) password, passcode (att. 2021-Apr-21; cf. _aramel_, _dekcin_)
 + **[aram.el](a/aram.md)** 1. (_ton verb_) passing, going through, going beyond (att. 2003-Dec-25)
 + **arconir** 1. (_noun_) bear (animal)
 + **[ar.i](a/ar.md)** 1. (_ton verb_) throwing (att. 2008-Jun-22)
@@ -94,20 +94,20 @@
 + **aye** 1. (_noun_) hand; may be literal or figurative (att. 2008-Jun-22)
 + **aygins.ten** 1. (_ton verb_) playing (a game), acting, engaging in a hobby or pursuit of passion (att. 2021-Apr-21)
 + **afailesi** 1. (_descriptor_) panromantic (att. 2022-Jun-04)
-+ `!-- 2022 Formatting Update Progress: Delete when formatting update is complete--!`
 
 ## B
 
-+ **ba-** (_prefix_) this; proximate demonstrative (att. 2003-Dec-25)
-  + **bajia** (_noun_) today (literally "this-day") (att. 2003-Dec-25)
-+ **baci.re** (_ton verb_) seeing, viewing; watching
-+ **bak** (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
-+ **bakato** (_expression_) "bite me," a colloquial expression meaning "cook and serve" (pejorative) (att. 2003-Dec-25)
-+ **bakira...** (_expression_) by the way, also, furthermore; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
++ **ba** 1. (_descriptor, prefix_) this; proximate demonstrative (att. 2003-Dec-25)
++ **bajia** 1. (_noun_) today (literally "this-day") (att. 2003-Dec-25)
++ **baci.re** 1. (_ton verb_) seeing, viewing; watching
++ **bak** 1. (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
++ **bakato** 1. (_expression_) "bite me," a colloquial expression meaning "cook and serve" (pejorative) (att. 2003-Dec-25)
++ **bakira** 1. (_expression_) by the way, also, furthermore; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
++ `!-- 2022 Formatting Update Progress: Delete when formatting update is complete--!`
 + **bal** (_noun_) tempo, rhythmic timing (att. 2009-Nov-06)
 + **ban** (_noun_) bread (att. 2003-Dec-25)
 + **banc.els** (_ton verb_) giving (att. 2003-Dec-25) _formerly "borchton"_
-  + **bançi** (_noun_) gift (att. 2003-Dec-25)
++ **banchi** (_noun_) gift (att. 2003-Dec-25)
 + **banij** (_pronoun_) here, this place (att. 2003, rediscovered 2022-Jun-04; _found in an old barely used journal_)
 + **banklaf** (_noun_) a major festival or sacred season
 + **baru** (_noun_) dust (att. 2008-Jun-22)
@@ -132,7 +132,7 @@
   + **bront** (_noun_) a wait, a period of time spent delayed or awaiting something (att. 2003-Dec-25)
 + **burme.las** (_ton verb_) cooking, baking, boiling (att. 2003-Dec-25)
 + **bor.ak** (_ton verb_) getting, acquiring (att. 2003-Dec-25)
-+ **borç.ent** (_ton verb_) sending to, revealing to, inspiring (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **borch.ent** (_ton verb_) sending to, revealing to, inspiring (att. 2007-Nov-26) (att. 2022-Jun-05)
 + **bot.ek** (_ton verb_) pressing, pushing (att. 2003-Dec-25)
   + **botan** (_noun_) button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed (att. 2003-Dec-25)
 
@@ -142,7 +142,7 @@
 + **galmcabi.nd** (_ton verb_) mood-showing, potential-showing (att. 2003-Apr-24, rediscovered 2022-Jun-05)
   + -**galm** (_verb affix_) may do verb; indicates the potential to perform an action (att. 2003-Dec-25)
 + **gambu** (_noun_) lake (att. 2003-Dec-25)
-+ **gamer.çin** (_ton verb_) bleeding
++ **gamer.chin** (_ton verb_) bleeding
 + **gani.s** (_ton verb_) making a contract; signing a contract (att. 2008-Jun-22)
   + **ganwas** (_noun_) contract, legal document (att. 2008-Jun-22)
 + **gant** (_noun_) rate, speed (att. 2003-Dec-25)
@@ -175,7 +175,7 @@
 + **god** (_proper noun_) God (singular unique divine, typically refers to YHWH or XIIC) (att. 2003-Dec-25)
 + **goju** (_descriptor_) after, following (att. 2003-Dec-25)
   + **gojia** (_noun_) tomorrow
-  + **gojudekçin** (_noun_) suffix, post script, afterword (att. 2006-Jun-04, rediscovered 2022-Jun-05)
+  + **gojudekchin** (_noun_) suffix, post script, afterword (att. 2006-Jun-04, rediscovered 2022-Jun-05)
 + **gore.m** (_ton verb_) casting away, sending away
 + **gor.um** (_ton verb_) growing, increasing; adding to (att. 2008-Jun-22)
 
@@ -195,9 +195,9 @@
 + **dal.eru** (_ton verb_) win something as a prize (att. 2003-Dec-25)
 + **dalme.x** (_ton verb_) process or prepare food
 + **dama** (_descriptor_) new (att. 2003-Dec-25)
-+ **Damaçi** (_expression_) Thank you casual expression of gratitude, "thanks" (att. 2003-Dec-25)
-  + **Damaçi ci** (_expression_) Thank you more formal than "Damaci" (att. 2003-Dec-25)
-  + **Adamaçi saci** (_expression_) Thank you very formal version of "thank you" (att. 2003-Dec-25)
++ **Damachi** (_expression_) Thank you casual expression of gratitude, "thanks" (att. 2003-Dec-25)
+  + **Damachi ci** (_expression_) Thank you more formal than "Damaci" (att. 2003-Dec-25)
+  + **Adamachi saci** (_expression_) Thank you very formal version of "thank you" (att. 2003-Dec-25)
 + **dama.rio** (_ton verb_) happening, occuring, especially inevitably or passively (att. 2003-Apr-24; rediscovered 2022-Jun-05)
 + **dame.ren** (_ton verb_) license, allow one to use; lease, rent (att. 2003-Dec-25)
   + **damer** (_noun_) a license, permission to use; a lease or rental agreement (att. 2003-Dec-25)
@@ -217,8 +217,8 @@
 + **deham** (_noun_) wing (att. 2008-Jun-22)
 + **deirin** (_noun_) power (att. 2003-Dec-25)
   + **deiraun** (_descriptor_) powerful (att. 2003-Dec-25)
-+ **dekçin** (_noun_) word (att. 2008-Jun-22)
-  + **dekçin i xá** (_noun_) magic word (att. 2008-Jun-22)
++ **dekchin** (_noun_) word (att. 2008-Jun-22)
+  + **dekchin i xá** (_noun_) magic word (att. 2008-Jun-22)
 + **del** (_pro-verb_) how (att. 2008-Jun-22)
 + **delma.fas** (_ton verb_) processing, interpreting; deliberating, particularly as of a command or idea, suggests that one cannot or has not yet decided upon how to act upon information (att. 2008-Jun-22)
   + **delmak** (_noun_) a process, a task, an action (att. 2008-Jun-22)
@@ -302,7 +302,7 @@
   + **eloshin** (_noun_) prophecy (att. 2008-Jun-22)
   + **eloshtax** (_noun_) prophet, psychic, fortune teller; one who prophesizes (att. 2008-Jun-22)
 + **Elressidin** (_proper noun_) Elressie (att. 2021-Apr-22)
-+ **emraçi** (_noun_) armor, protective wear (att. 2008-Jun-22)
++ **emrachi** (_noun_) armor, protective wear (att. 2008-Jun-22)
 + -**en**(_suffix_) masculine suffix  (att. 2008-Jun-22; cf. _nen_, _karen_)
 + **enabesh** (_kun verb_) to communicate (the infinitive and present forms are identical) (att. 2008-Jun-22)
   + **enabeshik** (_noun_) communication (att. 2008-Jun-22)
@@ -338,8 +338,8 @@
 
 + **habijad** (_noun_) partner (att. 2003-Dec-25)
 + **habru.k** (_ton verb_) snore (att. 2003-Dec-25)
-+ **haç** (_noun_) will, desire (att. 2003-Dec-25)
-  + **haçanwas** (_noun_) will contract, last will (att. 2022-May-31)
++ **hach** (_noun_) will, desire (att. 2003-Dec-25)
+  + **hachanwas** (_noun_) will contract, last will (att. 2022-May-31)
 + **hai!** (_interjection_) come forth; this interjection expresses shock, awe, interest, or excitement (att. 2003-Dec-25)
   + **haidai** (_noun_) exclamation mark (att. 2003-Dec-25)
 + **hait** (_positional_) than (att. 2008-Jun-22)
@@ -422,39 +422,39 @@
   + **corinanfailia** (_descriptor_) polyamorous (att. 2022-Jun-04)
   + **coriju** (_pronoun_) some time (at present),
 
-### Ç (CH)
+### ch (CH)
 
-+ **çamp.es** (_ton verb_) collide (att. 2003-Dec-25)
-  + **çampín** (_noun_) collision (att. 2003-Dec-25)
-+ **çérí.sol** (_ton verb_) introduce (att. 2003-Dec-25)
-  + **çerílya** (_noun_) introduction (att. 2003-Dec-25)
-+ **çijin** (_noun_) knowledge (att. 2003-Dec-25)
-+ **çuma.stel** (_ton verb_) have (att. 2003-Dec-25)
-+ **çurito** (_descriptor_) great, grand (att. 2003-Dec-25)
-  + **çu-**, **çur-** (_prefix_) great, grand (att. 2003-Dec-25)
-  + **çuméd** (_noun_) grandma informal, indicates close relationship (att. 2003-Dec-25)
-  + **çumedra** (_noun_) grandmother (att. 2003-Dec-25)
-  + **çuporen** (_noun_) grandfather (att. 2003-Dec-25)
-  + **çuprén** (_noun_) grandpa informal, indicates close relationship (att. 2003-Dec-25)
-+ **çuort** (_noun_) a unit of liquid measure roughly equivalent to 43 US fluid ounces, or 1.28 liters; this is the standard size of small waterskins (the largest hold about 6 _çuortu_) and standard-size noc mugs
-+ **çolrex** (_noun_) shit, excrement, feces; this word is used as a mild expletive (att. 2003-Dec-25)
-+ **çon** (_noun_) sea (att. 2003-Dec-25; _formerly "ch'hon"_)
-  + **çonrashi** (_noun_) recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally (att. 2022-Apr-13)
-  + **çonthia** (_noun_) seaport (att. 2008-Jun-22)
-+ **çota** (_noun_) faith (att. 2003-Dec-25)
-  + **çotak** (_descriptor_) faithful, trustworthy (att. 2003-Dec-25)
-  + **çotakau** (_noun_) fidelity, faithfulness (att. 2003-Dec-25)
++ **champ.es** (_ton verb_) collide (att. 2003-Dec-25)
+  + **champín** (_noun_) collision (att. 2003-Dec-25)
++ **chérí.sol** (_ton verb_) introduce (att. 2003-Dec-25)
+  + **cherílya** (_noun_) introduction (att. 2003-Dec-25)
++ **chijin** (_noun_) knowledge (att. 2003-Dec-25)
++ **chuma.stel** (_ton verb_) have (att. 2003-Dec-25)
++ **churito** (_descriptor_) great, grand (att. 2003-Dec-25)
+  + **chu-**, **chur-** (_prefix_) great, grand (att. 2003-Dec-25)
+  + **chuméd** (_noun_) grandma informal, indicates close relationship (att. 2003-Dec-25)
+  + **chumedra** (_noun_) grandmother (att. 2003-Dec-25)
+  + **chuporen** (_noun_) grandfather (att. 2003-Dec-25)
+  + **chuprén** (_noun_) grandpa informal, indicates close relationship (att. 2003-Dec-25)
++ **chuort** (_noun_) a unit of liquid measure roughly equivalent to 43 US fluid ounces, or 1.28 liters; this is the standard size of small waterskins (the largest hold about 6 _chuortu_) and standard-size noc mugs
++ **cholrex** (_noun_) shit, excrement, feces; this word is used as a mild expletive (att. 2003-Dec-25)
++ **chon** (_noun_) sea (att. 2003-Dec-25; _formerly "ch'hon"_)
+  + **chonrashi** (_noun_) recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally (att. 2022-Apr-13)
+  + **chonthia** (_noun_) seaport (att. 2008-Jun-22)
++ **chota** (_noun_) faith (att. 2003-Dec-25)
+  + **chotak** (_descriptor_) faithful, trustworthy (att. 2003-Dec-25)
+  + **chotakau** (_noun_) fidelity, faithfulness (att. 2003-Dec-25)
 
 ## I
 
 + **i** (_positional_) of, from (att. 2003-Dec-25)
 + **ic** (_kun verb_) to be, is, am, are (infinitive and present tenses are identical) (att. 2003-Dec-25)
-  + **içikun** _vb form_ (fut) to be later, will be (att. 2003-Dec-25)
+  + **ichikun** _vb form_ (fut) to be later, will be (att. 2003-Dec-25)
   + **ins** _vb form_ (past) to have been, was (att. 2003-Dec-25)
   + **inoc** _vb form_ (ger) being (att. 2003-Dec-25)
   + **yac** _vb form_ (neg inf/pres) to not be, is not, am not, are not (att. 2003-Dec-25)
   + **yans** _vb form_ (neg past) to not have been, was not (att. 2003-Dec-25)
-  + **yaçikun** _vb form_ (neg fut) to not be later, will not be (att. 2003-Dec-25)
+  + **yachikun** _vb form_ (neg fut) to not be later, will not be (att. 2003-Dec-25)
   + **yanoc** _vb form_ (neg ger) not being (att. 2003-Dec-25)
 + **iljau** (_noun_) depth (att. 2008-Jun-22)
   + **iljye** (_descriptor_) deep (att. 2008-Jun-22)
@@ -579,7 +579,7 @@
 + **klor** (_positional_) up (att. 2003-Dec-25)
   + **klor'das** (_noun_) upright bar, pole (att. 2008-Jun-22)
 + **krestu** (_noun_) morning (att. 2003-Dec-25)
-+ **kruçi.k** (_ton verb_) eat (att. 2003-Dec-25)
++ **kruchi.k** (_ton verb_) eat (att. 2003-Dec-25)
 + **krulex** (_descriptor_) deluxe (att. 2003-Dec-25)
 + **ku-**, **k-** (_prefix, noun_) possessive/genitive prefix (att. 2003-Dec-25)
 + **kuha** (_noun_) sun; generic term for any star with at least one planet (att. 2008-Jun-22)
@@ -774,9 +774,9 @@
 + **menju** (_noun_) button, a switch which is pressed (mechanical push-button, not clothing buttons) (att. 2003-Dec-25)
 + **menra** (_descriptor_) glad, happy (att. 2008-Jun-22)
 + -**mer** (_verb affix_) may, able to; indicates the potentive or potential aspect, wheter a verb is possible (att. 2003-Dec-25)
-+ **merçin** (_noun_) blood (att. 2008-Jun-22)
-  + **merçinal.en** (_ton verb_) bloody, to cover or mark with blood (att. 2021-Apr-22)
-  + **merçinens** (_descriptor_) bloody, covered or marked by blood (att. 2021-Apr-22)
++ **merchin** (_noun_) blood (att. 2008-Jun-22)
+  + **merchinal.en** (_ton verb_) bloody, to cover or mark with blood (att. 2021-Apr-22)
+  + **merchinens** (_descriptor_) bloody, covered or marked by blood (att. 2021-Apr-22)
 + **metral** (_noun_) foot part of body; also for animal paws (att. 2008-Jun-22)
 + **midox** (_noun_) error, mistake (att. 2003-Dec-25)
 + **mijin** (_descriptor_) zero (att. 2003-Dec-25)
@@ -826,7 +826,7 @@
   + **narídin** (_noun_) owner (att. 2021-Apr-22)
   + **narikadin** (_noun_) owner, possessor, holder, master, landlord (att. 2021-Apr-22)
 + **narli.k** (_ton verb_) jab, impale, thrust, spear (att. 2021-Apr-22)
-  + **narliç** (_noun_) spear, lance, javelin (att. 2021-Apr-22)
+  + **narlich** (_noun_) spear, lance, javelin (att. 2021-Apr-22)
 + **narug** (_descriptor_) orange (att. 2003-Dec-25; _formerly "naru"_)
 + **natrein** (_noun_) art, picture, story, song, dance this is a broad and generic term which can refer to any form of art, and can be used in compounds to refer to artistic work or discipline
   + **natreqon.ij** (_ton verb_) art writing, practicing or creating calligraphy
@@ -933,7 +933,7 @@
 + **jon.tes** (_ton verb_) dream, wish, fantasize (att. 2003-Dec-25)
   + **jont** (_noun_) dream (att. 2003-Dec-25)
 + **joco.n** (_ton verb_) adventuring (att. 2003-Dec-25)
-  + **joçon** (_noun_) adventure (att. 2003-Dec-25)
+  + **jochon** (_noun_) adventure (att. 2003-Dec-25)
   + **jocotax** (_noun_) adventurer (att. 2003-Dec-25)
 
 ## P
@@ -1038,7 +1038,7 @@
     + **Sayu coci** (_expression_) good night (only when departing) (att. 2003-Dec-25)
     + **Sayu jurabi** (_expression_) good afternoon (when leaving) (att. 2003-Dec-25)
     + **Sayu kolbu** (_expression_) good evening (when leaving) (att. 2003-Dec-25)
-  + **sayoçi** (_descriptor_) good, well, sufficient, exceptional this is the informal honorific form of sayurín, it is used to wish well to people with whom one is close in class, but it is also the preferred form in the invocation of magic and religious usage  (att. 2003-Dec-25)
+  + **sayochi** (_descriptor_) good, well, sufficient, exceptional this is the informal honorific form of sayurín, it is used to wish well to people with whom one is close in class, but it is also the preferred form in the invocation of magic and religious usage  (att. 2003-Dec-25)
   + **sayuqon.ij** (_ton verb_) good writing, practice of proper writing (both handwriting and composing written rhetoric)
 + **segyudin** (_noun_) entry, as in a contest or competition "participate person" (att. 2021-Apr-22)
 + **sedra**(_kun verb_) to ride, to drive or steer (of an animal or animal-powered vehicle) (att. 2007-Nov-26) (att. 2022-Jun-05)
@@ -1105,8 +1105,8 @@
 + **tashi** (_positional_) front (att. 2008-Jun-22)
 + -**tax** _v sfx_ one who does (root verb) (att. 2003-Dec-25)
 + **taxoþ** (_expression_) "fuck!" (intense profanity, avoid if possible) (att. 2003-Dec-25)
-+ **teçi** (_noun_) yes (att. 2003-Dec-25)
-+ **téça** (_noun_) half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly 2.88 kg, 101.589 (101.6) ounces, 6.349313 (6.35) pounds, or precisely _tomo tolisu_ (${12_{10}}$ tolis) (att. 2007, rediscovered 2022-Jun-04)
++ **techi** (_noun_) yes (att. 2003-Dec-25)
++ **técha** (_noun_) half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly 2.88 kg, 101.589 (101.6) ounces, 6.349313 (6.35) pounds, or precisely _tomo tolisu_ (${12_{10}}$ tolis) (att. 2007, rediscovered 2022-Jun-04)
 + **teha** (_descriptor_) never
 + **telar** (_noun_) beast, creature (a generic term for wild or unknown animals) (att. 2003-Dec-25)
   + **teljia** (_proper noun_) Monday (of even-numbered weeks), beast-day
@@ -1130,12 +1130,12 @@
   + **tumari'kupredanax** (_noun_) sportsman's pants, athletic pants (att. 2004-Jul-13)
   + **tumaraiti** (_noun_) feminine pants; trousers designed to accentuate the shape of the legs especially at the hips (att. 2004-Jul-13)
 + **tobi.ru** (_ton verb_) allow, free, release; come, orgasm (colloquially used for both orgasm and orgasmic fluids) (att. 2003-Dec-25)
-+ -**toçi** _ton verb suffix_ will happen; future tense, passive voice (att. 2003-Dec-25)
++ -**tochi** _ton verb suffix_ will happen; future tense, passive voice (att. 2003-Dec-25)
 + **toca.s** (_ton verb_) smoke (att. 2003-Dec-25)
   + **tolam** (_noun_) smoke (att. 2003-Dec-25)
 + -**tol** _ton verb suffix_ is doing, am doing; present tense, active voice (att. 2003-Dec-25)
 + **tolis** (_noun_) half-pound, a light weight or mass, roughly 240 grams, 8.46 ounces, or precisely _tomo onsu_ (${12_{10}}$ onz) (att. 2007, rediscovered 2022-Jun-04)
-+ -**toloçi** _ton verb suffix_ will, shall; future tense, active voice (att. 2003-Dec-25)
++ -**tolochi** _ton verb suffix_ will, shall; future tense, active voice (att. 2003-Dec-25)
 + -**tolot** _ton verb suffix_ have finished, was doing; past tense, active voice (att. 2003-Dec-25)
 + **tok** (_noun_) minute (att. 2003-Dec-25)
 + **tomo** (_descriptor_) twelve (att. 2003-Dec-25)
@@ -1196,8 +1196,8 @@
 
 ## F
 
-+ **faiç.es** (_ton verb_) defend (att. 2003-Dec-25)
-  + **faiçi** (_noun_) defense (att. 2003-Dec-25)
++ **faich.es** (_ton verb_) defend (att. 2003-Dec-25)
+  + **faichi** (_noun_) defense (att. 2003-Dec-25)
 + **faile.res** (_ton verb_) love, make an emotional connection (att. 2008-Jun-22)
   + **failes** (_noun_) love, romantic, emotional connection (att. 2008-Jun-22)
   + **failefaile.res** (_ton verb_) infatuating, entrancing, arousing, crushing (emotionally)
