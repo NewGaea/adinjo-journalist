@@ -210,7 +210,7 @@ This format should provide the easiest translation into the preferred Mediawiki 
 
 Dictionary pages for verbs may include tables to show the primary paradigm for the verb. This should follow one of the following layouts, for _ton verbs_ or _kun verbs_. The terms _foo_ and _bar_ are used as placeholders in these paradigm templates.
 
-##### **Paradigm for Ton Verbs**
+##### **Paradigm for TON Verbs**
 
 ```plaintext
 |          | Gerund       | Infinitive  |
@@ -224,7 +224,7 @@ Dictionary pages for verbs may include tables to show the primary paradigm for t
 | Passive     | foo.tolot  | foo.tol   | foo.toloçi  |
 ```
 
-##### **Paradigm for Kun Verbs**
+##### **Paradigm for KUN Verbs**
 
 ```plaintext
 |          | Gerund     | Infinitive |

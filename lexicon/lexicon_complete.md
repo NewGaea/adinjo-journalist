@@ -103,38 +103,38 @@
 + **bak** 1. (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
 + **bakato** 1. (_expression_) "bite me," a colloquial expression meaning "cook and serve" (pejorative) (att. 2003-Dec-25)
 + **bakira** 1. (_expression_) by the way, also, furthermore; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
++ **bal** 1. (_noun_) tempo, rhythmic timing (att. 2009-Nov-06)
++ **ban** 1. (_noun_) bread (att. 2003-Dec-25)
++ **banc.els** 1. (_ton verb_) giving (att. 2003-Dec-25) _formerly "borchton"_
++ **banchi** 1. (_noun_) gift; particularly a physical gift (att. 2003-Dec-25)
++ **banij** 1. (_pronoun_) here, this place (att. 2003, rediscovered 2022-Jun-04; _found in an old barely used journal_)
++ **banklaf** 1. (_noun_) holiday, a major festival or sacred season
++ **baru** 1. (_noun_) dust (att. 2008-Jun-22)
++ **bax.at** 1. (_ton verb_) rising, growing (att. 2003-Dec-25)
++ **beʤi** 1. (_noun_) beard (att. 2008-Jun-22)
++ **béra** 1. (_noun_) grape, berry
++ **berík** 1. (_noun_) castle; a fortified, walled, building, usually housing a leader (att. 2008-Jun-22)
++ **bider.in** 1. (_ton verb_) opening (att. 2008-Jun-22)
++ **bir.mak** 1. (_ton verb_) finishing (att. 2003-Dec-25)
++ **bironga** 1. (_noun_) finish, final touches
++ **bitke** 1. (_noun_) door, heavy gate (att. 2003-Dec-25)
++ **blamed** 1. (_noun_) brick, block; man-made block of wood or mixed materials (not cut stone) (att. 2003-Dec-25)
++ **blani** 1. (_noun_) cat, feline; refers to any cat-like creature (att. 2003-Dec-25)
++ **blanisa** 1. (_noun_) cat, housecat, pet, tame (att. 2003-Dec-25)
++ **blani'urdin** 1. (_noun_) cat-like person (any cat-like person) (att. 2003-Dec-25)
++ **blut** 1. (_positional_) down (att. 2003-Dec-25)
++ **brak.esh** 1. (_ton verb_) lifting, raising (att. 2008-Jun-22)
++ **bralum** 1. (_noun_) lead, metal
++ **bralyumé** 1. (_descriptor_) leaden, made of lead
++ **brau.jen** 1. (_ton verb_) blowing, exhaling; farting (this is considered a polite way to refer to farting) (att. 2003-Dec-25; _formerly "bura.nu"_)
++ **bron.ru** 1. (_ton verb_) waiting, staying, holding position (att. 2003-Dec-25)
++ **bront** 1. (_noun_) a wait, a period of time spent delayed or awaiting something (att. 2003-Dec-25)
++ **burme.las** 1. (_ton verb_) cooking, baking, boiling (att. 2003-Dec-25)
++ **bor.ak** 1. (_ton verb_) getting, acquiring (att. 2003-Dec-25)
++ **borch.ent** 1. (_ton verb_) sending to, revealing to, inspiring (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **bot.ek** 1. (_ton verb_) pressing, pushing (att. 2003-Dec-25)
++ **botan** 1. (_noun_) button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed (att. 2003-Dec-25)
 + `!-- 2022 Formatting Update Progress: Delete when formatting update is complete--!`
-+ **bal** (_noun_) tempo, rhythmic timing (att. 2009-Nov-06)
-+ **ban** (_noun_) bread (att. 2003-Dec-25)
-+ **banc.els** (_ton verb_) giving (att. 2003-Dec-25) _formerly "borchton"_
-+ **banchi** (_noun_) gift (att. 2003-Dec-25)
-+ **banij** (_pronoun_) here, this place (att. 2003, rediscovered 2022-Jun-04; _found in an old barely used journal_)
-+ **banklaf** (_noun_) a major festival or sacred season
-+ **baru** (_noun_) dust (att. 2008-Jun-22)
-+ **bax.at** (_ton verb_) rising, growing (att. 2003-Dec-25)
-+ **beʤi** (_noun_) beard (att. 2008-Jun-22)
-+ **béra** (_noun_) grape, berry
-+ **berík** (_noun_) castle; a fortified, walled, building, usually housing a leader (att. 2008-Jun-22)
-+ **bider.in** (_ton verb_) opening (att. 2008-Jun-22)
-+ **bir.mak** (_ton verb_) finishing (att. 2003-Dec-25)
-  + **bironga** (_noun_) finish, final touches
-+ **bitke** (_noun_) door, heavy gate (att. 2003-Dec-25)
-+ **blamed** (_noun_) brick, block; man-made block of wood or mixed materials (not cut stone) (att. 2003-Dec-25)
-+ **blani** (_noun_) cat, feline; refers to any cat-like creature (att. 2003-Dec-25)
-  + **blanisa** (_noun_) cat, housecat, pet, tame (att. 2003-Dec-25)
-  + **blani'urdin** (_noun_) cat-like person (any cat-like person) (att. 2003-Dec-25)
-+ **blut** (_positional_) down (att. 2003-Dec-25)
-+ **brak.esh** (_ton verb_) lifting, raising (att. 2008-Jun-22)
-+ **bralum** (_noun_) lead, metal
-  + **bralyumé** (_descriptor_) leaden, made of lead
-+ **brau.jen** (_ton verb_) blowing, exhaling; farting (this is considered a polite way to refer to farting) (att. 2003-Dec-25; _formerly "bura.nu"_)
-+ **bron.ru** (_ton verb_) waiting, staying, holding position (att. 2003-Dec-25)
-  + **bront** (_noun_) a wait, a period of time spent delayed or awaiting something (att. 2003-Dec-25)
-+ **burme.las** (_ton verb_) cooking, baking, boiling (att. 2003-Dec-25)
-+ **bor.ak** (_ton verb_) getting, acquiring (att. 2003-Dec-25)
-+ **borch.ent** (_ton verb_) sending to, revealing to, inspiring (att. 2007-Nov-26) (att. 2022-Jun-05)
-+ **bot.ek** (_ton verb_) pressing, pushing (att. 2003-Dec-25)
-  + **botan** (_noun_) button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed (att. 2003-Dec-25)
 
 ## G
 
@@ -702,7 +702,7 @@
 + **lex.orma** (_ton verb_) defeat (final), indicates a final, deadly or crippling defeat (att. 2003-Dec-25; _formerly "lesin"_)
 + **libra.un** (_ton verb_) free (att. 2008-Jun-22)
 + **lici** (_noun_) stick (att. 2003-Dec-25)
-  + **liju** (_noun_) title, a term one is called by (att. 2008-Jun-22)
++ **liju** (_noun_) title, a term one is called by (att. 2008-Jun-22)
 + **lixa.st** (_ton verb_) build, construct, create, make (att. 2003-Dec-25)
   + **lixajo** (_noun_) artificial language, created language, conlang (noun), auxlang (noun)
 + **limien** (_noun_) example (att. 2008-Jun-22)
@@ -1086,7 +1086,7 @@
 ## T
 
 + **ta.skel** (_ton verb_) call by a name (att. 2003-Dec-25)
-+ **tago.rem** (_ton verb_) cast something out cast out from another (att. 2021-Apr-22)
++ **tago.rem** (_ton verb_) cast something out, cast out from another (att. 2021-Apr-22)
 + **tak** (_positional_) from, moving away (att. 2003-Dec-25)
   + **takem** (_positional_) between, back and forth (att. 2002-Jun-01)
 + -**ták** (_verb affix_) apprentice, student
