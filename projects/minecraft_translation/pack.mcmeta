@@ -1,0 +1,13 @@
+{
+    "pack":{
+        "pack_format": 8,
+        "description": "Adinjo Journalist Language Pack"
+    },
+    "language":{
+        "LANG_COUNTRY":{
+            "name": "Adinjo Journalist",
+            "region": "America",
+            "bidirectional": false
+        }
+    }
+}
