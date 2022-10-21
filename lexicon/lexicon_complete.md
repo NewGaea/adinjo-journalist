@@ -381,63 +381,62 @@
 + **hork.ers** 1. (_ton verb_) to speak unintelligibly, to speak nonsense; to foretell misfortune
 + **hort** 1. (_positional_) with (att. 2003-Dec-25)
 + **hotan** 1. (_noun_) tiger (att. 2003-Dec-25)
-+ `!-- 2022 Formatting Update Progress: Delete when formatting update is complete--!`
 
 ## C
 
-+ -**c**(_kun verb affix_) is, am, are, -ing; present tense (_kun_ verbs which end in vowels) (att. 2003-Dec-25)
-+ **cabi.nd** (_ton verb_) show, reveal (att. 2008-Jun-22)
-+ **calu.s** (_ton verb_) continue, resume (att. 2003-Dec-25)
-+ **campi.x** (_ton verb_) test (att. 2003-Dec-25)
-  + **campan** (_noun_) test, challenge, quest (att. 2003-Dec-25)
-+ **can** (_descriptor_) seven (att. 2003-Dec-25)
-  + **canjia** (_noun_) week (att. 2003-Dec-25; _formerly "gia"_)
-+ **carma.n** (_ton verb_) lean (att. 2003-Dec-25)
-+ **carmi.lé** (_ton verb_) mature, to grow or become developed (att. 2003-Dec-25)
-  + **carmin** (_noun_) mature, state of being developed (att. 2003-Dec-25)
-  + **carmiláns** (_noun_) maturity, progress towards being mature (att. 2021-Apr-22)
-+ **cáve.n** (_ton verb_) 1. passive to produce a constant sound, as a hum or buzz 2. active to dart about between tasks or actions (att. 2022-Apr-06)
-+ **céjo** (_noun_) breast, chest
-+ **ceríl.as** (_ton verb_) relax (att. 2003-Dec-25)
-  + **cerína** (_noun_) relaxation (att. 2003-Dec-25)
-+ **ci** (_pronoun_) you (att. 2003-Dec-25)
-+ **cimaru** (_noun_) history, times past; the past
-  + **cimarutwa** (_noun_) history book
-+ **cin** (_noun_) brother (att. 2003-Dec-25)
-  + **-cin** (_suffix, descriptor_) brother of; used as a title, particularly when one has a renowned sibling (att. 2003-Dec-25)
-+ **cir** (_positional_) near, close, soon (att. 2008-Jun-22)
-+ **ciron** (_descriptor_) yellow (att. 2003-Dec-25; _formerly "ksiron"_)
-+ **cún** (_positional_) out, outside (att. 2003-Dec-25)
-+ **coci** (_noun_) night (att. 2003-Dec-25)
-+ **con** (_noun_) pig, hog, swine (att. 2003-Dec-25; _formerly "chon"_)
-+ **coré.ru** (_ton verb_) fold (att. 2021-Apr-22)
-+ **cori** (_descriptor_) some (att. 2003-Dec-25)
-  + **coridin** (_pronoun_) some people, folks, part of a group
-  + **corinanfailia** (_descriptor_) polyamorous (att. 2022-Jun-04)
-  + **coriju** (_pronoun_) some time (at present),
++ **-c** 1. (_kun verb affix_) is, am, are, -ing; present tense (_kun_ verbs which end in vowels; att. 2003-Dec-25)
++ **cabi.nd** 1. (_ton verb_) show, reveal (att. 2008-Jun-22)
++ **calu.s** 1. (_ton verb_) continue, resume (att. 2003-Dec-25)
++ **campan** 1. (_noun_) test, challenge, quest (att. 2003-Dec-25)
++ **campi.x** 1. (_ton verb_) test (att. 2003-Dec-25)
++ **can** 1. (_descriptor_) seven (att. 2003-Dec-25)
++ **canjia** 1. (_noun_) week (att. 2003-Dec-25; _formerly "gia"_)
++ **carma.n** 1. (_ton verb_) lean (att. 2003-Dec-25)
++ **carmiláns** 1. (_noun_) maturity, progress towards being mature (att. 2021-Apr-22)
++ **carmi.lé** 1. (_ton verb_) mature, to grow or become developed (att. 2003-Dec-25)
++ **carmin** 1. (_noun_) mature, state of being developed (att. 2003-Dec-25)
++ **cáve.n** 1. (_ton verb_) 1. \[passive\] to produce a constant sound, as a hum or buzz 2. \[active\] to dart about between tasks or actions (att. 2022-Apr-06)
++ **céjo** 1. (_noun_) breast, chest
++ **ceríl.as** 1. (_ton verb_) relax (att. 2003-Dec-25)
++ **cerína** 1. (_noun_) relaxation (att. 2003-Dec-25)
++ **ci** 1. (_pronoun_) you (att. 2003-Dec-25)
++ **cimaru** 1. (_noun_) history, times past; the past
++ **cimarutwa** 1. (_noun_) history book
++ **cin** 1. (_noun_) brother (att. 2003-Dec-25) 2. (_suffix, descriptor_) brother of; used as a title, particularly when one has a renowned sibling (att. 2003-Dec-25)
++ **cir** 1. (_positional_) near, close, soon (att. 2008-Jun-22)
++ **ciron** 1. (_descriptor_) yellow (att. 2003-Dec-25; _formerly "ksiron"_)
++ **cún** 1. (_positional_) out, outside (att. 2003-Dec-25)
++ **coci** 1. (_noun_) night (att. 2003-Dec-25)
++ **con** 1. (_noun_) pig, hog, swine (att. 2003-Dec-25; _formerly "chon"_)
++ **coré.ru** 1. (_ton verb_) fold (att. 2021-Apr-22)
++ **cori** 1. (_descriptor_) some (att. 2003-Dec-25)
++ **coridin** 1. (_pronoun_) some people, folks, part of a group
++ **corinanfailia** 1. (_descriptor_) polyamorous (att. 2022-Jun-04)
++ **coriju** 1. (_pronoun_) some time (at present),
 
-### ch (CH)
+### Ç (CH)
 
-+ **champ.es** (_ton verb_) collide (att. 2003-Dec-25)
-  + **champín** (_noun_) collision (att. 2003-Dec-25)
-+ **chérí.sol** (_ton verb_) introduce (att. 2003-Dec-25)
-  + **cherílya** (_noun_) introduction (att. 2003-Dec-25)
-+ **chijin** (_noun_) knowledge (att. 2003-Dec-25)
-+ **chuma.stel** (_ton verb_) have (att. 2003-Dec-25)
-+ **churito** (_descriptor_) great, grand (att. 2003-Dec-25)
-  + **chu-**, **chur-** (_prefix_) great, grand (att. 2003-Dec-25)
-  + **chuméd** (_noun_) grandma informal, indicates close relationship (att. 2003-Dec-25)
-  + **chumedra** (_noun_) grandmother (att. 2003-Dec-25)
-  + **chuporen** (_noun_) grandfather (att. 2003-Dec-25)
-  + **chuprén** (_noun_) grandpa informal, indicates close relationship (att. 2003-Dec-25)
-+ **chuort** (_noun_) a unit of liquid measure roughly equivalent to 43 US fluid ounces, or 1.28 liters; this is the standard size of small waterskins (the largest hold about 6 _chuortu_) and standard-size noc mugs
-+ **cholrex** (_noun_) shit, excrement, feces; this word is used as a mild expletive (att. 2003-Dec-25)
-+ **chon** (_noun_) sea (att. 2003-Dec-25; _formerly "ch'hon"_)
-  + **chonrashi** (_noun_) recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally (att. 2022-Apr-13)
-  + **chonthia** (_noun_) seaport (att. 2008-Jun-22)
-+ **chota** (_noun_) faith (att. 2003-Dec-25)
-  + **chotak** (_descriptor_) faithful, trustworthy (att. 2003-Dec-25)
-  + **chotakau** (_noun_) fidelity, faithfulness (att. 2003-Dec-25)
++ **champ.es** 1. (_ton verb_) collide (att. 2003-Dec-25)
++ **champín** 1. (_noun_) collision (att. 2003-Dec-25)
++ **cherílya** 1. (_noun_) introduction (att. 2003-Dec-25)
++ **chérí.sol** 1. (_ton verb_) introduce (att. 2003-Dec-25)
++ **chijin** 1. (_noun_) knowledge (att. 2003-Dec-25)
++ **chuma.stel** 1. (_ton verb_) having, possessing, owning (att. 2003-Dec-25)
++ **chu-**, **chur-** 1. (_prefix_) great, grand (att. 2003-Dec-25)
++ **chuméd** 1. (_noun_) grandma informal, indicates close relationship (att. 2003-Dec-25)
++ **chumedra** 1. (_noun_) grandmother (att. 2003-Dec-25)
++ **chuprén** 1. (_noun_) grandpa informal, indicates close relationship (att. 2003-Dec-25)
++ **chuporen** 1. (_noun_) grandfather (att. 2003-Dec-25)
++ **churito** 1. (_descriptor_) great, grand (att. 2003-Dec-25)
++ **chuort** 1. (_noun_) a unit of liquid measure roughly equivalent to 43 US fluid ounces, or 1.28 liters; this is the standard size of small waterskins (the largest hold about 6 _chuortu_) and standard-size noc mugs
++ **cholrex** 1. (_noun_) shit, excrement, feces; this word is used as a mild expletive (att. 2003-Dec-25)
++ **chon** 1. (_noun_) sea, ocean (att. 2003-Dec-25; _formerly "ch'hon"_)
++ **chonrashi** 1. (_noun_) recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally (att. 2022-Apr-13)
++ **chonthia** 1. (_noun_) seaport (att. 2008-Jun-22)
++ **chota** 1. (_noun_) faith (att. 2003-Dec-25)
++ **chotak** 1. (_descriptor_) faithful, trustworthy (att. 2003-Dec-25)
++ **chotakau** 1. (_noun_) fidelity, faithfulness (att. 2003-Dec-25)
++ `!-- 2022 Formatting Update Progress: Delete when formatting update is complete--!`
 
 ## I
 
