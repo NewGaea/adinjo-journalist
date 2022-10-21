@@ -120,7 +120,7 @@ Which ought to render, roughly, as such:
 + **[alnom](a/alnom.md)** 1. (_noun_) a rule or law (cf. _almaru_)
 
 1. All entries are part of an _unordered list_ denoted with a \+ symbol. Ordering of this list is manual, following the alphabetic conventions of the language in which entries are listed.
-   1. In the updated lexicon, a straightforward transcription is preferred to the use of IPA or special characters for digraphs.
+   1. In the updated lexicon, a **straightforward transcription** is preferred to the use of IPA or special characters for digraphs.
 2. When linked to a lexicon entry page, the full dictionary form of the entry is included in the link, though the lexicon entry page should still be named based on the verb stem.
 3. Each sense of the lexicon entry receives a numbered listing, helping to alleviate confusion over comma-separated and semicolon separated entries.
    1. The part of speech is _emphasis formatted_ and contained in a pair of parentheses
@@ -237,3 +237,61 @@ Dictionary pages for verbs may include tables to show the primary paradigm for t
 | C Final | bar.ns | bar.s   | bar.ykun |
 | V Final | foo.ns | foo.c   | foo.kun  |
 ```
+
+## Straightforward Transcription
+
+The transcription standard preferred for lexicon and dictionary usage as of this update is the **Formal** column of this transcription table for all single letters:
+
+| Letter Name  | Simple | **Formal** | IPA    |
+|:-------------|:------:|:----------:|:------:|
+| adob (asent) | a (á)  | **a (á)**  | ä (æ)  |
+| baten        | b      | **b**      | b      |
+| gaym         | gh     | **g**      | g      |
+| droma        | d      | **d**      | d      |
+| enx (asent)  | e (é)  | **e (é)**  | ɛ (e)  |
+| zapen        | z      | **z**      | z      |
+| hort         | h      | **h**      | h      |
+| cumit        | c      | **c**      | ts     |
+| iom (asent)  | i (í)  | **i (í)**  | ɪ (i)  |
+| kasi         | k      | **k**      | k      |
+| qorn         | qu     | **q**      | kᵂ     |
+| lama         | l      | **l**      | l      |
+| mu           | m      | **m**      | m      |
+| nyu          | n      | **n**      | n      |
+| jema         | zh     | **j**      | ʒ      |
+| pente        | p      | **p**      | p      |
+| rom          | r      | **r**      | r      |
+| swen         | s      | **s**      | s      |
+| tar          | t      | **t**      | t      |
+| unta (asent) | u (ú)  | **u (ú)**  | ʌ (u)  |
+| yast         | y      | **y**      | j      |
+| fil          | f      | **f**      | f      |
+| vé           | v      | **v**      | v      |
+| xoi          | kh     | **x**      | x      |
+| omoj (asent) | o (ó)  | **o (ó)**  | ɔ (o)  |
+| wes          | w      | **w**      | w      |
+
+All digraphs in the new format should be represented using their literal transcriptions, letter by letter, based on this standard, without the use of IPA or other special characters.
+
+### Punctuation in Transcriptions
+
+The following punctuation marks are used in the **label** of lexicon and dictionary entries:
+
+#### Apostrophe
+
+An apostrophe may be included only if it indicates:
+
+1. A syllable break is forced, whether as a glottal stop or simple distinction between two letters, and is particularly important to indicate when two letters do _not_ form a digraph. Of particular note, the _Simple Romanization_ method requires an apostrophe any time Adinjo Journalist uses the combination of _kasi + hort_, as _kh_ is the Simple form for Romanizing _xoi_.
+2. An entry represents a contraction, a word formed by combining two words and dropping one or more sounds from the result.
+
+#### Dash
+
+The dash is used on various _affixes_ to indicate the direction in which the root word attaches. Any affix without a dash may be attached on either side of a root word.
+
+#### Full Stop
+
+The full stop, or period, symbol is used to indicate the gerund suffix of **ton verbs**.
+
+#### Other Punctuation
+
+Other punctuation is reserved for use in labels only for expressions, such as **qe'c dama?** which is a question and expression.
