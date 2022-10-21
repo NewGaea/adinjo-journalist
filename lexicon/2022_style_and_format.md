@@ -123,7 +123,7 @@ Which ought to render, roughly, as such:
    1. In the updated lexicon, a straightforward transcription is preferred to the use of IPA or special characters for digraphs.
 2. When linked to a lexicon entry page, the full dictionary form of the entry is included in the link, though the lexicon entry page should still be named based on the verb stem.
 3. Each sense of the lexicon entry receives a numbered listing, helping to alleviate confusion over comma-separated and semicolon separated entries.
-   1. The part of speech is **emphasis** formatted and contained in a pair of parentheses
+   1. The part of speech is _emphasis formatted_ and contained in a pair of parentheses
       1. A comma may be used to concatenate multiple parts of speech within parentheses
       2. A set of square brackest may follow these parentheses to specify a field of knowledge or context for a given sense.
    2. The list of glosses suitable to the sense is separated as makes logical sense
