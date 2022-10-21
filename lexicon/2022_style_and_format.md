@@ -286,7 +286,7 @@ An apostrophe may be included only if it indicates:
 
 #### Dash
 
-The dash is used on various _affixes_ to indicate the direction in which the root word attaches. Any affix without a dash may be attached on either side of a root word.
+The dash is used on various _affixes_ to indicate the direction in which the root word attaches. Any affix without a dash may be attached on either side of a root word, while a prefix always goes before the root, and a suffix always goes after the root.
 
 #### Full Stop
 
