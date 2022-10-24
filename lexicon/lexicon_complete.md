@@ -45,9 +45,9 @@
 + **[andèn](a/andèn.md)** 1. (_descriptor_) holy, divine, sacred (att. 2008-Jun-22)
 + **andenau** 1. (_noun_) divinity (att. 2022-Jun-27)
 + **[andenin](a/andenin.md)** 1. (_noun_) holiness (att. 2021-Apr-22)
-+ **Andurusau** 1. (_descriptor_) Andurusian (having an Andurusian quality) (att. 2022-Jun-27)
-+ **Andurusidin** 1. (_proper noun_) Andurusian (person) (att. 2021-Apr-22)
-+ **Andurusijo** 1. (_noun_) the Andurusian language (att. 2022-Jun-27)
++ **andurusau** 1. (_descriptor_) Andurusian (having an Andurusian quality) (att. 2022-Jun-27)
++ **andurusidin** 1. (_proper noun_) Andurusian (person) (att. 2021-Apr-22)
++ **andurusijo** 1. (_noun_) the Andurusian language (att. 2022-Jun-27)
 + **[anen](a/anen.md)** 1. (_descriptor_) male (att. 2008-Jun-22; cf. _anjyu_, _nen_)
 + **[ane.ru](a/ane.md)** 1. (_ton verb_) using (att. 2003-Dec-25), 2. (_ton verb_) utilizing (att. 2022-Jun-27)
 + **anesh** (_noun_) 1. lightning, electricity
@@ -106,7 +106,7 @@
 + **bajia** 1. (_noun_) today (literally "this-day") (att. 2003-Dec-25)
 + **baci.re** 1. (_ton verb_) seeing, viewing; watching
 + **bak** 1. (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
-+ **bakato** 1. (_expression_) "bite me," a colloquial expression meaning "cook and serve" (pejorative) (att. 2003-Dec-25)
++ **bakato** 1. (_expression_) "bite me," a colloquial expression meaning "cook and serve" (pejorative; att. 2003-Dec-25)
 + **bakira** 1. (_expression_) by the way, also, furthermore; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
 + **bal** 1. (_noun_) tempo, rhythmic timing (att. 2009-Nov-06)
 + **ban** 1. (_noun_) bread (att. 2003-Dec-25)
@@ -137,7 +137,7 @@
 + **burme.las** 1. (_ton verb_) cooking, baking, boiling (att. 2003-Dec-25)
 + **bor.ak** 1. (_ton verb_) getting, acquiring (att. 2003-Dec-25)
 + **borch.ent** 1. (_ton verb_) sending to, revealing to, inspiring (att. 2007-Nov-26) (att. 2022-Jun-05)
-+ **bot.ek** 1. (_ton verb_) pressing, pushing (att. 2003-Dec-25)
++ **bot.ek** 1. (_ton verb_) pressing, pushing (derived from _botan_; att. 2003-Dec-25)
 + **botan** 1. (_noun_) button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed (att. 2003-Dec-25)
 
 ## G
@@ -175,7 +175,7 @@
 + **gurias** 1. (_noun_) empire (att. 2008-Jun-22)
 + **gurion** 1. (_descriptor_) imperial, of or relating to an empire (att. 2003-Dec-25)
 + **gurioni** 1. (_descriptor_) Adin (culturally), especially of the Imperial Culture on Atrusius or the Shipboard culture of Emissaries on Gaea (att. 2022-Jun-04)
-+ **Gurneim** 1. (_noun_) knight, rank in Imperial Military; rank title, lowest rank of non-commissioned officer (att. 2021-Apr-22)
++ **gurneim** 1. (_noun_) knight, rank in Imperial Military; rank title, lowest rank of non-commissioned officer (att. 2021-Apr-22)
 + **god** 1. (_proper noun_) God (singular unique divine, typically refers to YHWH or XIIC) (att. 2003-Dec-25)
 + **gojia** 1. (_noun_) tomorrow
 + **goju** 1. (_descriptor_) after, following (att. 2003-Dec-25)
@@ -216,7 +216,7 @@
 + **dapis.é** 1. (_ton verb_) pause, hesitate (att. 2008-Jun-22)
 + **daré** 1. (_noun_) rat, mouse (att. 2003-Dec-25)
 + **darel** 1. (_noun_) leg (att. 2008-Jun-22)
-+ **da'salji** 1. (_noun_) milk 2. (_noun_) juice of certain fruits such as the _leng eni isa_ (att. 2021-Apr-22; _this word, like "leng eni isa," has been imported from the Kenyu Language of Peace_)
++ **da'salji** 1. (_noun_) milk 2. (_noun_) juice of certain fruits such as the _leng eni isa_ (this word, like _leng eni isa_, has been imported from the Kenyu Language of Peace; att. 2021-Apr-22)
 + **dash.el** 1. (_ton verb_) tracking, following a path (att. 2008-Jun-22)
 + **dashin** 1. (_noun_) track, path (att. 2008-Jun-22)
 + **deham** 1. (_noun_) wing (att. 2008-Jun-22)
@@ -407,12 +407,12 @@
 + **chijin** 1. (_noun_) knowledge (att. 2003-Dec-25)
 + **chuma.stel** 1. (_ton verb_) having, possessing, owning (att. 2003-Dec-25)
 + **chu-**, **chur-** 1. (_prefix_) great, grand (att. 2003-Dec-25)
-+ **chuméd** 1. (_noun_) grandma informal, indicates close relationship (att. 2003-Dec-25)
++ **chuméd** 1. (_noun_) grandma (informal, indicates close relationship; att. 2003-Dec-25)
 + **chumedra** 1. (_noun_) grandmother (att. 2003-Dec-25)
-+ **chuprén** 1. (_noun_) grandpa informal, indicates close relationship (att. 2003-Dec-25)
++ **chuprén** 1. (_noun_) grandpa (informal, indicates close relationship; att. 2003-Dec-25)
 + **chuporen** 1. (_noun_) grandfather (att. 2003-Dec-25)
 + **churito** 1. (_descriptor_) great, grand (att. 2003-Dec-25)
-+ **chuort** 1. (_noun_) a unit of liquid measure roughly equivalent to 43 US fluid ounces, or 1.28 liters; this is the standard size of small waterskins (the largest hold about 6 _chuortu_) and standard-size noc mugs
++ **chuort** 1. (_noun_) a unit of liquid measure roughly equivalent to ${43_{10}}$ US fluid ounces, or ${1.28_{10}}$ liters; this is the standard size of small waterskins (the largest hold about ${6}$ _chuortu_) and standard-size _noc_ mugs
 + **cholrex** 1. (_noun_) shit, excrement, feces; this word is used as a mild expletive (att. 2003-Dec-25)
 + **chon** 1. (_noun_) sea, ocean (att. 2003-Dec-25; _formerly "ch'hon"_)
 + **chonrashi** 1. (_noun_) recreational beach, a shoreline (especially of an ocean or sea) which is used recreationally (att. 2022-Apr-13)
@@ -650,7 +650,7 @@
 + **laire** 1. (_noun_) bank of a river (att. 2008-Jun-22)
 + **laive.ns** 1. (_ton verb_) pale, fade
 + **lakulu** 1. (_ton verb_) rule, guideline, law
-+ **lama** 1. (_noun_) chin (att. 2008-Jun-22)
++ **lama** 1. (_noun_) the name of the twelfth letter of the _adobat_ (att. 1998-Dec-31) 2. (_noun_) chin (att. 2008-Jun-22)
 + **lama.j** 1. (_ton verb_) scare, frighten, startle (att. 2008-Jun-22) _formerly "lamu.ji"_
   + **lama he kinma** 1. (_expression_) scare half to death (att. 2003-Dec-25) _formerly "lama to kinma"_
 + **lambi.ra** 1. (_ton verb_) complete (att. 2003-Dec-25)
@@ -694,7 +694,7 @@
 + **link** 1. (_noun_) shirt (att. 2003-Dec-25)
 + **lij.e** 1. (_ton verb_) title, give one a title; to label, to call by a label (especially in th active) (att. 2008-Jun-22)
 + **lirja** 1. (_noun_) message; in any form (formerly _liruja_; att. 2003-Dec-25)
-+ **lirjatax** 1. (_noun_) messenger one who delivers messages (att. 2021-Apr-22)
++ **lirjatax** 1. (_noun_) messenger, one who delivers messages (att. 2021-Apr-22)
 + **ligore.m** 1. (_ton verb_) to broadcast
 + **liwin** 1. (_descriptor_) alone (att. 2021-Apr-22)
 + **liyer** 1. (_descriptor_) gentle, kind (att. 2009-Nov-06)
@@ -787,6 +787,7 @@
 + **morent** 1. (_noun_) climate, mood, sense, feeling (att. 2021-Apr-22)
 + **mori** 1. (_noun_) heart (att. 2008-Jun-22)
 + **mors** 1. (_noun_) life (the span of life) (att. 2003-Dec-25; _formerly "mor"_)
++ **mortal** 1. (_noun_, _pejorative_) short-life
 + **mortis** 1. (_descriptor_) young (att. 2008-Jun-22)
 + **morcin** 1. (_noun_) younger brother (att. 2003-Dec-25)
 + **morkada** 1. (_noun_) younger sister (att. 2003-Dec-25)
@@ -934,7 +935,7 @@
 + **pu.ru** 1. (_ton verb_) like, appreciate, enjoy (att. 2008-Jun-22)
 + **polt** 1. (_noun_) crime, violation fo contract, sin (att. 2003-Dec-25)
 + **pol.tek** 1. (_ton verb_) breaking laws or terms of a contract, sinning (att. 2003-Dec-25; _formerly "polaton"_)
-+ **pon** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to 1.04 _tolis_, 250 grams, or 8.81849 (8.82) ounces (about half a pound) `#2007` (att. 2022-Jun-04)
++ **pon** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to ${1.04_{10}}$ _tolis_, ${250_{10}}$ grams, or ${8.81849_{10}}$ (${8.82_{10}}$) ounces (about half a pound) (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 + **pontif.ar** 1. (_ton verb_) advising (att. 2003-Dec-25)
 + **popóren** 1. (_noun_) 1. dada, papa, daddy (may be shorted to _popo_) (att. 2022-Apr-14)
 + **poraiti** 1. (_noun_) \[archaic\] mother (lit. _female father_, a remnant of an old movement; rare) (att. 2008-Jun-22)
@@ -963,14 +964,14 @@
 + **redjau** 1. (_noun_) saddle (att. 2008-Jun-22)
 + **rez.as** 1. (_ton verb_) to stand, to present or show respect, to (stand or be) ready for a struggle or challenge (att. 2007-Nov-26) (att. 2022-Jun-05)
 + **reixa** 1. (_ton verb_) bloom, grow, unfold (as a flower)
-+ **-rek** 1. (_v sfx_) shall (att. 2003-Dec-25)
++ **-rek** 1. (_verd suffix_) shall (att. 2003-Dec-25)
 + **relya** 1. (_noun_) courage, valour, bravery (formerly _relja_; att. 2003-Dec-25)
 + **ren.is** 1. (_ton verb_) fearing, worrying
 + **réjo** 1. (_noun_) family (att. 2008-Jun-22)
-+ **repin** 1. (_noun_) a source of input, the value of an input (_formerly "kunrep"_; att. 2003-Dec-25)
-+ **repin.gos** 1. (_ton verb_) to enter information, to input (_formerly "kunrepton"_; att. 2003-Dec-25)
-+ **-ri** 1. (_suffix, descriptor_) grosses (${144s_{10}}$, or ${100s_{12}}$) (att. 2003-Dec-25)
-+ **-rin** 1. (_verb sfx_) possible to do (att. 2008-Jun-22)
++ **repin** 1. (_noun_) a source of input, the value of an input (formerly _kunrep_; att. 2003-Dec-25)
++ **repin.gos** 1. (_ton verb_) to enter information, to input (formerly _kunrepton_; att. 2003-Dec-25)
++ **-ri** 1. (_suffix, descriptor_) grosses (${144\text{s}_{10}}$, or ${100\text{s}_{12}}$) (att. 2003-Dec-25)
++ **-rin** 1. (_verb suffix_) possible to do (att. 2008-Jun-22)
 + **-rín** (_suffix_) well, sufficient, exceptional (att. 2003-Dec-25)
 + **ríntaro** 1. (_noun_) possible (att. 2008-Jun-22)
 + **rishen** 1. (_noun_) farm (att. 2008-Jun-22)
@@ -1053,7 +1054,7 @@
 + **stad.én** 1. (_ton verb_) to remain, to stay (att. 2003-Apr-24) (att. 2022-Jun-05)
 + **stram** 1. (_noun_) storm (att. 2021-Apr-22)
 + **sug** 1. (_article_) the, definite article (att. 2003-Dec-25)
-+ **sugo** 1. (_descriptor_) especially, particularly (att. 2003-Dec-25) _was formerly "sugoi"_
++ **sugo** 1. (_descriptor_) especially, particularly (was formerly _sugoi_; att. 2003-Dec-25)
 + **sukendai** 1. (_descriptor_) fantastic, of fantasy (att. 2021-Apr-22)
 + **sóda** 1. (_noun_) soda, a drink made with bubbling water
 + **soma** 1. (_noun_, _title_) master, teacher, slave holder (att. 2008-Jun-22)
@@ -1196,7 +1197,7 @@
 + **frilt.orv** 1. (_ton verb_) reply (att. 2021-Apr-22)
 + **frilnef** 1. (_noun_) reply (att. 2021-Apr-22)
 + **furak** 1. (_noun_) lemon, citrus fruit (att. 2021-Apr-22)
-+ **furatan** 1. (_noun_) lemon, erotic story (the genre of stories written for sexual enjoyment) (att. 2003-Dec-25) _formerly "furatri"_
++ **furatan** 1. (_noun_) lemon, erotic story; the genre of stories written for sexual enjoyment (formerly _furatri_; att. 2003-Dec-25)
 + **fúri** 1. (_positional_) over, past, beyond (att. 2003-Dec-25)
 + **furin.s** 1. (_ton verb_) swim (att. 2003-Dec-25)
 + **furin** 1. (_noun_) swim (att. 2003-Dec-25)
@@ -1270,10 +1271,10 @@
 ## O
 
 + **okei** 1. (_expression_) okay, alright (att. 2003-Dec-25)
-+ **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about 1.25 _onz_, 25 grams, or 0.881849 (0.89) ounces (att. 2007, rediscovered 2022-Jun-04)
-+ **ons** 1. (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (0.71) ounces by weight (att. 2007, rediscovered 2022-Jun-04)
++ **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about ${1.25_{10}}$_onz_, ${25_{10}}$ grams, or ${0.881849_{10}}$ (${0.89_{10}}$) ounces (att. 2007, rediscovered 2022-Jun-04)
++ **ons** 1. (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (${0.71_{10}}$) ounces by weight (att. 2007, rediscovered 2022-Jun-04)
 + **opporhel** 1. (_descriptor_) gracious (att. 2021-Apr-22)
-+ **Orgdin** 1. (_proper noun_) Ork (Atrusian) (att. 2021-Apr-22)
++ **orgdin** 1. (_proper noun_) Ork (Atrusian) (att. 2021-Apr-22)
 + **orìnd** 1. (_noun, descriptor_) gold, metal or color (att. 2008-Jun-22)
 + **orìndomi** 1. (_noun_) store, shop, an artisan's house; from _orind_ + _domya_, 'goldhouse' (att. 2022-Jun-04)
 + **orxdin** 1. (_proper noun_) Orc (while specifically created to explain the Orcs of Warcraft, this may be used for a variety of traditional fantasy Orc or Ork archetypes; att. 2021-Apr-22)

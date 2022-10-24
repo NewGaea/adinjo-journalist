@@ -1,4 +1,4 @@
-# Categories 
+# Categories
 
 C=ktdbgp'
 S=sjʃfzvþð
@@ -12,14 +12,14 @@ V=aieou
 A=éáíúó
 U=ìèàòù
 
-# Rewrite Rules
+## Rewrite Rules
 
 kw|q
 sh|ʃ
 dh|ð
 th|þ
 
-# Syllable Types
+## Syllable Types
 
 CV
 RV

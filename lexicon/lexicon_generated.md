@@ -8,12 +8,15 @@ Note that there is no guarantee that these random words are entirely suitable fo
 
 + aa `#2022.06.20`
 + a'amdakenni `#2022.06.23`
++ **adob** `#1998.12.31`
+  1. (_noun_) the name of the first letter of the _adobat_ `#1998.12.31`
 + aðe `#2022.06.20`
 + aepaʃee `#2022.06.20`
 + aceki `#2022.06.23`
 + açintafo `#2022.06.23`
-+ akanmira `#2022.06.23` 
-+ **aki** `#2022.06.23` _pronoun_ all of us, everybody here `#2022.06.24`
++ akanmira `#2022.06.23`
++ **aki** `#2022.06.23`
+  1. (_pronoun_) all of us, everybody here `#2022.06.24`
 + al `#2022.06.23`
 + alu `#2022.06.23`
 + am `#2022.06.23`
@@ -42,6 +45,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 
 + baa `#2022.06.23`
 + baí `#2022.06.20`
++ **baten** `#1998.12.31`
+  1. (_noun_) the name of the second letter of the _adobat_ `#1998.12.31`
 + bað `#2022.06.23`
 + bakuhé `#2022.06.20`
 + bamam `#2022.06.23`
@@ -66,7 +71,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + blebu `#2022.06.20`
 + blóá `#2022.06.20`
 + blomjo `#2022.06.23`
-+ **braubrú** `#2022.06.20` _noun_ a particularly notable fart
++ **braubrú** `#2022.06.20`
+  1. (_noun_) a particularly notable fart
 + bre `#2022.06.20`
 + brésiki `#2022.06.20`
 + bri `#2022.06.20`
@@ -91,11 +97,16 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + gapi `#2022.06.20`
 + gar `#2022.06.23`
 + garnanun `#2022.06.23`
++ **gaym** `#1998.12.31`
+  1. (_noun_) the name of the third letter of the _adobat_ `#1998.12.31`
 + gebli `#2022.06.20`
 + gí `#2022.06.20`
 + giði `#2022.06.20`
 + giheis `#2022.06.23`
-+ **gil** `#2022.06.23` 1. _noun_ a flat (or flattened) circular animal shell 2. _noun, slang_ shortened form of _gildern_, the name of international gold coins on Atrusius 3. _noun, slang_ the price of an item in a store or catalog
++ **gil** `#2022.06.23`
+  1. (_noun_) a flat (or flattened) circular animal shell
+  2. (_noun, slang_) shortened form of _gildern_, the name of international gold coins on Atrusius
+  3. (_noun, slang_) the price of an item in a store or catalog
 + ginpa `#2022.06.23`
 + gipapubre `#2022.06.20`
 + gir `#2022.06.23`
@@ -106,14 +117,16 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + gri `#2022.06.23`
 + gupilinkemra `#2022.06.23`
 + gu `#2022.06.23`
-+ **gur**- `#2022.06.23` _descriptor_ imperial-
++ **gur**- `#2022.06.23`
+  1. (_descriptor_) imperial
 + go `#2022.06.23`
 
 ## D
 
 + dazi `#2022.06.23`
 + damanman `#2022.06.23`
-+ **dal** `#2022.06.23` _noun_ reward, prize
++ **dal** `#2022.06.23`
+  1. (_noun_) reward, prize
 + dambenguxe `#2022.06.23`
 + dand `#2022.06.23`
 + danin `#2022.06.23`
@@ -146,6 +159,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + dleçpúbe `#2022.06.20`
 + dra `#2022.06.23`
 + drihaðéʃxrú `#2022.06.20`
++ **droma** `#1998.12.31`
+  1. (_noun_) the name of the fourth letter of the _adobat_ `#1998.12.31`
 + dú `#2022.06.20`
 + dye `#2022.06.23`
 + do `#2022.06.23`
@@ -208,6 +223,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + elʤeʤi `#2022.06.23`
 + elni `#2022.06.23`
 + en `#2022.06.23`
++ **enx** `#1998.12.31`
+  1. (_noun_) the name of the fifth letter of the _adobat_ `#1998.12.31`
 + er `#2022.06.23`
 + erbiʃer `#2022.06.23`
 + eri `#2022.06.23`
@@ -223,6 +240,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + zakakdon `#2022.06.23`
 + zamiba `#2022.06.23`
 + zanosearka `#2022.06.23`
++ **zapen** `#1998.12.31`
+  1. (_noun_) the name of the sixth letter of the _adobat_ `#1998.12.31`
 + zatayiceri `#2022.06.23`
 + zaoxitoó `#2022.06.20`
 + zbli `#2022.06.20`
@@ -253,6 +272,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + híatu `#2022.06.20`
 + hiþtéðó `#2022.06.20`
 + hifko `#2022.06.20`
++ **hort** `#1998.12.31`
+  1. (_noun_) the name of the seventh letter of the _adobat_ `#1998.12.31`
 + hote `#2022.06.20`
 + hoxusklábipa `#2022.06.20`
 
@@ -272,12 +293,15 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + ceçudoþ `#2022.06.23`
 + céíé `#2022.06.20`
 + ciam `#2022.06.23`
-+ **cici** `#2022.06.23` 1. _pronoun, informal_ little one, a pronoun used to refer to young children, especially family
++ **cici** `#2022.06.23`
+  1. (_pronoun, informal_) little one, a pronoun used to refer to young children, especially family
 + cililnki `#2022.06.23`
 + cinef `#2022.06.23`
 + cípe `#2022.06.20`
 + ciri `#2022.06.23`
 + ctlúxra `#2022.06.20`
++ **cumit** `#1998.12.31`
+  1. (_noun_) the name of the eighth letter of the _adobat_ `#1998.12.31`
 + cxleciópo `#2022.06.20`
 + cxóhi `#2022.06.20`
 + co `#2022.06.23`
@@ -331,6 +355,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + iʃnomika `#2022.06.23`
 + ifo `#2022.06.20`
 + iví `#2022.06.20`
++ **iom** `#1998.12.31`
+  1. (_noun_) the name of the ninth letter of the _adobat_ `#1998.12.31`
 + ion `#2022.06.23`
 
 ## K
@@ -351,6 +377,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + kannomnean `#2022.06.23`
 + kar `#2022.06.23`
 + karse `#2022.06.23`
++ **kasi** `#1998.12.31`
+  1. (_noun_) the name of the tenth letter of the _adobat_ `#1998.12.31`
 + ke `#2022.06.23`
 + ké `#2022.06.23`
 + keg `#2022.06.23`
@@ -409,12 +437,17 @@ Note that there is no guarantee that these random words are entirely suitable fo
 ## Q
 
 + qa `#2022.06.23`
++ **qorn** `#1998.12.31`
+  1. (_noun_) the name of the eleventh letter of the _adobat_ `#1998.12.31`
 
 ## L
 
 + la'im `#2022.06.23`
 + laðupe `#2022.06.23`
 + laki `#2022.06.23`
++ **lama** `#1998.12.31`
+  1. (_noun_) the name of the twelfth letter of the _adobat_ `#1998.12.31`
+  2. (_noun_) chin (att. 2008-Jun-22)
 + lamhu `#2022.06.23`
 + lamno `#2022.06.23`
 + le `#2022.06.23`
@@ -471,6 +504,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + mij `#2022.06.23`
 + mirim `#2022.06.23`
 + mi'uʃli `#2022.06.23`
++ **mu** `#1998.12.31`
+  1. (_noun_) the name of the thirteenth letter of the _adobat_ `#1998.12.31`
 + mumil `#2022.06.23`
 + murle `#2022.06.23`
 + mo `#2022.06.23`
@@ -527,6 +562,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 
 ### Ñ (NY)
 
++ **nyu** `#1998.12.31`
+  1. (_noun_) the name of the fourteenth letter of the _adobat_ `#1998.12.31`
 + N/A
 
 ## J
@@ -541,6 +578,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + je `#2022.06.23`
 + jedilmerreka `#2022.06.23`
 + jeka `#2022.06.20`
++ **jema** `#1998.12.31`
+  1. (_noun_) the name of the fifteenth letter of the _adobat_ `#1998.12.31`
 + jemʃi `#2022.06.23`
 + jenre `#2022.06.23`
 + jetréble `#2022.06.20`
@@ -568,6 +607,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + pe `#2022.06.23`
 + pebalmisamtib `#2022.06.23`
 + peki `#2022.06.20`
++ **pente** `#1998.12.31`
+  1. (_noun_) the name of the sixteenth letter of the _adobat_ `#1998.12.31`
 + pepu `#2022.06.20`
 + pem `#2022.06.23`
 + pi `#2022.06.20`
@@ -651,6 +692,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + robatnu `#2022.06.23`
 + robil `#2022.06.23`
 + roki'ro `#2022.06.23`
++ **rom** `#1998.12.31`
+  1. (_noun_) the name of the seventeenth letter of the _adobat_ `#1998.12.31`
 + romuk `#2022.06.23`
 + rotan `#2022.06.23`
 
@@ -702,6 +745,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + sonnu `#2022.06.23`
 + sójbexeʃoxé `#2022.06.20`
 + so'or `#2022.06.23`
++ **swen** `#1998.12.31`
+  1. (_noun_) the name of the eighteenth letter of the _adobat_ `#1998.12.31`
 
 ### ʃ (SH)
 
@@ -751,6 +796,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + tanviroar `#2022.06.23`
 + tanwacaʤi `#2022.06.23`
 + tajbir `#2022.06.23`
++ **tar** `#1998.12.31`
+  1. (_noun_) the name of the nineteenth letter of the _adobat_ `#1998.12.31`
 + tarre `#2022.06.23`
 + taxenko `#2022.06.23`
 + tépébleʃbri `#2022.06.20`
@@ -833,6 +880,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + ukotnal `#2022.06.23`
 + **umle** -> **umle.na** `#2022.06.23` _ton verb_ altering sounds, especially for poetic compositions `#2022.06.26`
 + unil `#2022.06.23`
++ **unta** `#1998.12.31`
+  1. (_noun_) the name of the twentieth letter of the _adobat_ `#1998.12.31`
 + unyosa `#2022.06.23`
 + ujbon `#2022.06.23`
 + uʃeðú `#2022.06.20`
@@ -842,6 +891,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 ## Y
 
 + yaku `#2022.06.23`
++ **yast** `#1998.12.31`
+  1. (_noun_) the name of the twenty-first letter of the _adobat_ `#1998.12.31`
 + yasudom `#2022.06.23`
 + ye `#2022.06.23`
 + yekim `#2022.06.23`
@@ -858,6 +909,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + fe `#2022.06.20`
 + felrimbekaʃon `#2022.06.23`
 + fiðan `#2022.06.23`
++ **fil** `#1998.12.31`
+  1. (_noun_) the name of the twenty-second letter of the _adobat_ `#1998.12.31`
 + fkraá `#2022.06.20`
 + fú `#2022.06.20`
 + fúpusbrisázi `#2022.06.20`
@@ -868,6 +921,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 
 + vanwe `#2022.06.23`
 + vasu `#2022.06.23`
++ **vé** `#1998.12.31`
+  1. (_noun_) the name of the twenty-third letter of the _adobat_ `#1998.12.31`
 + vi `#2022.06.20`
 + vianal `#2022.06.23`
 + vibun `#2022.06.23`
@@ -899,6 +954,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + xogáði `#2022.06.20`
 + xoexrixa `#2022.06.20`
 + xóziplé `#2022.06.20`
++ **xoi** `#1998.12.31`
+  1. (_noun_) the name of the twenty-fourth letter of the _adobat_ `#1998.12.31`
 
 ## O
 
@@ -911,6 +968,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + óiplopa `#2022.06.20`
 + olasca `#2022.06.23`
 + omtar `#2022.06.23`
++ **omoj** `#1998.12.31`
+  1. (_noun_) the name of the twenty-fifth letter of the _adobat_ `#1998.12.31`
 + on `#2022.06.23`
 + ona `#2022.06.23`
 + onko `#2022.06.23`
@@ -924,35 +983,11 @@ Note that there is no guarantee that these random words are entirely suitable fo
 
 + wa `#2022.06.23`
 + we `#2022.06.23`
++ **wes** `#1998.12.31`
+  1. (_noun_) the name of the twenty-sixth letter of the _adobat_ `#1998.12.31`
 + wuca `#2022.06.23`
 + wohongiz `#2022.06.23`
 
 ## UNSORTED
 
-+ adob `#1998.12.31`
-+ baten `#1998.12.31`
-+ gaym `#1998.12.31`
-+ droma `#1998.12.31`
-+ enx `#1998.12.31`
-+ zapen `#1998.12.31`
-+ hort `#1998.12.31`
-+ cumit `#1998.12.31`
-+ iom `#1998.12.31`
-+ kasi `#1998.12.31`
-+ qorn `#1998.12.31`
-+ lama `#1998.12.31`
-+ mu `#1998.12.31`
-+ nyu `#1998.12.31`
-+ jema `#1998.12.31`
-+ pente `#1998.12.31`
-+ rom `#1998.12.31`
-+ swen `#1998.12.31`
-+ tar `#1998.12.31`
-+ unta `#1998.12.31`
-+ yast `#1998.12.31`
-+ fil `#1998.12.31`
-+ vé `#1998.12.31`
-+ xoi `#1998.12.31`
-+ omoj `#1998.12.31`
-+ wes `#1998.12.31`
 + N/A
