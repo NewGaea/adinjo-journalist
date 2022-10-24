@@ -4,14 +4,14 @@
 
 ## A
 
-+ **[-a](a/a.md)** 1. (_suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_)
-+ **[a-](a/a.md)** 1. ((_pronoun_)) all, each, every (att. 2003-Dec-25)
-+ **[a-](a/a.md)** 1. (_descriptor_) great, grand, superior (att. 2003-Dec-25)
++ **[-a](a/a.md)** 1. (_generic suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_) 2. (**-a-**) (_kun verb affix_) no, not; replaces the last vowel in the root (att. 2003-Dec-25; cf. _ha_)
++ **[a-](a/a.md)** 1. (_noun prefix_) all, each, every (att. 2003-Dec-25)
++ **[a-](a/a.md)** 1. (_descriptor prefix_) great, grand, superior (att. 2003-Dec-25)
 + **[abse](a/abs.md)** 1. (_descriptor_) black (att. 2003-Dec-25)
 + **[abso](a/abs.md)** 1. (_descriptor_) white (att. 2003-Dec-25)
 + **[ábul](a/ábul.md)** 1. (_noun_) monument (att. 2003-Dec-25)
 + **[adan](a/adan.md)** 1. (_pronoun_) any, any one, no specific one (att. 2007-Dec-29)
-+ **ademba** (_pronoun_) any time, one time (att. 2022-Jun-01; cf. _temba_)
++ **ademba** 1. (_pronoun_) any time, one time (att. 2022-Jun-01; cf. _temba_)
 + **[adin](a/adin.md)** 1. (_pronoun_) the people (universal, conceptual) (att. 1998-Jun-01) 2. (_noun_) people, universal (att. 1998-Jun-01; cf. **dyn**)
 + **aduprani** 1. (_descriptor_) pansexual (att. 2022-Jun-04)
 + **[ace](a/ace.md)** 1. (_noun_) creature (att. 2003-Dec-25)
@@ -21,10 +21,11 @@
 + **[-aiti](a/aiti.md)** 1. (_suffix, gender_) a suffix indicating a feminine aspect, gender, or nature; a suffix added to a name to indicate it belongs to a female (possibly a form of _daiti_ or _naiti_)
 + **[akar](a/akar.md)** 1. (_positional_) through, beyond (att. 2007-Dec-29)
 + **[akendan](a/akendan.md)** (_noun_) high tale, great legend, grand fantasy (form of **kendan**)
++ **aki** 1. (_pronoun_) all of us, everybody here (att. 2022-Jun-24)
 + **[albor](a/albor.md)** 1. (_noun_) tar (att. 2003-Dec-25) 2. (_noun_) ink, oil paint
 + **[ald](a/ald.md)** 1. (_descriptor_) old (att. 2007-Dec-29)
 + **[aldjin](a/aldjin.md)** 1. (_noun_) old blood, established names or families 2. (_noun_) Adin with bloodline traits (att. 2007-Dec-29)
-+ **aldyur** (_descriptor_) 1. ancient, very old, antique (att. 2007-Nov-26; red. 2022-Jun-05)
++ **aldyur** 1. (_descriptor_) ancient, very old, antique (att. 2007-Nov-26; red. 2022-Jun-05)
 + **[alma](a/alma.md).ru** 1. (_ton verb_) ruling, leading, governing (att. 2008-Jun-22; formerly _aluma.ru_)
 + **[almán](a/almán.md)** 1. (_noun_) leader by circumstance, acting leader
 + **[almatax](a/almatax.md)** 1. (_noun_) leader by profession, manager
@@ -110,9 +111,9 @@
 + **bakira** 1. (_expression_) by the way, also, furthermore; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
 + **bal** 1. (_noun_) tempo, rhythmic timing (att. 2009-Nov-06)
 + **ban** 1. (_noun_) bread (att. 2003-Dec-25)
-+ **banc.els** 1. (_ton verb_) giving (att. 2003-Dec-25) _formerly "borchton"_
++ **banc.els** 1. (_ton verb_) giving (formerly _borchton_; att. 2003-Dec-25)
 + **banchi** 1. (_noun_) gift; particularly a physical gift (att. 2003-Dec-25)
-+ **banij** 1. (_pronoun_) here, this place (att. 2003, rediscovered 2022-Jun-04; _found in an old barely used journal_)
++ **banij** 1. (_pronoun_) here, this place (found in an old barely used journal; att. 2003 ${\rightarrow}$ 2022-Jun-04)
 + **banklaf** 1. (_noun_) holiday, a major festival or sacred season
 + **baru** 1. (_noun_) dust (att. 2008-Jun-22)
 + **bax.at** 1. (_ton verb_) rising, growing (att. 2003-Dec-25)
@@ -131,6 +132,7 @@
 + **brak.esh** 1. (_ton verb_) lifting, raising (att. 2008-Jun-22)
 + **bralum** 1. (_noun_) lead, metal
 + **bralyumé** 1. (_descriptor_) leaden, made of lead
++ **braubrú** 1. (_noun_) a particularly notable fart (att. 2022-Jun-20)
 + **brau.jen** 1. (_ton verb_) blowing, exhaling; farting (this is considered a polite way to refer to farting) (att. 2003-Dec-25; _formerly "bura.nu"_)
 + **bron.ru** 1. (_ton verb_) waiting, staying, holding position (att. 2003-Dec-25)
 + **bront** 1. (_noun_) a wait, a period of time spent delayed or awaiting something (att. 2003-Dec-25)
@@ -142,6 +144,7 @@
 
 ## G
 
++ **gaea** 1. (_proper noun_) Gaea, Earth, Terra (att. 2001 ${\rightarrow}$ 2022-Oct-24)
 + **gaeani** 1. (_descriptor_) Human, Gaean (culturally), of or related to the human cultures native to Gaea (att. 2022-Jun-04)
 + **-galm** 1. (_verb affix_) may do verb; indicates the potential to perform an action (att. 2003-Dec-25)
 + **galmcabi.nd** 1. (_ton verb_) mood-showing, potential-showing (att. 2003-Apr-24, rediscovered 2022-Jun-05)
@@ -155,8 +158,8 @@
 + **garuud** 1. (_noun_) captive, prisoner (att. 2008-Jun-22)
 + **gatla.shi** 1. (_ton verb_) disguising (att. 2003-Dec-25)
 + **gatlan** 1. (_noun_) disguise (att. 2003-Dec-25)
-+ **gaya.m** 1. (_ton verb_) to give birth, to conceive, to impregnate, to breed (att. 2008-Jun-22, rediscovered 2022-Jun-15 \[recovered from a dictionary dated to 2008-Jun-22\])
-+ **gelm** 1. (_noun_) pride, confidence, surety (att. 2007-Nov-26, rediscovered 2022-Jun-04)
++ **gaya.m** 1. (_ton verb_) to give birth, to conceive, to impregnate, to breed (recovered from an old dictionary; att. 2008-Jun-22 ${\rightarrow}$ 2022-Jun-15)
++ **gelm** 1. (_noun_) pride, confidence, surety (att. 2007-Nov-26 ${\rightarrow}$ 2022-Jun-04)
 + **gezud.em** 1. (_ton verb_) expecting, anticipating; hoping (att. 2021-Apr-22)
 + **gezudral** 1. (_noun_) expectation (att. 2021-Apr-22)
 + **gent** 1. (_noun_) child (att. 2008-Jun-22)
@@ -165,6 +168,8 @@
 + **gif** 1. (_noun_) fire, flame (att. 1998-Jun-01)
 + **gifiluan** 1. (_proper noun_) August, Fire's Month
 + **gifjia** 1. (_proper noun_) Friday (of odd-numbered weeks), fire-day
++ **gil** 1. (_noun_) a flat (or flattened) circular animal shell 2. (_noun, slang_) `a.` shortened form of _gildern_, the name of international gold coins on Atrusius `b.` a coin of any denomination or material 3. (_noun, slang_) the price of an item in a store or catalog (att. 2022-Jun-23)
++ **gìlden** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 gold coin, worth ${144_{10}}$ silver _daimosu_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ 2022-Jun-04)
 + **gramurdin** 1. (_proper noun_) Gramurn (att. 2008-Jun-22)
 + **-grat** 1. (_affix, descriptor_) least (att. 2003-Dec-25)
 + **greimík** 1. (_noun_) costume, outfit (att. 2003-Dec-25)
@@ -172,6 +177,7 @@
 + **greishaun** 1. (_descriptor_) merciful (att. 2008-Jun-22)
 + **gyumi.da** 1. (_ton verb_) requiring (att. 2008-Jun-22)
 + **gubra** 1. (_conjunction_) though, while (att. 2008-Jun-22)
++ **gur-** 1. (_descriptor_) imperial- (att. 2022-Jun-23)
 + **gurias** 1. (_noun_) empire (att. 2008-Jun-22)
 + **gurion** 1. (_descriptor_) imperial, of or relating to an empire (att. 2003-Dec-25)
 + **gurioni** 1. (_descriptor_) Adin (culturally), especially of the Imperial Culture on Atrusius or the Shipboard culture of Emissaries on Gaea (att. 2022-Jun-04)
@@ -179,7 +185,7 @@
 + **god** 1. (_proper noun_) God (singular unique divine, typically refers to YHWH or XIIC) (att. 2003-Dec-25)
 + **gojia** 1. (_noun_) tomorrow
 + **goju** 1. (_descriptor_) after, following (att. 2003-Dec-25)
-+ **gojudekchin** 1. (_noun_) suffix, post script, afterword (att. 2006-Jun-04, rediscovered 2022-Jun-05)
++ **gojudekchin** 1. (_noun_) suffix, post script, afterword (att. 2006-Jun-04 ${\rightarrow}$ 2022-Jun-05)
 + **gore.m** 1. (_ton verb_) casting away, sending away
 + **gor.um** 1. (_ton verb_) growing, increasing 2. (_ton verb_) adding to (att. 2008-Jun-22)
 
@@ -196,13 +202,14 @@
 + **daiti** 1. (_noun_) daughter (att. 2008-Jun-22)
 + **daxin** 1. (_noun_) point in time, time-frame; era; tense of a verb (att. 2008-Jun-22)
 + **dakmel** 1. (_noun_) letter, glyph, rune; may be used to refer to any written symbol of language, regardless of the writing system used (att. 2008-Jun-22)
++ **dal** 1. (_noun_) reward, prize  (att. 2022-Jun-23)
 + **dal.eru** 1. (_ton verb_) winning something as a prize (att. 2003-Dec-25)
 + **dalme.x** 1. (_ton verb_) process or prepare food
 + **dama** 1. (_descriptor_) new (att. 2003-Dec-25)
 + **damachi** 1. (_expression_) Thank you casual expression of gratitude, "thanks" (att. 2003-Dec-25)
   + **damachi ci** 1. (_expression_) Thank you more formal than "Damaci" (att. 2003-Dec-25)
   + **adamachi saci** 1. (_expression_) Thank you very formal version of "thank you" (att. 2003-Dec-25)
-+ **dama.rio** 1. (_ton verb_) happening, occuring, especially inevitably or passively (att. 2003-Apr-24; rediscovered 2022-Jun-05)
++ **dama.rio** 1. (_ton verb_) happening, occuring, especially inevitably or passively (att. 2003-Apr-24 ${\rightarrow} 2022-Jun-05)
 + **damer** 1. (_noun_) a license, permission to use; a lease or rental agreement (att. 2003-Dec-25)
 + **dame.ren** 1. (_ton verb_) license, allow one to use; lease, rent (att. 2003-Dec-25)
 + **dan** 1. (_article_) indefinite article; a, one, singular of multiple (att. 2003-Dec-25)
@@ -257,7 +264,7 @@
 + **dulneyaci** 1. (_noun, feminine_) knight, female senior, similar to ma'am or madam; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
 + **dulneyen** 1. (_noun, masculine_) knight, male senior, similar to sir; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
 + **dun** 1. (_descriptor_) small, short of stature, less so (att. 2021-Apr-22)
-+ **dunerin** 1. (_descriptor_) Dwarfish, Semerikän (att. 2003, rediscovered 2022-Jun-04; _found in an old barely used journal in the phrase "Dunerin Kladen"_)
++ **dunerin** 1. (_descriptor_) Dwarfish, Semerikän (found in an old barely used journal in the phrase _Dunerin Kladen_; att. 2003 ${\rightarrow}$ 2022-Jun-04)
 + **dunyeidin** 1. (_noun_) small, strong person (corresponds to typical fantasy Dwarf)
 + **dupran.ish** 1. (_ton verb_) pleasuring, providing sensual stimulation; often used for sensual or sexual pleasure (att. 2021-Apr-22)
 + **dur** 1. (_noun_) flower (att. 2003-Dec-25)
@@ -271,7 +278,7 @@
 + **dober.u** 1. (_ton verb_) working (att. 2003-Dec-25)
 + **dobra** 1. (_noun_) work, job (att. 2003-Dec-25)
 + **dokré** 1. (_noun_) dagger (att. 2003-Dec-25)
-+ **doman** 1. (_noun_) month (calendar month) (att. 2003-Dec-25, rediscovered 2006-Jun-04)
++ **doman** 1. (_noun_) month (calendar month) (att. 2003-Dec-25 ${\rightarrow}$ 2006-Jun-04)
 + **domel.ta** 1. (_ton verb_) happen (att. 2003-Dec-25; _formerly "dometon"_)
 + **domp.e** 1. (_ton verb_) burning to provide light (att. 2008-Jun-22)
 + **dompren** 1. (_noun_) flare, signal (att. 2008-Jun-22)
@@ -284,7 +291,7 @@
 ## E
 
 + **-el** 1. (_verb affix_) perfective marker; indicates an action with noteworthy or unusual duration for that action (att. 2003-Dec-25)
-+ **elaure.na** 1. (_ton verb_) keeping, safeguarding, stewarding (att. 2008-Jul-06, rediscovered 2022-Jun-14; _word found att. in name element list from 2007, never recorded in lexicon until 2022_)
++ **elaure.na** 1. (_ton verb_) keeping, safeguarding, stewarding (word found att. in name element list from 2007, never recorded in lexicon until 2022; att. 2008-Jul-06 ${\rightarrow}$ 2022-Jun-14)
 + **eldharél** 1. (_kun verb_) to rage, to be angry (_formerly a **ton verb**_, att. 2008-Jun-22)
 + **elek** 1. (_noun_) trial, court case, court appointment, legal proceedings (att. 2003-Dec-25)
 + **elz** 1. (_noun_) ice, frozen or solid water (att. 2021-Apr-22)
@@ -314,13 +321,13 @@
 + **erapwen** 1. (_noun_) meal, ground grain or starch (att. 2021-Apr-22)
 + **estag** 1. (_noun_) shadow (att. 2008-Jun-22)
 + **etarjé** 1. (_noun_) length (att. 2021-Apr-22)
-+ **exan** 1. (_noun_) steel, a metal composed of iron mixed with high-carbon coal (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **exan** 1. (_noun_) steel, a metal composed of iron mixed with high-carbon coal (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
 
 ## Z
 
 + **zamur** 1. (_expression_) okay, alright (att. 2021-Apr-22)
 + **zanbo** 1. (_descriptor_) intense (att. 2003-Dec-25)
-+ **zekenal** 1. (_noun_) note, comment, commentary, aside (att. 2005-Nov-04, rediscovered 2022-Jun-04; _discovered in an early attempt to make a dictionary using Adinjo_)
++ **zekenal** 1. (_noun_) note, comment, commentary, aside (discovered in an early attempt to make a dictionary using Adinjo; att. 2005-Nov-04 ${\rightarrow}$ 2022-Jun-04)
 + **zen.ís** 1. (_ton verb_) look (att. 2003-Dec-25)
 + **zenzen** 1. (_expression_) seeming to be, looking like (att. 2003-Dec-25)
 + **zintar** 1. (_descriptor_) early (att. 2003-Dec-25)
@@ -421,6 +428,7 @@
 + **chotak** 1. (_descriptor_) faithful, trustworthy (att. 2003-Dec-25)
 + **chotakau** 1. (_noun_) fidelity, faithfulness (att. 2003-Dec-25)
 + **ci** 1. (_pronoun_) you (att. 2003-Dec-25)
++ **cici** 1. (_pronoun, informal_) little one, a pronoun used to refer to young children, especially family (att. 2022-Jun-23)
 + **cimaru** 1. (_noun_) history, times past; the past
 + **cimarutwa** 1. (_noun_) history book
 + **cin** 1. (_noun_) brother (att. 2003-Dec-25) 2. (_suffix, descriptor_) brother of; used as a title, particularly when one has a renowned sibling (att. 2003-Dec-25)
@@ -433,7 +441,7 @@
 + **cori** 1. (_descriptor_) some (att. 2003-Dec-25)
 + **coridin** 1. (_pronoun_) some people, folks, part of a group
 + **corinanfailia** 1. (_descriptor_) polyamorous (att. 2022-Jun-04)
-+ **coriju** 1. (_pronoun_) some time (at present),
++ **coriju** 1. (_pronoun_) some time (at present)
 
 ## I
 
@@ -457,7 +465,7 @@
 + **ijin.rel** 1. (_ton verb_) know (att. 2021-Apr-22)
 + **ijin** 1. (_descriptor_) knowing, aware, wise (att. 2021-Apr-22)
 + **ipera** 1. (_noun_) a living soul or spirit (att. 2021-Apr-22)
-+ **ip.tan** 1. (_ton verb_) to shine, to reflect strong light (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **ip.tan** 1. (_ton verb_) to shine, to reflect strong light (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
 + **ira** 1. (_pronoun_) which (att. 2008-Jun-22)
 
 ## K
@@ -557,7 +565,7 @@
 + **kita'urdin** 1. (_noun_) dog-like person (att. 2021-Apr-22)
 + **kitaoshi** 1. (_noun_) snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard (att. 2022-May-31)
 + **kitemain** 1. (_noun_) wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs (att. 2022-May-31)
-+ **kladen** 1. (_noun_) cave, cavern, grotto (att. 2003, rediscovered 2022-Jun-04; _found in an old, barely used journal in the phrase "Dunerin Kladen"_)
++ **kladen** 1. (_noun_) cave, cavern, grotto (found in an old, barely used journal in the phrase _Dunerin Kladen_; att. 2003 ${\rightarrow}$ 2022-Jun-04)
 + **klik** 1. (_noun_) hour (att. 2003-Dec-25)
 + **klor** 1. (_positional_) up (att. 2003-Dec-25)
 + **klor'das** 1. (_noun_) upright bar, pole (att. 2008-Jun-22)
@@ -594,7 +602,7 @@
 + **kobal** 1. (_noun_) memory (att. 2008-Jun-22)
 + **koen** 1. (_noun_) priest, teacher, instructor (att. 2021-Apr-22)
 + **koen'enex** 1. (_noun_) a priests robe, a robe meant to be tied off with a single sash and internal pockets (att. 2004-Jul-13)
-+ **kolbu** 1. (_noun_) evening, dusk (att. 2003-Dec-25) (att. 2022-Jun-16; _att. in all found dictionaries, but previously only ever in "sayomin kolbu" and "sayu kolbu"_)
++ **kolbu** 1. (_noun_) evening, dusk (att. 2003-Dec-25) (att. 2022-Jun-16; recorded in all found dictionaries, but previously only ever in the lexicon in _sayomin kolbu_ and _sayu kolbu_)
 + **kolengaus** 1. (_noun_) betrayal (att. 2003-Dec-25)
 + **kolen.ger** 1. (_ton verb_) betray (att. 2003-Dec-25)
 + **kolentau** 1. (_descriptor_) traitorous (att. 2003-Dec-25)
@@ -739,7 +747,7 @@
 + **make.nd** 1. (_ton verb_) raining, falling from the clouds or heavens
 + **makowa** 1. (_noun_) palace, luxurious home of a ruler (typically an unfortified mansion) (att. 2003-Dec-25)
 + **mamar.in** 1. (_ton verb_) 1. a small walk, a recreational walk, _walkies_ (att. 2022-Apr-14)
-+ **mant.ak** 1. (_ton verb_) to pass gradually, to change constantly (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **mant.ak** 1. (_ton verb_) to pass gradually, to change constantly (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)
 + **mar.in** 1. (_ton verb_) walking
 + **marx.ét** 1. (_ton verb_) kill, destroy, end or take a life neutral, not equal to murder (att. 2003-Dec-25)
 + **maxen** 1. (_noun_) a kill, a trophy taken from killing a living thing (as in one's first kill in battle or a hunt) (att. 2003-Dec-25)
@@ -747,9 +755,9 @@
 + **mao** 1. (_idiophone, onomatopoeia_) meow, mew, mya (sound made by a cat) (att. 2003-Dec-25)
 + **medra** 1. (_noun_) mother (att. 2008-Jun-22)
 + **megani** 1. (_noun_) ear (att. 2008-Jun-22)
-+ **memédra** 1. (_noun_) 1. mama, mommy (may be shortened to _memé_) (att. 2022-Apr-14)
 + **melkocar** 1. (_noun_) difficulty (att. 2003-Dec-25)
 + **melkoci** 1. (_descriptor_) difficult (att. 2003-Dec-25)
++ **memédra** 1. (_noun_) 1. mama, mommy (may be shortened to _memé_; att. 2022-Apr-14)
 + **men.aru** 1. (_ton verb_) naming (att. 2003-Dec-25)
 + **menash** 1. (_noun_) button, as on clothing (clothing buttons only) (att. 2021-Apr-22)
 + **menax** 1. (_noun_) name (att. 2003-Dec-25)
@@ -778,8 +786,8 @@
 + **-mo** 1. (_suffix, descriptor_) twelves (${12_{10}}$s) (att. 2003-Dec-25)
 + **mogan** 1. (_positional_) across (att. 2008-Jun-22)
 + **moédamel** 1. (_noun_) shoulder (att. 2008-Jun-22)
-+ **mokure.nd** 1. (_ton verb_) learning, studying (att. 2004-Apr-24) (att. 2022-Jun-05)
-+ **mokuri.das** 1. (_ton verb_) to know, to study (att. 2003-Dec-25) (att. 2006-Jun-04)
++ **mokure.nd** 1. (_ton verb_) learning, studying (att. 2004-Apr-24 ${\rightarrow}$ att. 2022-Jun-05)
++ **mokuri.das** 1. (_ton verb_) to know, to study (att. 2003-Dec-25 ${\rightarrow}$ att. 2006-Jun-04)
 + **monsi** 1. (_pronoun_) when (att. 2003-Dec-25)
 + **mor-** 1. (_prefix, positional_) younger, shorter, less so (att. 2003-Dec-25)
 + **morai** 1. (_descriptor_) pure, clean, untainted (att. 2008-Jun-22)
@@ -856,7 +864,8 @@
 
 ## J
 
-+ **-ja** 1. (_pronoun suffix_) -ever (as in whichever, however, whomever; att. 2003-Dec-25) + **jak** 1. (_noun_) back, rear side, hind side; commonly used for the anatomical "back" (_this word was backformed from "jaktomít"_; att. 2008-Jun-22)
++ **-ja** 1. (_pronoun suffix_) -ever (as in whichever, however, whomever; att. 2003-Dec-25)
++ **jak** 1. (_noun_) back, rear side, hind side; commonly used for the anatomical "back" (_this word was backformed from "jaktomít"_; att. 2008-Jun-22)
 + **jaktomít** 1. (_noun_) backpack (a bag or pack carried on the back) (att. 2003-Dec-25)
 + **jak.el** 1. (_ton verb_) turning one's back on something 2. (_ton verb_) damn, curse, condemn (att. 2003-Dec-25)
 + **jak'hau** 1. (_expletive_) damn you (a minor profanity, spoken to the intended party; att. 2003-Dec-25)
@@ -899,7 +908,7 @@
 + **juman.o** 1. (_ton verb_) die (att. 2003-Dec-25)
 + **jumaye** 1. (_proper noun_) Death, the Reaper, Fate; the personification of Death in Adin, "Death's Hand" (att. 2021-Apr-22)
 + **jun** 1. (_positional_) at, in, or on a particlar location 2. \[temporal\] at or during a particular time (att. 2003-Dec-25)
-+ **jurabi** 1. (_noun_) afternoon, midday (_attributed in all found dictionaries, but previously only ever in "sayomin jurabi" and "sayu jurabi"_; att. 2003-Dec-25)
++ **jurabi** 1. (_noun_) afternoon, midday (attributed in all found dictionaries, but previously only ever in _sayomin jurabi_ and _sayu jurabi_; att. 2003-Dec-25)
 + **jurag** 1. (_descriptor_) selfless (att. 2008-Jun-22)
 + **jurai** 1. (_noun_) reality (att. 2003-Dec-25)
 + **jurau** 1. (_descriptor_) real (att. 2003-Dec-25)
@@ -921,7 +930,7 @@
 + **para** 1. (_noun_) sheet, page, tablet; a thin cloth used to cover surfaces (att. 2021-Apr-22)
 + **paratwa** 1. (_noun_) letter, missive, message (lit. sheet book, usually a single sheet) (att. 2021-Apr-22)
 + **pazo** 1. (_noun, descriptor_) black (att. 2022-Feb-25)
-+ **pau.re** 1. (_ton verb_) to bid, to bet, to gamble; to make a play or move in a game (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **pau.re** 1. (_ton verb_) to bid, to bet, to gamble; to make a play or move in a game (att. 2003-Apr-24 ${\rightarrow}$ att. 2022-Jun-05)
 + **pera.das** 1. (_ton verb_) please
   + **peraint** 1. (_expression_) "if you please" (may be a request for, or granting of, permission) (att. 2021-Apr-22)
 + **peradin** 1. (_proper noun_) Halfling (Atrusian) (att. 2021-Apr-22)
@@ -937,7 +946,7 @@
 + **pol.tek** 1. (_ton verb_) breaking laws or terms of a contract, sinning (att. 2003-Dec-25; _formerly "polaton"_)
 + **pon** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to ${1.04_{10}}$ _tolis_, ${250_{10}}$ grams, or ${8.81849_{10}}$ (${8.82_{10}}$) ounces (about half a pound) (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 + **pontif.ar** 1. (_ton verb_) advising (att. 2003-Dec-25)
-+ **popóren** 1. (_noun_) 1. dada, papa, daddy (may be shorted to _popo_) (att. 2022-Apr-14)
++ **popóren** 1. (_noun_) 1. dada, papa, daddy (may be shorted to _popo_; att. 2022-Apr-14)
 + **poraiti** 1. (_noun_) \[archaic\] mother (lit. _female father_, a remnant of an old movement; rare) (att. 2008-Jun-22)
 + **poren** 1. (_noun_) father (att. 2003-Dec-25)
 + **porén** 1. (_noun_) strength (att. 2003-Dec-25)
@@ -962,7 +971,7 @@
 + **rashi** 1. (_noun_) bank of a river, beach (near a lake, sea, ocean); sandy area along body of water (att. 2008-Jun-22)
 + **redjam** 1. (_kun verb_) to saddle, to prepare an animal for riding (att. 2008-Jun-22)
 + **redjau** 1. (_noun_) saddle (att. 2008-Jun-22)
-+ **rez.as** 1. (_ton verb_) to stand, to present or show respect, to (stand or be) ready for a struggle or challenge (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **rez.as** 1. (_ton verb_) to stand, to present or show respect, to (stand or be) ready for a struggle or challenge (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
 + **reixa** 1. (_ton verb_) bloom, grow, unfold (as a flower)
 + **-rek** 1. (_verd suffix_) shall (att. 2003-Dec-25)
 + **relya** 1. (_noun_) courage, valour, bravery (formerly _relja_; att. 2003-Dec-25)
@@ -1022,7 +1031,7 @@
   + **sayomin kolbu** 1. (_expression_) good evening (when greeting) (att. 2003-Dec-25)
   + **sayomin krestu** 1. (_expression_) good morning (only as greeting) (att. 2003-Dec-25)
 + **segyudin** 1. (_noun_) entry, as in a contest or competition "participate person" (att. 2021-Apr-22)
-+ **sedra** 1. (_kun verb_) to ride, to drive or steer (of an animal or animal-powered vehicle) (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **sedra** 1. (_kun verb_) to ride, to drive or steer (of an animal or animal-powered vehicle) (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
 + **sem** 1. (_positional_) (spatial) by, near, close to (att. 2021-Apr-22)
 + **senaert** 1. (_descriptor_) natural (att. 2021-Apr-22)
 + **sen'gyu.ré** 1. (_ton verb_) enter a contest or competition (att. 2021-Apr-22)
@@ -1040,10 +1049,10 @@
 + **shink.as** 1. (_ton verb_) persevere (att. 2003-Dec-25)
 + **shinkin** 1. (_noun_) perseverance (att. 2003-Dec-25)
 + **shiran** 1. (_noun_) wind (att. 2003-Dec-25)
-+ **shuka** 1. (_noun_) winter, cold season (att. 2007-Nov-26) (att. 2022-Jun-05)
++ **shuka** 1. (_noun_) winter, cold season (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
 + **shulé** 1. (_kun verb_) kissing, the act of pressing one's lips to a thing (att. 2003-Dec-25)
 + **shulén** 1. (_noun_) a kiss (att. 2003-Dec-25)
-+ **shulyadin** 1. (_noun, slang_ )a virgin, lit. "no-kiss person"
++ **shulyadin** 1. (_noun, slang_) a virgin, lit. "no-kiss person"
 + **shoxa.n** 1. (_ton verb_) sing (att. 2003-Dec-25)
 + **shoxem** 1. (_noun_) song (att. 2003-Dec-25)
 + **sif** 1. (_pronoun_) why
@@ -1051,7 +1060,7 @@
 + **sinju** 1. (_noun_) face (att. 2003-Dec-25)
 + **sinju.las** 1. (_ton verb_) facing, encountering, looking towards (att. 2003-Dec-25)
 + **sintwa** 1. (_noun_) diary (att. 2003-Dec-25)
-+ **stad.én** 1. (_ton verb_) to remain, to stay (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **stad.én** 1. (_ton verb_) to remain, to stay (att. 2003-Apr-24 ${\rightarrow}$ att. 2022-Jun-05)
 + **stram** 1. (_noun_) storm (att. 2021-Apr-22)
 + **sug** 1. (_article_) the, definite article (att. 2003-Dec-25)
 + **sugo** 1. (_descriptor_) especially, particularly (was formerly _sugoi_; att. 2003-Dec-25)
@@ -1083,7 +1092,7 @@
 + **-tax** 1. (_noun_, _verb suffix_) one who does (root verb) (att. 2003-Dec-25)
 + **taxoth** 1. (_expression_) equivalent to "fuck!", this term is considered intense profanity which should be avoided if possible (att. 2003-Dec-25)
 + **teha** 1. (_descriptor_) never
-+ **técha** 1. (_noun_) half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly $2.88$ kg, $101.589$ ($101.6$) ounces, $6.349313$ ($6.35$) pounds, or precisely _tomo tolisu_ (${12_{10}}$ tolis) (att. 2007, rediscovered 2022-Jun-04)
++ **técha** 1. (_noun_) half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly $2.88$ kg, $101.589$ ($101.6$) ounces, $6.349313$ ($6.35$) pounds, or precisely _tomo tolisu_ (${12_{10}}$ tolis) (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 + **techi** 1. (_noun_) yes (att. 2003-Dec-25)
 + **telar** 1. (_noun_) beast, creature (a generic term for wild or unknown animals) (att. 2003-Dec-25)
 + **teljia** 1. (_proper noun_) Monday (of even-numbered weeks), beast-day
@@ -1114,7 +1123,7 @@
 + **tok** 1. (_noun_) minute (att. 2003-Dec-25)
 + **tolam** 1. (_noun_) smoke (att. 2003-Dec-25)
 + **-tol** 1. (_ton verb suffix_) is doing, am doing; present tense, active voice (att. 2003-Dec-25)
-+ **tolis** 1. (_noun_) half-pound, a light weight or mass, roughly 240 grams, 8.46 ounces, or precisely _tomo onsu_ (${12_{10}}$ onz) (att. 2007, rediscovered 2022-Jun-04)
++ **tolis** 1. (_noun_) half-pound, a light weight or mass, roughly ${240_(10)}$ grams, ${8.46_(10)}$ ounces, or precisely _tomo onsu_ (${12_{10}}$ onz) (att. 2007 ${\rightarrow}$ rediscovered 2022-Jun-04)
 + **-tolochi** 1. (_ton verb suffix_) will, shall; future tense, active voice (att. 2003-Dec-25)
 + **-tolot** 1. (_ton verb suffix_) have finished, was doing; past tense, active voice (att. 2003-Dec-25)
 + **tomo** 1. (_descriptor_) twelve (att. 2003-Dec-25)
@@ -1140,7 +1149,8 @@
 + **ufaln** 1. (_noun_) knock (the sound of hitting something lightly) (att. 2021-Apr-22)
 + **ulic** 1. (_noun_) staff (att. 2008-Jun-22)
 + **umash** 1. (_ton verb_) hide (att. 2021-Apr-22)
-+ **urda** 1. (_descriptor_) like, alike, as, similar to (archaic, largely bound in modern speech) (att. 2021-Apr-22)
++ **umle.na** 1. (_ton verb_) altering sounds, especially for poetic compositions (att. 2022-Jun-26)
++ **urda** 1. (_descriptor_) like, alike, as, similar to (archaic, largely bound in modern speech; att. 2021-Apr-22)
 + **urén** 1. (_noun_) car, carriage, cart, wagon (att. 2003-Dec-25)
 
 ## Y
@@ -1271,8 +1281,8 @@
 ## O
 
 + **okei** 1. (_expression_) okay, alright (att. 2003-Dec-25)
-+ **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about ${1.25_{10}}$_onz_, ${25_{10}}$ grams, or ${0.881849_{10}}$ (${0.89_{10}}$) ounces (att. 2007, rediscovered 2022-Jun-04)
-+ **ons** 1. (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (${0.71_{10}}$) ounces by weight (att. 2007, rediscovered 2022-Jun-04)
++ **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about ${1.25_{10}}$ _onz_, ${25_{10}}$ grams, or ${0.881849_{10}}$ (${0.89_{10}}$) ounces (att. 2007 ${\rightarrow}$ 2022-Jun-04)
++ **ons** 1. (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (${0.71_{10}}$) ounces by weight (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 + **opporhel** 1. (_descriptor_) gracious (att. 2021-Apr-22)
 + **orgdin** 1. (_proper noun_) Ork (Atrusian) (att. 2021-Apr-22)
 + **orìnd** 1. (_noun, descriptor_) gold, metal or color (att. 2008-Jun-22)
@@ -1280,7 +1290,7 @@
 + **orxdin** 1. (_proper noun_) Orc (while specifically created to explain the Orcs of Warcraft, this may be used for a variety of traditional fantasy Orc or Ork archetypes; att. 2021-Apr-22)
 + **ormer.cin** 1. (_ton verb_) bleed, to drain blood (att. 2021-Apr-22)
 + **oro** 1. (_noun_) lap, time around a course (att. 2008-Jun-22)
-+ **orom** 1. (_descriptor_) same, similar, identical, stable (att. 2003-Apr-24) (att. 2022-Jun-05)
++ **orom** 1. (_descriptor_) same, similar, identical, stable (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)
 + **owala** 1. (_noun_) nose (att. 2008-Jun-22)
 
 ## W
@@ -1294,7 +1304,7 @@
 + **winilarn** 1. (_noun_) half, literally "one (part) of two" (att. 2021-Apr-22)
 + **winilarn** 1. (_prefix, positional_) half-race (att. 2021-Apr-22)
 + **winirin** 1. (_descriptor_) first (att. 2003-Dec-25)
-+ **winlin** 1. (_descriptor_) like one, as one, united, in unison, co-ordinated (att. 2007-Nov-26, rediscovered 2022-Jun-05)
++ **winlin** 1. (_descriptor_) like one, as one, united, in unison, co-ordinated (att. 2007-Nov-26 ${\rightarrow}$ 2022-Jun-05)
 + **wor** 1. (_positional_) as, while (att. 2003-Dec-25)
 + **woredin** 1. (_proper noun_) Woren (this term is exclusively for use in the _Breath of Fire_ fantasy setting; att. 2021-Apr-22)
 + **worka.in** 1. (_ton verb_) bear, carry (att. 2008-Jun-22)

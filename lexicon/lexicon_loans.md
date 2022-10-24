@@ -24,7 +24,7 @@ In the future, each word included will be rated with ! symbols with the followin
 
 ## G
 
-+ **gìlden** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 gold coin, worth ${144_{10}}$ silver _daimosu_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 -> 2022-Jun-04)
++ **gìlden** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 gold coin, worth ${144_{10}}$ silver _daimosu_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ 2022-Jun-04)
 + **gramurdin** 1. (_proper noun_) Gramurn (att. 2008-Jun-22)
 + **god** 1. (_proper noun_) God (singular unique divine, typically refers to YHWH or XIIC) (att. 2003-Dec-25)
 
