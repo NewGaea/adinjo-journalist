@@ -1173,7 +1173,7 @@
 + **-ykun** 1. (_kun verb affix_) will, shall; future tense (used for _kun_ verbs which end in consonants) (att. 2003-Dec-25)
 + **yr** 1. (_conjunction_) or (att. 2008-Jun-22)
 + **yréons** 1. (_archaic verb_) to come first (archaic, proper name) (att. 2008-Jun-22)
-+ **yuga** 1. (_noun_) thing (att. 2003-Dec-25) _formerly "yugi"_
++ **yuga** 1. (_noun_) thing (formerly _yugi_; att. 2003-Dec-25)
 + **yumare** 1. (_noun_) compassion, diffused love (att. 2008-Jun-22)
 + **yok.els** 1. (_ton verb_) lead, be ahead of (att. 2003-Dec-25)
 + **yoken** 1. (_noun_) lead, a distance between two (att. 2003-Dec-25)
