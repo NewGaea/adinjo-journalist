@@ -30,7 +30,7 @@ In the future, each word included will be rated with ! symbols with the followin
 
 ## D
 
-+ **daimos** _noun_ the name of a currency used on Atrusius, this refers to the value of 1 silver coin, worth ${12_{10}}$ copper _tendínu_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 -> #2022-Jun-04`)
++ **daimos** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 silver coin, worth ${12_{10}}$ copper _tendínu_ (this word may be significantly older than the date attribution suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ #2022-Jun-04`)
 + **da'salji** 1. (_noun_) milk 2. (_noun_) juice of certain fruits such as the _leng eni isa_ (this word, like _leng eni isa_, has been imported from the Kenyu Language of Peace; att. 2021-Apr-22)
 + **draikan** 1. (_noun_) dragon, drake, predatory or monstrous lizard (att. 2021-Apr-22)
 + **dunyeidin** 1. (_noun_) small, strong person (corresponds to typical fantasy Dwarf)
@@ -83,8 +83,8 @@ In the future, each word included will be rated with ! symbols with the followin
 + **medra** 1. (_noun_) mother (att. 2008-Jun-22)
 + **men.aru** 1. (_ton verb_) naming (att. 2003-Dec-25)
 + **menax** 1. (_noun_) name (att. 2003-Dec-25)
-+ **mithral** 1. (_noun_) the name of a tree native to Atrusius, and the wood from said tree. When the wood of this tree is dried in the sun, it activates dormant magical energy that causes the wood to become as hard as steel and highly resistant to fire. (this word is significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 2022-Jun-04)
-+ **mors** 1. (_noun_) life (the span of life) (att. 2003-Dec-25; _formerly "mor"_)
++ **mithral** 1. (_noun_) the name of a tree native to Atrusius, and the wood from said tree. When the wood of this tree is dried in the sun, it activates dormant magical energy which causes the wood to become as hard as steel and highly resistant to fire. (this word is significantly older than the date attribution suggests -- it has only been re-documented at this time thanks to review of old documents; att. 2022-Jun-04)
++ **mors** 1. (_noun_) life (the span of life) (formerly _mor_; att. 2003-Dec-25)
 + **mortadin** 1. (_noun_) short-lived person; often used as an insult to short lived races (att. 2021-Apr-22)
 + **mortal** 1. (_noun_, _pejorative_) short-life
 
@@ -103,9 +103,9 @@ In the future, each word included will be rated with ! symbols with the followin
 ## P
 
 + **peradin** 1. (_proper noun_) Halfling (Atrusian) (att. 2021-Apr-22)
-+ **plati** _noun_ the name of a currency used on Atrusius, this refers to the value of 1 platinum-alloy coin worth ${1,728_{10}}$_gilden_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 -> 2022-Jun-04)
-+ **politikaen** _descriptor_ political (att. 2003-Dec-25)
-+ **pon** _noun_ a measure of mass/weight used by the native residents of Atrusius, roughly equal to ${1.04_{{10}}$ _tolis_, ${250_{{10}}$ grams, or ${8.81849_{{10}}$ (${8.82_{{10}}$) ounces (about half a pound) (2007 ->  2022-Jun-04)
++ **plati** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 platinum-alloy coin worth ${1,728_{10}}$ _gilden_ (this word may be significantly older than the date attribution suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ 2022-Jun-04)
++ **politikaen** 1. (_descriptor_) political (att. 2003-Dec-25)
++ **pon** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to ${1.04_{{10}}$ _tolisu_, ${250_{{10}}$ grams, or ${8.81849_{{10}}$ (${8.82_{{10}}$) ounces (about half a pound) (2007 ->  2022-Jun-04)
 + **pontif.ar** 1. (_ton verb_) advising (att. 2003-Dec-25)
 + **poren** 1. (_noun_) father (att. 2003-Dec-25)
 + **porén** 1. (_noun_) strength (att. 2003-Dec-25)
@@ -126,7 +126,7 @@ In the future, each word included will be rated with ! symbols with the followin
 
 + **-tal** 1. (_descriptor_) short, less (att. 2003-Dec-25)
 + **temba** 1. (_noun_) time (att. 2003-Dec-25)
-+ **tendí** _noun_ the name of a currency used on Atrusius, this refers to the value of 1 copper coin, worth ${12_{10}}$ _xanu mithrali_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 -> #2022-Jun-04)
++ **tendí** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 copper coin, worth ${12_{10}}$ _xanu mithrali_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ #2022-Jun-04)
 + **téol** 1. (_noun_) god (singular, usually of multiple) (att. 2003-Dec-25)
 
 ## U
@@ -135,8 +135,8 @@ In the future, each word included will be rated with ! symbols with the followin
 
 ## Y
 
-+ **yani.s** 1. (_ton verb_) say (att. 2003-Dec-25)
-+ **yukùr** _noun_ _**Euchre**_, a card game played with only a partial deck of cards, with players split into teams of two.  (this word is significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 2022-Jun-04)
++ **yani.s {!!!!}** 1. (_ton verb_) say (att. 2003-Dec-25)
++ **yukùr** 1. (_noun_) _**Euchre**_, a card game played with only a partial deck of cards, with players split into teams of two.  (this word is significantly older than the date attribution suggests -- it has only been re-documented at this time thanks to review of old documents; att. 2022-Jun-04)
 
 ## F
 
@@ -149,13 +149,13 @@ In the future, each word included will be rated with ! symbols with the followin
 
 ## X (KH)
 
-+ **xan** _noun_ the name of a currency used on Atrusius, this refers to the value of 1 wood coin, typiclly made of mithral wood (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 -> #2022-Jun-04)
++ **xan** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 wood coin, typically made of _mithral_ wood (this word may be significantly older than the date attribution suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ #2022-Jun-04)
 
 ## O
 
 + **okei** 1. (_expression_) okay, alright (att. 2003-Dec-25)
-+ **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about ${1.25_{10}}$ _onz_, ${25_{10}}$ grams, or ${0.881849_{10}}$ (${0.89_{10}}$) ounces (att. 2007, rediscovered 2022-Jun-04)
-+ **ons** 1. (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (${0.71_{10}}$) ounces by weight (att. 2007, rediscovered 2022-Jun-04)
++ **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about ${1.25_{10}}$ _onz_, ${25_{10}}$ grams, or ${0.881849_{10}}$ (${0.89_{10}}$) ounces (att. 2007 ${\rightarrow}$ 2022-Jun-04)
++ **ons** 1. (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (${0.71_{10}}$) ounces by weight (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 + **orgdin** 1. (_proper noun_) Ork (Atrusian) (att. 2021-Apr-22)
 + **orxdin** 1. (_proper noun_) Orc (while specifically created to explain the Orcs of Warcraft, this may be used for a variety of traditional fantasy Orc or Ork archetypes; att. 2021-Apr-22)
 

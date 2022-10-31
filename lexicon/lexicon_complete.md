@@ -198,6 +198,7 @@
 + **dai** 1. (_positional_) on (att. 2003-Dec-25)
 + **-dai** 2. (_suffix_) body, form, level (att. 2003-Dec-25; cf. _kadai_)
 + **dailorn** 1. (_noun_) tabletop, countertop, desktop; the top surface of a table, counter, desk, or similar (att. 2022-Jun-04)
++ **daimos** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 silver coin, worth ${12_{10}}$ copper _tendínu_ (this word may be significantly older than the date attribution suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ #2022-Jun-04`)
 + **dait**- 1. (_prefix, noun_) daughter, “daughter of”; often used in initial introductions or matronymic surnames (att. 2008-Jun-22)
 + **daiti** 1. (_noun_) daughter (att. 2008-Jun-22)
 + **daxin** 1. (_noun_) point in time, time-frame; era; tense of a verb (att. 2008-Jun-22)
@@ -683,6 +684,7 @@
 + **laumétax** 1. (_noun_) page, one who delivers summons (att. 2008-Jun-22)
 + **lav** 1. (_noun_) soul, spirit (att. 1998-Jun-01)
 + **laven** 1. (_descriptor_) pale (att. 2003-Dec-25)
++ **lavendur** 1. (_noun_) pale flower
 + **leka'e** 1. (_noun_) fight, battle, combat (att. 2003-Dec-25; _formerly "lekake"_)
 + **leka'e'i natrein** 1. (_noun_) martial art, combat style
 + **leka.ki** 1. (_ton verb_) fight, battle, engage in combat (att. 2003-Dec-25; _at one point, the root was "lekak-" rather than the current "leka-"_)
@@ -767,7 +769,8 @@
 + **merchin** 1. (_noun_) blood (att. 2008-Jun-22)
 + **merchinal.en** 1. (_ton verb_) bloody, to cover or mark with blood (att. 2021-Apr-22)
 + **merchinens** 1. (_descriptor_) bloody, covered or marked by blood (att. 2021-Apr-22)
-+ **metral** 1. (_noun_) foot part of body; also for animal paws (att. 2008-Jun-22)
++ **metèn** 1. (_noun_) illustration, drawing (an older word that never made it into the lexicon; att. 2022-Oct-25)
++ **metral** 1. (_noun_) foot (part of body); also for animal paws (att. 2008-Jun-22)
 + **-mi** 1. (_suffix, descriptor_) twenty thousands, ten thousands (${20,736s_{10}}$, or ${10,000s_{12}}$) (att. 2003-Dec-25)
 + **midox** 1. (_noun_) error, mistake (att. 2003-Dec-25)
 + **mikau** 1. (_noun_) south (att. 2003-Dec-25)

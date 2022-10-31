@@ -123,6 +123,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 + **mant.ak** 1. (_ton verb_) to pass gradually, to change constantly (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)
 + **memédra** 1. (_noun_) 1. mama, mommy (may be shortened to _memé_; att. 2022-Apr-14)
 + **-mer** 1. (_verb affix_) may, able to; indicates the potentive or potential aspect, whether a verb is possible (att. 2003-Dec-25)
++ **metèn** 1. (_noun_) illustration, drawing (an older word that never made it into the lexicon; att. 2022-Oct-25)
 + **mokure.nd** 1. (_ton verb_) learning, studying (att. 2004-Apr-24 ${\rightarrow}$ att. 2022-Jun-05)
 + **mokuri.das** 1. (_ton verb_) to know, to study (att. 2003-Dec-25 ${\rightarrow}$ att. 2006-Jun-04)
 
