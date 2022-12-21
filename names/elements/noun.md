@@ -51,6 +51,7 @@ The following table indicates simple or basic nouns, simple ideas which are not 
 | snow              | toshi     | tosh, to     | --      | shi        |
 | spear             | narlic    | nar, narl    | --      | lic, lis   |
 | staff             | ulic      | uli          | --      | liç        |
+| star              | raji      | --           | --      | --         |
 | stronghold        | berìk     | bér          | --      | rìk, ìk    |
 | sword             | ten       | --           | --      | den, dhen  |
 | water, spring     | twar      | --           | --      | --         |
