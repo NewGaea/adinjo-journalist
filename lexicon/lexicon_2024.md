@@ -1,4 +1,4 @@
-# List of Words (2022)
+# List of Words (2024)
 
 This list contains only words which are confirmed as added to the lexicon documentation in 2023 and 2024, even if they are older.
 
@@ -12,7 +12,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## G
 
-+ N/A
++ **gázi** 1. (_noun_) a board or plank of wood
 
 ## D
 
@@ -52,15 +52,18 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## M
 
-+ N/A
++ **morxagi** 1. (_noun_) a sapling or cutting of a tree intended for planting or grafting
 
 ## N
 
-+ N/A
++ **néter** (sometimes **néther**) 1. (_noun_) the nether (in Minecraft)
++ **nétherak** (sometimes **nétherak**) 1. (_noun_) netherrack (in Minecraft)
++ **nocash** 1. (_noun_) sandstone
 
 ## J
 
-+ N/A
++ **jama.r** `#2022.06.23` 1. (_ton verb_) to flee, to run, to escape
++ **joma** 1. (_noun_) the trunk of a tree 2. (_noun_) a length of a felled tree trunk or broad branch
 
 ## P
 
@@ -68,11 +71,11 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## R
 
-+ N/A
++ **ronoci** 1. (_noun_) redstone (in Minecraft)
 
 ## S
 
-+ N/A
++ **stribó** `#2022.06.20` 1. (_noun_) ore, stone containing valuable minerals or gems
 
 ## T
 
@@ -92,7 +95,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## V
 
-+ N/A
++ **vibun** `#2022.06.23` 1. (_noun_) iron (metal)
 
 ## X (KH)
 

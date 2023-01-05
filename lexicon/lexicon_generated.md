@@ -92,6 +92,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + ga `#2022.06.20`
 + gazisbusó `#2022.06.20`
 + gázi `#2022.06.20`
+  1. (_noun_) a board or plank of wood
 + gan `#2022.06.23`
 + gantur `#2022.06.23`
 + gapi `#2022.06.20`
@@ -573,7 +574,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + jabrí `#2022.06.20`
 + jádu `#2022.06.20`
 + jacabancimum `#2022.06.23`
-+ jamar `#2022.06.23`
++ **jama.r** `#2022.06.23`
+  1. (_ton verb_) to flee, to run, to escape
 + jar `#2022.06.23`
 + je `#2022.06.23`
 + jedilmerreka `#2022.06.23`
@@ -731,7 +733,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + spi `#2022.06.20`
 + spruðo `#2022.06.20`
 + spópútezó `#2022.06.20`
-+ stribó `#2022.06.20`
++ **stribó** `#2022.06.20` 1. (_noun_) ore, stone containing valuable minerals or gems
 + sua `#2022.06.23`
 + súzé `#2022.06.20`
 + suma `#2022.06.23`
@@ -925,7 +927,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
   1. (_noun_) the name of the twenty-third letter of the _adobat_ `#1998.12.31`
 + vi `#2022.06.20`
 + vianal `#2022.06.23`
-+ vibun `#2022.06.23`
++ **vibun** `#2022.06.23`
+  1. (_noun_) iron (metal)
 + viujíþtráta `#2022.06.20`
 + vú `#2022.06.20`
 + vuanaal `#2022.06.23`

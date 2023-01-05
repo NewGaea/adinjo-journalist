@@ -199,7 +199,7 @@
 + **-dai** 2. (_suffix_) body, form, level (att. 2003-Dec-25; cf. _kadai_)
 + **dailorn** 1. (_noun_) tabletop, countertop, desktop; the top surface of a table, counter, desk, or similar (att. 2022-Jun-04)
 + **daimos** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 silver coin, worth ${12_{10}}$ copper _tendínu_ (this word may be significantly older than the date attribution suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ #2022-Jun-04`)
-+ **dait**- 1. (_prefix, noun_) daughter, “daughter of”; often used in initial introductions or matronymic surnames (att. 2008-Jun-22)
++ **dait-** 1. (_prefix, noun_) daughter, “daughter of”; often used in initial introductions or matronymic surnames (att. 2008-Jun-22)
 + **daiti** 1. (_noun_) daughter (att. 2008-Jun-22)
 + **daxin** 1. (_noun_) point in time, time-frame; era; tense of a verb (att. 2008-Jun-22)
 + **dakmel** 1. (_noun_) letter, glyph, rune; may be used to refer to any written symbol of language, regardless of the writing system used (att. 2008-Jun-22)
