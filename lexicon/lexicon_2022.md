@@ -224,15 +224,14 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 The words listed in this section may be repurposed and redefined as they have modern forms in the lexicon.
 
-+ **bura.nu** _ton verb_ to blow, to exhale `#2003.12.25` _has become modern "brau.jen"_
-+ **imá.ton** _ton verb_ to shoot `#2003.12.25` `#2022.06.05` _has become modern "íma.ta"_
++ N/A
 
 ## INCOMPLETE
 
-+ **'e.tol** _ton verb_ to burn, to be passionate, to be moved to action `#2007.11.26` `#2022.06.05` _conjugated, and contracted, form not typically listed, but no other form appears in the song where this word is attested_
-+ **soli.tol** _ton verb_ `#UNKNOWN_GLOSS` `#2003.12.25` `#2022.06.05` _conjugated, form not typically listed, but no other form appears in the song where this word is attested_
+The words listed in this section are only partially complete. They may be lacking glosses or proper forms, or otherwise be incomplete.
+
++ N/A
 
 ## UNSORTED
 
-+ N/A
 + N/A

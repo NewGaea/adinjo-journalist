@@ -32,7 +32,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## C
 
-+ N/A
++ **chennur** `#2022.06.23` 1. (_noun_) school, university, college 2. (_noun_) the group of people who follow a set of teachings 3. **chennuri** (_descriptor_) learned, educated, smart
 
 ## I
 
@@ -48,7 +48,9 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## L
 
-+ N/A
++ **larntin** 1. (_noun_) likeness, appearance, image, something having a similar or identical sensation to something else 2. (_noun_) picture, drawing, painting, sculpture
++ **latèn** 1. (_noun_) an illustration of realistic style or quality
++ **julígorem** 1. (_gerund_) livestream, live broadcast; does not conjugate on its own, but can be followed by _kempo_ to make verbal constructions
 
 ## M
 
@@ -57,12 +59,13 @@ This list contains only words which are confirmed as added to the lexicon docume
 ## N
 
 + **néter** (sometimes **néther**) 1. (_noun_) the nether (in Minecraft)
-+ **nétherak** (sometimes **nétherak**) 1. (_noun_) netherrack (in Minecraft)
++ **néterak** (sometimes **nétherak**) 1. (_noun_) netherrack (in Minecraft)
 + **nocash** 1. (_noun_) sandstone
 
 ## J
 
 + **jama.r** `#2022.06.23` 1. (_ton verb_) to flee, to run, to escape
++ **ju** 2. (_descriptor_) live, current, in-progress; especially when added as a prefix to a verb `#2023.01.09`
 + **joma** 1. (_noun_) the trunk of a tree 2. (_noun_) a length of a felled tree trunk or broad branch
 
 ## P

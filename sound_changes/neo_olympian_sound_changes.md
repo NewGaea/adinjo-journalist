@@ -16,5 +16,5 @@ This follows a trend of treating these pairs as semi-vowel onglides, but shifts 
 
 Some examples of words affected by this:
 
-+ **ADJ** /koen/ -> **NOA** /qen/
-+ 
++ **ADJ** /koen/ -> /qen/
++ **ADJ** /huir/ -> /hwir/

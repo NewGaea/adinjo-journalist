@@ -10,39 +10,45 @@ The top of each section will also contain a count of the number of sentences whi
 
 Section I contains 285 sentences, of increasing complexity.
 
-**Section I Progress:** 3/285
+**Section I Progress:** 10/285
 
 1. Birds sing.
-   * `bird.PL sing`
-   * _trininu shokatol_
-   * `bird.PL sing.PRES.ACT`
+   + `bird.PL sing`
+   + _trininu shokatol_
+   + `bird.PL sing.PRES.ACT`
 2. Children play.
-   * `child.PL play`
-   * _gentu ayginstol_
-   * `child.PL play.PRES.ACT`
+   + `child.PL play`
+   + _gentu ayginstol_
+   + `child.PL play.PRES.ACT`
 3. Dogs bark.
-   * `dog.PL bark`
-   * _kitanu auf yanitol_
-   * `dog.PL arf say.PRES.ACT`
+   + `dog.PL bark`
+   + _kitanu auf yanitol_
+   + `dog.PL arf say.PRES.ACT`
 4. Bees hum.
 5. Baby laughed.
-   * `Baby laugh.PAST.ACT` (_Due to the structure of this sentence, the immediately following translation interprets 'Baby' as a name or nickname_)
-   * _BÉBI géxatolot_
-   * `Bébi laugh.PAST.ACT`
+   + `Baby laugh.PAST.ACT` (_Due to the structure of this sentence, the immediately following translation interprets 'Baby' as a name or nickname_)
+   + _BÉBI géxatolot_
+   + `Bébi laugh.PAST.ACT`
 6. The sun shines.
-   * `DEF sun shine.3PRES`
-   * _kuha ellores_
-   * `sun shine.PRES`
+   + `DEF sun shine.3PRES`
+   + _kuha ellores_
+   + `sun shine.PRES`
 7. The wind blows.
-   * `DEF wind blow.PRES`
-   * _romulin brautol_
-   * `wind.PL.REFL blow.PRES.ACT`
+   + `DEF wind blow.PRES`
+   + _romulin brautol_
+   + `wind.PL.REFL blow.PRES.ACT`
 8. The car started.
-   * `DEF car start.PAST.ACT`
-   * _sug urén dobertolot_
-   * `DEF carriage work.PAST.ACT`
+   + `DEF car start.PAST.ACT`
+   + _sug urén dobertolot_
+   + `DEF carriage work.PAST.ACT`
 9. School began again.
+   + `school begin.PAST again`
+   + _janyu chennur keftot_
+   + `again school begin.PAST`
 10. The child ran quickly.
+    + `DEF child run.PAST quick.ADV`
+    + _gent gantali jamatolot_
+    + `child speed.great.DESC run.PAST.ACT`
 11. Yellow daffodils nodded gaily.
 12. Little Marigold cried bitterly.
 13. All the people shouted.
@@ -131,7 +137,7 @@ Section I contains 285 sentences, of increasing complexity.
 96. The child waited at the door for her father.
 97. Seven little sisters were walking in a row.
 98. The snow melts rapidly in the warm sun shine.
-99. In autumn the leaves fall from the trees.
+99.  In autumn the leaves fall from the trees.
 100. Yesterday the best girl in the class missed in spelling.
 101. Some beautiful roses are blooming in our garden.
 102. Everywhere fluttered gay American flags.
