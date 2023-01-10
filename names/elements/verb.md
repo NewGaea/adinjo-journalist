@@ -4,7 +4,7 @@ Adinjo names may be derived from nouns, verbs, or descriptors, but usually take 
 
 ## Verbs as Naming Roots
 
-The words in these tables reflect commonly used verbs in Adinjo names. Most verbs can be shorted to their first syllable or two, use a middle syllable, or use their final syllable when used in a name -- these are called the Initial, Medial, and Final elements, but they are not related to their position within the name, only within the word they originally come from.
+The words in these tables reflect commonly used verbs in Adinjo names. Most verbs can be shortened to their first syllable or two, use a middle syllable, or use their final syllable when used in a name -- these are called the Initial, Medial, and Final elements, but they are not related to their position within the name, only within the word they originally come from.
 
 | English Meaning | Adinjo    | Initial    | Medial  | Final      |
 |:---------------:|:---------:|:----------:|:-------:|:----------:|

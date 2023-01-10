@@ -1,3 +1,5 @@
+# Adinjo Journalist Name Elements - Descriptors
+
 | English        | Adin       | Name Element(s)      |
 |:---------------|:-----------|:---------------------|
 | bear-like      | sonros     | son, ros             |
