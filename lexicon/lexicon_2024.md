@@ -4,7 +4,8 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## A
 
-+ N/A
++ **Adinjo** 1. (_proper noun_) Adin language `#2023.01.10`
++ **aur.en** 1. (_ton verb_) asking, interrogating, querying, questioning `#2023.01.10`
 
 ## B
 
@@ -12,7 +13,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## G
 
-+ **gázi** 1. (_noun_) a board or plank of wood
++ **gázi** 1. (_noun_) a board or plank of wood `#2023.01.05`
 
 ## D
 
@@ -32,7 +33,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## C
 
-+ **chennur** `#2022.06.23` 1. (_noun_) school, university, college 2. (_noun_) the group of people who follow a set of teachings 3. **chennuri** (_descriptor_) learned, educated, smart
++ **chennur** `#2022.06.23` 1. (_noun_) school, university, college `#2023.01.05` 2. (_noun_) the group of people who follow a set of teachings 3. **chennuri** (_descriptor_) learned, educated, smart `#2023.01.05`
 
 ## I
 
@@ -48,25 +49,25 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## L
 
-+ **larntin** 1. (_noun_) likeness, appearance, image, something having a similar or identical sensation to something else 2. (_noun_) picture, drawing, painting, sculpture
-+ **latèn** 1. (_noun_) an illustration of realistic style or quality
-+ **julígorem** 1. (_gerund_) livestream, live broadcast; does not conjugate on its own, but can be followed by _kempo_ to make verbal constructions
++ **larntin** 1. (_noun_) likeness, appearance, image, something having a similar or identical sensation to something else `#2023.01.05` 2. (_noun_) picture, drawing, painting, sculpture `#2023.01.05`
++ **latèn** 1. (_noun_) an illustration of realistic style or quality `#2023.01.05`
 
 ## M
 
-+ **morxagi** 1. (_noun_) a sapling or cutting of a tree intended for planting or grafting
++ **morxagi** 1. (_noun_) a sapling or cutting of a tree intended for planting or grafting `#2023.01.05`
 
 ## N
 
-+ **néter** (sometimes **néther**) 1. (_noun_) the nether (in Minecraft)
-+ **néterak** (sometimes **nétherak**) 1. (_noun_) netherrack (in Minecraft)
-+ **nocash** 1. (_noun_) sandstone
++ **néter** (sometimes **néther**) 1. (_noun_) the nether (in Minecraft) `#2023.01.05`
++ **néterak** (sometimes **nétherak**) 1. (_noun_) netherrack (in Minecraft) `#2023.01.05`
++ **nocash** 1. (_noun_) sandstone `#2023.01.05`
 
 ## J
 
 + **jama.r** `#2022.06.23` 1. (_ton verb_) to flee, to run, to escape
 + **ju** 2. (_descriptor_) live, current, in-progress; especially when added as a prefix to a verb `#2023.01.09`
-+ **joma** 1. (_noun_) the trunk of a tree 2. (_noun_) a length of a felled tree trunk or broad branch
++ **julígorem** 1. (_gerund_) livestream, live broadcast; does not conjugate on its own, but can be followed by _kempo_ to make verbal constructions `#2023.01.05`
++ **joma** 1. (_noun_) the trunk of a tree `#2023.01.05` 2. (_noun_) a length of a felled tree trunk or broad branch `#2023.01.05`
 
 ## P
 
@@ -74,11 +75,11 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## R
 
-+ **ronoci** 1. (_noun_) redstone (in Minecraft)
++ **ronoci** 1. (_noun_) redstone (in Minecraft) `#2023.01.05`
 
 ## S
 
-+ **stribó** `#2022.06.20` 1. (_noun_) ore, stone containing valuable minerals or gems
++ **stribó** `#2022.06.20` 1. (_noun_) ore, stone containing valuable minerals or gems `#2023.01.05`
 
 ## T
 
@@ -98,7 +99,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## V
 
-+ **vibun** `#2022.06.23` 1. (_noun_) iron (metal)
++ **vibun** `#2022.06.23` 1. (_noun_) iron (metal) `#2023.01.05`
 
 ## X (KH)
 
