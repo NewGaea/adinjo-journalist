@@ -332,7 +332,11 @@ ${\LaTeX}$ is not required for integer values from $-9$ to $9$, but should be us
 
 #### Notation of Base-12
 
-In general, we use the Greek letter _chi_ (Χχ) or the Latin letter _ex_ (Xx) for the value of ${9+1}$ and the Greek letter _epsilon_ (Εε) or the Latin letter _ee_ (Ee) for the value of ${9+2}$ when using base-12 notation in Adinjo documentation. It is preferred to use the lowercase Greek letters if a number is _not_ being used in LaTeX markup, either the Greek or Latin capital form is preferred within such markup, and the Latin lowercase should generally be avoided except in the process of composing a draft.
+In general, we use the Greek letter _chi_ (Χχ) or the Latin letter _ex_ (Xx) for the value of ${9+1}$ and the Greek letter _epsilon_ (Εε) or the Latin letter _ee_ (Ee) for the value of ${9+2}$ when using base-12 notation in Adinjo documentation. It is preferred to use
+
+- The lowercase Greek letters if a number is _not_ being used in ${\LaTeX}$ markup.
+- Either the Greek or Latin capital form is preferred within ${\LaTeX}$ markup.
+- The Latin lowercase should generally be avoided except in the process of composing a draft.
 
 These characters should be presented using the markup \text{foo} provided by ${\LaTeX}$, as they are not meant to be mathematical variables, but numerals.
 
