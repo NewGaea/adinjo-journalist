@@ -899,7 +899,7 @@
 + **jia** 1. (_noun_) day (both the period of daylight, and the entire period of time between two sunrises) (att. 2003-Dec-25)
 + **jiabi** 1. (_descriptor_) daily (att. 2003-Dec-25)
 + **jimar.u** 1. (_ton verb_) hear, listen (att. 2008-Jun-22)
-+ **ju** 1. (_descriptor_) now, the present (att. 2003-Dec-25)
++ **ju** 1. (_descriptor_) now, the present (att. 2003-Dec-25) 2. (_descriptor_) live, current, in-progress; especially when added as a prefix to a verb `#2023.01.09
 + **jua** 1. (_conjunction_) too, as well, also (_formerly "zhu"_; att. 2003-Dec-25)
 + **jubaci** 1. (_noun_) lion (_formerly meant "tiger," conflicted with "hotan"_; att. 2003-Dec-25)
 + **judaxin** 1. (_descriptor_) present-passive; outside of technical uses, "that which merely is"

@@ -314,7 +314,9 @@ Note that there is no guarantee that these random words are entirely suitable fo
 + çao `#2022.06.23`
 + çe `#2022.06.23`
 + çennur `#2022.06.23`
-  1. (_noun_) school, university, college 2. (_noun_) the group of people who follow a set of teachings 3. (_descriptor_) learned, educated, smart
+  1. (_noun_) school, university, college
+  2. (_noun_) the group of people who follow a set of teachings
+  3. **çennuri** (_descriptor_) learned, educated, smart
 + çgreó `#2022.06.20`
 + çimeansim `#2022.06.23`
 + çijde `#2022.06.20`

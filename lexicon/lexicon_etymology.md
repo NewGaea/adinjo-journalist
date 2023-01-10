@@ -32,7 +32,7 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 
 ## C
 
-+ **chijin**
++ **\\\*chedyn**
   + **chennur:** school, student group, education
   + **chijin:** knowledge
 
