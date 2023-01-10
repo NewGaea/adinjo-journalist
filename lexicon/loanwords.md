@@ -1,6 +1,6 @@
 # List of Words (2022)
 
-This list contains loanwords which are spelled _significantly_ differently in Adinjo Journalist than they are in their source language. In this document, the Source languages is (_emphasized in parentheses_).
+This list contains the group of loanwords which are used as the Adinjo forms of names, and which do not necessarily have a formal definition within Adinjo. In this document, the Source languages is (_emphasized in parentheses_).
 
 For simplicity, the orthographic standards of names are disregarded in this document: All words are listed in lowercase only.
 
@@ -22,14 +22,6 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 + N/A
 
-### Ð (dh)
-
-+ N/A
-
-### ʤ (dj)
-
-+ N/A
-
 ## E
 
 + N/A
@@ -43,10 +35,6 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 + N/A
 
 ## C
-
-+ N/A
-
-### Ç (CH)
 
 + N/A
 
@@ -74,10 +62,6 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 + N/A
 
-### Ñ (NY)
-
-+ N/A
-
 ## J
 
 + N/A
@@ -92,17 +76,9 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 ## S
 
-+ **sán fráncisko** (_spanish\*, english_) San Francisco
-
-### ʃ (SH)
-
-+ N/A
++ **san fráncisko** (_spanish\*, english_) San Francisco
 
 ## T
-
-+ N/A
-
-### Þ (TH)
 
 + N/A
 
@@ -132,7 +108,7 @@ For simplicity, the orthographic standards of names are disregarded in this docu
 
 ## W
 
-+ **washinton** (_english_) Washington
++ **washìnton** (_english_) Washington
 
 ## UNSORTED
 

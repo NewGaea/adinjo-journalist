@@ -44,7 +44,7 @@ Ancient name elements are roughly read from left to right, with adjectives and m
 + _**Mael**_
 + _**Miktén**_ (stylized as Miktane), from _miktan_ + _ten_, means “mighty is the sword” (cf. Temíkt, “mighty sword”)
 + _**Rhea**_
-+ _**Roger**_ (stylized as Rohger)
++ _**Roger**_ (stylized as Rohger because it requires a hard _g_)
 + _**Roman**_ from rom + jan, means “lord of wind”
 + _**Shoxani**_
 + _**Tesh**_
