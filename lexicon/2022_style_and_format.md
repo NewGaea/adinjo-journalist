@@ -2,6 +2,32 @@
 
 This is a metadocument meant to document the updated style and format for lexicon entries, to be used for all markdown files in this lexicon directory tree starting from 2022-Oct-01. While time is expected to convert all files, it is hoped that all current files can be converted by early 2023.
 
+- [2022 Style \& Formatting Update](#2022-style--formatting-update)
+  - [Pre-2022 Format](#pre-2022-format)
+    - [Lexicon Master Lists](#lexicon-master-lists)
+      - [Masterlist Mother Entries](#masterlist-mother-entries)
+    - [Masterlist Daughter Entries](#masterlist-daughter-entries)
+    - [Lexicon Subpage Lists](#lexicon-subpage-lists)
+      - [Lexicon Subpage Format](#lexicon-subpage-format)
+  - [Post-2022 Format](#post-2022-format)
+    - [Lexicon Lists](#lexicon-lists)
+      - [Daughter Entries](#daughter-entries)
+    - [Dictionary Lists](#dictionary-lists)
+    - [Dictionary Pages](#dictionary-pages)
+      - [Verbal Paradigms](#verbal-paradigms)
+        - [**Paradigm for TON Verbs**](#paradigm-for-ton-verbs)
+        - [**Paradigm for KUN Verbs**](#paradigm-for-kun-verbs)
+  - [Straightforward Transcription](#straightforward-transcription)
+    - [Punctuation in Transcriptions](#punctuation-in-transcriptions)
+      - [Apostrophe](#apostrophe)
+      - [Dash](#dash)
+      - [Full Stop](#full-stop)
+      - [Other Punctuation](#other-punctuation)
+  - [Use of LaTeX](#use-of-latex)
+    - [Numeric Values](#numeric-values)
+      - [Notation of Base-12](#notation-of-base-12)
+      - [Notation of Base-16](#notation-of-base-16)
+
 ## Pre-2022 Format
 
 ### Lexicon Master Lists
@@ -16,7 +42,7 @@ Lexicon mother entries are direct entries within the lexicon which do not have a
 
 This format renders roughly as:
 
-+ **[alma](a/alma.md).ru** _ton verb_ ruling, leading, governing `#2008.06.22` formerly _aluma.ru_
+- **[alma](a/alma.md).ru** _ton verb_ ruling, leading, governing `#2008.06.22` formerly _aluma.ru_
 
 These entries are:
 
@@ -40,10 +66,10 @@ A daughter entry is any word which is dependent on a mother entry, or which deri
 
 As above, this renders roughly as:
 
-+ **[alma](a/alma.md).ru** _ton verb_ ruling, leading, governing `#2008.06.22` formerly _aluma.ru_
-  + **[almán](a/almán.md)** _noun_ leader by circumstance, acting leader
-  + **[almatax](a/almatax.md)** _noun_ leader by profession, manager
-  + **[alnom](a/alnom.md)** _noun_ a rule or law
+- **[alma](a/alma.md).ru** _ton verb_ ruling, leading, governing `#2008.06.22` formerly _aluma.ru_
+  - **[almán](a/almán.md)** _noun_ leader by circumstance, acting leader
+  - **[almatax](a/almatax.md)** _noun_ leader by profession, manager
+  - **[alnom](a/alnom.md)** _noun_ a rule or law
 
 In general, a daughter lexeme varies from a mother lexeme only in that it is nested within the _unordered list_ structure, and may contain all of the same information as its mother entry.
 
@@ -77,20 +103,20 @@ Currently, the only dedicated subpage is the file `a.md`, and entries are listed
 
 This format renders, roughly, thus:
 
-+ **[almaru](a/alma.md)**
+- **[almaru](a/alma.md)**
   1. (_ton verb_) leading, exercising or showing leadership
   2. ruling, interpreting rules or laws, passing judgement
   3. governing, exercising authority
-  + **[almán](a/almán.md)**
+  - **[almán](a/almán.md)**
     1. (_noun_) a leader, as of a group or team
     2. a leader or ruler appointed without regard for qualifications, usually for a short term until a properly qualified leader can be appointed
     3. a leader without the will to lead or govern
-  + **[almatax](a/almatax.md)**
+  - **[almatax](a/almatax.md)**
     1. (_noun_) ruler, governor
     2. manager, coach
     3. teacher, professor, preacher
     4. judge, court
-  + **[alnom](a/alnom.md)**
+  - **[alnom](a/alnom.md)**
     1. (_noun_) a rule or regulation
     2. a protocol or procedure
     3. a law
@@ -106,28 +132,28 @@ From the start of this update, it is intended that all lexicon pages within the 
 Going forward, all lexicon lists should stop using mother-daughter hierarchies for words, and should instead reference related words in a parenthetical. The proposed format is as follows:
 
 ```plaintext
-+ **[alma.ru](a/alma.md)** 1. (_ton verb_) ruling, leading, governing (attested 2008-Jun-22; formerly _aluma.ru_)
-+ **[almán](a/almán.md)** 1. (_noun_) leader by circumstance, acting leader (cf. _almaru_)
-+ **[almatax](a/almatax.md)** 1. (_noun_) leader by profession, manager (cf. _almaru_)
-+ **[alnom](a/alnom.md)** 1. (_noun_) a rule or law (cf. _almaru_)
+- **[alma.ru](a/alma.md)** 1. (_ton verb_) ruling, leading, governing (attested 2008-Jun-22; formerly _aluma.ru_)
+- **[almán](a/almán.md)** 1. (_noun_) leader by circumstance, acting leader (cf. _almaru_)
+- **[almatax](a/almatax.md)** 1. (_noun_) leader by profession, manager (cf. _almaru_)
+- **[alnom](a/alnom.md)** 1. (_noun_) a rule or law (cf. _almaru_)
 ```
 
 Which ought to render, roughly, as such:
 
-+ **[alma.ru](a/alma.md)** 1. (_ton verb_) ruling, leading, governing (att. 2008-Jun-22; formerly _aluma.ru_)
-+ **[almán](a/almán.md)** 1. (_noun_) leader by circumstance, acting leader (cf. _almaru_)
-+ **[almatax](a/almatax.md)** 1. (_noun_) leader by profession, manager (cf. _almaru_)
-+ **[alnom](a/alnom.md)** 1. (_noun_) a rule or law (cf. _almaru_)
+- **[alma.ru](a/alma.md)** 1. (_ton verb_) ruling, leading, governing (att. 2008-Jun-22; formerly _aluma.ru_)
+- **[almán](a/almán.md)** 1. (_noun_) leader by circumstance, acting leader (cf. _almaru_)
+- **[almatax](a/almatax.md)** 1. (_noun_) leader by profession, manager (cf. _almaru_)
+- **[alnom](a/alnom.md)** 1. (_noun_) a rule or law (cf. _almaru_)
 
-1. All entries are part of an _unordered list_ denoted with a \+ symbol. Ordering of this list is manual, following the alphabetic conventions of the language in which entries are listed.
+1. All entries are part of an _unordered list_ denoted with a \- symbol. Ordering of this list is manual, following the alphabetic conventions of the language in which entries are listed.
    1. In the updated lexicon, a **straightforward transcription** is preferred to the use of IPA or special characters for digraphs.
 2. When linked to a lexicon entry page, the full dictionary form of the entry is included in the link, though the lexicon entry page should still be named based on the verb stem.
 3. Each sense of the lexicon entry receives a numbered listing, helping to alleviate confusion over comma-separated and semicolon separated entries.
    1. The part of speech is _emphasis formatted_ and contained in a pair of parentheses
       1. A comma may be used to concatenate multiple parts of speech within parentheses
-      2. A set of square brackest may follow these parentheses to specify a field of knowledge or context for a given sense.
+      2. A set of escaped \\\[square brackets\\\] may follow these parentheses to specify a field of knowledge or context for a given sense.
    2. The list of glosses suitable to the sense is separated as makes logical sense
-   3. Any parenthetical information, such as earliest attestation or older forms of a word, is contained in a pair of parentheses and located at the end of the sense to which it applies
+   3. Any parenthetical information, such as earliest attestation or older forms of a word, is contained in a single pair of parentheses and located at the end of the sense to which it applies
       1. Dates should be listed as _att. YYYY-MMM-DD_, always using 3-letter month and leading 0 for dates.
       2. A reference to a related word should use the format _cf._ (confer) followed by the word, or words, in **emphasis format**.
 4. A list of significant forms may be included in square brackets after either a specific sense or the end of the entry
@@ -144,20 +170,20 @@ Going forward, daughter entries should be reserved for expressions or set phrase
 The letter-based lists will now use the new rules for Dictionary Lists, which should be as follows:
 
 ```plaintext
-+ **[almaru](a/alma.md)**
+- **[almaru](a/alma.md)**
   1. (_ton verb_) leading, exercising or showing leadership
   2. (_ton verb_) ruling, interpreting rules or laws, passing judgement
   3. (_ton verb_) governing, exercising authority
-+ **[almán](a/almán.md)** (cf. _almaru_)
+- **[almán](a/almán.md)** (cf. _almaru_)
   1. (_noun_) a leader, as of a group or team
   2. (_noun_) a leader or ruler appointed without regard for qualifications, usually for a short term until a properly qualified leader can be appointed
   3. (_noun_) a leader without the will to lead or govern
-+ **[almatax](a/almatax.md)** (cf. _almaru_)
+- **[almatax](a/almatax.md)** (cf. _almaru_)
   1. (_noun_) ruler, governor
   2. (_noun_) manager, coach
   3. (_noun_) teacher, professor, preacher
   4. (_noun_) judge, court
-+ **[alnom](a/alnom.md)** (cf. _almaru_)
+- **[alnom](a/alnom.md)** (cf. _almaru_)
   1. (_noun_) a rule or regulation
   2. (_noun_) a protocol or procedure
   3. (_noun_) a law
@@ -186,22 +212,22 @@ Dictionary pages should be formatted in a manner that makes their migration to M
 
 ### Other Forms
 
-+ **(Applicable Sense/s)**
-  + **_alternate form_** (_part of speech_) usage or definition
+- **(Applicable Sense/s)**
+  - **_alternate form_** (_part of speech_) usage or definition
 
 ## Derivation
 
-+ **(Applicable Sense/s)**
-  + Derivational information
+- **(Applicable Sense/s)**
+  - Derivational information
 
 ### Etymology (optional)
 
-+ **(Applicable Sense/s)**
-  + etymological information
+- **(Applicable Sense/s)**
+  - etymological information
 
 ## Related Words
 
-+ **related word** (_part of speech_) definition or gloss
+- **related word** (_part of speech_) definition or gloss
 ```
 
 This format should provide the easiest translation into the preferred Mediawiki structure, though some changes may still need to be made at the time of conversion (such as stripping of the H1/title of the dictionary page).
