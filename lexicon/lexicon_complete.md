@@ -134,20 +134,20 @@
 ## B
 
 - **ba** 1. (_descriptor, prefix_) this; proximate demonstrative (att. 2003-Dec-25)
-- **bajia** 1. (_noun_) today (literally "this-day") (att. 2003-Dec-25)
+- **bajia** 1. (_noun_) today (literally "this-day"; att. 2003-Dec-25) 2. (metaphorical) now (added 2023-Jan-12)
 - **baci.re** 1. (_ton verb_) seeing, viewing; watching
 - **bak** 1. (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
 - **bakato** 1. (_expression_) "bite me," a colloquial expression meaning "cook and serve" (pejorative; att. 2003-Dec-25)
-- **bakira** 1. (_expression_) by the way, also, furthermore; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
-- **bal** 1. (_noun_) tempo, rhythmic timing (att. 2009-Nov-06)
-- **ban** 1. (_noun_) bread (att. 2003-Dec-25)
+- **bakira** 1. (_expression_) also, as you see, by the way, clearly, furthermore, therefore, understandably; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
+- **bal** 1. (_noun_) beat, rhythm, swing, tempo (att. 2009-Nov-06 ${\rightarrow}$ 2023-Jan-12) 2. (_noun_) a sense of rhythmic timing (att. 2009-Nov-06)
+- **ban** 1. (_noun_) bread (att. 2003-Dec-25) 2. (_noun_) meal (att. 2023-Jan-12)
 - **banc.els** 1. (_ton verb_) giving (formerly _borchton_; att. 2003-Dec-25)
 - **banchi** 1. (_noun_) gift; particularly a physical gift (att. 2003-Dec-25)
 - **banij** 1. (_pronoun_) here, this place (found in an old barely used journal; att. 2003 ${\rightarrow}$ 2022-Jun-04)
 - **banklaf** 1. (_noun_) holiday, a major festival or sacred season
-- **baru** 1. (_noun_) dust (att. 2008-Jun-22)
+- **baru** 1. (_noun_) dust (att. 2008-Jun-22) 2. dry dirt (att. 2023-Jan-12) 3. powder (att. 2023-Jan-12)
 - **bax.at** 1. (_ton verb_) rising, growing (att. 2003-Dec-25)
-- **beʤi** 1. (_noun_) beard (att. 2008-Jun-22)
+- **bedji** 1. (_noun_) beard (att. 2008-Jun-22)
 - **béra** 1. (_noun_) grape, berry
 - **berík** 1. (_noun_) castle; a fortified, walled, building, usually housing a leader (att. 2008-Jun-22)
 - **bider.in** 1. (_ton verb_) opening (att. 2008-Jun-22)
@@ -240,7 +240,7 @@
 - **damachi** 1. (_expression_) Thank you casual expression of gratitude, "thanks" (att. 2003-Dec-25)
   - **damachi ci** 1. (_expression_) Thank you more formal than "Damaci" (att. 2003-Dec-25)
   - **adamachi saci** 1. (_expression_) Thank you very formal version of "thank you" (att. 2003-Dec-25)
-- **dama.rio** 1. (_ton verb_) happening, occuring, especially inevitably or passively (att. 2003-Apr-24 ${\rightarrow} 2022-Jun-05)
+- **dama.rio** 1. (_ton verb_) happening, occuring, especially inevitably or passively (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)
 - **damer** 1. (_noun_) a license, permission to use; a lease or rental agreement (att. 2003-Dec-25)
 - **dame.ren** 1. (_ton verb_) license, allow one to use; lease, rent (att. 2003-Dec-25)
 - **dan** 1. (_article_) indefinite article; a, one, singular of multiple (att. 2003-Dec-25)
