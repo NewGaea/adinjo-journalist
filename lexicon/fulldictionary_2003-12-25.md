@@ -1,6 +1,6 @@
 # The Adin Dictionary - Unabridged
 
-This table presents the contents of the Adinjo Dictionary from 2003-Dec-25.
+This table presents the contents of the Adinjo Dictionary from 2003-Dec-25. This dictionary is one of the oldest documents presrving any of the language, and is sorted as an English glossary.
 
 The spellings used in 2003 are preserved in this list, meaning:
 
