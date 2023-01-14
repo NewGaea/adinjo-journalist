@@ -573,15 +573,15 @@
 
 ## X
 
-- N/A
+- **xylophone** 1. (_noun_) lisvaln (att. 2023-Jan-13)
 
 ## Y
 
-- N/A
+- **you** 1. (_pronoun_) ci (att. 2003-Dec-25)
 
 ## Z
 
-- N/A
+- **zero** 1. (_pronoun_) mijin (att. 2003-Dec-25)
 
 ## UNSORTED
 

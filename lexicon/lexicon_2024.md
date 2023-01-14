@@ -88,6 +88,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 - **larntin** 1. (_noun_) likeness, appearance, image, something having a similar or identical sensation to something else `#2023.01.05` 2. (_noun_) picture, drawing, painting, sculpture `#2023.01.05`
 - **latèn** 1. (_noun_) an illustration of realistic style or quality `#2023.01.05`
+- **lisvaln** 1. (_noun_) xylophone (derived from _lici + ufaln_ "the sound of knocking sticks"; att. 2023-Jan-13)
 
 ## M
 
