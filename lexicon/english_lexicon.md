@@ -657,5 +657,16 @@
 ## UNSORTED
 
 - N/A
+- **-din** 1. (_suffix_) person of type (att. 2003-Dec-25)
+- **dìnla** 1. (_noun_) cycle, loop, repetition; repetition of sounds or actions (att. 2003-Dec-25) 2. round; a song or poem performed by multiple performers with a (consistent) offset between starting and ending points
+- **diniro** 1. (_noun_) president, a leader chosen by the people (formed from _din_ + hiro_, or "people king"; att. 2008-Jun-22)
+- **dìn.rol** 1. (_ton verb_) cycling, looping, repeating; especially of sounds or actions (att. 2003-Dec-25) 2. (_ton verb_) singing or reciting in a _dìnla_ or round performance (att. 2023-Jan-14)
+- **dìnrolai** 1. (_descriptor_) consistent, recurring, regular, repeating (att. 2022-Jun-04)
+- **dirma** 1. (_noun_) chicory (att. 2003-Dec-25)
+- **djane** 1. (_noun_) bank, dune, hill (att. 2008-Jun-22)
+- **djanen** 1. (_noun_) rolling and gentle hills (att. 2008-Jun-22)
+- **djoi** 1. (_noun_) meal (as breakfast, lunch, dinner) (_formerly "joi"_, att. 2008-Jun-22)
+- **draikan** 1. (_noun_) dragon, drake, predatory or monstrous lizard (att. 2021-Apr-22)
+- **drak'holm** 1. (_noun_) dragon, farmed lizard (loan word from Atrusian Orks) (att. 2003-Dec-25)
 
 <!-- Next Word DUCABIX -->
