@@ -657,16 +657,35 @@
 ## UNSORTED
 
 - N/A
-- **-din** 1. (_suffix_) person of type (att. 2003-Dec-25)
-- **dìnla** 1. (_noun_) cycle, loop, repetition; repetition of sounds or actions (att. 2003-Dec-25) 2. round; a song or poem performed by multiple performers with a (consistent) offset between starting and ending points
-- **diniro** 1. (_noun_) president, a leader chosen by the people (formed from _din_ + hiro_, or "people king"; att. 2008-Jun-22)
-- **dìn.rol** 1. (_ton verb_) cycling, looping, repeating; especially of sounds or actions (att. 2003-Dec-25) 2. (_ton verb_) singing or reciting in a _dìnla_ or round performance (att. 2023-Jan-14)
-- **dìnrolai** 1. (_descriptor_) consistent, recurring, regular, repeating (att. 2022-Jun-04)
-- **dirma** 1. (_noun_) chicory (att. 2003-Dec-25)
-- **djane** 1. (_noun_) bank, dune, hill (att. 2008-Jun-22)
-- **djanen** 1. (_noun_) rolling and gentle hills (att. 2008-Jun-22)
-- **djoi** 1. (_noun_) meal (as breakfast, lunch, dinner) (_formerly "joi"_, att. 2008-Jun-22)
-- **draikan** 1. (_noun_) dragon, drake, predatory or monstrous lizard (att. 2021-Apr-22)
-- **drak'holm** 1. (_noun_) dragon, farmed lizard (loan word from Atrusian Orks) (att. 2003-Dec-25)
 
-<!-- Next Word DUCABIX -->
+- **duca.bix** 1. (_ton verb_) displaying, revealing, showing (att. 2015-Mar-26) 2. (_ton verb_) boasting (att. 2023-Jan-16)
+- **dul** 1. (_prefix, descriptor_) older, longer, more so 2. (_suffix, descriptor_) more (att. 2003-Dec-25)
+- **dula** 1. (_noun_) sound, noise (att. 2008-Jun-22)
+- **dulayast** 1. (_descriptor_) comfortable (att. 2021-Apr-22)
+- **dulcin** 1. (_noun_) older brother (att. 2003-Dec-25)
+- **dulkada** 1. (_noun_) older sister (att. 2003-Dec-25)
+- **dulkant** 1. (_noun_) senior older sibling (att. 2003-Dec-25)
+
+  - **boasting** 1. (_ton verb_) duca.bix (att. 2023-Jan-16)
+  - **displaying** 1. (_ton verb_) duca.bix (att. 2015-Mar-26)
+  - **revealing** 1. (_ton verb_) duca.bix (att. 2015-Mar-26)
+  - **showing** 1. (_ton verb_) duca.bix (att. 2015-Mar-26)
+  - **big** 1. (_descriptor_) dul
+  - **long** 1. (_descriptor_) dul
+  - **more** 1. (_descriptor_) dul
+  - **old** 1. (_descriptor_) dul
+  - **senior** 1. (_descriptor_) dul
+  - **noise** 1. (_noun_) dula (att. 2008-Jun-22)
+  - **sound** 1. (_noun_) dula (att. 2008-Jun-22)
+  - **comfortable** 1. (_descriptor_) dulayast (att. 2021-Apr-22)
+  - **brother** 1. (_noun_) cin, _older brother_ dulcin, _younger brother_ morcin
+  - **sister** 1. (_noun_) kada, _older sister_ dulkada, _younger sister_ morkada
+  - **sibling** 1. (_noun_) _older_ kant, _younger_ ket, _senior_ dulkant, dulket, _junior_ morkant, morket
+- **dulneyaci** 1. (_noun, feminine_) knight, female senior, similar to ma'am or madam; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
+- **dulneyen** 1. (_noun, masculine_) knight, male senior, similar to sir; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
+- **dun** 1. (_descriptor_) small, short of stature, less so (att. 2021-Apr-22)
+- **dunerin** 1. (_descriptor_) Dwarfish, Semerikän (found in an old barely used journal in the phrase _Dunerin Kladen_; att. 2003 ${\rightarrow}$ 2022-Jun-04)
+- **dunyeidin** 1. (_noun_) small, strong person (corresponds to typical fantasy Dwarf)
+- **dupran.ish** 1. (_ton verb_) pleasuring, providing sensual stimulation; often used for sensual or sexual pleasure (att. 2021-Apr-22)
+
+<!-- Next Word DUR -->
