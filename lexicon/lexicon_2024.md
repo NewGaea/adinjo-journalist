@@ -54,6 +54,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 - **dahanau** 1. (_descriptor_) poisonous, toxic, venomous (att. 2023-Jan-13)
 - **dama.i** 1. (_ton verb_) thanking (att. 2023-Jan-13)
+- **dapiyani.s** 1. (_ton verb_) enunciating (att. 2023-Jan-13)
 
 ## E
 
