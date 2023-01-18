@@ -678,9 +678,14 @@
   - **noise** 1. (_noun_) dula (att. 2008-Jun-22)
   - **sound** 1. (_noun_) dula (att. 2008-Jun-22)
   - **comfortable** 1. (_descriptor_) dulayast (att. 2021-Apr-22)
-  - **brother** 1. (_noun_) cin, _older brother_ dulcin, _younger brother_ morcin
-  - **sister** 1. (_noun_) kada, _older sister_ dulkada, _younger sister_ morkada
-  - **sibling** 1. (_noun_) _older_ kant, _younger_ ket, _senior_ dulkant, dulket, _junior_ morkant, morket
+  - **brother** 1. (_noun_) _younger_ cin (att. 2003-Dec-25),  _older_ tabuk (att. 2023-Jan-17) _senior_ dulcin, dultabuk _junior_ morcin, mortabuk
+  - **_senpai_** 1. (_noun, title_) dulkant, dulsorin, dultabuk
+  - **sister** 1. (_noun_) _younger_ kada (att. 2003-Dec-25), _older_ sorin (att. 2023-Jan-17), _senior_ dulkada, dulsorin, _junior_ morkada, mosorin
+  - **sibling** 1. (_noun_) _older_ kant (att. 2003-Dec-25), _younger_ ket (att. 2003-Dec-25), _senior_ dulkant, dulket (att. 2003-Dec-25), _junior_ morkant, morket (att. 2003-Dec-25)
+  - **ma'am** 1. (_noun, title_) dulneyaci (att. 2015-Mar-26)
+  - **miss** 1. (_noun, title_) dulneyaci (att. 2015-Mar-26)
+  - **sir** 1. (_noun, title_) dulneyen, _feminine_ dulneyaci, (att. 2015-Mar-26)
+
 - **dulneyaci** 1. (_noun, feminine_) knight, female senior, similar to ma'am or madam; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
 - **dulneyen** 1. (_noun, masculine_) knight, male senior, similar to sir; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
 - **dun** 1. (_descriptor_) small, short of stature, less so (att. 2021-Apr-22)

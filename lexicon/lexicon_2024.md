@@ -118,11 +118,12 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## S
 
+- **sorin** 1. (_noun_) older sister (att. 2023-Jan-17)
 - **stribó** `#2022.06.20` 1. (_noun_) ore, stone containing valuable minerals or gems `#2023.01.05`
 
 ## T
 
-- N/A
+- **tabuk** 1. (_noun_) older brother (att. 2023-Jan-17)
 
 ## U
 
