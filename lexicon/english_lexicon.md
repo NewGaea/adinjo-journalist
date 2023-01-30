@@ -108,15 +108,15 @@
 - **blouse** 1. (_noun_) auresh (sometimes _aresh_; att. 2004-Jul-13)
 - **blowing** 1. (_ton verb_) brau.jen (att. 2003-Dec-25)
 - **blue** 1. (_descriptor_) arzol (att. 2003-Dec-25)
+- **body** 1. (_descriptor, suffix_) kadai, -dai (att. 2003-Dec-25)
+- **boiling** 1. (_ton verb_) burme.las (att. 2003-Dec-25)
 - **bonus** 1. (_descriptor_) atki (att. 2003-Dec-25)
+- **bow-wow** 1. (_idiophone, onomatopoeia_) auf (att. 2008-Jun-22)
 - **bread** 1. (_noun_) ban (att. 2003-Dec-25)
 - **breath** 1. (_noun_) dapis (att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
 - **breathe** 1. (_ton verb_) dapis.é (att. 2023-Jan-13)
 - **breeding** 1. (_ton verb_) gaya.m (att. 2008-Jun-22 ${\rightarrow}$ 2022-Jun-15)
 - **brick** 1. (_noun_) blamèd (att. 2003-Dec-25)
-- **body** 1. (_descriptor, suffix_) kadai, -dai (att. 2003-Dec-25)
-- **boiling** 1. (_ton verb_) burme.las (att. 2003-Dec-25)
-- **bow-wow** 1. (_idiophone, onomatopoeia_) auf (att. 2008-Jun-22)
 - **butchering (animal)** 1. (_ton verb_) dalme.x
 - **button** 1. (_noun_) botan (att. 2003-Dec-25)
 - **by the way** 1. (_conjunction_) bakira
@@ -146,7 +146,7 @@
 - **cichorium** 1. (_noun_) \[biology\] dirma (att. 2023-Jan-15)
 - **citrus fruit** 1. (_noun_) demika (att. 2021-Apr-22)
 - **classy** 1. (_descriptor_) dér
-- **clearly** 1. (_conjunction_) clearly
+- **clearly** 1. (_conjunction_) bakira
 - **clue** 1. (_noun_) dashin (att. 2023-Jan-13)
 - **code word** 1. (_noun_) aramdekchin (att. 2023-Jan-09)
 - **coin** 1. (_noun_) gìl (att. 2022-Jun-23)
@@ -164,7 +164,7 @@
 - **contentment** 1. (_noun_) asha (att. 2008-Jun-22)
 - **contract** 1. (_noun_) ganwas (att. 2008-Jun-22)
 - **contracting** 1. (_ton verb_) gani.s (att. 2008-Jun-22)
-- **convict** 1. (_noun_) captive (att. 2023-Jan-13)
+- **convict** 1. (_noun_) garuud (att. 2023-Jan-13)
 - **cooking** 1. (_ton verb_) burme.las (att. 2003-Dec-25)
 - **corporal (US)** 1. (_noun_) gurneim
 - **cost** 1. (_noun_) \[casual\] gìl (att. 2022-Jun-23)
@@ -190,8 +190,8 @@
 - **desktop** 1. (_noun_) dailorn (_att. 2022-Jun-04)
 - **departing** 1. (_noun_) dép.al (att. 2021-Apr-22)
 - **despite** 1. (_conjunction_) gubra (att. 2023-Jan-13)
-- **diplomat** (_noun_) gatlan (att. 2023-Jan-13)
 - **dictionary** 1. (_noun_) dekchintwa (att. 2023-Jan-13)
+- **diplomat** (_noun_) gatlan (att. 2023-Jan-13)
 - **dirt (dry)** 1. (_noun_) baru (att. 2008-Jun-22)
 - **discovering** 1. (_ton verb_) (finding out) aire.nd (att. 2003-Dec-25)
 - **discussing** 1. (_ton verb_) dange.lar (att. 2023-Jan-13)
@@ -218,7 +218,7 @@
 - **east** 1. (_noun_) asent (att. 2003-Dec-25)
 - **electricity** 1. (_noun_) anesh (att. 2021-Apr-22)
 - **elevator** 1. (_noun_) denbrak (att. 2021-Apr-22)
-- **empire** 1. (_noun_) empire (att. 2008-Jun-22)
+- **empire** 1. (_noun_) gurias (att. 2008-Jun-22)
 - **employee** 1. (_noun_) dantax (att. 2023-Jan-13)
 - **employing** 1. (_ton verb_) dan.sen (att. 2023-Jan-13)
 - **encounter (social)** 1. (_noun_) danglun (att. 2023-Jan-13)
@@ -232,10 +232,10 @@
 - **everybody** 1. (_pronoun_) adin (att. 1998-Jun-01)
 - **exchanging** 1. (_ton verb_) gante.dz (att. 2003-Dec-25)
 - **exhaling** 1. (_ton verb_) brau.jen (att. 2003-Dec-25)
-- **existing** 1. (_ton verb_) ankoro (att. 2008-Jun-22)
+- **existing** 1. (_ton verb_) anko.ro (att. 2008-Jun-22)
 - **existence** 1. (_noun_) ankomar (att. 2008-Jun-22)
 - **exorcising** 1. (_ton verb_) gore.m (att. UNKNOWN)
-- **expectation** 1. (_noun_) gezud.em (att. 2021-Apr-22)
+- **expectation** 1. (_noun_) gezudral (att. 2021-Apr-22)
 - **expecting** 1. (_ton verb_) gezud.em (att. 2021-Apr-22)
 - **extra** 1. (_descriptor_) atki (att. 2003-Dec-25)
 - **eye** 1. (_noun_) aimi (_pl._ aiminu; att. 2003-Dec-25)
@@ -398,7 +398,7 @@
   - **mood marking** 1. (_ton verb_) galmcabi.nd (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)
 - **mourning** 1. (_ton verb_) amar.te (att. 2021-Apr-22) 2. (_descriptor_) amarau (att. 2022-Jun-27)
 - **mouse** 1. (_noun_) daré (att. 2003-Dec-25)
-- **moving (home)** 1. (_noun) dép.al (att. 2023-Jan-13)
+- **moving (home)** 1. (_noun_) dép.al (att. 2023-Jan-13)
 
 ## N
 
@@ -415,7 +415,7 @@
 ## O
 
 - **occurring** 1. (_ton verb_) dama.rio (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)
-- **October** 1. (_proper noun_) Anesh'i'luan (att. 2020-Dec-31)
+- **October** 1. (_proper noun_) aneshiluan (att. 2020-Dec-31)
 - **oil paint** 1. (_noun_) albor (att. 2003-Dec-25)
 - **old** 1. (_descriptor_) ald (att. 2007-Dec-29)
 - **old blood** 1. (_noun_) aldjin (att. 2007-Dec-29)
@@ -444,7 +444,7 @@
 - **permission** 1. (_noun_) damer (att. 2003-Dec-25)
 - **permitting (use of)** 1. (_ton verb_) dame.ren (att. 2003-Dec-25)
 - **person** 1. (_noun, suffix_) dyn, -din (att. 1998-Jun-01)
-- **pet** 1. (_noun_) blanisa
+- **pet** 1. (_noun_) (cat) blanisa
 - **picking up** 1. (_ton verb_) brak.esh (att. 2023-Jan-13)
 - **piedmont (US)** 1. (_noun_) djanen (att. 2008-Jun-27)
 - **placing** 1. (_kun verb_) denij (att. 2021-Apr-22)
@@ -453,7 +453,7 @@
 - **poison** 1. (_noun_) dahan (att. 2008-Jun-22)
 - **poisonous** 1. (_noun_) dahanau (att. 2023-Jan-13)
 - **polite** 1. (_descriptor_) dér
-- **pond** 1. (_noun_) gambu (att. 2003-Dec-25)
+- **pond** 1. (_noun_) gambu, gambutal (att. 2003-Dec-25)
 - **post script** (_descriptor_) gojudekchin, GD (att. 2006-Jun-04 ${\rightarrow}$ 2022-Jun-05)
 - **potent** 1. (_descriptor_) deiraun (att. 2023-Jan-13)
 - **potential** 1. (_noun_) deirin (att. 2023-Jan-13)
@@ -468,7 +468,7 @@
 - **pressure plate** 1. (_noun_) botan (att. 2003-Dec-25)
 - **price** 1. (_noun_) \[casual\] gìl (att. 2022-Jun-23)
 - **pride** 1. (_noun_) gelm (att. 2007-Nov-26 ${\rightarrow}$ 2022-Jun-04)
-- **prisoner** 1. (_noun_) captive (att. 2008-Jun-22)
+- **prisoner** 1. (_noun_) garuud (att. 2008-Jun-22)
 - **prize** 1. (_noun_) dal (att. 2022-Jun-23)
 - **process** 1. (_noun_) delmak (_att. 2008-Jun-22)
 - **processing** 1. (_ton verb_) delma.fas (_att. 2008-Jun-22)
@@ -493,7 +493,7 @@
 - **receiving** 1. (_ton verb_) bor.ak (att. 2023-Jan-13) 2. (_ton verb_) (money or goods) dal.eru (att. 2013-Jan-13)
 - **recurring** 1. (_descriptor_) dìnrolai (att. 2022-Jun-04)
 - **regular** 1. (_descriptor_) dìnrolai (att. 2022-Jun-04)
-- **relocating** 1. (_noun) dép.al (att. 2023-Jan-13)
+- **relocating** 1. (_noun_) dép.al (att. 2023-Jan-13)
 - **removing** 1. (_ton verb_) amkei.l (att. 2003-Dec-25)
 - **renting** 1. (_ton verb_) dame.ren (att. 2003-Dec-25)
 - **repeating** 1. (_ton verb_) dìnrol (att. 2003-Dec-25)
@@ -629,7 +629,7 @@
 - **where** 1. (_pronoun, descriptor_) dán (att. 2003-Dec-25)
 - **while** 1. (_conjunction_) gubra (att. 2008-Jun-22)
 - **white** 1. (_descriptor_) abso (att. 2003-Dec-25), vic (att. 2022-Feb-25)
-- **what if** 1. (_espression_) delman (att. 2003-Dec-25)
+- **what if** 1. (_expression_) delman (att. 2003-Dec-25)
 - **will be** 1. (_kun verb form_) ichikun (cf. _being_; att. 2003-Dec-25)
 - **will not be** 1. (_kun verb form_) yaçikun (cf. _being_; att. 2003-Dec-25)
 - **wing** 1. (_noun_) deham (att. 2008-Jun-22)
