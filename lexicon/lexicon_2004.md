@@ -162,7 +162,6 @@ This list uses the modern romanization standards for Adinjo.
 ## U
 
 - **-u** 1. (_suffix_) -s, plural marker (used on words ending in consontants; att. 2003-Dec-25)
-- N/A
 
 ## Y
 
@@ -172,12 +171,10 @@ This list uses the modern romanization standards for Adinjo.
 ## F
 
 - **fomark** 1. (_descriptor_) as, as if, for the purpose of, for the sake of (att. 2003-Dec-25)
-- N/A
 
 ## V
 
 - **vélon** 1. (_descriptor_) average
-- N/A
 
 ## X (KH)
 
@@ -190,7 +187,6 @@ This list uses the modern romanization standards for Adinjo.
 ## W
 
 - **wor** 1. (_positional_) as, during, while (att. 2003-Dec-25)
-- N/A
 
 ## UNSORTED
 
