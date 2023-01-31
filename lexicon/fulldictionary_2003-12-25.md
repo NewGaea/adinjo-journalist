@@ -9,9 +9,10 @@ The spellings used in 2003 are preserved in this list, meaning:
 + **Adinjo** \<ø\> is read as IPA \<x\>
 + **Adinjo** \<x\> is read is the \<x\> in \<tax\>
 
+## **Punctuation & Symbols**
+
 | English Gloss | Adinjo | Word Class | Gender | Number |
 |:--------------|:-------|:-----------|:-------|:-------|
-| **Punctuation** |||||
 | 's (possession) | ku-, k- | noun prefix | - |  - |
 | (and) so | (hi)ma | Preposition | - | - |
 | -er (one who does [verb]) | -taø | Suffix | - | - |
@@ -19,14 +20,22 @@ The spellings used in 2003 are preserved in this list, meaning:
 | -s (pluralization) | -u, -nu | Suffix | - | - |
 | -self (intensive pronoun) | lan- | Prefix | - | - |
 | ... seem to be ... | ... zenzen ... | Expression | - | - |
-| **Numbers** |||||
+
+## **Numbers (0-9)**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | 144 (100) | qori | Adjective | - | - |
 | 144s (x00) | -ri | Suffix | - | - |
 | 1728 ("1000") | toji | Adjective | - | - |
 | 1728s | -ji | Suffix | - | - |
 | 20736 ("10000") | kími | Adjective | - | - |
 | 20736s | -mi | Suffix | - | - |
-| **A** |||||
+
+## **A**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | a, one | dan | Adjective | - | - |
 | about | treno | Preposition | - | - |
 | an adventure | jotsho | Noun | - | - |
@@ -47,7 +56,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | ask | koranton | _ton verb_ | - | - |
 | average (2) | vélon | Adjective | - | - |
 | aware | kanzai | Adjective | - | - |
-| **B** |||||
+
+## **B**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | baby | kani | Noun | - | - |
 | backpack | jaktomít | Noun | - | - |
 | be | aniton | _ton verb_ | - | - |
@@ -77,7 +90,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | by | jun | Preposition | - | - |
 | by the way... | bakira ... | Expression | - | - |
 | by... | -ma | Suffix | - | - |
-| **C** |||||
+
+## **C**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | call (by a name) | taton | _ton verb_ | - | - |
 | car, carriage | wurén | Noun | - | - |
 | care | lokton | _ton verb_ | - | - |
@@ -116,7 +133,10 @@ The spellings used in 2003 are preserved in this list, meaning:
 | creature | axe | Noun | - | - |
 | cut | amkeiton | _ton verb_ | - | - |
 | cycle | dinla | Noun | - | - |
-| **D** |||||
+
+## **D**
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | dagger | dokré | Noun | - | - |
 | daily | jiabi | Adjective | - | - |
 | damn you! | jakhau | Expression | - | - |
@@ -139,7 +159,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | down | blut | Preposition | - | - |
 | dragon | drakholm | Noun | - | - |
 | dream | jont | Noun | - | - |
-| **E** |||||
+
+## **E**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | early | zintar | Adjective | - | - |
 | earth | jalu | Noun | - | - |
 | east | asent | Noun | - | - |
@@ -156,7 +180,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | expect | zudoton | _ton verb_ | - | - |
 | explode | hunton | _ton verb_ | - | - |
 | eye | aimi | Noun | - | - |
-| **F** |||||
+
+## **F**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | face, encounter | sinjton | _ton verb_ | - | - |
 | faith | cota | Noun | - | - |
 | faithful, trustworthy | cotak | Adjective | - | - |
@@ -187,7 +215,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | fuck; have sex with | kazaton | _ton verb_ | - | - |
 | full | qarit | Noun | - | - |
 | funky (weird) | takcu | Adjective | - | - |
-| **G** |||||
+
+## **G**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | game | karm | Noun | - | - |
 | gas | harzu | Noun | - | - |
 | get | borton | _ton verb_ | - | - |
@@ -210,7 +242,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | greetings (non-time restrictive) | hayl | Noun | - | - |
 | Greetings, Welcome (informal) | kolmen | Expression | - | - |
 | guard | rukamton | _ton verb_ | - | - |
-| **H** |||||
+
+## **H**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | hallow (make holy, make sacred) | tenaton | _ton verb_ | - | - |
 | happen | damaton | _ton verb_ | - | - |
 | happen | dometon | _ton verb_ | - | - |
@@ -226,7 +262,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | how about | delmaré | Adverb | - | - |
 | however | kentin | Preposition | - | - |
 | however, but (less formal) | kend | Conjunction | - | - |
-| **I** |||||
+
+## **I**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | I'm tied up right now. | jaltot kurin | Expression | - | - |
 | I, me | yi | Pronoun | - | First |
 | if | ka | Preposition | - | - |
@@ -242,10 +282,17 @@ The spellings used in 2003 are preserved in this list, meaning:
 | introduction | cerílya | Noun | - | - |
 | is, be | ic | _kun verb_ | - | - |
 | it | øi | Pronoun | - | - |
-| **J** |||||
+
+## **J**
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | journal | øoltwa | Noun | - | - |
 | joy | kein | Noun | - | - |
-| **K** |||||
+
+## **K**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | kill, destroy a life | marøton | _ton verb_ | - | - |
 | kind, form, type | hyan | Noun | - | - |
 | king | hiro | Noun | - | - |
@@ -254,7 +301,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | kiss | shyulton | _ton verb_ | - | - |
 | know | mokuriton | _ton verb_ | - | - |
 | knowledge | cijin | Noun | - | - |
-| **L** |||||
+
+## **L**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | lack | ramuton | _ton verb_ | - | - |
 | lake | gambu | Noun | - | - |
 | language | -jo | Suffix | - | - |
@@ -279,7 +330,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | Lord (divine reference) | Ajan | Noun | - | - |
 | lose | enmiton | _ton verb_ | - | - |
 | lost, ended | toø | _kun verb_ | - | - |
-| **M** |||||
+
+## **M**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | mage, magic user | øaron | Noun | - | - |
 | magic spell | øá | Noun | - | - |
 | magical | toric | Adjective | - | - |
@@ -300,7 +355,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | most | -dyur | Suffix | - | - |
 | move | ventroton | Noun | - | - |
 | mud | tlor | Noun | - | - |
-| **N** |||||
+
+## **N**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | name | menaø | Noun | - | - |
 | name | menton | _ton verb_ | - | - |
 | nation | kando | Noun | - | - |
@@ -316,7 +375,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | Nothing at all (less formal) | Atakama. | Expression | - | - |
 | noun | nola | Noun | - | - |
 | now | ju | Adverb | - | - |
-| **O** |||||
+
+## **O**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | odd (probability, ratio) | rukib | Noun | - | - |
 | of | i | Preposition | - | - |
 | of (6a), by, with | top | Noun | - | - |
@@ -335,7 +398,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | outcast | øandar | Noun | - | - |
 | over, past, beyond | fúri | Preposition | - | - |
 | own (refl. pronoun) | nom | Pronoun | - | - |
-| **P** |||||
+
+## **P**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | palace | makowa | Noun | - | - |
 | pale | laven | Adjective | - | - |
 | partner | habijad | Noun | - | - |
@@ -363,7 +430,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | press, push | boton | _ton verb_ | - | - |
 | protect | øoriton | _ton verb_ | - | - |
 | protection | øori | Noun | - | - |
-| **R** |||||
+
+## **R**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | raid | ashurton | _ton verb_ | - | - |
 | rat | dare | Noun | - | - |
 | rate, speed | gant | Noun | - | - |
@@ -380,7 +451,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | rival | finit | Noun | - | - |
 | robot | robo | Noun | - | - |
 | rock | noc | Noun | - | - |
-| **S** |||||
+
+## **S**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | sabacc | sabak | Noun | - | - |
 | sail | kadaton | _ton verb_ | - | - |
 | sand dune, dune | páci | Noun | - | - |
@@ -437,7 +512,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | swim | furinton | _ton verb_ | - | - |
 | sword | ten | Noun | - | - |
 | system (set of functioning parts) | kin | Noun | - | - |
-| **T** |||||
+
+## **T**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | tar | albor | Noun | - | - |
 | tell | kampton | _ton verb_ | - | - |
 | ten | shak | Adjective | - | - |
@@ -479,19 +558,31 @@ The spellings used in 2003 are preserved in this list, meaning:
 | twelve (10) | tomo | Adjective | - | - |
 | twelves (x0) | -mo | Suffix | - | - |
 | two | larn | Adjective | - | - |
-| **U** |||||
+
+## **U**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | unfold | acoreton | _ton verb_ | - | - |
 | universal pron. (ie: all [pron.]) | a- | Prefix | - | - |
 | up | klor | Preposition | - | - |
 | use | aneton | _ton verb_ | - | - |
-| **V** |||||
+
+## **V**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | vengeance | lolo | Noun | - | - |
 | verb | voten | Noun | - | - |
 | very own, only (absolute singular) | kabu- | Prefix | - | - |
 | vest | hinct | Noun | - | - |
 | violet | véol | Adjective | - | - |
 | visit | trákton | _ton verb_ | - | - |
-| **W** |||||
+
+## **W**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | wait | bronton | _ton verb_ | - | - |
 | wake, awaken | amenton | _ton verb_ | - | - |
 | was | ins | _kun verb_ | - | - |
@@ -521,7 +612,11 @@ The spellings used in 2003 are preserved in this list, meaning:
 | wrap | jáluton | _ton verb_ | - | - |
 | write | qontiton | _ton verb_ | - | - |
 | writing | qonij | Noun | - | - |
-| **Y** |||||
+
+## **Y**
+
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | year | nyore | Noun | - | - |
 | yellow | xiron | Adjective | - | - |
 | yes | teci | Noun | - | - |
@@ -530,5 +625,8 @@ The spellings used in 2003 are preserved in this list, meaning:
 | younger sibling | ket | Noun | - | - |
 | younger sister | morkada | Noun | Feminine | - |
 | younger, shorter, less so | -tal | Suffix | - | - |
-| **Z** |||||
+
+## **Z**
+| English Gloss | Adinjo | Word Class | Gender | Number |
+|:--------------|:-------|:-----------|:-------|:-------|
 | zero | mijin | Adjective | - | - |
