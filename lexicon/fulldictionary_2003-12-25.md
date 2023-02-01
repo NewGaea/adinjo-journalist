@@ -1,5 +1,33 @@
 # The Adin Dictionary - Unabridged
 
+- [The Adin Dictionary - Unabridged](#the-adin-dictionary---unabridged)
+  - [**Punctuation \& Symbols**](#punctuation--symbols)
+  - [**Numbers (0-9)**](#numbers-0-9)
+  - [**A**](#a)
+  - [**B**](#b)
+  - [**C**](#c)
+  - [**D**](#d)
+  - [**E**](#e)
+  - [**F**](#f)
+  - [**G**](#g)
+  - [**H**](#h)
+  - [**I**](#i)
+  - [**J**](#j)
+  - [**K**](#k)
+  - [**L**](#l)
+  - [**M**](#m)
+  - [**N**](#n)
+  - [**O**](#o)
+  - [**P**](#p)
+  - [**R**](#r)
+  - [**S**](#s)
+  - [**T**](#t)
+  - [**U**](#u)
+  - [**V**](#v)
+  - [**W**](#w)
+  - [**Y**](#y)
+  - [**Z**](#z)
+
 This table presents the contents of the Adinjo Dictionary from 2003-Dec-25. This dictionary is one of the oldest documents presrving any of the language, and is sorted as an English glossary.
 
 The spellings used in 2003 are preserved in this list, meaning:
@@ -11,85 +39,85 @@ The spellings used in 2003 are preserved in this list, meaning:
 
 ## **Punctuation & Symbols**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| 's (possession) | ku-, k- | noun prefix | - |  - |
-| (and) so | (hi)ma | Preposition | - | - |
-| -er (one who does [verb]) | -taø | Suffix | - | - |
-| -ever | -ja | Suffix | - | - |
-| -s (pluralization) | -u, -nu | Suffix | - | - |
-| -self (intensive pronoun) | lan- | Prefix | - | - |
-| ... seem to be ... | ... zenzen ... | Expression | - | - |
+| English Gloss              | Adinjo         | Word Class  | Gender | Number |
+|:---------------------------|:---------------|:------------|:-------|:-------|
+| 's (possession)            | ku-, k-        | Noun Prefix | -      | -      |
+| (and) so | (hi)ma          | Preposition    | -           | -      | -      |
+| -er (one who does  [verb]) | -taø           | Suffix      | -      | -      |
+| -ever                      | -ja            | Suffix      | -      | -      |
+| -s (pluralization)         | -u, -nu        | Suffix      | -      | Plural |
+| -self (intensive pronoun)  | lan-           | Prefix      | -      | -      |
+| ... seem to be ...         | ... zenzen ... | Expression  | -      | -      |
 
 ## **Numbers (0-9)**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| 144 (100) | qori | Adjective | - | - |
-| 144s (x00) | -ri | Suffix | - | - |
-| 1728 ("1000") | toji | Adjective | - | - |
-| 1728s | -ji | Suffix | - | - |
-| 20736 ("10000") | kími | Adjective | - | - |
-| 20736s | -mi | Suffix | - | - |
+| English Gloss   | Adinjo | Word Class | Gender | Number |
+|:----------------|:-------|:-----------|:-------|:-------|
+| 144 (100)       | qori   | Adjective  | -      | -      |
+| 144s (x00)      | -ri    | Suffix     | -      | -      |
+| 1728 ("1000")   | toji   | Adjective  | -      | -      |
+| 1728s           | -ji    | Suffix     | -      | -      |
+| 20736 ("10000") | kími   | Adjective  | -      | -      |
+| 20736s          | -mi    | Suffix     | -      | -      |
 
 ## **A**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| a, one | dan | Adjective | - | - |
-| about | treno | Preposition | - | - |
-| an adventure | jotsho | Noun | - | - |
-| to adventure | jotsoton | _ton verb_ | - | - |
-| adventurer; warrior | dorja | Noun | - | - |
-| advise | pontifton | _ton verb_ | - | - |
-| after, following | goju | Adverb | - | - |
-| again | janyu | Adverb | - | - |
-| all | kuri | Noun | - | - |
-| amen | amen | Expression | - | - |
-| among | kami | Adjective | - | - |
-| and | hi | Conjunction | - | - |
-| animal | zoán | Noun | - | - |
-| apprentice, student | -tak | Suffix | - | - |
-| arrow | náyu | Noun | - | - |
-| as, for the purpose of | fomark | Adverb | - | - |
-| as, while | wor | Preposition | - | - |
-| ask | koranton | _ton verb_ | - | - |
-| average (2) | vélon | Adjective | - | - |
-| aware | kanzai | Adjective | - | - |
+| English Gloss          | Adinjo    | Word Class  | Gender | Number   |
+|:-----------------------|:----------|:------------|:-------|:---------|
+| a, one                 | dan       | Adjective   | -      | Singular |
+| about                  | treno     | Preposition | -      | -        |
+| an adventure           | jotsho    | Noun        | -      | -        |
+| to adventure           | jotsoton  | _ton verb_  | -      | -        |
+| adventurer; warrior    | dorja     | Noun        | -      | -        |
+| advise                 | pontifton | _ton verb_  | -      | -        |
+| after, following       | goju      | Adverb      | -      | -        |
+| again                  | janyu     | Adverb      | -      | -        |
+| all                    | kuri      | Noun        | -      | -        |
+| amen                   | amen      | Expression  | -      | -        |
+| among                  | kami      | Adjective   | -      | -        |
+| and                    | hi        | Conjunction | -      | -        |
+| animal                 | zoán      | Noun        | -      | -        |
+| apprentice, student    | -tak      | Suffix      | -      | -        |
+| arrow                  | náyu      | Noun        | -      | -        |
+| as, for the purpose of | fomark    | Adverb      | -      | -        |
+| as, while              | wor       | Preposition | -      | -        |
+| ask                    | koranton  | _ton verb_  | -      | -        |
+| average (2)            | vélon     | Adjective   | -      | -        |
+| aware                  | kanzai    | Adjective   | -      | -        |
 
 ## **B**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| baby | kani | Noun | - | - |
-| backpack | jaktomít | Noun | - | - |
-| be | aniton | _ton verb_ | - | - |
-| beast | tel | Noun | - | - |
-| because, for | armo | Preposition | - | - |
-| become | tonston | _ton verb_ | - | - |
-| before | kérin | Preposition | - | - |
-| betray | kolenton | _ton verb_ | - | - |
-| bird | trini | Noun | - | - |
-| bite | asenton | _ton verb_ | - | - |
-| bite me | bakato | Expression | - | - |
-| black | abse | Adjective | - | - |
-| blast | kyurinton | _ton verb_ | - | - |
-| blow | buraton | _ton verb_ | - | - |
-| blue | arzol | Adjective | - | - |
-| body | kadai | Noun | - | - |
-| body, form, level | -dai | Suffix | - | - |
-| bonus, extra | atki | Noun | - | - |
-| book | twa | Noun | - | - |
-| boomerang | hijoli | Noun | - | - |
-| bread | ban | Noun | - | - |
-| brick | blamed | Noun | - | - |
-| brother | cin | Noun | Masculine | - |
-| build | liøaton | _ton verb_ | - | - |
-| bull, ox | karen | Noun | - | - |
-| button | menju | Noun | - | - |
-| by | jun | Preposition | - | - |
-| by the way... | bakira ... | Expression | - | - |
-| by... | -ma | Suffix | - | - |
+| English Gloss     | Adinjo    | Word Class  | Gender    | Number |
+|:------------------|:----------|:------------|:----------|:-------|
+| baby              | kani      | Noun        | -         | -      |
+| backpack          | jaktomít  | Noun        | -         | -      |
+| be                | aniton    | _ton verb_  | -         | -      |
+| beast             | tel       | Noun        | -         | -      |
+| because, for      | armo      | Preposition | -         | -      |
+| become            | tonston   | _ton verb_  | -         | -      |
+| before            | kérin     | Preposition | -         | -      |
+| betray            | kolenton  | _ton verb_  | -         | -      |
+| bird              | trini     | Noun        | -         | -      |
+| bite              | asenton   | _ton verb_  | -         | -      |
+| bite me           | bakato    | Expression  | -         | -      |
+| black             | abse      | Adjective   | -         | -      |
+| blast             | kyurinton | _ton verb_  | -         | -      |
+| blow              | buraton   | _ton verb_  | -         | -      |
+| blue              | arzol     | Adjective   | -         | -      |
+| body              | kadai     | Noun        | -         | -      |
+| body, form, level | -dai      | Suffix      | -         | -      |
+| bonus, extra      | atki      | Noun        | -         | -      |
+| book              | twa       | Noun        | -         | -      |
+| boomerang         | hijoli    | Noun        | -         | -      |
+| bread             | ban       | Noun        | -         | -      |
+| brick             | blamed    | Noun        | -         | -      |
+| brother           | cin       | Noun        | Masculine | -      |
+| build             | liøaton   | _ton verb_  | -         | -      |
+| bull, ox          | karen     | Noun        | -         | -      |
+| button            | menju     | Noun        | -         | -      |
+| by                | jun       | Preposition | -         | -      |
+| by the way...     | bakira    | Expression  | -         | -      |
+| by...             | -ma       | Suffix      | -         | -      |
 
 ## **C**
 

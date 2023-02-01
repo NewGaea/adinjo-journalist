@@ -137,7 +137,7 @@
 - **bajia** 1. (_noun_) today (literally "this-day"; att. 2003-Dec-25) 2. (metaphorical) now (added 2023-Jan-12)
 - **baci.re** 1. (_ton verb_) seeing, viewing; watching
 - **bak** 1. (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
-- **bakato** 1. (_expression_) "bite me," a colloquial expression meaning "cook and serve" (pejorative; att. 2003-Dec-25)
+- **bakato** 1. (_expression_) _alleged_ bite me, buzz off, fuck off, sod off; _allegedly_ a colloquial expression meaning "cook and serve" (actual translation unclear, but always used pejoratively; att. 2003-Dec-25)
 - **bakira** 1. (_conjunction, expression_) also, as you see, by the way, clearly, furthermore, therefore, understandably; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
 - **bal** 1. (_noun_) beat, rhythm, swing, tempo (att. 2009-Nov-06 ${\rightarrow}$ 2023-Jan-12) 2. (_noun_) a sense of rhythmic timing (att. 2009-Nov-06)
 - **ban** 1. (_noun_) bread (att. 2003-Dec-25) 2. (_noun_) meal (att. 2023-Jan-12)
@@ -154,7 +154,7 @@
 - **bir.mak** 1. (_ton verb_) finishing (att. 2003-Dec-25)
 - **bironga** 1. (_noun_) finish, final touches
 - **bitke** 1. (_noun_) door, heavy gate (att. 2003-Dec-25)
-- **blamèd** 1. (_noun_) brick, block; man-made block of wood or mixed materials (not cut stone) (spelling altered 2023-Jan-13 for clarity of pronunciation; att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
+- **blamèd** 1. (_noun_) brick, block; man-made block of wood, dirt, or other mixed materials (but not of cut stone; formerly _blamed_, spelling altered 2023-Jan-13 for clarity of pronunciation; att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
 - **blani** 1. (_noun_) cat, feline; refers to any cat-like creature (att. 2003-Dec-25)
 - **blanisa** 1. (_noun_) cat, housecat (att. 2003-Dec-25) 2. (_noun_) pet (att. 2003-Dec-25; senses split 2023-Jan-13) 3. (_descriptor_) tame (att. 2003-Dec-25; senses split 2023-Jan-13)
 - **blani'urdin** 1. (_noun_) cat-like person (any cat-like person) (att. 2003-Dec-25)
