@@ -121,46 +121,46 @@ The spellings used in 2003 are preserved in this list, meaning:
 
 ## **C**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| call (by a name) | taton | _ton verb_ | - | - |
-| car, carriage | wurén | Noun | - | - |
-| care | lokton | _ton verb_ | - | - |
-| carve | nimelton | _ton verb_ | - | - |
-| cast (a spell) | kenciton | _ton verb_ | - | - |
-| cat (domestic) | blaninu | Noun | - | - |
-| cat (felis) | blani | Noun | - | - |
-| cause | kaniton | _ton verb_ | - | - |
-| a change | julaøan | Noun | - | - |
-| to change | julaøton | _ton verb_ | - | - |
-| check (verification or confirmation) | kels | Noun | - | - |
-| chicken | korbaltz | Noun | - | - |
-| chicory | dirma | Noun | - | - |
-| city | kangre | Noun | - | - |
-| climb | fortiton | _ton verb_ | - | - |
-| cloud | mayu | Noun | - | - |
-| collision | camp | Noun | - | - |
-| come | tobiton | _ton verb_ | - | - |
-| Come! | hai | Interjection | - | - |
-| command | dematon | _ton verb_ | - | - |
-| compare | romarton | _ton verb_ | - | - |
-| comparison | romari | Noun | - | - |
-| complete | lambi | Noun | - | - |
-| complete | lamniton | _ton verb_ | - | - |
-| conformity | kurbaci | Noun | - | - |
-| conjugate | øociton | _ton verb_ | - | - |
-| consider | lapiton | _ton verb_ | - | - |
-| continue, resume | caluton | _ton verb_ | - | - |
-| cook | burmeton | _ton verb_ | - | - |
-| corkscrew | kazha | Noun | - | - |
-| costume | greimík | Noun | - | - |
-| cotton | katon | Noun | - | - |
-| counter | lofke | _kun verb_ | - | - |
-| courage | relja | Noun | - | - |
-| create | lokthaton | _ton verb_ | - | - |
-| creature | axe | Noun | - | - |
-| cut | amkeiton | _ton verb_ | - | - |
-| cycle | dinla | Noun | - | - |
+| English Gloss                        | Adinjo    | Word Class   | Gender | Number |
+|:-------------------------------------|:----------|:-------------|:-------|:-------|
+| call (by a name)                     | taton     | _ton verb_   | -      | -      |
+| car, carriage                        | wurén     | Noun         | -      | -      |
+| care                                 | lokton    | _ton verb_   | -      | -      |
+| carve                                | nimelton  | _ton verb_   | -      | -      |
+| cast (a spell)                       | kenciton  | _ton verb_   | -      | -      |
+| cat (domestic)                       | blaninu   | Noun         | -      | -      |
+| cat (felis)                          | blani     | Noun         | -      | -      |
+| cause                                | kaniton   | _ton verb_   | -      | -      |
+| a change                             | julaøan   | Noun         | -      | -      |
+| to change                            | julaøton  | _ton verb_   | -      | -      |
+| check (verification or confirmation) | kels      | Noun         | -      | -      |
+| chicken                              | korbaltz  | Noun         | -      | -      |
+| chicory                              | dirma     | Noun         | -      | -      |
+| city                                 | kangre    | Noun         | -      | -      |
+| climb                                | fortiton  | _ton verb_   | -      | -      |
+| cloud                                | mayu      | Noun         | -      | -      |
+| collision                            | camp      | Noun         | -      | -      |
+| come                                 | tobiton   | _ton verb_   | -      | -      |
+| Come!                                | hai       | Interjection | -      | -      |
+| command                              | dematon   | _ton verb_   | -      | -      |
+| compare                              | romarton  | _ton verb_   | -      | -      |
+| comparison                           | romari    | Noun         | -      | -      |
+| complete                             | lambi     | Noun         | -      | -      |
+| complete                             | lamniton  | _ton verb_   | -      | -      |
+| conformity                           | kurbaci   | Noun         | -      | -      |
+| conjugate                            | øociton   | _ton verb_   | -      | -      |
+| consider                             | lapiton   | _ton verb_   | -      | -      |
+| continue, resume                     | caluton   | _ton verb_   | -      | -      |
+| cook                                 | burmeton  | _ton verb_   | -      | -      |
+| corkscrew                            | kazha     | Noun         | -      | -      |
+| costume                              | greimík   | Noun         | -      | -      |
+| cotton                               | katon     | Noun         | -      | -      |
+| counter                              | lofke     | _kun verb_   | -      | -      |
+| courage                              | relja     | Noun         | -      | -      |
+| create                               | lokthaton | _ton verb_   | -      | -      |
+| creature                             | axe       | Noun         | -      | -      |
+| cut                                  | amkeiton  | _ton verb_   | -      | -      |
+| cycle                                | dinla     | Noun         | -      | -      |
 
 ## **D**
 | English Gloss | Adinjo | Word Class | Gender | Number |

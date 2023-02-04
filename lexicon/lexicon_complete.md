@@ -465,7 +465,7 @@
 - **cici** 1. (_pronoun, informal_) little one, a pronoun used to refer to young children, especially family (att. 2022-Jun-23)
 - **cimaru** 1. (_noun_) history, times past; the past
 - **cimarutwa** 1. (_noun_) history book
-- **cin** 1. (_noun_) brother (att. 2003-Dec-25) 2. (_suffix, descriptor_) brother of; used as a title, particularly when one has a renowned sibling (att. 2003-Dec-25)
+- **cin** 1. (_noun_) younger brother (att. 2003-Dec-25) 2. (_noun suffix_) younger brother of; used as an honorific to refer to another person's younger brother (att. 2003-Dec-25) 3. (_noun, suffix_) junior, mentee, understudy (att. 2003-Dec-25)
 - **cir** 1. (_positional_) near, close, soon (att. 2008-Jun-22)
 - **ciron** 1. (_descriptor_) yellow (att. 2003-Dec-25; _formerly "ksiron"_)
 - **cún** 1. (_positional_) out, outside (att. 2003-Dec-25)
@@ -786,7 +786,7 @@
 - **mar.in** 1. (_ton verb_) walking
 - **marx.ét** 1. (_ton verb_) kill, destroy, end or take a life neutral, not equal to murder (att. 2003-Dec-25)
 - **maxen** 1. (_noun_) a kill, a trophy taken from killing a living thing (as in one's first kill in battle or a hunt) (att. 2003-Dec-25)
-- **mayu** 1. (_noun_) cloud (att. 2003-Dec-25)
+- **mayu** 1. (_noun_) cloud (att. 2003-Dec-25) 2. (_noun_) curtain, drape, veil (att. 2023-Feb-03)
 - **mao** 1. (_idiophone, onomatopoeia_) meow, mew, mya (sound made by a cat) (att. 2003-Dec-25)
 - **medra** 1. (_noun_) mother (att. 2008-Jun-22)
 - **megani** 1. (_noun_) ear (att. 2008-Jun-22)

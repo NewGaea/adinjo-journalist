@@ -42,8 +42,8 @@
 
 - **a, an** 1. (_article_) dan (att. 2003-Dec-25)
 - **acquiring** 1. (_ton verb_) bor.ak (att. 2003-Dec-25)
-- **action** 1. (_noun_) delmak (_att. 2008-Jun-22)
 - **acting** 1. (_ton verb_) aygins.ten (performing a role) (att. 2021-Apr-21)
+- **action** 1. (_noun_) delmak (_att. 2008-Jun-22)
 - **Adin** 1. (_proper noun_) Adin (person, att. 1998-Jun-01) 2. Adinjo (language) (att. 2023-Jan-10) 3. (_descriptor_) gurioni (att. 2022-Jun-04)
 - **adding (to)** 1. (_ton verb_) gor.um (att. 2008-Jun-22)
 - **addition** 1. (_noun_) goron (att. 2023-Jan-13)
@@ -88,10 +88,10 @@
 - **bark (of a dog)** 1. (_idiophone, onomatopoeia_) auf (att. 2008-Jun-22) 2. (_composed kun verb_) auf kempo (att. 2023-Jan-10)
 - **be** 1. (_kun verb_) ic (att. 2003-Dec-25)
 - **bear** 1. (_noun_) conir, (black bear) arconir, (polar bear) tochonir
+- **beard** 1. (_noun_) bedji (att. 2008-Jun-22)
 - **beat** 1. (_noun, descriptor_) \[music\] bal (att. 2009-Nov-06 ${\rightarrow}$ 2023-Jan-12)
 - **because** 1. (_conjunction_) (for the purpose of) armo (att. 2003-Dec-25)
 - **being** 1. (_ton verb_) ani.ru (att. 2003-Dec-25) 2. (_gerund_) inoc (att. 2003-Dec-25);  3. (_prefix_) an- (being _x_; att. 2003-Dec-25)
-- **beard** 1. (_noun_) bedji (att. 2008-Jun-22)
 - **below** 1. (_positional_) blut (att. 2023-Jan-13)
 - **berry** 1. (_noun_) béra (att. 2022)
 - **beyond** 1. (_positional_) akar (att. 2007-Dec-29) 2. (_positional_) fúri (att. 2003-Dec-25) 3. (_descriptor_) kel (att. 2021-Apr-22)
