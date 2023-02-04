@@ -44,6 +44,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **andenau** 1. (_noun_) divinity (att. 2022-Jun-27)
 - **andurusau** 1. (_descriptor_) Andurusian (having an Andurusian quality) (att. 2022-Jun-27)
 - **andurusijo** 1. (_noun_) the Andurusian language (att. 2022-Jun-27)
+- **aneshiluan** 1. (_noun_) October, lightningmoon (att. 2021-Jan-19)
 - **arconir** 1. (_noun_) bear (animal)
 - **afailesi** 1. (_descriptor_) panromantic (att. 2022-Jun-04)
 
@@ -64,6 +65,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **gaya.m** 1. (_ton verb_) to give birth, to conceive, to impregnate, to breed (recovered from an old dictionary; att. 2008-Jun-22 ${\rightarrow}$ 2022-Jun-15)
 - **gelm** 1. (_noun_) pride, confidence, surety (att. 2007-Nov-26 ${\rightarrow}$ 2022-Jun-04)
 - **géxa.la** 1. (_ton verb_) to laugh, to chuckle, to cackle
+- **gifiluan** 1. (_noun_) August, firemoon (att. 2021-Jan-19)
 - **gil** 1. (_noun_) a flat (or flattened) circular animal shell 2. (_noun, slang_) shortened form of _gildern_, the name of international gold coins on Atrusius; a coin of any denomination or material 3. (_noun, slang_) the price of an item in a store or catalog (att. 2022-Jun-23)
 - **gìlden** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 gold coin, worth ${144_{10}}$ silver _daimosu_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ 2022-Jun-04)
 - **gur-** 1. (_descriptor_) imperial- (att. 2022-Jun-23)
@@ -84,6 +86,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 - **-el** 1. (_verb affix_) perfective marker; indicates an action with noteworthy or unusual duration for that action (att. 2003-Dec-25)
 - **elaure.na** 1. (_ton verb_) keeping, safeguarding, stewarding (word found att. in name element list from 2007, never recorded in lexicon until 2022; att. 2008-Jul-06 ${\rightarrow}$ 2022-Jun-14)
+- **elziluan** 1. (_noun_) January, icemoon (att. 2021-Jan-19)
 - **exan** 1. (_noun_) steel, a metal composed of iron mixed with high-carbon coal (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
 
 ## Z
@@ -123,6 +126,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **kitaoshi** 1. (_noun_) snow-dog; a dog well-suited to snowy environments such as a Husky or St. Bernard (att. 2022-May-31)
 - **kitemain** 1. (_noun_) wolf-dog; a dog with more wolf-like appearance or behaviour than typical among dogs (att. 2022-May-31)
 - **kladen** 1. (_noun_) cave, cavern, grotto (found in an old, barely used journal in the phrase _Dunerin Kladen_; att. 2003 ${\rightarrow}$ 2022-Jun-04)
+- **kuhailuan** 1. (_noun_) March, sunmoon (att. 2021-Jan-19)
 - **kuci** 1. (_pronoun_) your, yours (att. 2003-Dec-25)
 - **kuki** 1. (_pronoun_) our, ours (att. 2003-Dec-25)
 - **-kun** 1. (_kun verb affix_) will, shall; future tense (used for _kun_ verbs which end in vowels; att. 2003-Dec-25)
@@ -131,6 +135,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **kuyi** 1. (_pronoun_) my, mine (att. 2003-Dec-25)
 - **kufi** 1. (_pronoun_) her, hers (att. 2003-Dec-25)
 - **kolbu** 1. (_noun_) evening, dusk (recorded in all found dictionaries, but previously only ever in the lexicon in _sayomin kolbu_ and _sayu kolbu_; att. 2003-Dec-25 ${\rightarrow}$ att. 2022-Jun-16)
+- **koniluan** 1. (_noun_) July, metalmoon (att. 2021-Jan-19)
 - **kontagro** 1. (_noun_) marketplace, bazaar, arcade; an open-air market, especially one with a central thoroughfare (att. 2022)
 - **konten** 1. (_noun_) field, flatland, commons (att. 2022-Jun-04)
 
@@ -146,6 +151,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **larndin** 1. (_pronoun_) both people (att. 2022-Jun-04)
 - **larnjyu** 1. (_descriptor_) of two categories, both (att. 2022-Jun-04)
 - **larnqonjinu** 1. (_descriptor_) bilingual, familiar with two languages (att. 2022-Jun-04)
+- **luaniluan** 1. (_noun_) September, moon-moon (att. 2021-Jan-19)
 
 ## M
 
@@ -169,6 +175,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 ## J
 
 - **-ja** 1. (_pronoun suffix_) -ever (as in whichever, however, whomever; att. 2003-Dec-25)
+- **jaluiluan** 1. (_noun_) May, earthmoon (att. 2021-Jan-19)
 - **jalunarika**1. (_kun verb_) to own land (att. 2022-May-31)
 - **jalunanorika** 1. (_noun_) owned land, land property (att. 2022-May-31)
 - **jálunu** 1. (_noun_) clothing, garment, covering; especially improvised or simple garments (literally "wrappings")
@@ -190,6 +197,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **rash** 1. (_noun_) sand
 - **rez.as** 1. (_ton verb_) to stand, to present or show respect, to (stand or be) ready for a struggle or challenge (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
 - **rukamakend** 1. (_noun_) umbrella; from _rukam_ + _makend_
+- **romiluan** 1. (_noun_) November, windmoon (att. 2021-Jan-19)
 
 ## S
 
@@ -204,6 +212,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 - **takem** 1. (_positional_) between, back and forth (att. 2002-Jun-01)
 - **técha** 1. (_noun_) half-stone, a moderate weight or mass, especially used to measure everyday burdens, roughly ${2.88}$ kg, ${101.589}$ (${101.6}$) ounces, ${6.349313}$ (${6.35}$) pounds, or precisely _tomo tolisu_ (${12_{10}}$ tolis) (att. 2007 ${\rightarrow}$ 2022-Jun-04)
+- **téoliluan** 1. (_noun_) December, spiritsmoon (att. 2021-Jan-19)
 - **-tochi** 1. (_ton verb suffix_) will happen; future tense, passive voice (att. 2003-Dec-25)
 - **-tol** 1. (_ton verb suffix_) is doing, am doing; present tense, active voice (att. 2003-Dec-25)
 - **tolis** 1. (_noun_) half-pound, a light weight or mass, roughly ${240_(10)}$ grams, ${8.46_(10)}$ ounces, or precisely _tomo onsu_ (${12_{10}}$ onz) (att. 2007 ${\rightarrow}$ rediscovered 2022-Jun-04)
@@ -212,6 +221,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **-ton** 1. (_ton verb suffix_) is, am; present tense, passive voice (att. 2003-Dec-25)
 - **toshipáci** 1. (_noun_) snowbank, snow dune (att. 2022-May-31)
 - **-tot** 1. (_ton verb suffix_) did, was; past tense, passive voice (att. 2003-Dec-25)
+- **twariluan** 1. (_noun_) February, watermoon (att. 2021-Jan-19)
 
 ## U
 
@@ -236,7 +246,9 @@ This list contains only words which are confirmed as added to the lexicon docume
 ## X (KH)
 
 - **xábitke** 1. (_noun_) magical portal, magical gateway (att. 2002-Jun-01)
+- **xagiiluan** 1. (_noun_) April, treemoon (att. 2021-Jan-19)
 - **xá peratamani** 1. (_noun_) magical charm, mind-altering magic (att. 2022-Jun-04)
+- **xáiluan** 1. (_noun_) June, magicmoon (att. 2021-Jan-19)
 - **xátoric** 1. (_noun_) artifice, magitech (att. 2022-May-31)
 - **xátoricax** 1. (_noun_) artificer, magitech engineer (att. 2022-May-31)
 - **xune.m** 1. (_ton verb_) to excuse, to justify, to rationalize (discovered in an early attempt to make a dictionary using Adinjo, found as as _axunem_ translated as 'no excusing'; att. 2005-Nov-04)
@@ -267,15 +279,3 @@ The words listed in this section are only partially complete. They may be lackin
 ## UNSORTED
 
 - N/A
-- **aneshiluan** 1. (_noun_) October, lightningmoon (att. 2021-Jan-19)
-- **gifiluan** 1. (_noun_) August, firemoon (att. 2021-Jan-19)
-- **téoliluan** 1. (_noun_) December, spiritsmoon (att. 2021-Jan-19)
-- **elziluan** 1. (_noun_) January, icemoon (att. 2021-Jan-19)
-- **twariluan** 1. (_noun_) February, watermoon (att. 2021-Jan-19)
-- **kuhailuan** 1. (_noun_) March, sunmoon (att. 2021-Jan-19)
-- **xagiiluan** 1. (_noun_) April, treemoon (att. 2021-Jan-19)
-- **jaluiluan** 1. (_noun_) May, earthmoon (att. 2021-Jan-19)
-- **xáiluan** 1. (_noun_) June, magicmoon (att. 2021-Jan-19)
-- **koniluan** 1. (_noun_) July, metalmoon (att. 2021-Jan-19)
-- **luaniluan** 1. (_noun_) September, moon-moon (att. 2021-Jan-19)
-- **romiluan** 1. (_noun_) November, windmoon (att. 2021-Jan-19)
