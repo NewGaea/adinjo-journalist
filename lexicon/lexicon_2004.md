@@ -240,3 +240,5 @@ This list uses the modern romanization standards for Adinjo.
 - **hai** 1. (_interjection_) attend to me, be attentive, come along, follow me, heed me, listen up, pay attention (att. 2003-Dec-25) _aurhai_ am I clear, are you with me, do you understand (att. 2023-Feb-03)
 - **dema.rk** 1. (_ton verb_) commanding, instructing, ordering (att. 2003-Dec-25)
 - **demargel** 1. (_noun_) command, instruction, order (att. 2003-Dec-25)
+- **romari** 1. (_noun_) comparison, evaluation (att. 2003-Dec-25)
+- **romar.ing** 1. (_ton verb_) comparing, evaluating (att. 2003-Dec-25)
