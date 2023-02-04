@@ -16,7 +16,9 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 
 ## D
 
-+ N/A
++ **\*da'u** earth, ground
+  + **gaea** (_proper noun_) Gaea, Earth, Terra
+  + **jalu** (_noun_) earth (as an element), land, ground, dirt, stones, etc.
 
 ## E
 
@@ -32,7 +34,7 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 
 ## C
 
-+ **\\\*chedyn**
++ **\*chedyn**
   + **chennur:** school, student group, education
   + **chijin:** knowledge
 
@@ -74,7 +76,9 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 
 ## S
 
-+ N/A
++ **\*suxa**
+  + **kuha** 1. (_noun_) sun
+  + **jia** 1. (_noun_) day
 
 ## T
 
@@ -95,8 +99,8 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 ## V
 
 + **\*votren**
-  + **ventro:** to move
-  + **voten:** action, to act
+  + **ventro** to move
+  + **voten** action, to act
 
 ## X (KH)
 

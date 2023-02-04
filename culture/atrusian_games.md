@@ -1,7 +1,6 @@
 # Atrusian Games
 
-With the Orks, Adin, Semerikän, and everyone else living on Atrusius, games
-are critical. Sometimes games are played for fun and enjoyment, ometimes for profit, sometimes sport games are played competitively, sometimes for fun. Sometimes games are even played for marriage, or to celebrate it.
+With the Orks, Adin, Semerikän, and everyone else living on Atrusius, games are critical. Sometimes games are played for fun and enjoyment, ometimes for profit, sometimes sport games are played competitively, sometimes for fun. Sometimes games are even played for marriage, or to celebrate it.
 
 ## Riddling
 

@@ -47,8 +47,8 @@ Voices in Adinjo are ways in which one can discuss or refer to an action.
 
 |             | Past | Present | Future |
 |:-----------:|:----:|:-------:|:------:|
-| C Final     | \*-ns | \*-s     | \*-ykun |
-| V Final     | \*-ns | \*-c     | \*-kun  |
+| C Final     | \*-ns | \*-s   | \*-ykun |
+| V Final     | \*-ns | \*-c   | \*-kun  |
 
 |             | Formation                                 |
 |:-----------:|:-----------------------------------------:|

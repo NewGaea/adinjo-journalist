@@ -42,8 +42,8 @@
 
 - **a, an** 1. (_article_) dan (att. 2003-Dec-25)
 - **acquiring** 1. (_ton verb_) bor.ak (att. 2003-Dec-25)
-- **action** 1. (_noun_) delmak (_att. 2008-Jun-22)
 - **acting** 1. (_ton verb_) aygins.ten (performing a role) (att. 2021-Apr-21)
+- **action** 1. (_noun_) delmak (_att. 2008-Jun-22)
 - **Adin** 1. (_proper noun_) Adin (person, att. 1998-Jun-01) 2. Adinjo (language) (att. 2023-Jan-10) 3. (_descriptor_) gurioni (att. 2022-Jun-04)
 - **adding (to)** 1. (_ton verb_) gor.um (att. 2008-Jun-22)
 - **addition** 1. (_noun_) goron (att. 2023-Jan-13)
@@ -88,10 +88,10 @@
 - **bark (of a dog)** 1. (_idiophone, onomatopoeia_) auf (att. 2008-Jun-22) 2. (_composed kun verb_) auf kempo (att. 2023-Jan-10)
 - **be** 1. (_kun verb_) ic (att. 2003-Dec-25)
 - **bear** 1. (_noun_) conir, (black bear) arconir, (polar bear) tochonir
+- **beard** 1. (_noun_) bedji (att. 2008-Jun-22)
 - **beat** 1. (_noun, descriptor_) \[music\] bal (att. 2009-Nov-06 ${\rightarrow}$ 2023-Jan-12)
 - **because** 1. (_conjunction_) (for the purpose of) armo (att. 2003-Dec-25)
 - **being** 1. (_ton verb_) ani.ru (att. 2003-Dec-25) 2. (_gerund_) inoc (att. 2003-Dec-25);  3. (_prefix_) an- (being _x_; att. 2003-Dec-25)
-- **beard** 1. (_noun_) bedji (att. 2008-Jun-22)
 - **below** 1. (_positional_) blut (att. 2023-Jan-13)
 - **berry** 1. (_noun_) béra (att. 2022)
 - **beyond** 1. (_positional_) akar (att. 2007-Dec-29) 2. (_positional_) fúri (att. 2003-Dec-25) 3. (_descriptor_) kel (att. 2021-Apr-22)
@@ -108,15 +108,15 @@
 - **blouse** 1. (_noun_) auresh (sometimes _aresh_; att. 2004-Jul-13)
 - **blowing** 1. (_ton verb_) brau.jen (att. 2003-Dec-25)
 - **blue** 1. (_descriptor_) arzol (att. 2003-Dec-25)
+- **body** 1. (_descriptor, suffix_) kadai, -dai (att. 2003-Dec-25)
+- **boiling** 1. (_ton verb_) burme.las (att. 2003-Dec-25)
 - **bonus** 1. (_descriptor_) atki (att. 2003-Dec-25)
+- **bow-wow** 1. (_idiophone, onomatopoeia_) auf (att. 2008-Jun-22)
 - **bread** 1. (_noun_) ban (att. 2003-Dec-25)
 - **breath** 1. (_noun_) dapis (att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
 - **breathe** 1. (_ton verb_) dapis.é (att. 2023-Jan-13)
 - **breeding** 1. (_ton verb_) gaya.m (att. 2008-Jun-22 ${\rightarrow}$ 2022-Jun-15)
 - **brick** 1. (_noun_) blamèd (att. 2003-Dec-25)
-- **body** 1. (_descriptor, suffix_) kadai, -dai (att. 2003-Dec-25)
-- **boiling** 1. (_ton verb_) burme.las (att. 2003-Dec-25)
-- **bow-wow** 1. (_idiophone, onomatopoeia_) auf (att. 2008-Jun-22)
 - **butchering (animal)** 1. (_ton verb_) dalme.x
 - **button** 1. (_noun_) botan (att. 2003-Dec-25)
 - **by the way** 1. (_conjunction_) bakira
@@ -146,7 +146,7 @@
 - **cichorium** 1. (_noun_) \[biology\] dirma (att. 2023-Jan-15)
 - **citrus fruit** 1. (_noun_) demika (att. 2021-Apr-22)
 - **classy** 1. (_descriptor_) dér
-- **clearly** 1. (_conjunction_) clearly
+- **clearly** 1. (_conjunction_) bakira
 - **clue** 1. (_noun_) dashin (att. 2023-Jan-13)
 - **code word** 1. (_noun_) aramdekchin (att. 2023-Jan-09)
 - **coin** 1. (_noun_) gìl (att. 2022-Jun-23)
@@ -164,7 +164,7 @@
 - **contentment** 1. (_noun_) asha (att. 2008-Jun-22)
 - **contract** 1. (_noun_) ganwas (att. 2008-Jun-22)
 - **contracting** 1. (_ton verb_) gani.s (att. 2008-Jun-22)
-- **convict** 1. (_noun_) captive (att. 2023-Jan-13)
+- **convict** 1. (_noun_) garuud (att. 2023-Jan-13)
 - **cooking** 1. (_ton verb_) burme.las (att. 2003-Dec-25)
 - **corporal (US)** 1. (_noun_) gurneim
 - **cost** 1. (_noun_) \[casual\] gìl (att. 2022-Jun-23)
@@ -190,8 +190,8 @@
 - **desktop** 1. (_noun_) dailorn (_att. 2022-Jun-04)
 - **departing** 1. (_noun_) dép.al (att. 2021-Apr-22)
 - **despite** 1. (_conjunction_) gubra (att. 2023-Jan-13)
-- **diplomat** (_noun_) gatlan (att. 2023-Jan-13)
 - **dictionary** 1. (_noun_) dekchintwa (att. 2023-Jan-13)
+- **diplomat** (_noun_) gatlan (att. 2023-Jan-13)
 - **dirt (dry)** 1. (_noun_) baru (att. 2008-Jun-22)
 - **discovering** 1. (_ton verb_) (finding out) aire.nd (att. 2003-Dec-25)
 - **discussing** 1. (_ton verb_) dange.lar (att. 2023-Jan-13)
@@ -218,7 +218,7 @@
 - **east** 1. (_noun_) asent (att. 2003-Dec-25)
 - **electricity** 1. (_noun_) anesh (att. 2021-Apr-22)
 - **elevator** 1. (_noun_) denbrak (att. 2021-Apr-22)
-- **empire** 1. (_noun_) empire (att. 2008-Jun-22)
+- **empire** 1. (_noun_) gurias (att. 2008-Jun-22)
 - **employee** 1. (_noun_) dantax (att. 2023-Jan-13)
 - **employing** 1. (_ton verb_) dan.sen (att. 2023-Jan-13)
 - **encounter (social)** 1. (_noun_) danglun (att. 2023-Jan-13)
@@ -232,10 +232,10 @@
 - **everybody** 1. (_pronoun_) adin (att. 1998-Jun-01)
 - **exchanging** 1. (_ton verb_) gante.dz (att. 2003-Dec-25)
 - **exhaling** 1. (_ton verb_) brau.jen (att. 2003-Dec-25)
-- **existing** 1. (_ton verb_) ankoro (att. 2008-Jun-22)
+- **existing** 1. (_ton verb_) anko.ro (att. 2008-Jun-22)
 - **existence** 1. (_noun_) ankomar (att. 2008-Jun-22)
 - **exorcising** 1. (_ton verb_) gore.m (att. UNKNOWN)
-- **expectation** 1. (_noun_) gezud.em (att. 2021-Apr-22)
+- **expectation** 1. (_noun_) gezudral (att. 2021-Apr-22)
 - **expecting** 1. (_ton verb_) gezud.em (att. 2021-Apr-22)
 - **extra** 1. (_descriptor_) atki (att. 2003-Dec-25)
 - **eye** 1. (_noun_) aimi (_pl._ aiminu; att. 2003-Dec-25)
@@ -398,7 +398,7 @@
   - **mood marking** 1. (_ton verb_) galmcabi.nd (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)
 - **mourning** 1. (_ton verb_) amar.te (att. 2021-Apr-22) 2. (_descriptor_) amarau (att. 2022-Jun-27)
 - **mouse** 1. (_noun_) daré (att. 2003-Dec-25)
-- **moving (home)** 1. (_noun) dép.al (att. 2023-Jan-13)
+- **moving (home)** 1. (_noun_) dép.al (att. 2023-Jan-13)
 
 ## N
 
@@ -415,7 +415,7 @@
 ## O
 
 - **occurring** 1. (_ton verb_) dama.rio (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)
-- **October** 1. (_proper noun_) Anesh'i'luan (att. 2020-Dec-31)
+- **October** 1. (_proper noun_) aneshiluan (att. 2020-Dec-31)
 - **oil paint** 1. (_noun_) albor (att. 2003-Dec-25)
 - **old** 1. (_descriptor_) ald (att. 2007-Dec-29)
 - **old blood** 1. (_noun_) aldjin (att. 2007-Dec-29)
@@ -444,7 +444,7 @@
 - **permission** 1. (_noun_) damer (att. 2003-Dec-25)
 - **permitting (use of)** 1. (_ton verb_) dame.ren (att. 2003-Dec-25)
 - **person** 1. (_noun, suffix_) dyn, -din (att. 1998-Jun-01)
-- **pet** 1. (_noun_) blanisa
+- **pet** 1. (_noun_) (cat) blanisa
 - **picking up** 1. (_ton verb_) brak.esh (att. 2023-Jan-13)
 - **piedmont (US)** 1. (_noun_) djanen (att. 2008-Jun-27)
 - **placing** 1. (_kun verb_) denij (att. 2021-Apr-22)
@@ -453,7 +453,7 @@
 - **poison** 1. (_noun_) dahan (att. 2008-Jun-22)
 - **poisonous** 1. (_noun_) dahanau (att. 2023-Jan-13)
 - **polite** 1. (_descriptor_) dér
-- **pond** 1. (_noun_) gambu (att. 2003-Dec-25)
+- **pond** 1. (_noun_) gambu, gambutal (att. 2003-Dec-25)
 - **post script** (_descriptor_) gojudekchin, GD (att. 2006-Jun-04 ${\rightarrow}$ 2022-Jun-05)
 - **potent** 1. (_descriptor_) deiraun (att. 2023-Jan-13)
 - **potential** 1. (_noun_) deirin (att. 2023-Jan-13)
@@ -468,7 +468,7 @@
 - **pressure plate** 1. (_noun_) botan (att. 2003-Dec-25)
 - **price** 1. (_noun_) \[casual\] gìl (att. 2022-Jun-23)
 - **pride** 1. (_noun_) gelm (att. 2007-Nov-26 ${\rightarrow}$ 2022-Jun-04)
-- **prisoner** 1. (_noun_) captive (att. 2008-Jun-22)
+- **prisoner** 1. (_noun_) garuud (att. 2008-Jun-22)
 - **prize** 1. (_noun_) dal (att. 2022-Jun-23)
 - **process** 1. (_noun_) delmak (_att. 2008-Jun-22)
 - **processing** 1. (_ton verb_) delma.fas (_att. 2008-Jun-22)
@@ -493,7 +493,7 @@
 - **receiving** 1. (_ton verb_) bor.ak (att. 2023-Jan-13) 2. (_ton verb_) (money or goods) dal.eru (att. 2013-Jan-13)
 - **recurring** 1. (_descriptor_) dìnrolai (att. 2022-Jun-04)
 - **regular** 1. (_descriptor_) dìnrolai (att. 2022-Jun-04)
-- **relocating** 1. (_noun) dép.al (att. 2023-Jan-13)
+- **relocating** 1. (_noun_) dép.al (att. 2023-Jan-13)
 - **removing** 1. (_ton verb_) amkei.l (att. 2003-Dec-25)
 - **renting** 1. (_ton verb_) dame.ren (att. 2003-Dec-25)
 - **repeating** 1. (_ton verb_) dìnrol (att. 2003-Dec-25)
@@ -629,7 +629,7 @@
 - **where** 1. (_pronoun, descriptor_) dán (att. 2003-Dec-25)
 - **while** 1. (_conjunction_) gubra (att. 2008-Jun-22)
 - **white** 1. (_descriptor_) abso (att. 2003-Dec-25), vic (att. 2022-Feb-25)
-- **what if** 1. (_espression_) delman (att. 2003-Dec-25)
+- **what if** 1. (_expression_) delman (att. 2003-Dec-25)
 - **will be** 1. (_kun verb form_) ichikun (cf. _being_; att. 2003-Dec-25)
 - **will not be** 1. (_kun verb form_) yaçikun (cf. _being_; att. 2003-Dec-25)
 - **wing** 1. (_noun_) deham (att. 2008-Jun-22)
@@ -658,4 +658,39 @@
 
 - N/A
 
-<!-- Next Word DUCABIX -->
+- **duca.bix** 1. (_ton verb_) displaying, revealing, showing (att. 2015-Mar-26) 2. (_ton verb_) boasting (att. 2023-Jan-16)
+- **dul** 1. (_prefix, descriptor_) older, longer, more so 2. (_suffix, descriptor_) more (att. 2003-Dec-25)
+- **dula** 1. (_noun_) sound, noise (att. 2008-Jun-22)
+- **dulayast** 1. (_descriptor_) comfortable (att. 2021-Apr-22)
+- **dulcin** 1. (_noun_) older brother (att. 2003-Dec-25)
+- **dulkada** 1. (_noun_) older sister (att. 2003-Dec-25)
+- **dulkant** 1. (_noun_) senior older sibling (att. 2003-Dec-25)
+
+  - **boasting** 1. (_ton verb_) duca.bix (att. 2023-Jan-16)
+  - **displaying** 1. (_ton verb_) duca.bix (att. 2015-Mar-26)
+  - **revealing** 1. (_ton verb_) duca.bix (att. 2015-Mar-26)
+  - **showing** 1. (_ton verb_) duca.bix (att. 2015-Mar-26)
+  - **big** 1. (_descriptor_) dul
+  - **long** 1. (_descriptor_) dul
+  - **more** 1. (_descriptor_) dul
+  - **old** 1. (_descriptor_) dul
+  - **senior** 1. (_descriptor_) dul
+  - **noise** 1. (_noun_) dula (att. 2008-Jun-22)
+  - **sound** 1. (_noun_) dula (att. 2008-Jun-22)
+  - **comfortable** 1. (_descriptor_) dulayast (att. 2021-Apr-22)
+  - **brother** 1. (_noun_) _younger_ cin (att. 2003-Dec-25),  _older_ tabuk (att. 2023-Jan-17) _senior_ dulcin, dultabuk _junior_ morcin, mortabuk
+  - **_senpai_** 1. (_noun, title_) dulkant, dulsorin, dultabuk
+  - **sister** 1. (_noun_) _younger_ kada (att. 2003-Dec-25), _older_ sorin (att. 2023-Jan-17), _senior_ dulkada, dulsorin, _junior_ morkada, mosorin
+  - **sibling** 1. (_noun_) _older_ kant (att. 2003-Dec-25), _younger_ ket (att. 2003-Dec-25), _senior_ dulkant, dulket (att. 2003-Dec-25), _junior_ morkant, morket (att. 2003-Dec-25)
+  - **ma'am** 1. (_noun, title_) dulneyaci (att. 2015-Mar-26)
+  - **miss** 1. (_noun, title_) dulneyaci (att. 2015-Mar-26)
+  - **sir** 1. (_noun, title_) dulneyen, _feminine_ dulneyaci, (att. 2015-Mar-26)
+
+- **dulneyaci** 1. (_noun, feminine_) knight, female senior, similar to ma'am or madam; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
+- **dulneyen** 1. (_noun, masculine_) knight, male senior, similar to sir; the actual prefix here is _dul-_, meaning senior, but the /l/ often disappears in speech preceding /n/. (att. 2021-Apr-22)
+- **dun** 1. (_descriptor_) small, short of stature, less so (att. 2021-Apr-22)
+- **dunerin** 1. (_descriptor_) Dwarfish, Semerikän (found in an old barely used journal in the phrase _Dunerin Kladen_; att. 2003 ${\rightarrow}$ 2022-Jun-04)
+- **dunyeidin** 1. (_noun_) small, strong person (corresponds to typical fantasy Dwarf)
+- **dupran.ish** 1. (_ton verb_) pleasuring, providing sensual stimulation; often used for sensual or sexual pleasure (att. 2021-Apr-22)
+
+<!-- Next Word DUR -->

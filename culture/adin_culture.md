@@ -1,7 +1,7 @@
 # Adin Culture Notes
 
 > **Note:** The following document is a text dump of a file with a last edited date of `2011-Feb-28`. Much of the information below has a high potential to be _out of date_ compared to the current state of the culture.
-> 
+>
 > As the document is being reviewed and formatted, please mark the last edit date of each paragraph or passage.
 
 Adin culture varies widely, especially since the Second Empire, governed by Dani Soldorm, collapsed roughly 700 Gaean years ago. Each planet is different, some more technologically oriented and others more traditional. This is recording the Adin culture on Atrusius, as most of the other planets are not in contact with any others. The rise of the Third Empire, headed by Zeus Sonhir, is still only in progress, and only two worlds are known to be populated with Adin ready to accept the Third Empire, with a third unaware of their existence -- Humans are so selectively unaware at times.
