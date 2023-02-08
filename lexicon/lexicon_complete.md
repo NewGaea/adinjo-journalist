@@ -283,7 +283,7 @@
 - **diniro** 1. (_noun_) president, a leader chosen by the people (formed from _din_ + hiro_, or "people king"; att. 2008-Jun-22)
 - **dìn.rol** 1. (_ton verb_) cycling, looping, repeating; especially of sounds or actions (att. 2003-Dec-25) 2. (_ton verb_) singing or reciting in a _dìnla_ or round performance (att. 2023-Jan-14)
 - **dìnrolai** 1. (_descriptor_) consistent, recurring, regular, repeating (att. 2022-Jun-04)
-- **dirma** 1. (_noun_) chicory (att. 2003-Dec-25) 2. endive (att. 2023-Jan-15) 3. genus _Cichorium_ or any member species thereof
+- **dirma** 1. (_noun_) chicory (att. 2003-Dec-25) 2. endive (att. 2023-Jan-15) 3. genus _Cichorium_ or any member species thereof (att. 2023-Jan-15)
 - **djanen** 1. (_noun_) dunes, foothills, piedmont (US); rolling and gentle hills (att. 2008-Jun-22)
 - **djoi** 1. (_noun_) meal (as breakfast, lunch, dinner) (_formerly "joi"_, att. 2008-Jun-22)
 - **draikan** 1. (_noun_) dragon, drake, predatory or monstrous lizard (att. 2015-Mar-26)
@@ -618,8 +618,8 @@
 - **-kun** 1. (_kun verb affix_) will, shall; future tense (used for _kun_ verbs which end in vowels; att. 2003-Dec-25)
 - **kuji** 1. (_pronoun_) his (att. 2003-Dec-25)
 - **kura'ind** 1. (_descriptor_) simple, basic (att. 2003-Dec-25)
-- **kurba.tul** 1. (_ton verb_) conform (att. 2003-Dec-25)
 - **kurbaci** 1. (_noun_) conformity (att. 2003-Dec-25)
+- **kurba.tul** 1. (_ton verb_) conform (att. 2003-Dec-25)
 - **kure.sh** 1. (_ton verb_) cleaning, washing (att. 2008-Jun-22)
 - **kuri** 1. (_noun_) all (att. 2003-Dec-25)
 - **kuroln** 1. (_noun_) platform (att. 2003-Dec-25)
@@ -668,8 +668,8 @@
 
 - **qali** 1. (_noun_) a festival, sacred time, or holiday (att. 2021)
 - **qani.go** 1. (_ton verb_) causing (att. 2003-Dec-25) _formerly 'kanigo'_
-- **qarin.s** 1. (_ton verb_) filling (att. 2003-Dec-25)
 - **qarilé** 1. (_noun_) fill (att. 2003-Dec-25)
+- **qarin.s** 1. (_ton verb_) filling (att. 2003-Dec-25)
 - **qarit** 1. (_descriptor_) full (att. 2003-Dec-25)
 - **qasi.ral** 1. (_ton verb_) search, consider, reflect, contemplate (to seek something within) (att. 2008-Jun-22)
 - **qe** 1. (_pronoun_) what (att. 2003-Dec-25)
@@ -695,8 +695,8 @@
 - **lama** 1. (_noun_) the name of the twelfth letter of the _adobat_ (att. 1998-Dec-31) 2. (_noun_) chin (att. 2008-Jun-22)
 - **lama.j** 1. (_ton verb_) scare, frighten, startle (att. 2008-Jun-22) _formerly "lamu.ji"_
   - **lama he kinma** 1. (_expression_) scare half to death (att. 2003-Dec-25) _formerly "lama to kinma"_
-- **lambi.ra** 1. (_ton verb_) complete (att. 2003-Dec-25)
 - **lambin** 1. (_noun_) completion, conclusion (att. 2003-Dec-25)
+- **lambi.ra** 1. (_ton verb_) complete (att. 2003-Dec-25)
 - **lamo** 1. (_noun_) only, just, simply (att. 2003-Dec-25)
 - **lan-** 1. (_prefix, noun_) self, indicator of the reflexive pronoun (att. 2003-Dec-25)
 - **lanai** 1. (_descriptor, dual gender_) of both genders, male and female, hermaphrodite, intersex (att. 2021-Apr-22)
@@ -724,7 +724,7 @@
 - **lekatax** 1. (_noun_) soldier
 - **lekto** 1. (_noun_) liquid (state of matter) (att. 2003-Dec-25; _formerly "lektho"_)
 - **lesin** 1. (_noun_) page of a book (att. 2008-Jun-22)
-- **lex.orma** 1. (_ton verb_) defeat (final), indicates a final, deadly or crippling defeat (att. 2003-Dec-25; _formerly "lesin"_)
+- **lex.orma** 1. (_ton verb_) defeat (final); indicates a final, deadly or crippling defeat (att. 2003-Dec-25; _formerly "lesin"_)
 - **libra.un** 1. (_ton verb_) free (att. 2008-Jun-22)
 - **lici** 1. (_noun_) stick (att. 2003-Dec-25)
 - **liju** 1. (_noun_) title, a term one is called by (att. 2008-Jun-22)
@@ -1103,7 +1103,7 @@
 - **sukendai** 1. (_descriptor_) fantastic, of fantasy (att. 2021-Apr-22)
 - **sóda** 1. (_noun_) soda, a drink made with bubbling water
 - **soma** 1. (_noun_, _title_) master, teacher, slave holder (att. 2008-Jun-22)
-- **sorok**1. (_noun, title_) Doctor, Professor, Master of a Study (att. 2003-Dec-25)
+- **sorok** 1. (_noun, title_) Doctor, Professor, Master of a Study (att. 2003-Dec-25)
 - **sourax** 1. (_noun_) tailor (att. 2021-Apr-22)
 
 ## T
@@ -1308,7 +1308,7 @@
 - **xumas** 1. (_descriptor_) cruel, harsh (att. 2021-Apr-22)
 - **xumbiro** 1. (_noun_) dictator, cruel or harsh leader  (att. 2008-Jun-22)
 - **xune.m** 1. (_ton verb_) to excuse, to justify, to rationalize (discovered in an early attempt to make a dictionary using Adinjo, found as as _axunem_ translated as 'no excusing'; att. 2005-Nov-04)
-- **xoci.da** 1. (_ton verb_) conjugate, build the forms of a verb (att. 2003-Dec-25)
+- **xoci.da** 1. (_ton verb_) \[language\] conjugate, derive, inflect (att. 2003-Dec-25) 2. (_ton verb_) adopting (att. 2023-Feb-03) 3. (_ton verb_) \[archaic\] combining, joining, laboring together (att. 2023-Feb-03)
 - **xoltwa** 1. (_noun_) journal (att. 2003-Dec-25)
 - **xori.mas** 1. (_ton verb_) protect (att. 2003-Dec-25)
 - **xorii** 1. (_noun_) protection (att. 2003-Dec-25)
@@ -1317,7 +1317,7 @@
 ## O
 
 - **okei** 1. (_expression_) okay, alright (att. 2003-Dec-25)
-- **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about ${1.25_{10}}$_onz_, ${25_{10}}$ grams, or ${0.881849_{10}}$ (${0.89_{10}}$) ounces (att. 2007 ${\rightarrow}$ 2022-Jun-04)
+- **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about ${1.25_{10}}$ _onz_, ${25_{10}}$ grams, or ${0.881849_{10}}$ (${0.89_{10}}$) ounces (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 - **ons** 1. (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (${0.71_{10}}$) ounces by weight (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 - **opporhel** 1. (_descriptor_) gracious (att. 2021-Apr-22)
 - **orgdin** 1. (_proper noun_) Ork (Atrusian) (att. 2021-Apr-22)

@@ -35,8 +35,8 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 ## C
 
 + **\*chedyn**
-  + **chennur:** school, student group, education
-  + **chijin:** knowledge
+  + **chennur** 1. school, student group, education
+  + **chijin** 1. knowledge
 
 ## I
 
@@ -64,7 +64,9 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 
 ## J
 
-+ N/A
++ **jak** back
+  + **jak.el** 1. turn one's back 2. condemning, cursing, damning
+  + **jaktomit** 1. backpack, satchel
 
 ## P
 
@@ -79,10 +81,14 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 + **\*suxa**
   + **kuha** 1. (_noun_) sun
   + **jia** 1. (_noun_) day
+    + **bajia** 1. (_noun_) today
+    + **jiabi** 1. (_descriptor_) daily
 
 ## T
 
-+ N/A
++ **\*toma** house, home, shelter
+  + **domya** home
+  + **ucmat** house
 
 ## U
 

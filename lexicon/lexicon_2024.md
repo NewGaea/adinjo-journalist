@@ -229,3 +229,5 @@ The words listed in this section may be repurposed and redefined as they have mo
 - **coté** 1. (_noun_) sister, sisters (att. 2023-Feb-03)
 - **andévo** 1. (_noun_) brotherhood, fraternity (att. 2023-Feb-03)
 - **ancoté** 1. (_noun_) sisterhood, sorority (att. 2023-Feb-03)
+- **kajac.en** 1. (_noun_) twisting, turning (att. 2023-Feb-03) 2. (_ton verb_) squirming, writhing (att. 2023-Feb-03)
+- **kira.ja** 1. (_ton verb_) pulling, removing (att. 2023-Feb-03)
