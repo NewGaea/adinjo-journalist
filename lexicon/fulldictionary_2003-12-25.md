@@ -32,10 +32,10 @@ This table presents the contents of the Adinjo Dictionary from 2003-Dec-25. This
 
 The spellings used in 2003 are preserved in this list, meaning:
 
-+ **Adinjo** \<c\> is always read as the \<ch\> in \<cheese\>
-+ **Adinjo** \<j\> is always read as the \<j\> in \<jam\> or \<jelly\>
-+ **Adinjo** \<ø\> is read as IPA \<x\>
-+ **Adinjo** \<x\> is read is the \<x\> in \<tax\>
+- **Adinjo** \<c\> is always read as the \<ch\> in \<cheese\>
+- **Adinjo** \<j\> is always read as the \<j\> in \<jam\> or \<jelly\>
+- **Adinjo** \<ø\> is read as IPA \<x\>
+- **Adinjo** \<x\> is read is the \<x\> in \<tax\>
 
 ## **Punctuation & Symbols**
 
@@ -313,6 +313,7 @@ The spellings used in 2003 are preserved in this list, meaning:
 | it                     | øi           | Pronoun     | -      | -      |
 
 ## **J**
+
 | English Gloss | Adinjo | Word Class | Gender | Number |
 |:--------------|:-------|:-----------|:-------|:-------|
 | journal       | øoltwa | Noun       | -      | -      |
@@ -387,275 +388,276 @@ The spellings used in 2003 are preserved in this list, meaning:
 
 ## **N**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| name | menaø | Noun | - | - |
-| name | menton | _ton verb_ | - | - |
-| nation | kando | Noun | - | - |
-| nature | nahertu | Noun | - | - |
-| new | dama | Noun | - | - |
-| nine | mu | Adjective | - | - |
-| no | a | Noun | - | - |
-| none | mijli | Noun | - | - |
-| normal (as in difficulty) | kijuci | Adjective | - | - |
-| north | juria | Noun | - | - |
-| nothing | takama | Noun | - | - |
-| Nothing at all | Takama hi mur | Expression | - | - |
-| Nothing at all (less formal) | Atakama. | Expression | - | - |
-| noun | nola | Noun | - | - |
-| now | ju | Adverb | - | - |
+| English Gloss                | Adinjo        | Word Class | Gender | Number |
+|:-----------------------------|:--------------|:-----------|:-------|:-------|
+| name                         | menaø         | Noun       | -      | -      |
+| name                         | menton        | _ton verb_ | -      | -      |
+| nation                       | kando         | Noun       | -      | -      |
+| nature                       | nahertu       | Noun       | -      | -      |
+| new                          | dama          | Noun       | -      | -      |
+| nine                         | mu            | Adjective  | -      | -      |
+| no                           | a             | Noun       | -      | -      |
+| none                         | mijli         | Noun       | -      | -      |
+| normal (as in difficulty)    | kijuci        | Adjective  | -      | -      |
+| north                        | juria         | Noun       | -      | -      |
+| nothing                      | takama        | Noun       | -      | -      |
+| Nothing at all               | Takama hi mur | Expression | -      | -      |
+| Nothing at all (less formal) | Atakama.      | Expression | -      | -      |
+| noun                         | nola          | Noun       | -      | -      |
+| now                          | ju            | Adverb     | -      | -      |
 
 ## **O**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| odd (probability, ratio) | rukib | Noun | - | - |
-| of | i | Preposition | - | - |
-| of (6a), by, with | top | Noun | - | - |
-| offer | lukárton | _ton verb_ | - | - |
-| okay | okei | Expression | - | - |
-| older brother | dulcin | Noun | Masculine | - |
-| older sibling | kant | Noun | - | - |
-| older sister | dulkada | Noun | Feminine | - |
-| older, longer, more so | dul- | Prefix | - | - |
-| on | dai | Preposition | - | - |
-| one | win | Adjective | - | - |
-| only, just, simply | lamo | Noun | - | - |
-| orange | naru | Adjective | - | - |
-| others | qi | Pronoun | - | - |
-| out | cún | Preposition | - | - |
-| outcast | øandar | Noun | - | - |
-| over, past, beyond | fúri | Preposition | - | - |
-| own (refl. pronoun) | nom | Pronoun | - | - |
+| English Gloss            | Adinjo   | Word Class  | Gender    | Number |
+|:-------------------------|:---------|:------------|:----------|:-------|
+| odds, probability, ratio | rukib    | Noun        | -         | -      |
+| of                       | i        | Preposition | -         | -      |
+| of (6a), by, with        | top      | Noun        | -         | -      |
+| offer                    | lukárton | _ton verb_  | -         | -      |
+| okay                     | okei     | Expression  | -         | -      |
+| older brother            | dulcin   | Noun        | Masculine | -      |
+| older sibling            | kant     | Noun        | -         | -      |
+| older sister             | dulkada  | Noun        | Feminine  | -      |
+| older, longer, more so   | dul-     | Prefix      | -         | -      |
+| on                       | dai      | Preposition | -         | -      |
+| one                      | win      | Adjective   | -         | -      |
+| only, just, simply       | lamo     | Noun        | -         | -      |
+| orange                   | naru     | Adjective   | -         | -      |
+| others                   | qi       | Pronoun     | -         | -      |
+| out                      | cún      | Preposition | -         | -      |
+| outcast                  | øandar   | Noun        | -         | -      |
+| over, past, beyond       | fúri     | Preposition | -         | -      |
+| own (refl. pronoun)      | nom      | Pronoun     | -         | -      |
 
 ## **P**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| palace | makowa | Noun | - | - |
-| pale | laven | Adjective | - | - |
-| partner | habijad | Noun | - | - |
-| pass | aramton | _ton verb_ | - | - |
-| password, pass code | lonakudj | Noun | - | - |
-| penis (technical) | madis | Noun | - | - |
-| perseverance | shinkin | Noun | - | - |
-| person | -din | Suffix | - | - |
-| person (singular) | dyn | Noun | - | - |
-| perverse | horek | Adjective | - | - |
-| pet | tamar | Noun | - | - |
-| phoenix | karadu | Noun | - | - |
-| pig, hog, swine | con | Noun | - | - |
-| pink | harth | Adjective | - | - |
-| pit | limpa | Noun | - | - |
-| plain (geography) | lorn | Noun | - | - |
-| plasma | hardza | Noun | - | - |
-| platform | kuroln | Noun | - | - |
-| play (music) | porpunton | _ton verb_ | - | - |
-| poison | dahan | Noun | - | - |
-| political | politikaen | Adjective | - | - |
-| power | deirin | Noun | - | - |
-| power (magical or special ability) | mirants | Noun | - | - |
-| powerful, mighty | miktan | Adjective | - | - |
-| press, push | boton | _ton verb_ | - | - |
-| protect | øoriton | _ton verb_ | - | - |
-| protection | øori | Noun | - | - |
+| English Gloss                      | Adinjo     | Word Class | Gender | Number |
+|:-----------------------------------|:-----------|:-----------|:-------|:-------|
+| palace                             | makowa     | Noun       | -      | -      |
+| pale                               | laven      | Adjective  | -      | -      |
+| partner                            | habijad    | Noun       | -      | -      |
+| pass                               | aramton    | _ton verb_ | -      | -      |
+| password, pass code                | lonakudj   | Noun       | -      | -      |
+| penis (technical)                  | madis      | Noun       | -      | -      |
+| perseverance                       | shinkin    | Noun       | -      | -      |
+| person                             | -din       | Suffix     | -      | -      |
+| person (singular)                  | dyn        | Noun       | -      | -      |
+| perverse                           | horek      | Adjective  | -      | -      |
+| pet                                | tamar      | Noun       | -      | -      |
+| phoenix                            | karadu     | Noun       | -      | -      |
+| pig, hog, swine                    | con        | Noun       | -      | -      |
+| pink                               | harth      | Adjective  | -      | -      |
+| pit                                | limpa      | Noun       | -      | -      |
+| plain (geography)                  | lorn       | Noun       | -      | -      |
+| plasma                             | hardza     | Noun       | -      | -      |
+| platform                           | kuroln     | Noun       | -      | -      |
+| play (music)                       | porpunton  | _ton verb_ | -      | -      |
+| poison                             | dahan      | Noun       | -      | -      |
+| political                          | politikaen | Adjective  | -      | -      |
+| power                              | deirin     | Noun       | -      | -      |
+| power (magical or special ability) | mirants    | Noun       | -      | -      |
+| powerful, mighty                   | miktan     | Adjective  | -      | -      |
+| press, push                        | boton      | _ton verb_ | -      | -      |
+| protect                            | øoriton    | _ton verb_ | -      | -      |
+| protection                         | øori       | Noun       | -      | -      |
 
 ## **R**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| raid | ashurton | _ton verb_ | - | - |
-| rat | dare | Noun | - | - |
-| rate, speed | gant | Noun | - | - |
-| ready, prepared | øatan | Adjective | - | - |
-| reality | jurai | Noun | - | - |
-| red | roha | Adjective | - | - |
-| reject | kannuton | _ton verb_ | - | - |
-| relax | cerilton | _ton verb_ | - | - |
-| reply | frilton | _ton verb_ | - | - |
-| respond | jeraton | _ton verb_ | - | - |
-| return, response | jerad | Noun | - | - |
-| rise | bakhaton | _ton verb_ | - | - |
-| rising, increasing | øajii | Adjective | - | - |
-| rival | finit | Noun | - | - |
-| robot | robo | Noun | - | - |
-| rock | noc | Noun | - | - |
+| English Gloss      | Adinjo   | Word Class | Gender | Number |
+|:-------------------|:---------|:-----------|:-------|:-------|
+| raid               | ashurton | _ton verb_ | -      | -      |
+| rat                | dare     | Noun       | -      | -      |
+| rate, speed        | gant     | Noun       | -      | -      |
+| ready, prepared    | øatan    | Adjective  | -      | -      |
+| reality            | jurai    | Noun       | -      | -      |
+| red                | roha     | Adjective  | -      | -      |
+| reject             | kannuton | _ton verb_ | -      | -      |
+| relax              | cerilton | _ton verb_ | -      | -      |
+| reply              | frilton  | _ton verb_ | -      | -      |
+| respond            | jeraton  | _ton verb_ | -      | -      |
+| return, response   | jerad    | Noun       | -      | -      |
+| rise               | bakhaton | _ton verb_ | -      | -      |
+| rising, increasing | øajii    | Adjective  | -      | -      |
+| rival              | finit    | Noun       | -      | -      |
+| robot              | robo     | Noun       | -      | -      |
+| rock               | noc      | Noun       | -      | -      |
 
 ## **S**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| sabacc | sabak | Noun | - | - |
-| sail | kadaton | _ton verb_ | - | - |
-| sand dune, dune | páci | Noun | - | - |
-| say | yaniton | _ton verb_ | - | - |
-| scare half to death | lama to kinma | Expression | - | - |
-| scatter, spread | amurton | _ton verb_ | - | - |
-| scout | naniton | _ton verb_ | - | - |
-| sea | chon | Noun | - | - |
-| See you later (informal) | Sayu bacima | Expression | - | - |
-| select, choose | luøton | _ton verb_ | - | - |
-| serve | canton | _ton verb_ | - | - |
-| seven | can | Adjective | - | - |
-| shall | -rek | Suffix | - | - |
-| shall | torek | _kun verb_ | - | - |
-| she, her | fi | Pronoun | Feminine | - |
-| shirt | link | Noun | - | - |
-| shit (expletive) | colreø | Expression | - | - |
-| shoot | imáton | _ton verb_ | - | - |
-| short | tal | Adjective | - | - |
-| shout | jobaton | _ton verb_ | - | - |
-| simple, basic | kura'ind | Adjective | - | - |
-| sin | polaton | _ton verb_ | - | - |
-| sin | polt | Noun | - | - |
-| since | koru | Adverb | - | - |
-| sister | kada | Noun | Feminine | - |
-| sit | aruston | _ton verb_ | - | - |
-| six | lumen | Adjective | - | - |
-| sleep | fainuton | _ton verb_ | - | - |
-| smoke | tocaton | _ton verb_ | - | - |
-| smoke | tolam | Noun | - | - |
-| snore | habruton | _ton verb_ | - | - |
-| snow | toshi | Noun | - | - |
-| so that, in order to | madyu | Preposition | - | - |
-| soft | felimin | Adjective | - | - |
-| solid | øar | Adjective | - | - |
-| some | cori | Adjective | - | - |
-| son | kan | Noun | Masculine | - |
-| song | shoøem | Noun | - | - |
-| sorry | kinar | Expression | - | - |
-| soul, spirit | lav | Noun | - | - |
-| south | mikau | Noun | - | - |
-| spinning (sound of) | kanaka | Adjective | - | - |
-| star | raji | Noun | - | - |
-| start | kefol | _kun verb_ | - | - |
-| start, begin | kefton | _ton verb_ | - | - |
-| stick | lici | Noun | - | - |
-| stop | folre | _kun verb_ | - | - |
-| strand | flinton | _ton verb_ | - | - |
-| strength | porén | Noun | - | - |
-| stuff | tankha | Noun | - | - |
-| sugar | fairo | Noun | - | - |
-| sure, certain | mai | Adjective | - | - |
-| surface | kamuli | Noun | - | - |
-| swim | furinton | _ton verb_ | - | - |
-| sword | ten | Noun | - | - |
-| system (set of functioning parts) | kin | Noun | - | - |
+| English Gloss                     | Adinjo        | Word Class  | Gender    | Number |
+|:----------------------------------|:--------------|:------------|:----------|:-------|
+| sabacc                            | sabak         | Noun        | -         | -      |
+| sail                              | kadaton       | _ton verb_  | -         | -      |
+| sand dune, dune                   | páci          | Noun        | -         | -      |
+| say                               | yaniton       | _ton verb_  | -         | -      |
+| scare half to death               | lama to kinma | Expression  | -         | -      |
+| scatter, spread                   | amurton       | _ton verb_  | -         | -      |
+| scout                             | naniton       | _ton verb_  | -         | -      |
+| sea                               | chon          | Noun        | -         | -      |
+| See you later (informal)          | Sayu bacima   | Expression  | -         | -      |
+| select, choose                    | luøton        | _ton verb_  | -         | -      |
+| serve                             | canton        | _ton verb_  | -         | -      |
+| seven                             | can           | Adjective   | -         | -      |
+| shall                             | -rek          | Suffix      | -         | -      |
+| shall                             | torek         | _kun verb_  | -         | -      |
+| she, her                          | fi            | Pronoun     | Feminine  | -      |
+| shirt                             | link          | Noun        | -         | -      |
+| shit (expletive)                  | colreø        | Expression  | -         | -      |
+| shoot                             | imáton        | _ton verb_  | -         | -      |
+| short                             | tal           | Adjective   | -         | -      |
+| shout                             | jobaton       | _ton verb_  | -         | -      |
+| simple, basic                     | kura'ind      | Adjective   | -         | -      |
+| sin                               | polaton       | _ton verb_  | -         | -      |
+| sin                               | polt          | Noun        | -         | -      |
+| since                             | koru          | Adverb      | -         | -      |
+| sister                            | kada          | Noun        | Feminine  | -      |
+| sit                               | aruston       | _ton verb_  | -         | -      |
+| six                               | lumen         | Adjective   | -         | -      |
+| sleep                             | fainuton      | _ton verb_  | -         | -      |
+| smoke                             | tocaton       | _ton verb_  | -         | -      |
+| smoke                             | tolam         | Noun        | -         | -      |
+| snore                             | habruton      | _ton verb_  | -         | -      |
+| snow                              | toshi         | Noun        | -         | -      |
+| so that, in order to              | madyu         | Preposition | -         | -      |
+| soft                              | felimin       | Adjective   | -         | -      |
+| solid                             | øar           | Adjective   | -         | -      |
+| some                              | cori          | Adjective   | -         | -      |
+| son                               | kan           | Noun        | Masculine | -      |
+| song                              | shoøem        | Noun        | -         | -      |
+| sorry                             | kinar         | Expression  | -         | -      |
+| soul, spirit                      | lav           | Noun        | -         | -      |
+| south                             | mikau         | Noun        | -         | -      |
+| spinning (sound of)               | kanaka        | Adjective   | -         | -      |
+| star                              | raji          | Noun        | -         | -      |
+| start                             | kefol         | _kun verb_  | -         | -      |
+| start, begin                      | kefton        | _ton verb_  | -         | -      |
+| stick                             | lici          | Noun        | -         | -      |
+| stop                              | folre         | _kun verb_  | -         | -      |
+| strand                            | flinton       | _ton verb_  | -         | -      |
+| strength                          | porén         | Noun        | -         | -      |
+| stuff                             | tankha        | Noun        | -         | -      |
+| sugar                             | fairo         | Noun        | -         | -      |
+| sure, certain                     | mai           | Adjective   | -         | -      |
+| surface                           | kamuli        | Noun        | -         | -      |
+| swim                              | furinton      | _ton verb_  | -         | -      |
+| sword                             | ten           | Noun        | -         | -      |
+| system (set of functioning parts) | kin           | Noun        | -         | -      |
 
 ## **T**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| tar | albor | Noun | - | - |
-| tell | kampton | _ton verb_ | - | - |
-| ten | shak | Adjective | - | - |
-| test | campiøton | _ton verb_ | - | - |
-| text, written language | yent | Noun | - | - |
-| Thank you (casual) | Damaci | Expression | - | - |
-| Thank you (formal) | Damaci u'yi | Expression | - | - |
-| Thank you (less formal) | Damaci yi | Expression | - | - |
-| that | ya | Pronoun | - | - |
-| the | sug | Adjective | - | - |
-| the people (universal; conceptual) | adin | Pronoun | - | - |
-| them, they | shi | Pronoun | - | - |
-| then | kyorel | Conjunction | - | - |
-| there | mué | Pronoun | - | - |
-| thing | yugi | Noun | - | - |
-| think | miniton | _ton verb_ | - | - |
-| this | ba | Pronoun | - | - |
-| this | ba- | Prefix | - | - |
-| this | gi | Pronoun | - | - |
-| thought | minits | Noun | - | - |
-| three | jon | Adjective | - | - |
-| tiger | hotan | Noun | - | - |
-| tiger | jubaci | Noun | - | - |
-| time | temba | Noun | - | - |
-| to, towards | hemlé | Preposition | - | - |
-| today | bajia | Noun | - | - |
-| too, as well, also | zhu | Noun | - | - |
-| translate | ølamaton | _ton verb_ | - | - |
-| translation | ølamarn | Noun | - | - |
-| transport | ganteton | _ton verb_ | - | - |
-| trap door | durabi | Noun | - | - |
-| tree | øagi | Noun | - | - |
-| trial | elek | Noun | - | - |
-| tribe | shamp | Noun | - | - |
-| trooper | sanji | Noun | - | - |
-| truth | øaf | Noun | - | - |
-| turn | hijuton | _ton verb_ | - | - |
-| turtle | mirya | Noun | - | - |
-| twelve (10) | tomo | Adjective | - | - |
-| twelves (x0) | -mo | Suffix | - | - |
-| two | larn | Adjective | - | - |
+| English Gloss                      | Adinjo      | Word Class  | Gender | Number |
+|:-----------------------------------|:------------|:------------|:-------|:-------|
+| tar                                | albor       | Noun        | -      | -      |
+| tell                               | kampton     | _ton verb_  | -      | -      |
+| ten                                | shak        | Adjective   | -      | -      |
+| test                               | campiøton   | _ton verb_  | -      | -      |
+| text, written language             | yent        | Noun        | -      | -      |
+| Thank you (casual)                 | Damaci      | Expression  | -      | -      |
+| Thank you (formal)                 | Damaci u'yi | Expression  | -      | -      |
+| Thank you (less formal)            | Damaci yi   | Expression  | -      | -      |
+| that                               | ya          | Pronoun     | -      | -      |
+| the                                | sug         | Adjective   | -      | -      |
+| the people (universal; conceptual) | adin        | Pronoun     | -      | -      |
+| them, they                         | shi         | Pronoun     | -      | -      |
+| then                               | kyorel      | Conjunction | -      | -      |
+| there                              | mué         | Pronoun     | -      | -      |
+| thing                              | yugi        | Noun        | -      | -      |
+| think                              | miniton     | _ton verb_  | -      | -      |
+| this                               | ba          | Pronoun     | -      | -      |
+| this                               | ba-         | Prefix      | -      | -      |
+| this                               | gi          | Pronoun     | -      | -      |
+| thought                            | minits      | Noun        | -      | -      |
+| three                              | jon         | Adjective   | -      | -      |
+| tiger                              | hotan       | Noun        | -      | -      |
+| tiger                              | jubaci      | Noun        | -      | -      |
+| time                               | temba       | Noun        | -      | -      |
+| to, towards                        | hemlé       | Preposition | -      | -      |
+| today                              | bajia       | Noun        | -      | -      |
+| too, as well, also                 | zhu         | Noun        | -      | -      |
+| translate                          | ølamaton    | _ton verb_  | -      | -      |
+| translation                        | ølamarn     | Noun        | -      | -      |
+| transport                          | ganteton    | _ton verb_  | -      | -      |
+| trap door                          | durabi      | Noun        | -      | -      |
+| tree                               | øagi        | Noun        | -      | -      |
+| trial                              | elek        | Noun        | -      | -      |
+| tribe                              | shamp       | Noun        | -      | -      |
+| trooper                            | sanji       | Noun        | -      | -      |
+| truth                              | øaf         | Noun        | -      | -      |
+| turn                               | hijuton     | _ton verb_  | -      | -      |
+| turtle                             | mirya       | Noun        | -      | -      |
+| twelve (10)                        | tomo        | Adjective   | -      | -      |
+| twelves (x0)                       | -mo         | Suffix      | -      | -      |
+| two                                | larn        | Adjective   | -      | -      |
 
 ## **U**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| unfold | acoreton | _ton verb_ | - | - |
-| universal pron. (ie: all [pron.]) | a- | Prefix | - | - |
-| up | klor | Preposition | - | - |
-| use | aneton | _ton verb_ | - | - |
+| English Gloss                     | Adinjo   | Word Class  | Gender | Number |
+|:----------------------------------|:---------|:------------|:-------|:-------|
+| unfold                            | acoreton | _ton verb_  | -      | -      |
+| universal pron. (ie: all [pron.]) | a-       | Prefix      | -      | -      |
+| up                                | klor     | Preposition | -      | -      |
+| use                               | aneton   | _ton verb_  | -      | -      |
 
 ## **V**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| vengeance | lolo | Noun | - | - |
-| verb | voten | Noun | - | - |
-| very own, only (absolute singular) | kabu- | Prefix | - | - |
-| vest | hinct | Noun | - | - |
-| violet | véol | Adjective | - | - |
-| visit | trákton | _ton verb_ | - | - |
+| English Gloss                      | Adinjo  | Word Class | Gender | Number |
+|:-----------------------------------|:--------|:-----------|:-------|:-------|
+| vengeance                          | lolo    | Noun       | -      | -      |
+| verb                               | voten   | Noun       | -      | -      |
+| very own, only (absolute singular) | kabu-   | Prefix     | -      | -      |
+| vest                               | hinct   | Noun       | -      | -      |
+| violet                             | véol    | Adjective  | -      | -      |
+| visit                              | trákton | _ton verb_ | -      | -      |
 
 ## **W**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| wait | bronton | _ton verb_ | - | - |
-| wake, awaken | amenton | _ton verb_ | - | - |
-| was | ins | _kun verb_ | - | - |
-| water | twah | Noun | - | - |
-| we, us | ki | Pronoun | - | - |
-| weapon | wendok | Noun | - | - |
-| week | gia | Noun | - | - |
-| welcome | saliton | _ton verb_ | - | - |
-| well | -rín | Suffix | - | - |
-| well (sufficient or exceptional) | sayrín | Adjective | - | - |
-| west | karni | Noun | - | - |
-| what | qe | Pronoun | - | - |
-| What's up? | Qe'c dama? | Expression | - | - |
-| when | monsi | Adverb | - | - |
-| where | dán | Adverb | - | - |
-| white | abso | Adjective | - | - |
-| who | wi | Pronoun | - | - |
-| will, desire | hac | Noun | - | - |
-| win (as a prize) | dalton | _ton verb_ | - | - |
-| wind | shiran | Noun | - | - |
-| with | hort | Preposition | - | - |
-| woman | naiti | Noun | - | - |
-| wood | øal | Noun | - | - |
-| work | doberton | _ton verb_ | - | - |
-| work | dobra | Noun | - | - |
-| world | muri | Noun | - | - |
-| wrap | jáluton | _ton verb_ | - | - |
-| write | qontiton | _ton verb_ | - | - |
-| writing | qonij | Noun | - | - |
+| English Gloss                    | Adinjo     | Word Class  | Gender | Number |
+|:---------------------------------|:-----------|:------------|:-------|:-------|
+| wait                             | bronton    | _ton verb_  | -      | -      |
+| wake, awaken                     | amenton    | _ton verb_  | -      | -      |
+| was                              | ins        | _kun verb_  | -      | -      |
+| water                            | twah       | Noun        | -      | -      |
+| we, us                           | ki         | Pronoun     | -      | -      |
+| weapon                           | wendok     | Noun        | -      | -      |
+| week                             | gia        | Noun        | -      | -      |
+| welcome                          | saliton    | _ton verb_  | -      | -      |
+| well                             | -rín       | Suffix      | -      | -      |
+| well (sufficient or exceptional) | sayrín     | Adjective   | -      | -      |
+| west                             | karni      | Noun        | -      | -      |
+| what                             | qe         | Pronoun     | -      | -      |
+| What's up?                       | Qe'c dama? | Expression  | -      | -      |
+| when                             | monsi      | Adverb      | -      | -      |
+| where                            | dán        | Adverb      | -      | -      |
+| white                            | abso       | Adjective   | -      | -      |
+| who                              | wi         | Pronoun     | -      | -      |
+| will, desire                     | hac        | Noun        | -      | -      |
+| win (as a prize)                 | dalton     | _ton verb_  | -      | -      |
+| wind                             | shiran     | Noun        | -      | -      |
+| with                             | hort       | Preposition | -      | -      |
+| woman                            | naiti      | Noun        | -      | -      |
+| wood                             | øal        | Noun        | -      | -      |
+| work                             | doberton   | _ton verb_  | -      | -      |
+| work                             | dobra      | Noun        | -      | -      |
+| world                            | muri       | Noun        | -      | -      |
+| wrap                             | jáluton    | _ton verb_  | -      | -      |
+| write                            | qontiton   | _ton verb_  | -      | -      |
+| writing                          | qonij      | Noun        | -      | -      |
 
 ## **Y**
 
-| English Gloss | Adinjo | Word Class | Gender | Number |
-|:--------------|:-------|:-----------|:-------|:-------|
-| year | nyore | Noun | - | - |
-| yellow | xiron | Adjective | - | - |
-| yes | teci | Noun | - | - |
-| you | ci | Pronoun | - | First |
-| younger brother | morcin | Noun | Masculine | - |
-| younger sibling | ket | Noun | - | - |
-| younger sister | morkada | Noun | Feminine | - |
-| younger, shorter, less so | -tal | Suffix | - | - |
+| English Gloss             | Adinjo  | Word Class | Gender    | Number |
+|:--------------------------|:--------|:-----------|:----------|:-------|
+| year                      | nyore   | Noun       | -         | -      |
+| yellow                    | xiron   | Adjective  | -         | -      |
+| yes                       | teci    | Noun       | -         | -      |
+| you                       | ci      | Pronoun    | -         | First  |
+| younger brother           | morcin  | Noun       | Masculine | -      |
+| younger sibling           | ket     | Noun       | -         | -      |
+| younger sister            | morkada | Noun       | Feminine  | -      |
+| younger, shorter, less so | -tal    | Suffix     | -         | -      |
 
 ## **Z**
+
 | English Gloss | Adinjo | Word Class | Gender | Number |
 |:--------------|:-------|:-----------|:-------|:-------|
-| zero | mijin | Adjective | - | - |
+| zero          | mijin  | Adjective  | -      | -      |
