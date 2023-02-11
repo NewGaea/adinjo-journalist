@@ -12,7 +12,13 @@ The basic suffixes are -**_tot_** for the past tense, -**_ton_** for the present
 
 ### Principal Parts of TON Verbs
 
-The principal parts of a TON Verb are the **infinitive** and **gerund.** In this lexicon, the infinitive is the portion of a TON verb preceding the full-stop mark, while the gerund is the complete form of the lexical entry excluding the full-stop mark. For example, **julax.en** is composed of the infinitive **julax** (to change) and the gerund form, **julaxen** (changing). Because the gerund is always appended to the infinitive, but is not predictable by other means, the lexicon and dictionaries use this notation to distinguish the forms.
+The principal parts of a TON Verb are the **infinitive, gerund,** and (in some cases) **nominal.** In this lexicon, the infinitive is the portion of a TON verb preceding the full-stop mark, while the gerund is the complete form of the lexical entry excluding the full-stop mark. For example, **julax.en** is composed of the infinitive **julax** (to change) and the gerund form, **julaxen** (changing). The word **julax** is useful here, as is does have a nominal form: **julaxan** (a change). Because the gerund is always appended to the infinitive, but is not predictable by other means, the lexicon and dictionaries use this notation to distinguish the forms.
+
+| **NOTE:** Not every verb has a listed nominal form, however (as of 2023-Feb0-09) those that do have such, list it as a separate word defined as a _noun._ This is as unpredictable as the gerund form, and must be learned independently for those verbs which have a nominal form.
+
+When being learned, these principal parts will typically be presented or recited in the form _infinitive, gerund, nominal_, such that a student learning the forms of **julax** would recite, "julax, julaxen, julaxan" during spoken lessons, or would write them down in writing lessons.
+
+| **THOUGHT:** It is sometimes suggested that the _nominal_ simply uses only the first sound of the gerund ending, but **jalyu** proves this wrong, as its forms are **jalyu, jalyumen, jalygres** and it is not the only word with a very different _nominal_ form than its _gerund_ form.
 
 ### Participle Forms of TON Verbs
 
@@ -35,6 +41,8 @@ In vowel-final words, past /**_ns_**/ follows the final vowel. Present -**_c_** 
 ### Principal Parts of KUN Verbs
 
 For KUN verbs, the principal parts are the **infinitive, gerund, negative infinitive,** and **negative gerund** forms. For example, the verb **kempo** (_to do_) has the principal parts **kempo** (infinitive), **kenompo** (gerund), **kempa** (negative infinitive), and **kenompa** (negative gerund). More prominent is the state of KUN verbs with only one vowel -- the copula **ic** has the primary parts **ic, inoc, yac, yanoc.** The negative is always formed before the gerund.
+
+KUN verbs use the infinitive unmarked form as their nominal, so it need not be learned separately as is the case for TON verbs.
 
 ____
 
