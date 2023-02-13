@@ -16,9 +16,11 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 
 ## D
 
-+ **\*da'u** earth, ground
-  + **gaea** (_proper noun_) Gaea, Earth, Terra
-  + **jalu** (_noun_) earth (as an element), land, ground, dirt, stones, etc.
++ **\*da'u** give birth
+  + **gaea** 1. (_proper noun_) Gaea, Earth, Terra
+  + **gaya(m)** 1. (_ton verb_) to give birth
+  + **jalu** 1. (_noun_) earth (as an element), land, ground, dirt, stones, etc.
+  + **jálu(st)** 1. (_ton verb_) to wrap, to bind
 
 ## E
 
@@ -35,8 +37,8 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 ## C
 
 + **\*chedyn**
-  + **chennur** 1. school, student group, education
-  + **chijin** 1. knowledge
+  + **chennur** 1. (_noun_) school, student group, education
+  + **chijin** 1. (_noun_) knowledge
 
 ## I
 
