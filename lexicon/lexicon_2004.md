@@ -30,25 +30,27 @@
   - [OLD FORMS](#old-forms)
   - [UNSORTED](#unsorted)
 
-This list contains only words which are confirmed as added to the lexicon documentation in 2004 or earlier. There are no _incomplete_ forms in this list, as this is the original, oldest wordlist attested. It can be difficult to identify the dates of these words with precision.
+This list contains only words which are confirmed as added to the lexicon documentation in 2004 or earlier. There are no _incomplete_ forms in this list, as this is the original, oldest wordlist attested. There is an _old_ forms section for words which have had spellings changed over the years.
 
-This list uses the modern romanization standards for Adinjo, and uses these same standards to reflect historical pronunciations (based on spellings) in "formerly _dekchin_" attributions.
+Because of lack of date or history tracking during this period, it can be difficult to identify the dates of these words with precision: 2003-Dec-25 or 1998-Jun-01 are the preferred dates unless a more precise date can be identified based on locating specific documentation from within this period using such words. This list _does_ include more recently dated senses for words so long as those words were coined from Spring of 1998 through to the end of 2003.
+
+This list uses the modern romanization standards for Adinjo, and uses these same standards to reflect historical pronunciations (based on the historical spellings) in "formerly _dekchin_" attributions.
 
 ## A
 
-- **a** 1. (_prefix_) all, each, every (att. 2003-Dec-25) 2. (_prefix_) great, grand, superior (att. 2003-Dec-25)
+- **a** 1. (_prefix_) all, each, every (att. 1998-Jun-01) 2. (_prefix_) great, grand, superior (att. 2003-Dec-25)
 - **-a** 1. (_suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_) 2. (**-a-**) (_kun verb affix_) no, not; replaces the last vowel in the root (att. 2003-Dec-25; cf. _ha_)
-- **abse** 1. (_descriptor_) black, dark (att. 2003-Dec-25)
-- **abso** 1. (_descriptor_) white (att. 2003-Dec-25)
-- **ábul** 1. (_noun_) altar, memorial, monument, statue (att. 2003-Dec-25)
+- **abse** 1. (_descriptor_) black, dark (att. 2002-Jul-31)
+- **abso** 1. (_descriptor_) white (att. 2002-Jul-31)
+- **ábul** 1. (_noun_) altar, memorial, monument, statue (att. 2002-Jul-31)
 - **adamachirin sayochi** 1. (_expression_) Thank you; a very formal expression of gratitude roughly meaning, "I am well and truly grateful," this is the strogest expression of gratitude that does not suggest a reciprocal debt to another (att. 2003-Dec-25 ${\rightarrow}$ 2023-Feb-11)
 - **adin** 1. (_pronoun_) the people (universal, conceptual) (att. 1998-Jun-01) 2. (_noun_) people; in a universal sense (att. 1998-Jun-01; cf. **dyn**) 3. Adin, the Adin species; members of _Homo sapiens medeis_ (att. 1998-Jun-01)
-- **ace** 1. (_noun_) animal, beast, creature (att. 2003-Dec-25)
-- **acoré.ru** 1. (_ton verb_) bloom, blossom, unfold, open (formerly _achoreton_; att. 2003-Dec-25)
-- **aimi** 1. (_noun_) eye (att. 2003-Dec-25)
+- **ace** 1. (_noun_) animal, beast, creature (formerly _akse_; att. 2002-Jul-31)
+- **acoré.ru** 1. (_ton verb_) bloom, blossom, unfold, open (formerly _achoreton_; att. 2002-Jul-31)
+- **aimi** 1. (_noun_) eye (att. 2002-Jul-31)
 - **aire.nd** 1. (_ton verb_) finding, learning, discovering (formerly _aireton_; att. 2003-Dec-25)
 - **-aiti** 1. (_suffix, gender_) a suffix indicating a feminine aspect, gender, or nature; a suffix added to a name to indicate it belongs to a female (possibly a form of _daiti_ or _naiti_; att. 2003-Dec-25)
-- **albor** 1. (_noun_) tar (att. 2003-Dec-25) 2. (_noun_) ink, oil paint (att. )
+- **albor** 1. (_noun_) tar (att. 2003-Dec-25) 2. (_noun_) ink, oil paint (att. 2022-Jun-27)
 - **alme.n** 1. (_ton verb_) milking (att. 2003-Dec-25)
 - **almer** 1. (_noun_) milk, potion (formerly _alman_; att. 2003-Dec-25)
 - **amén** 1. (_expression_) a voicing of agreement; a valediction used to conclude a wish, prayer, or request, serving as a call to action; to invoke or call to action (att. 2003-Dec-25)
@@ -56,15 +58,17 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 - **amen.ru** 1. (_ton verb_) waking, awakening, invoking, calling upon (formerly _amenton_; att. 2003-Dec-25)
 - **amkei.l** 1. (_ton verb_) cutting, splitting, separating, removing, shearing; dividing (formerly _amkeiton_; att. 2003-Dec-25)
 - **amur.ent** 1. (_ton verb_) scattering, spreading, sowing (formerly _amurton_; att. 2003-Dec-25)
+- **an** 1. (_prefix, descriptor_) expresses that the word is a statement of state or status, “to be x” (att. 2003-Dec-25; cf. _ani.ru_) 2. (_prefix, noun_) sex, gender, class (att. 2008-Jun-22; cf. _anjyu_)
 - **ane.ru** 1. (_ton verb_) using (formerly _aneton_; att. 2003-Dec-25) 2. (_ton verb_) utilizing (att. 2022-Jun-27)
 - **ani.ru** 1. (_ton verb_) being, existing in a state (formerly _aniton_; att. 2003-Dec-25)
-- **ajan** 1. (_proper noun, title_) my God, my Liege, my Lord; a title used when referring a particular patron, deity or spirit in order to show humility  (att. 2003-Dec-25)
+- **ajan** 1. (_proper noun, title_) my God, my Liege, my Lord; a title used when referring a particular patron, deity or spirit in order to show humility (att. 2002-Jul-31)
 - **aram.el** 1. (_ton verb_) passing, going through, going beyond (formerly _aramton_; att. 2003-Dec-25)
 - **armo** 1. (_conjunction_) because, for reason (att. 2003-Dec-25)
 - **arus.é** 1. (_ton verb_) sitting, lounging (att. 2003-Dec-25)
 - **arush** 1. (_noun_) seat, chair, cushion, sofa (att. 2003-Dec-25)
 - **arush.èn** 1. (_ton verb_) seating, providing or offering seats (att. 2003-Dec-25)
 - **arzol** 1. (_descriptor_) azure, blue, indigo (att. 2003-Dec-25 ${\rightarrow}$ 2023-Feb-01)
+- **asenger** 1. (_noun_) bite; the physical remains or damage of a bite (att. 2003-Dec-25)
 - **asen.ru** 1. (_ton verb_) biting, chomping (formerly _asenton_; att. 2003-Dec-25)
 - **asent** 1. (_noun_) east (att. 2003-Dec-25) 2. (_noun_) a shape or mark which is rising to the right (att. 2003-Dec-25) 3. (_noun_) tenseness (of a sound) (documented 2023-Jan-10)
 - **ashurt.as** 1. (_ton verb_) harrying, marauding, raiding, sacking, striking ; attacking a position for the purpose of looting, razing, or weakening it against future assault (formerly _ashurton_; att. 2003-Dec-25)
@@ -74,10 +78,11 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 
 ## B
 
+- **ba** 1. (_descriptor, prefix_) this; immediate proximate demonstrative (att. 2003-Dec-25)
+- **baci.re** 1. (_ton verb_) seeing, viewing; watching (att. 2002-Jul-31)
 - **bakato** 1. (_expression_) _alleged_ bite me, buzz off, fuck off, sod off; _allegedly_ a colloquial expression meaning "cook and serve" (actual translation unclear, but always used pejoratively; att. 2003-Dec-25)
 - **bakira** 1. (_conjunction_) also, by the way, in addition (att. 2003-Dec-25)
 - **ban** 1. (_noun_) bread, flatbread, loaf, roll; refers to any form of bread, leavened or not, but excludes cakes and pastries (att. 2003-Dec-25) 2. (_noun_) meal (cf. **_jiabi ban_** ${\rightarrow}$ _daily bread_; att. 2003-Dec-25)
-- **ba** 1. (_descriptor, prefix_) this; immediate proximate demonstrative (att. 2003-Dec-25)
 - **banij** 1. (_pronoun_) here, this place (found in an old barely used journal; att. 2003-Dec-25 ${\rightarrow}$ 2022-Jun-04)
 - **bajia** 1. (_noun_) today (literally "this-day"; formerly _badjia_; att. 2003-Dec-25) 2. (metaphorical) now (att. 2023-Jan-12)
 - **bax.at** 1. (_ton verb_) rising, growing (formerly _bakhat_; att. 2003-Dec-25)

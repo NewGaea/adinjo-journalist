@@ -134,8 +134,7 @@
 ## B
 
 - **ba** 1. (_descriptor, prefix_) this; immediate proximate demonstrative (att. 2003-Dec-25)
-- **bajia** 1. (_noun_) today (literally "this-day"; att. 2003-Dec-25) 2. (metaphorical) now (added 2023-Jan-12)
-- **baci.re** 1. (_ton verb_) seeing, viewing; watching
+- **baci.re** 1. (_ton verb_) seeing, viewing; watching (att. 2002-Jul-31)
 - **bak** 1. (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
 - **bakato** 1. (_expression_) _alleged_ bite me, buzz off, fuck off, sod off; _alleged_ a colloquial expression meaning "cook and serve" (actual translation unclear, but always used pejoratively; att. 2003-Dec-25)
 - **bakira** 1. (_conjunction, expression_) also, as you see, by the way, clearly, furthermore, therefore, understandably; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
@@ -145,6 +144,7 @@
 - **banchi** 1. (_noun_) gift; particularly a physical gift (att. 2003-Dec-25)
 - **banij** 1. (_pronoun_) here, this place (found in an old barely used journal; att. 2003-Dec-25 ${\rightarrow}$ 2022-Jun-04)
 - **banklaf** 1. (_noun_) holiday, a major festival or sacred season (att. 2021-Nov-31)
+- **bajia** 1. (_noun_) today (literally "this-day"; att. 2003-Dec-25) 2. (metaphorical) now (added 2023-Jan-12)
 - **baru** 1. (_noun_) dust (att. 2008-Jun-22) 2. dry dirt (att. 2023-Jan-12) 3. powder (att. 2023-Jan-12)
 - **bax.at** 1. (_ton verb_) rising, growing (att. 2003-Dec-25)
 - **bedji** 1. (_noun_) beard (att. 2008-Jun-22) 2. facial hair, especially when including a beard (att. 2023-Jan-13)
@@ -325,7 +325,7 @@
 ## E
 
 - **-el** 1. (_verb affix_) perfective marker; indicates an action with noteworthy or unusual duration for that action (att. 2003-Dec-25)
-- **elaure.na** 1. (_ton verb_) keeping, safeguarding, stewarding (word found att. in name element list from 2007, never recorded in lexicon until 2022; att. 2008-Jul-06 ${\rightarrow}$ 2022-Jun-14)
+- **elaure.na** 1. (_ton verb_) caring for, keeping, safeguarding, stewarding (word found in name element list from 2007, never recorded in lexicon until 2022; att. 2008-Jul-06 ${\rightarrow}$ 2022-Jun-14)
 - **eldharél** 1. (_kun verb_) to rage, to be angry (_formerly a **ton verb**_, att. 2008-Jun-22)
 - **elek** 1. (_noun_) trial, court case, court appointment, legal proceedings (att. 2003-Dec-25)
 - **elz** 1. (_noun_) ice, frozen or solid water (att. 2021-Apr-22)
@@ -926,7 +926,7 @@
 - **jenesís** 1. (_noun_) life (the presence or existence of life) (att. 2003-Dec-25)
 - **jerad** 1. (_noun_) response, return (att. 2003-Dec-25)
 - **jera.nzu** 1. (_ton verb_) respond (att. 2003-Dec-25)
-- **jeso.a** 1. (_ton verb_) heal (att. 2008-Jun-22)
+- **jeso.a** 1. (_ton verb_) healing (att. 2008-Jun-22)
 - **ji** 1. (_m pron_) he, him (att. 2003-Dec-25)
 - **-ji** 1. (_suffix, descriptor_) great grosses (${1728s_{10}}$, or ${1000s_{12}}$) (att. 2003-Dec-25)
 - **jia** 1. (_noun_) day (both the period of daylight, and the entire period of time between two sunrises) (att. 2003-Dec-25)
@@ -1310,7 +1310,7 @@
 - **xune.m** 1. (_ton verb_) to excuse, to justify, to rationalize (discovered in an early attempt to make a dictionary using Adinjo, found as as _axunem_ translated as 'no excusing'; att. 2005-Nov-04)
 - **xoci.da** 1. (_ton verb_) \[language\] conjugate, derive, inflect (att. 2003-Dec-25) 2. (_ton verb_) adopting (att. 2023-Feb-03) 3. (_ton verb_) \[archaic\] combining, joining, laboring together (att. 2023-Feb-03)
 - **xoltwa** 1. (_noun_) journal (att. 2003-Dec-25)
-- **xori.mas** 1. (_ton verb_) protect (att. 2003-Dec-25)
+- **xori.mas** 1. (_ton verb_) protecting (att. 2003-Dec-25)
 - **xorii** 1. (_noun_) protection (att. 2003-Dec-25)
 - **xorli** 1. (_noun_) dialect (att. 2003-Dec-25)
 

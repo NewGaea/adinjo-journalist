@@ -29,7 +29,7 @@
   - [W](#w)
   - [UNSORTED](#unsorted)
 
-This list contains only words which are confirmed as added to the lexicon documentation in 2004 or earlier. There are no _old_ or _incomplete_ forms in this list, as this is the original, oldest wordlist attested. It can be difficult to identify the dates of these words with precision.
+This list contains only words which are confirmed as added to the lexicon documentation from 2005 through 2008. There may be _old_ or _incomplete_ forms in this list, as this is the original, oldest wordlist attested. Because dates and editing history were not being strictly tracked at this time, it can be difficult to identify precise dates other than the latest date of the wordlist.
 
 This list uses the modern romanization standards for Adinjo, and uses these same standards to reflect historical pronunciations (based on spellings) in "formerly _dekchin_" attributions.
 
