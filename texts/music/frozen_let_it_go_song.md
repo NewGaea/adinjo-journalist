@@ -1,12 +1,10 @@
-_Let it Go_ from Disney's _Frozen_ (2013)
-==================
+# _Let it Go_ from Disney's _Frozen_ (2013)
 
-Adinjo Text
------------
+## Adinjo Text
 
-### Verse 1 ###
+### Verse 1
 
-> ```
+> ```txt
 > Dai  ba    nonke,     sug  abse   toshi  umaston       adashinu      [bacoci]
 > On   this  mountain,  DEF  white  snow   hide.PRESACT  UNIV.path.PL  [this.night]
 > On this mountain, the white snow hides all paths
@@ -32,9 +30,9 @@ Adinjo Text
 > To hide my true spirit: [but] Now I'm free!
 > ```
 
-### Refrain 1 ###
+### Refrain 1
 
-> ```
+> ```txt
 > Ju yi ic xau librau
 > Yi umatociha janyu
 > Ju hort ba librau xai
@@ -46,9 +44,9 @@ Adinjo Text
 > Kuyi ipera librau ni toshi.
 > ```
 
-### Verse 2 ###
+### Verse 2
 
-> ```
+> ```txt
 > Aba dinu wi ren yi
 > Shi'c dun hi ijinha
 > Kuyi renu ic blut hort shi
@@ -60,9 +58,9 @@ Adinjo Text
 > Nolib!
 > ```
 
-### Refrain 2 ###
+### Refrain 2
 
-> ```
+> ```txt
 > Ju yi ic xau librau
 > Sug rom yanis yi'hemlé
 > "Libra'u ipera
@@ -73,9 +71,9 @@ Adinjo Text
 > Stram ic kuyi lav
 > ```
 
-### Bridge ###
+### Bridge
 
-> ```
+> ```txt
 > Mirants folatoci akar kuyi mercin
 > Ipera reixatoci lin dur ni morai toshi
 > Hac lokthatoci toshi hi elz fomark vérst
@@ -83,9 +81,9 @@ Adinjo Text
 > Batemba birmatot
 > ```
 
-### Refrain 3 ###
+### Refrain 3
 
-> ```
+> ```txt
 > Ju yi ic xau librau
 > Baxatoci ni lorek í krestu
 > Yi'c librau ju'hemlé
@@ -158,17 +156,20 @@ Kuyi larijmo<br/>
 Stram ic kuyi lav<br/>
 Hi yi ic libra'u ni atoshi
 
-Translation Status
-------------------
+## Translation Status
 
 **Approved** for translation into all Adin languages.
 
 **Reasoning**: I love this song, and the idea of translating it.
 
-* **Original Adinjo** 100% complete
+* **Original Adinjo** translation is **100% complete.**
+* **Adinjo Journalist** translation **incomplete.** Not currently scheduled.
 * **Proto-Adinjo** currently lacks the vocabulary to present this song in full.
 
-Commentary
-----------
+## Commentary
 
 This is a cleanly formatted sample song using UTF-8 encoded English. **Take Note** that the inline HTML tag \<br/\> may be used to separate lines within a verse or poetic text, while the blank line paragraph separator is used between verses or segments of a poem or song.
+
+## License
+
+The song and its lyrics are copyright 2013 to Disney, and the original lyrics are excluded from this document in order to avoid stepping on the toes of a sleeping dragon.

@@ -1,25 +1,27 @@
-```
-Yi SAM iç
+# Jeimas Veron
+
+```txt
+Yi SAM ic
 1S Sam be.PRES
 I am Sam
 
-SAM yi iç
+SAM yi ic
 Sam 1S be.PRES
 Sam I am.
 
-Ba SAM-YI-IÇ!
-that Sam-1S-be.PRES
-That Sam-I-Am!
+Ba SAM-YI-IC!
+this Sam-1S-be.PRES
+This Sam-I-Am!
 
-Ba SAM-YI-IÇ!
-that Sam-1S-be.PRES
-That Sam-I-Am!
+Ba SAM-YI-IC!
+this Sam-1S-be.PRES
+This Sam-I-Am!
 
-Yi SAM-YI-IÇ putonrinha!
+Yi SAM-YI-IC putonrinha!
 1S Sam-1S-be.PRES like.PRESACT.well.NEG
 I strongly dislike Sam-I-Am!
 
-Aur çi jeimas veron puton?
+Aur ci jeimas veron puton?
 INT 2S ham.PL green like.PRESACT
 Do you like green eggs?
 

@@ -4,11 +4,29 @@ Adinjo has 3 tenses, 5 voices, and 3 aspects. In addition to this, there are two
 
 ## TON Verbs
 
-The vast majority of verbs in Adinjo are TON verbs, named for the present tense suffix common to them. Adin linguists prefer the term **_taru votenu_** ('_t verbs_'), because the suffix for this class of verbs will always begine with the /**t**/ sound, unless it is assimilating to /**d**/ after a voiced stop. In common speech, they are often called **_kijuçinu votenu_** (_regular verbs_), because they are the most common form in the language.
+The vast majority of verbs in Adinjo are TON verbs, named for the present tense suffix common to them. Adin linguists prefer the term **_taru votenu_** ('_t verbs_'), because the suffix for this class of verbs will always begine with the /**t**/ sound, unless it is assimilating to /**d**/ after a voiced stop. In common speech, they are often called **_kijuçinu votenu_** (_regular verbs_), because they are the most common form in the language -- even though their gerund formation is anything but regular.
 
 TON verbs are regular in that (**a**) they rarely, if ever, change the verb stem when they are applied, (**b**) they all share the initial /to/ sound in their conjugation, and (**c**) they always apply the negative after the tense (and voice) is formed. However, there is no consistent rule for forming the gerund of a TON verb, thus TON verbs are listed (lemmatized) in the dictionary in their gerund form, though the lexicon pages begin with the stem rather than the lemma.
 
 The basic suffixes are -**_tot_** for the past tense, -**_ton_** for the present, and -**_toçi_** for the future. To make these forms active, the infix -**_ol_**- is added after the initial /**_t_**/ of the basic tense suffixes, except that the present active is simply -**_tol_** (the /**_on_**/ of the passive is dropped). To form the negative, add the suffix -**_ha_** to future tense (and any other form ending in a vowel), or -**_a_** to the past and present tenses (and any other form ending in a consonant). The initial /t/ of the TON verb suffixes will assimilate the voicing of a root-final stop, becoming /d/ if the last sound in the stem is /b/, /d/, /dh/ or /g/ (and also replacing that consonant), and will be dropped after /t/, /c/ or /d/.
+
+### Principal Parts of TON Verbs
+
+The principal parts of a TON Verb are the **infinitive, gerund,** and (in some cases) **nominal.** In this lexicon, the infinitive is the portion of a TON verb preceding the full-stop mark, while the gerund is the complete form of the lexical entry excluding the full-stop mark. For example, **julax.en** is composed of the infinitive **julax** (to change) and the gerund form, **julaxen** (changing). The word **julax** is useful here, as is does have a nominal form: **julaxan** (a change). Because the gerund is always appended to the infinitive, but is not predictable by other means, the lexicon and dictionaries use this notation to distinguish the forms.
+
+| **NOTE:** Not every verb has a listed nominal form, however (as of 2023-Feb0-09) those that do have such, list it as a separate word defined as a _noun._ This is as unpredictable as the gerund form, and must be learned independently for those verbs which have a nominal form.
+
+When being learned, these principal parts will typically be presented or recited in the form _infinitive, gerund, nominal_, such that a student learning the forms of **julax** would recite, "julax, julaxen, julaxan" during spoken lessons, or would write them down in writing lessons.
+
+| **THOUGHT:** It is sometimes suggested that the _nominal_ simply uses only the first sound of the gerund ending, but **jalyu** proves this wrong, as its forms are **jalyu, jalyumen, jalygres** and it is not the only word with a very different _nominal_ form than its _gerund_ form.
+
+### Participle Forms of TON Verbs
+
+There are two forms of participle for TON verbs: Simple and Compound.
+
+The simple participle is formed by dropping the final vowel of the verb stem (including in a diphthong), unless this means dropping the only vowel in the stem, and any letters following it. Thus, **faileton** (loves) would become **failton** (loving) and **anitochi** (will be) would become **antochi** (being) to form their respective participles. TON verb participles may be of any tense (past, present or future), but are always in the active voice.
+
+The compound participle involves prefixing **an-,** from **aniru,** to the infinitive or gerund form of the verb, and refers primarily to a state of events. The compound participle does not inflect for tense. So, for example, **yani.s** could be either **anyani** (literally, "be to speak") or **anyanis** (literally, "be speaking"), but cannot be **\*anyaniton** (hypothetically, "be speaks") or **\*anyaniton** (hypothetically, "be spoke").
 
 ## KUN Verbs
 
@@ -19,6 +37,12 @@ KUN verbs do have one distinction, however: they conjugate differently if they e
 In consonant-final words, past /**_ns_**/ replaces the final consonant, thus _ic_ → _ins_. Present -**_s_** will assimilate the voicing of the consonant before it, becoming -**_z_** after voiced consonants, but follows the consonant. If the verb ends in /**s**/, /**z**/, or /**c**/, the infinitive and present tense are identical. Future -**_ykun_** is phonetically /**ʲkun**/, applying palatalization between the final consonant and vowel of the root. Negative -**_ya_**- is phonetically similar, it represents /**ʲa**/, meaning the final consonant is palatalized.
 
 In vowel-final words, past /**_ns_**/ follows the final vowel. Present -**_c_** has voicing harmony with the first consonant in the root (thus becoming /_dz_/ if the word begins with a voiced consonant). The /**ʲ**/ element of future -**_ykun_** is dropped entirely from vowel-final words (though _ic_ is a distinct exception). Neither the negative -**_ya_**- nor the gerund -**_no_**- change based on the end of the word.
+
+### Principal Parts of KUN Verbs
+
+For KUN verbs, the principal parts are the **infinitive, gerund, negative infinitive,** and **negative gerund** forms. For example, the verb **kempo** (_to do_) has the principal parts **kempo** (infinitive), **kenompo** (gerund), **kempa** (negative infinitive), and **kenompa** (negative gerund). More prominent is the state of KUN verbs with only one vowel -- the copula **ic** has the primary parts **ic, inoc, yac, yanoc.** The negative is always formed before the gerund.
+
+KUN verbs use the infinitive unmarked form as their nominal, so it need not be learned separately as is the case for TON verbs.
 
 ____
 
@@ -116,6 +140,8 @@ The infinitive voice allows discussion of an action as an action that is perform
 #### Passive and Active Voice
 
 The natural voicing for verbs is active, or discussing them as things which are performed _by_ the subject of a sentence, and they may inflect with the -ol- inffix to become passive. Though this is strictly used in formal writing, attitudes among native Adinjo speakers are much more relaxed, and they will often allow context to clarify whether they are speaking in active or passive voice.
+
+Explicitly using the passive voice _can_ change the meaning of a word, however: The subject of a sentence in passive voice is the _recipient_ of an action, and in some cases this will change how a word glosses into English. For example, **yi ci jakton** means _I curse you,_ but the passive **yi ci jaktol** instead means _I am cursed by you._
 
 |     |     |                |
 |:----|:----|:---------------|
