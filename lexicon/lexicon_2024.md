@@ -49,7 +49,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## G
 
-- **gázi** 1. (_noun_) a board or plank of wood `#2023.01.05`
+- **gázi** 1. (_noun_) a board or plank of wood (att. 2023-Jan-05)
 - **gendaxin** 1. (_noun_) childhood, youth (att. 2023-Jan-20)
 - **gramurnau** 1. (_descriptor_) gramurn; of or related to the Gramurn (added 2023-Jan-13)
 - **gramurjo** 1. (_noun_) gramurn language (added 2023-Jan-13)
@@ -84,8 +84,8 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## C
 
-- **chennur** `#2022.06.23` 1. (_noun_) academy, college, school, university `#2023.01.05` 2. (_noun_) the group of people who follow a set of teachings `#2023.01.05`
-- **chennuri** 1. (_descriptor_) learned, educated, smart `#2023.01.05`
+- **chennur** (gen. 2022-Jun-23) 1. (_noun_) academy, college, school, university (att. 2023-Jan-05) 2. (_noun_) the group of people who follow a set of teachings (att. 2023-Jan-05)
+- **chennuri** 1. (_descriptor_) learned, educated, smart (att. 2023-Jan-05)
 - **cocibi** 1. (_descriptor_) nightly (att. 2023-Jan-29)
 
 ## I
@@ -112,9 +112,9 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## L
 
-- **larntin** 1. (_noun_) likeness, appearance, image, something having a similar or identical sensation to something else `#2023.01.05` 2. (_noun_) picture, drawing, painting, sculpture `#2023.01.05`
+- **larntin** 1. (_noun_) likeness, appearance, image, something having a similar or identical sensation to something else (att. 2023-Jan-05) 2. (_noun_) picture, drawing, painting, sculpture (att. 2023-Jan-05)
 - **larnoc** 1. (_noun_) double-mug, grande, medium, pint
-- **latèn** 1. (_noun_) an illustration of realistic style or quality `#2023.01.05`
+- **latèn** 1. (_noun_) an illustration of realistic style or quality (att. 2023-Jan-05)
 - **lisvaln** 1. (_noun_) xylophone (derived from _lici + ufaln_ "the sound of knocking sticks"; att. 2023-Jan-13)
 
 ## M
@@ -126,28 +126,28 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **mornai** 1. (_noun_) girl, young lady, young woman (att. 2023-Jan-20)
 - **mornen** 1. (_noun_) boy, young man (att. 2023-Jan-20)
 - **morstan** 1. (_noun_) biography (att. 2023-Jan-29)
-- **morxagi** 1. (_noun_) a sapling or cutting of a tree intended for planting or grafting `#2023.01.05`
+- **morxagi** 1. (_noun_) a sapling or cutting of a tree intended for planting or grafting (att. 2023-Jan-05)
 
 ## N
 
 - **naerkust** 1. (_noun_) hedge wizard, shaman, witch (att. 2023-Jan-20)
 - **nandé.o** 1. (_ton verb_) counting, enumerating, listing, numbering (att. 2023-Jan-23; derived from _nanda_ => number)
-- **néter** (sometimes **néther**) 1. (_noun_) the nether (in Minecraft) `#2023.01.05`
-- **néterak** (sometimes **nétherak**) 1. (_noun_) netherrack (in Minecraft) `#2023.01.05`
-- **nocash** 1. (_noun_) sandstone `#2023.01.05`
+- **néter** (sometimes **néther**) 1. (_noun_) the nether (in Minecraft) (att. 2023-Jan-05)
+- **néterak** (sometimes **nétherak**) 1. (_noun_) netherrack (in Minecraft) (att. 2023-Jan-05)
+- **nocash** 1. (_noun_) sandstone (att. 2023-Jan-05)
 - **nomori** 1. (_noun_) beverage, drink (att. 2023-Jan-28)
 - **nonkelz** 1. (_noun_) glacier, iceberg (att. 2023-Jan-21)
 
 ## J
 
 - **jalu'ai** 1. (_descriptor_) dirty, filthy, soiled (att. 2023-Jan-23; derived from _jalu_ => dirt)
-- **jama.r** `#2022.06.23` 1. (_ton verb_) to flee, to run, to escape
+- **jama.r** (gen. 2022-Jun-23) 1. (_ton verb_) to flee, to run, to escape (att. 2023-Feb-17\*)
 - **jesodomya** 1. (_noun_) clinic, hospital, medical centre (att. 2023-Jan-29)
-- **ju** 2. (_descriptor_) live, current, in-progress; especially when added as a prefix to a verb `#2023.01.09`
+- **ju** 2. (_descriptor_) live, current, in-progress; especially when added as a prefix to a verb (att. 2023-Jan-09)
 - **julanjyu** 1. (_descriptor_) transgender (att. 2023-Jan-21)
 - **julanjyudin** 1. (_noun_) transgender person (att. 2023-Jan-21)
-- **julígorem** 1. (_gerund_) livestream, live broadcast; does not conjugate on its own, but can be followed by _kempo_ to make verbal constructions `#2023.01.05`
-- **joma** 1. (_noun_) the trunk of a tree `#2023.01.05` 2. (_noun_) a length of a felled tree trunk or broad branch `#2023.01.05`
+- **julígorem** 1. (_gerund_) livestream, live broadcast; does not conjugate on its own, but can be followed by _kempo_ to make verbal constructions (att. 2023-Jan-05)
+- **joma** 1. (_noun_) the trunk of a tree (att. 2023-Jan-05) 2. (_noun_) a length of a felled tree trunk or broad branch (att. 2023-Jan-05)
 - **jonauket** 1. (_noun_) threesome; a physically intimate sex act involving three participants
 
 ## P
@@ -158,12 +158,12 @@ This list contains only words which are confirmed as added to the lexicon docume
 ## R
 
 - **rishemat** 1. (_noun_) cottage, farmhouse (att. 2023-Jan-28)
-- **ronoci** 1. (_noun_) redstone (in Minecraft) `#2023.01.05`
+- **ronoci** 1. (_noun_) redstone (in Minecraft) (att. 2023-Jan-05)
 
 ## S
 
 - **sorin** 1. (_noun_) older sister (att. 2023-Jan-17)
-- **stribó** `#2022.06.20` 1. (_noun_) ore, stone containing valuable minerals or gems `#2023.01.05`
+- **stribó** (gen. 2022-Jun-20) 1. (_noun_) ore, stone containing valuable minerals or gems (att. 2023-Jan-05)
 
 ## T
 
@@ -194,7 +194,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 - **varchin** 1. (_noun_) conjunction; the class of words that connect words, phrases, and clauses (att. 2023-Jan-22)
 - **ventroganwas** 1. (_noun_) passport, travel papers, visa (att. 2023-Jan-20)
-- **vibun** `#2022.06.23` 1. (_noun_) iron (metal) `#2023.01.05`
+- **vibun** (gen. 2022-Jun-23) 1. (_noun_) iron (metal) (att. 2023-Jan-05)
 
 ## X (KH)
 
@@ -214,13 +214,13 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 The words listed in this section may be repurposed and redefined as they have modern forms in the lexicon.
 
-- **bura.nu** _ton verb_ to blow, to exhale `#2003.12.25` _has become modern "brau.jen"_
-- **imá.ton** _ton verb_ to shoot `#2003.12.25` `#2022.06.05` _has become modern "íma.ta"_
+- **bura.nu** _ton verb_ to blow, to exhale (att. 2003-Dec-25) _has become modern "brau.jen"_
+- **imá.ton** _ton verb_ to shoot (att. 2003-Dec-25 ${\rightarrow}$ 2022-Jun-05) _has become modern "íma.ta"_
 
 ## INCOMPLETE
 
-- **'e.tol** _ton verb_ to burn, to be passionate, to be moved to action `#2007.11.26` `#2022.06.05` _conjugated, and contracted, form not typically listed, but no other form appears in the song where this word is attested_
-- **soli.tol** _ton verb_ `#UNKNOWN_GLOSS` `#2003.12.25` `#2022.06.05` _conjugated, form not typically listed, but no other form appears in the song where this word is attested_
+- **'e.tol** _ton verb_ to burn, to be passionate, to be moved to action (att. 2007-Nov-26; ret. 2022-Jun-05) _conjugated, and contracted, form not typically listed, but no other form appears in the song where this word is attested_
+- **soli.tol** _ton verb_ `#UNKNOWN_GLOSS` (att. 2003-Dec-25; ret. 2022-Jun-05) _conjugated, form not typically listed, but no other form appears in the song where this word is attested_
 
 ## UNSORTED
 
