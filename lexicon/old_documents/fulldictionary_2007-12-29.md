@@ -253,6 +253,7 @@ The "2003?" column identifies if a word is present in the 2003 wordlist.
 |               | dyn            | person (singular)                                |       |
 |               | dynari         | personal                                         |       |
 
+
 ## **E**
 
 | Old Adinjo | Current Adinjo | English Gloss          | 2003? |

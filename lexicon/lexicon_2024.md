@@ -233,6 +233,6 @@ The words listed in this section may be repurposed and redefined as they have mo
 - **kajac.en** 1. (_noun_) twisting, turning (att. 2023-Feb-03) 2. (_ton verb_) squirming, writhing (att. 2023-Feb-03)
 - **kira.ja** 1. (_ton verb_) pulling, removing (att. 2023-Feb-03)
 - **juju** 1. (_positional_) at this time, immediate, instant, right now (cn. 2023-May-25)
-- **dama.rio** 2. **damarion, damarionu** (_noun, descriptor_) news, new event, news story (cn 2023-May-27)
-- **paratwan damarion** 1. (_noun_) newsletter, newspaper
-- **ligoremu damarion** 1. (_noun_) news broadcast
+- **dama.rio** 2. _also **damarion, damarionu**_ (_noun, descriptor_) happenings, news, new event, news story (cn. 2023-May-27)
+- **paratwan damarion** 1. (_noun_) newsletter, newspaper (literally "letters (about) happenings"; cn. 2023-May-27)
+- **ligoremu damarion** 1. (_noun_) news broadcast (literally "broadcast (about) happenings"; cn. 2023-May-27)
