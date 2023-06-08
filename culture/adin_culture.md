@@ -8,9 +8,9 @@ Adin culture varies widely, especially since the Second Empire, governed by Dani
 
 Most of the Adin culture, regardless of technological development, is very religiously oriented. Even their schools of magic view magic as a gift of god, allowing people to manipulate the energies of the elemental universe. This image of such a benevolent deity has shaped their culture for over four-thousand years, with the greatest change occurring about two-thousand years ago.
 
-The Adin can be divided into two, compatible, genetic groupings: Aldjin and Mercin. Old Blood and New Blood, respectively. Only five percent of the population is considered more than 50% Aldjin, however, and this number is slowly decreasing as the Mercin population grows and the Aldjin population remains relatively stable. Of course, genetically, one is either a pure blooded Aldjin, with all of the (primarily recessive) traits thereof, or else a Mercin.
+The Adin can be divided into two, compatible, genetic groupings: [Aldjin](../lexicon/a/aldjin.md) and [Merchin](../lexicon/m/merchin.md). Old Blood and New Blood, respectively. Only five percent of the population is considered more than 50% Aldjin, however, and this number is slowly decreasing as the Merchin population grows and the Aldjin population remains relatively stable. Of course, genetically, one is either a pure blooded Aldjin, with all of the (primarily recessive) traits thereof, or else a Mercin.
 
-Aldjin are essentially immortal, and have a super-telomerase and extremely rapid recuperative abilities, which allow them to look and feel as if they are anywhere from their mid 20's to somewhere in their fifties, aging at a small fraction of the human rate after they reach puberty. A small proportion of Aldjin, believed to be around 0.65%, are born neotenous, or already in this state of slow aging, looking infantile or childlike long into their life, at least until they learn to control their shape-shifting ability.
+Aldjin are essentially immortal, and have a <s>super-telomerase</s> and extremely rapid recuperative abilities, which allow them to look and feel as if they are anywhere from their mid 20's to somewhere in their fifties, aging at a small fraction of the human rate after they reach puberty. A small proportion of Aldjin, believed to be around 0.65%, are born neotenous, or already in this state of slow aging, looking infantile or childlike long into their life, at least until they learn to control their shape-shifting ability.
 
 Mercin are mortal and live only around 200 years or so, though this life span is dropping (only 600 years ago the average lifespan of a new-born was 400 years, and 300 years ago it was 350 years) as generations pass. They age similarly to humans, however the process slows down around at 30-40 years of age.
 
@@ -50,8 +50,9 @@ Fortifications are generally built to twice the height of a single-story buildin
 
 ### Table Manners
 
-> **Do (the Adin) use plates and forks and all the niceties like napkins?** \[`2022.06.14`\]
+> **Do (the Adin) use plates and forks and all the niceties like napkins?**
 
+`Answer as of 2022-Jun-14`
 Depending on the meal and course, though usually it's easier to wash your hands than the napkins, and so a running tap or bowl of water is usually kept on hand for washing up. Napkins are reserved largely for the messiest of meals (think of barbecued ribs) or for entertaining company, or else for the higher class individuals.
 
 Furniture in most homes is simple, a sofa and/or group of chairs for the family to relax in after a hard day of work, school (urban Adin children are schooled until 14, all education after that point is optional; rural children are schooled only until 10), or trade training (the usual follow-up to school is trade training, learning a trade to make money off of later in life), often spent by chatting about how the day went. Another common leisure project is reading books or magazines, as is tending the family garden.

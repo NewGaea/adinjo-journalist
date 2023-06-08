@@ -100,3 +100,5 @@ That was a ton of fun! Once again, thank you for your participation in this year
 See you next year and Happy Conlanging!
 
 - Allen
+
+#lexember/2018 

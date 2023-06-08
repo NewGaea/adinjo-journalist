@@ -1,27 +1,19 @@
-abs
-===
+# abs*
+---
+[[_dict_a|Return to List of Words beginning with A]]
 
-#### **absau** _descriptor_ colorless, grey
+## Forms
+1. **absau** (_descriptor_) #coined/2018
+	1. colorless, grey
+	2. grey, without colour, without hue
+2. **abse** (_descriptor_) #coined/2002 ![listen](../../audio/01-adob/mp3/abse.mp3)
+	1. black, absence of light and colour
+3. **abso** (_descriptor_) #coined/2002 ![listen](../../audio/01-adob/mp3/abso.mp3)
+	1. white, presence of light without colour
 
-1. grey, without colour, without hue
+### Other Forms
 
-`#2018` `#adjective`
-
-#### **abse** _descriptor_
-
-1. black, absence of light and colour
-
-`#2002` `#adjective`
-
-#### **abso** _descriptor_
-
-1. white, presence of light without colour
-
-`#2002` `#adjective`
-
-### Other Forms ###
-
-### Derivation ###
+### Derivation
 
 The fundamental root of these near homonyms is **bès**, with the prefix **a**. \<**bès**\> refers to light without color, and is equivalent to the concept of 'grey.'
 
@@ -31,4 +23,9 @@ _a_ + _bès_ -> _abès_ -> _absè_ -> **_abso_** (Adinjo is not fond of the soun
 
 ### Related Words
 
-> **bès** _noun_ light without apparent hue or color.
+- **[bès](../b/bès.md)** (_noun, descriptor_) light without apparent hue or color.
+- **[pazo](../p/pazo.md)** (_noun, descriptor_) black
+- **[vic](../v/vic.md)** (_noun, descriptor_) white
+
+## General Tags
+#colour #descriptor 

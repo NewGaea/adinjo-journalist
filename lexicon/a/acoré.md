@@ -1,14 +1,19 @@
-acoré
-=====
+# acoré
+---
+[[_dict_a|Return to List of Words beginning with A]]
 
-**acoréru** _ton verb, gerund_
+## Forms
+1. **acoré** (_ton verb, infinitive_)
+	1. to open
+	2. to unfold, to reveal
+	3. to bloom, to blossom
+	4. to expand, to grow outward, to spread
+2. **acoréru** (_ton verb, gerund_) ![listen](../../audio/01-adob/mp3/acoré.ru.mp3)
+	1. opening
+	2. unfolding, revealing
+	3. blooming, blossoming
+	4. expanding, growing outward, spreading
 
-1. opening
-2. unfolding, revealing
-3. blooming, blossoming
-4. growing outward, spreading
-
-`#verb` `#ton`
 
 ### Other Forms
 
@@ -23,10 +28,14 @@ acoré
 | Passive        | acorétolot  | acorétol  | acorétolochi |
 | Negative       | acorétolota | acorétola | acorétoloça  |
 
-### Derivation
+## Derivation
 
-May be derived from an old composition **_hatyurìl_**, meaning _not folding, not concealing_. This is the same derivation process which may have created **ace**.
+May be derived from an old composition such as **_*hatyurìl_**, meaning _not folding, not concealing_. This is the same derivation process which may have created **[ace](ace.md)**.
 
-### Related Words
+## Related Words
 
-> **çorél** _ton verb, gerund_ folding, concealing
+- **[çorél](../c/chorél.md)** (_ton verb, gerund_) folding, concealing
+
+## General Tags
+
+#verb #verb/ton

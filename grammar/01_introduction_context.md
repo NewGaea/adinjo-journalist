@@ -8,3 +8,5 @@ Original Adinjo is now being retired by the creator for use only as a reference 
 The artistic work of the language is also freely released to the public -- any linguist wishing to modify or derive from it is welcome to do so with my explicit blessing, for whatever legal weight or value that may have.
 
 Adinjo, the current name of the language family, is from a term meaning “the peoples’ language” or “the language of all the people.”
+
+[Next Chapter: Phonology](02_phonology.md)
