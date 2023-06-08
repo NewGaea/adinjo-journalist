@@ -21,26 +21,28 @@ Lead us not into temptation,
 ## Interlinear Gloss
 
 ```txt
-Ki    poren    koremn    ni    jeneton,        kuci    menax    tenatot'kin
-1PL   father   heaven    in    live.PRESACT    GEN.2S  name     hallow.FUT.PERM
+Kuki      poren    koremn    ni    jeneton,        kuci    menax    tenatot'kin
+GEN.1PL   father   heaven    in    live.PRESACT    GEN.2S  name     hallow.FUT.PERM
 Our father living in heaven, may your name be blessed.
 
 Kuci      larijmo    GAIA    hemlé    ventroton'kin      hi    hac   kempo'kin
 GEN.2S    kingdom    Gaia    towards  move.PRESACT.PERM  and   wish  do.PRESACT.PERM
 
-koremn    lin
-heaven    alike.
-Your kingdom come to GAIA and (your) wishes be fulfilled as (if in) heaven.
+koremn    ni    lin
+heaven    in    alike
+Your kingdom come to GAIA and (your) wishes be fulfilled as in heaven.
 
 Bajia     ci  ki   ban    jiabi         borçtot'kin
 This.day  2S  1PL  bread  day.HABITUAL  give.FUT.PERM
-Give us today our necessary bread
+Give us today our necessary bread.
 
-Ki   poltu   fantot'kin,       ki   wi        polaton      kilin     hemlé    lin
-2PL  sin.PL  forgive.FUT.PERM  2PL  3INDEFPL  sin.PRESACT  2PL.REFL  towards  alike
+Kuki     poltu   fantot'kin,       ki   wi        polaton      kilin     hemlé    lin
+GEN.2PL  sin.PL  forgive.FUT.PERM  2PL  3INDEFPL  sin.PRESACT  2PL.REFL  towards  alike
+Please forgive our sins, in the way we forgive those who sin.
 
 Ci  ki   gringol     hemlé    loktot'hakin,      walu  tak   itot'kin.
 2S  1PL  temptation  towards  lead.FUT.NEG.PERM  evil  from  spare.FUT.PERM.
+Please lead us not to temptations, (and) spare us from evil.
 ```
 
 ## Adinjo Text
