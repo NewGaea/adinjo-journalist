@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream:lexicon/lexicon_complete.md
 # List of Words
 
 - [List of Words](#list-of-words)
@@ -80,59 +79,32 @@
 - **andurusau** 1. (_descriptor_) Andurusian (having an Andurusian quality) (att. 2022-Jun-27)
 - **andurusidin** 1. (_proper noun_) Andurusian (person) (att. 2021-Apr-22)
 - **andurusijo** 1. (_noun_) the Andurusian language (att. 2022-Jun-27)
-<<<<<<< Updated upstream
-- **[anen](a/anen.md)** 1. (_descriptor_) male (att. 2008-Jun-22; cf. _anjyu_, _nen_)
-- **[ane.ru](a/ane.md)** 1. (_ton verb_) using (att. 2002-Jul-31) 2. (_ton verb_) utilizing (att. 2002-Jul-31)
-- **anesh** (_noun_) 1. lightning, electricity
-- **ane'djia** 1. (_proper noun_) Friday (of even-numbered weeks), lightning-day
-- **[aneshdo'ain](a/aneshdoain.md)** 1. (_noun_) lightning bolt (att. 2008-Jun-22)
-- **anesh'iluan** 1. (_proper noun_) October, Lightning's Month
-- **[ani.ru](a/ani.md)** 1. (_ton verb_) being (as in, “to be or not to be…”) (att. 2002-Jul-31)
-=======
 - **[anèn](a/anen.md)** 1. (_descriptor_) male (att. 2008-Jun-22; cf. _anjyu_, _nen_)
-- **[ane.ru](a/ane.md)** 1. (_ton verb_) using (att. 2003-Dec-25), 2. (_ton verb_) utilizing (att. 2022-Jun-27)
+- **[ane.ru](a/ane.md)** 1. (_ton verb_) using (att. 2002-Jul-31) 2. (_ton verb_) utilizing (att. 2022-Jun-27)
 - **anèsh** (_noun_) 1. lightning, electricity
 - **anèdjia** 1. (_proper noun_) Friday (of even-numbered weeks), lightning-day
 - **[anèshdóain](a/aneshdoain.md)** 1. (_noun_) lightning bolt (att. 2008-Jun-22)
 - **anèsh'iluan** 1. (_proper noun_) October, Lightning's Month
-- **[ani.ru](a/ani.md)** 1. (_ton verb_) being (as in, “to be or not to be…”) (att. 2003-Dec-25)
->>>>>>> Stashed changes
+- **[ani.ru](a/ani.md)** 1. (_ton verb_) being (as in, “to be or not to be…”) (att. 2002-Jul-31)
 - **[anis.wa](a/anis.md)** 1. (_ton verb_) reading (att. 2008-Jun-22)
 - **ankomar** 1. (_noun_) existence (att. 2008-Jun-22)
 - **[anko.ro](a/anko.md)** 1. (_ton verb_) existing (att. 2008-Jun-22)
 - **[anjyu](a/anjyu.md)** 1. (_noun_) sex, gender (att. 2008-Jun-22)
 - **[anon](a/anon.md)** 1. (_descriptor_) neuter, ungendered (att. 2008-Jun-22)
-<<<<<<< Updated upstream
 - **[ajan](a/ajan.md)** 1. (_p noun, title_) the Lord, My God; a title used when referring one's patron deity or spirit (att. 2002-Jul-31)
-- **aramdekchin** 1. (_noun_) password, passcode (att. 2021-Apr-21; cf. _aramel_, _dekcin_)
-- **[aram.el](a/aram.md)** 1. (_ton verb_) passing, going through, going beyond (att. 2002-Jul-31)
-- **arconir** 1. (_noun_) bear (animal)
-- **[ar.i](a/ar.md)** 1. (_ton verb_) throwing (att. 2008-Jun-22), hurling, launching (added 2023-Jan-09)
+- **aramdekchin** 1. (_noun_) password, passcode (att. 2015-Mar-16; cf. _aramel_, _dekcin_; formerly _aradekchin_)
+- **[aram.èl](a/aram.md)** 1. (_ton verb_) passing, going through, going beyond (att. 2002-Jul-31)
+- **arconir** 1. (_noun_) bear (animal) (att. UNKNOWN)
 - **arzol** 1. (_descriptor_) blue (att. 2002-Jul-31)
-- **[arlic](a/arlic.md)** 1. (_noun_) pen, a permanent writing implement
+- **[ar.i](a/ar.md)** 1. (_ton verb_) throwing (att. 2008-Jun-22), hurling, launching (added 2023-Jan-09)
+- **[arlic](a/arlic.md)** 1. (_noun_) pen; a permanent writing implement (att. 2015-Mar-16)
 - **[armo](a/armo.md)** 1. (_positional_) because, for the sake or purpose of (att. 2002-Jul-31)
 - **arus.é** 1. (_ton verb_) sitting, lounging (att. 2002-Jul-31)
 - **arush** 1. (_noun_) seat, chair, cushion, sofa (att. 2002-Jul-31)
 - **arush.èn** 1. (_ton verb_) seating, providing or offering seats (att. 2002-Jul-31)
 - **asenger** 1. (_noun_) bite (the physical remains or damage of a bite) (att. 2002-Jul-31)
-- **asen.ru** 1. (_ton verb_) biting (att. 2002-Jul-31)
-- **asent** 1. (_noun_) east (att. 2003-Dec-25) 2. (_descriptor_) a shape or mark which is rising to the right (att. 2002-Jul-31) 3. (_descriptor_) tenseness (of a sound) (documented 2023-Jan-10)
-=======
-- **[ajan](a/ajan.md)** 1. (_p noun, title_) the Lord, My God; a title used when referring one's patron deity or spirit (att. 2003-Dec-25)
-- **aramdekchin** 1. (_noun_) password, passcode (att. 2015-Mar-16; cf. _aramel_, _dekcin_; formerly _aradekchin_)
-- **[aram.èl](a/aram.md)** 1. (_ton verb_) passing, going through, going beyond (att. 2003-Dec-25)
-- **arconir** 1. (_noun_) bear (animal) (att. UNKNOWN)
-- **[ar.i](a/ar.md)** 1. (_ton verb_) throwing (att. 2008-Jun-22), hurling, launching (added 2023-Jan-09)
-- **[arlic](a/arlic.md)** 1. (_noun_) pen; a permanent writing implement (att. 2015-Mar-16)
-- **[armo](a/armo.md)** 1. (_positional_) because, for the sake or purpose of (att. 2003-Dec-25)
-- **arus.é** 1. (_ton verb_) sitting, lounging (att. 2003-Dec-25)
-- **arush** 1. (_noun_) seat, chair, cushion, sofa (att. 2003-Dec-25)
-- **arush.èn** 1. (_ton verb_) seating, providing or offering seats (att. 2003-Dec-25)
-- **arzol** 1. (_descriptor_) blue (att. 2003-Dec-25)
-- **asenger** 1. (_noun_) bite (the physical remains or damage of a bite)
-- **asèn.ru** 1. (_ton verb_) biting (att. 2003-Dec-25)
-- **asènt** 1. (_noun_) east (att. 2003-Dec-25) 2. (_descriptor_) a shape or mark which is rising to the right (att. 2003-Dec-25) 3. (_descriptor_) tenseness (of a sound) (documented 2023-Jan-10)
->>>>>>> Stashed changes
+- **asèn.ru** 1. (_ton verb_) biting (att. 2002-Jul-31)
+- **asènt** 1. (_noun_) east (att. 2002-Jul-31) 2. (_descriptor_) a shape or mark which is rising to the right (att. 2002-Jul-31) 3. (_descriptor_) tenseness (of a sound) (documented 2023-Jan-10)
 - **asha** 1. (_noun_) peace (att. 2008-Jun-22), calmness, contentment (added 2023-Jan-10)
 - **ashaun** 1. (_noun_) horse (att. 2008-Jun-22)
 - **ashaus** 1. (_descriptor_) peaceful (att. 2008-Jun-22)
@@ -1392,9 +1364,3 @@ The words listed in this section may be repurposed and redefined as they have mo
 ## UNSORTED
 
 - N/A
-  - [J](#j)
-  - [T](#t)
-  - [U](#u)
-  - [Y](#y)
-  - [F](#f)
-  - [V](#v)
