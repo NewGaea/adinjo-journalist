@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "15494d42a935c275",
+    "type": "split",
+    "children": [
+      {
+        "id": "7187443dadfc8ecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2187181674749490",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "beec6d6a11729c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bf0f3edb218e9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/a/aimi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d60ee1269ce14bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "693f34aad88e4f91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a23ff5513f7498fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6b58ecab9210cda1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#coined/2002",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33afcbeef3216abb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "637e9b683719bf5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d27e08c71ae44e68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e307f1c3f2b9f640",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57b2b8bd44166e04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "876c27b5ce76535c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68a815bd948082f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "2187181674749490",
+  "lastOpenFiles": [
+    "texts/r_conlangs/lexember/2021/toc_lex21.md",
+    "texts/r_conlangs/lexember/2020/toc_lex20.md",
+    "texts/r_conlangs/lexember/2019/toc_lex19.md",
+    "texts/r_conlangs/lexember/2018/toc_lex18.md",
+    "texts/r_conlangs/lexember/2018/media/POaaVpB.png",
+    "texts/r_conlangs/lexember/2018/media",
+    "texts/literature/one_fish_two_fish.md",
+    "t/temba.md",
+    "t",
+    "lexicon/old_documents/fulldictionary_2007-12-29.md",
+    "lexicon/h/ha.md",
+    "lexicon/h",
+    "lexicon/adinjo_lexicon.md",
+    "lexicon/a/_dict_a.md",
+    "lexicon/_files/loanwords.md",
+    "lexicon/_files/lexicon_simple.md",
+    "lexicon/_files/lexicon_phrasebook.md",
+    "lexicon/_files/lexicon_loans.md",
+    "lexicon/_files/lexicon_generated.md",
+    "lexicon/_files/lexicon_etymology.md",
+    "lexicon/_files/lexicon_bare.md",
+    "lexicon/_files/lexicon_2024.md",
+    "lexicon/_files/lexicon_2022.md",
+    "lexicon/_files/lexicon_2020.md",
+    "lexicon/_files/lexicon_2016.md",
+    "lexicon/_files/lexicon_2012.md",
+    "lexicon/_files/lexicon_2008.md",
+    "lexicon/_files/lexicon_2004.md",
+    "lexicon/_files",
+    "lexicon-persephone/a/a.md",
+    "lexicon-persephone/_intro.md",
+    "lexicon-persephone/a",
+    "lexicon-persephone",
+    "audio/01-adob/ogg/ábul.ogg",
+    "audio/01-adob/ogg/aygins.ten.ogg",
+    "audio/01-adob/ogg/aye.ogg",
+    "audio/01-adob/ogg/ayastel.ogg",
+    "Untitled.canvas"
+  ]
+}

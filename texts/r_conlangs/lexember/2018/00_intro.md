@@ -59,3 +59,5 @@ Prompts will begin on December 1st. Happy Conlanging!
 to
 
 > All top-level comments must be either a response to one (1) or more prompts and/or a report of the new words that you've created.
+
+#lexember/2018

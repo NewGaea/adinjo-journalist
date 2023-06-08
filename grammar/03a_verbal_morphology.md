@@ -14,19 +14,19 @@ The basic suffixes are -**_tot_** for the past tense, -**_ton_** for the present
 
 The principal parts of a TON Verb are the **infinitive, gerund,** and (in some cases) **nominal.** In this lexicon, the infinitive is the portion of a TON verb preceding the full-stop mark, while the gerund is the complete form of the lexical entry excluding the full-stop mark. For example, **julax.en** is composed of the infinitive **julax** (to change) and the gerund form, **julaxen** (changing). The word **julax** is useful here, as is does have a nominal form: **julaxan** (a change). Because the gerund is always appended to the infinitive, but is not predictable by other means, the lexicon and dictionaries use this notation to distinguish the forms.
 
-| **NOTE:** Not every verb has a listed nominal form, however (as of 2023-Feb0-09) those that do have such, list it as a separate word defined as a _noun._ This is as unpredictable as the gerund form, and must be learned independently for those verbs which have a nominal form.
+> **NOTE:** Not every verb has a listed nominal form, however (as of 2023-Feb-09) those that do have such, list it as a separate word defined as a _noun._ This is as unpredictable as the gerund form, and must be learned independently for those verbs which have a nominal form.
 
-When being learned, these principal parts will typically be presented or recited in the form _infinitive, gerund, nominal_, such that a student learning the forms of **julax** would recite, "julax, julaxen, julaxan" during spoken lessons, or would write them down in writing lessons.
+When being learned, these principal parts will typically be presented or recited in the form _infinitive, gerund, nominal_, such that a student learning the forms of **[julax](../lexicon/j/julax)** would recite, "julax, julaxen, julaxan" during spoken lessons, or would write them down in writing lessons.
 
-| **THOUGHT:** It is sometimes suggested that the _nominal_ simply uses only the first sound of the gerund ending, but **jalyu** proves this wrong, as its forms are **jalyu, jalyumen, jalygres** and it is not the only word with a very different _nominal_ form than its _gerund_ form.
+> **THOUGHT:** It is sometimes suggested that the _nominal_ simply uses only the first sound of the gerund ending, but **jalyu** proves this wrong, as its forms are **jalyu, jalyumen, jalygres** and it is not the only word with a very different _nominal_ form than its _gerund_ form.
 
 ### Participle Forms of TON Verbs
 
 There are two forms of participle for TON verbs: Simple and Compound.
 
-The simple participle is formed by dropping the final vowel of the verb stem (including in a diphthong), unless this means dropping the only vowel in the stem, and any letters following it. Thus, **faileton** (loves) would become **failton** (loving) and **anitochi** (will be) would become **antochi** (being) to form their respective participles. TON verb participles may be of any tense (past, present or future), but are always in the active voice.
+The simple participle is formed by dropping the final vowel of the **infinitive** (including in a diphthong), unless this means dropping the only vowel in the stem, and any letters following it. Thus, **faileton** (loves) would become **failton** (loving) and **anitochi** (will be) would become **antochi** ((will be) being) to form their respective participles. TON verb participles may be of any tense (past, present or future), but are always in the active voice.
 
-The compound participle involves prefixing **an-,** from **aniru,** to the infinitive or gerund form of the verb, and refers primarily to a state of events. The compound participle does not inflect for tense. So, for example, **yani.s** could be either **anyani** (literally, "be to speak") or **anyanis** (literally, "be speaking"), but cannot be **\*anyaniton** (hypothetically, "be speaks") or **\*anyaniton** (hypothetically, "be spoke").
+The compound participle involves prefixing **an-,** from **aniru,** to the infinitive or gerund form of the verb, and refers primarily to a state of events. The compound participle does not inflect for tense, but may be either the **infinitive** or the **gerund**. So, for example, **yani.s** could be either **anyani** (literally, "be to speak") or **anyanis** (literally, "be speaking"), but cannot be **\*anyaniton** (hypothetically, "be speaks") or **\*anyaniton** (hypothetically, "be spoke").
 
 ## KUN Verbs
 

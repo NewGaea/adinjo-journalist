@@ -1,20 +1,25 @@
-aimi
-====
+# aimi
+---
+[[_dict_a|Return to List of Words beginning with A]]
 
-**aimi** _noun_
-
-1. eye, the organ of sight and vision
-
-`#noun`
+## Forms
+1. **aimi**
+	1. (_noun_) eye, the organ of sight and vision
 
 ### Other Forms
 
-> **aiminu** _plural noun_ eyes
+- **aiminu** (_plural_) eyes
 
-> **aimei** _adjective_ visible; **aimeiha** _adjective_ invisible
+## Derivation
 
-### Derivation
+## Related Words
 
-### Related Words
+- **[aimei](aimei.md)**
+	1. (_descriptor_) visible
+	- **aimeiha** (_descriptor_) invisible
 
-No known related words at this time. Possibilities include words for _camera, mirror,_ or _vision._
+ Other possibilities include words for _camera, mirror,_ or _vision._
+
+## General Tags
+
+#noun

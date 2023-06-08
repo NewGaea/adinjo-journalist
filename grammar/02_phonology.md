@@ -1,5 +1,7 @@
 # Phonology and Phonotactics of Original Adinjo
 
+[Previous Chapter: Introduction & Context](01_introduction_context.md)
+
 ## Consonants
 
 The consonants of Original Adinjo are as follows:
@@ -126,3 +128,8 @@ When followed by **\<y\>**, the letter **\<j\>** is always read as \[ʒ\], even 
 #### Glottalization
 
 Written as **\<'\>**, the glottal stop between any two letters indicates a syllabic break, even if the two letters would normally form a digraph.
+
+[Additional Information: Writing Systems for Adinjo Journalist](02b_writing.md)
+[Next Chapter: Morphology](03_morphology.md)
+[Skip to: Verbal Morphology](03a_verbal_morphology.md)
+

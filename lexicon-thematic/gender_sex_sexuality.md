@@ -1,6 +1,6 @@
 # Gender, Sex, and Sexuality
 
-Adin cultures recognizes gender and sex as separate things, and is generally more accepting and inclusive of differences in thiese area than most modern Human cultures (though humans are getting better).
+Adin cultures recognizes gender and sex as separate things, and is generally more accepting and inclusive of differences in these areas than most modern Human cultures.
 
 ## Anjyu - Sex and Gender
 
