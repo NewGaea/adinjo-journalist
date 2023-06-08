@@ -37,7 +37,21 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 
 - **adan** 1. (_pronoun_) any, any one, no specific one (att. 2005-Nov-04)
 - **adana** 1. (_pronoun_) no, none, not (formerly _adanai_; att. 2005-Nov-04)
+- **akar** 1. (_positional_) beyond, past, through (att. 2007-Dec-29)
 - **akendana** 1. (_noun_) not epic, not a great legend
+- **ald** 1. (_descriptor_) old (att. 2007-Dec-29; possibly older than current attestation suggests, cf. _aldjin_)
+- **aldjin** 1. (_noun_) old blood, established names or families 2. (_noun_) Adin with bloodline traits (att. 2007-Dec-29)
+- **aldyur** 1. (_descriptor_) ancient, very old, antique (att. 2007-Nov-26; red. 2022-Jun-05)
+- **alma.ru** 1. (_ton verb_) ruling, leading, governing (att. 2008-Jun-22; formerly _aluma.ru_)
+- **almán** 1. (_noun_) leader by circumstance, acting leader (att. 2008-Jun-22; cf. _alma.ru_)
+- **almatax** 1. (_noun_) leader by profession, manager (att. 2008-Jun-22; cf. _alma.ru_)
+- **alren** 1. (_noun_) twin; a sibling born at the same time as another (att. 2008-Jun-22)
+- **an** 2. (_prefix, noun_) sex, gender, class (att. 2008-Jun-22; cf. _anjyu_)
+- **anis.wa** 1. (_ton verb_) reading (att. 2008-Jun-22)
+- **anjyu** 1. (_noun_) sex, gender (att. 2008-Jun-22)
+- **anko.ro** 1. (_ton verb_) existing (att. 2008-Jun-22)
+- **ankomar** 1. (_noun_) existence (att. 2008-Jun-22)
+- **anon** 1. (_descriptor_) neuter, ungendered (att. 2008-Jun-22)
 - **axune.m** 1. (_ton verb_) not excusing, not justifying, not rationalizing (att. 2005-Nov-04)
 
 ## B
