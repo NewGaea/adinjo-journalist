@@ -1,9 +1,9 @@
-## Original Poem: _Inda Sug Blaninu_
+# Original Poem: _Inda Sug Blaninu_
 
 ## Original Adinjo Text
 
-Ah [blani](../../lexicon/b/blani.md), blani, [abse](../../lexicon/a/abs.md) blani,
-[Ka](../../lexicon/k/ka.md) [ci](../../lexicon/c/ci.md) [lixa](../../lexicon/l/lixa.md) dulatal,
+Ah [[blani]], blani, [abse](../../lexicon/a/abs.md) blani,
+[Ka](../../lexicon/k/ka) [ci](../../lexicon/c/ci) [lixa](../../lexicon/l/lixa) [dulatal](../../lexicon/d/dula),
 Kuyi cintal amentoci
 Ji cumatot porén i qori hotanu.
 

@@ -18,19 +18,33 @@
             }
           },
           {
-            "id": "616cfd456bc10141",
+            "id": "ee3ef1fb5952c2e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/b/_dict_b.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d29d25bfd3bb6cba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "texts/r_conlangs/lexember/2018/32_final.md",
+                "file": "lexicon/b/blani.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/r_conlangs/lexember/2018/32_final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "texts/r_conlangs/lexember/2018/32_final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,13 +147,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "texts/r_conlangs/lexember/2018/32_final.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,44 +167,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "616cfd456bc10141",
+  "active": "2187181674749490",
   "lastOpenFiles": [
+    "lexicon/b/blani.md",
+    "texts/old_texts/orig_blani_blani.md",
+    "lexicon/b/_dict_b.md",
+    "lexicon/b/blanisa.md",
+    "amenar.md",
+    "and.md",
+    "blani.md",
+    "lexicon/a/andèn.md",
+    "names/elements/descriptor.md",
+    "names/elements/noun.md",
+    "lexicon/b/bès.md",
+    "lexicon/w/_dict_w.md",
+    "lexicon/o/_dict_o.md",
+    "lexicon/x/_dict_x.md",
+    "lexicon/v/_dict_v.md",
+    "lexicon/f/_dict_f.md",
+    "lexicon/y/_dict_y.md",
+    "lexicon/u/_dict_u.md",
+    "lexicon/t/_dict_t.md",
+    "lexicon/t/temba.md",
+    "lexicon/s/_dict_s.md",
+    "lexicon/r/_dict_r.md",
+    "lexicon/p/_dict_p.md",
+    "lexicon/j/_dict_j.md",
+    "lexicon/n/_dict_n.md",
+    "lexicon/m/_dict_m.md",
     "texts/r_conlangs/lexember/2018/media/POaaVpB.png",
     "texts/r_conlangs/lexember/2018/media",
-    "texts/literature/one_fish_two_fish.md",
-    "t/temba.md",
     "t",
-    "lexicon/h/ha.md",
     "lexicon/h",
-    "lexicon/adinjo_lexicon.md",
-    "lexicon/a/_dict_a.md",
-    "lexicon/_files/loanwords.md",
-    "lexicon/_files/lexicon_simple.md",
-    "lexicon/_files/lexicon_loans.md",
-    "lexicon/_files/lexicon_phrasebook.md",
-    "lexicon/_files/lexicon_generated.md",
-    "lexicon/_files/lexicon_etymology.md",
-    "lexicon/_files/lexicon_2020.md",
-    "lexicon/_files/lexicon_bare.md",
-    "lexicon/_files/lexicon_2022.md",
-    "lexicon/_files/lexicon_2024.md",
-    "lexicon/_files/lexicon_2016.md",
-    "lexicon/_files/lexicon_2012.md",
-    "lexicon/_files/lexicon_2008.md",
-    "lexicon/_files/lexicon_2004.md",
     "lexicon/_files",
-    "lexicon-persephone/a/a.md",
-    "lexicon-persephone/_intro.md",
     "lexicon-persephone/a",
     "lexicon-persephone",
     "audio/01-adob/ogg/aur.ogg",
     "audio/01-adob/ogg/auf.ogg",
     "audio/01-adob/ogg/ábul.ogg",
     "audio/01-adob/ogg/atki.ogg",
-    "a/aimei.md",
-    "_templates/word_template.md",
-    "_templates/lexicon_periodic_template.md",
-    "Untitled.canvas",
-    "().md"
+    "Untitled.canvas"
   ]
 }

@@ -2,8 +2,8 @@
 
 | English        | Adin       | Name Element(s)      |
 |:---------------|:-----------|:---------------------|
-| bear-like      | [sonros](../../lexicon/s/sonros.md)     | son, ros             |
-| beautiful      | [afroni](../../lexicon/a/afroni.md)     | afro, roni, aoni     |
+| bear-like      | sonros     | son, ros             |
+| beautiful      | afroni     | afro, roni, aoni     |
 | beloved        | failedyn   | ledyn, aile, ailed   |
 | bitter         |            |                      |
 | blessed        | tenare     |                      |
@@ -20,7 +20,7 @@
 | famous         |            |                      |
 | flowering      | dureme     | drem, urem           |
 | fortunate      |            |                      |
-| fox-like       | [yent](../../lexicon/y/yent.md)       |                      |
+| fox-like       | yent       |                      |
 | free           | librau     |                      |
 | glorious       | feis       | fei, feis, eis       |
 | hallowed       | tenatot    | tena, tentot         |

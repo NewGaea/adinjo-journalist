@@ -1,0 +1,58 @@
+# N
+[[_dict_m|M]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_j|J]]
+
+- **nadir** 1. (_noun_) destiny
+- **nahertu** 1. (_noun_) nature, essence (att. 2003-Dec-25)
+- **naiti** 1. (_noun_) woman (att. 2003-Dec-25)
+- **nak** 1. (_descriptor_) forever, eternal (att. 2003-Dec-25)
+- **nakirm** 1. (_noun_) flight, formation, aerial squadron or unit (att. 2007-Nov-26) (att. 2022-Jun-05)
+- **nanda** 1. (_noun_) number, numeric value, symbol of such (att. 2008-Jun-22; _formerly "nada"_)
+- **nanef** 1. (_noun_) fairy, sprite; playful spirits (att. 2008-Jun-22)
+- **nani.sh** 1. (_ton verb_) scout (att. 2003-Dec-25)
+- **nantax** 1. (_noun_) scout (att. 2003-Dec-25)
+- **narídin** 1. (_noun_) owner (att. 2021-Apr-22)
+- **narika** 1. (_kun verb_) own, possess, hold (att. 2021-Apr-22)
+- **narikadin** 1. (_noun_) owner, possessor, holder, master, landlord (att. 2021-Apr-22)
+- **narli.k** 1. (_ton verb_) jab, impale, thrust, spear (att. 2021-Apr-22)
+- **narlich** 1. (_noun_) spear, lance, javelin (att. 2021-Apr-22)
+- **narug** 1. (_descriptor_) orange (att. 2003-Dec-25; _formerly "naru"_)
+- **natha** 1. (_pronoun_) here (att. 2008-Jun-22)
+- **natrein** 1. (_noun_) art, picture, story, song, dance this is a broad and generic term which can refer to any form of art, and can be used in compounds to refer to artistic work or discipline
+- **natreqon.ij** 1. (_ton verb_) art writing, practicing or creating calligraphy
+- **nayu** 1. (_noun_) arrow, dart, bolt, missile; generically used for any missile weapon (att. 2003-Dec-25)
+- **neim** 1. (_noun_) knight (att. 2008-Jun-22)
+- **neim'jait** 1. (_noun, feminine_) knight-lady (a female knight who owns land)
+- **neim'jan** 1. (_noun_) knight-lord (a male knight who owns land)
+- **neimjia** 1. (_proper noun_) Sunday (of even-numbered weeks), knight-day
+- **neim'soma** 1. (_noun_) knight-master (a male knight in command of other knights)
+- **neim'somait** 1. (_noun, feminine_) knight-mistress (a female knight in command of other knights)
+- **nemal** 1. (_noun_) glass (att. 2008-Jun-22)
+- **nen** 1. (_noun, masculine_) man, masculine person (att. 2008-Jun-22)
+- **néyaci** 1. (_noun, feminine_) knight (female); similar to ma'am, madam, miss within a military context
+- **néyen** 1. (_noun, masculine_) knight (male); similar to sir within a military context
+- **nevel** 1. (_noun_) average
+- **ni** 1. (_positional_) in, during (att. 2003-Dec-25)
+- **nikar** 1. (_positional_) inside, within (att. 2007-Nov-26) (att. 2022-Jun-05)
+- **nikobal.sa** 1. (_ton verb_) memorize "into memory"
+- **nimel.orm** 1. (_ton verb_) carve, cut into (att. 2003-Dec-25)
+- **nij** 1. (_noun_) place (att. 2008-Jun-22)
+- **-ns** 1. (_kun verb affix_)  was, did; past tense (att. 2003-Dec-25)
+- **-nu** 1. (_suffix_) -s, pluralization (usually shortened to **-u** for words ending in a consonant; att. 2003-Dec-25)
+- **nugo.rem** 1. (_ton verb_) cast something away cast away from oneself (att. 2021-Apr-22)
+- **nuqesir** 1. (_noun_) search, hunt, investigate, seek something in the physical world (att. 2021-Apr-22)
+- **nyeje.l** 1. (_ton verb_) pray (att. 2008-Jun-22)
+- **nyéjín** 1. (_noun_) prayer (att. 2008-Jun-22)
+- **nyore** 1. (_noun_) year (att. 2003-Dec-25)
+- **-no-** 1. (_kun verb infix_) -ing; forms the gerund, inserted after the first vowel of the verb (att. 2003-Dec-25)
+- **noc** 1. (_noun_) rock, stone 2. (_noun_) mug, a drinking vessel usually made of baked and glazed clay; these cups tend to come in sizes of ${\frac{1}{4}}$, ${\frac{1}{2}}$, and 1 chuort. The smallest is considered appropriate for tea, coffee, and other drinks offered to social guests during the day, and is about 10.9 US fluid ounces (~321 mL) (att. 2003-Dec-25) 3. (_noun_) cup, a unit of volume equal to ${\frac{1}{4}}$ of a _chuort_
+- **nokal** 1. (_noun_) hunt (att. 2008-Jun-22)
+- **nola** 1. (_noun_) noun; a word which refers to a person, place, thing, or concept (att. 2003-Dec-25)
+- **nolambé** 1. (_descriptor_) complete, finished (att. 2008-Jun-22)
+- **nolibrau** 1. (_noun_) freedom (att. 2021-Apr-22)
+- **-nom** 1. (_suffix_) -self, -own, the reflexive pronoun (att. 2003-Dec-25)
+- **nomor.eks** 1. (_ton verb_) drinking, sipping; consuming fluid
+- **nonke** 1. (_noun_) mountain (att. 2021-Apr-22)
+- **noventir** 1. (_noun_) hope (att. 2008-Jun-22)
+- **noventrol** 1. (_noun_) journey (att. 2008-Jun-22)
+- **novra.k** 1. (_ton verb_) need, require (att. 2008-Jun-22)
+- **novrul** 1. (_noun_) need, necessity (att. 2008-Jun-22)

@@ -1,4 +1,5 @@
 # A
+[[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_b|B]]
 
 + **[a](lexicon/a/a.md)**
 	1. (_pronoun_, _prefix_) all, each, every
@@ -26,7 +27,7 @@
 	2. unfolding, revealing
 	3. blooming, blossoming
 	4. growing outward, spreading
-+ **[aimei](a/aimei.md)**
++ **[aimei](aimei.md)**
 	1. (_descriptor_) visible
 + **[aimi](a/aimi.md)**
 	1. (_noun_) eye; **aiminu** eyes
