@@ -1,86 +1,93 @@
 # A
+[Return to Adinjo Lexicon](lexicon/adinjo_lexicon) | [B](lexicon/b/_dict_b)
 
-+ **[a](lexicon/a/a.md)**
++ **[a](lexicon/a/a)**
 	1. (_pronoun_, _prefix_) all, each, every
 	2. (_descriptor_, _prefix_) great, grand, superior
 	3. (_suffix_) no, not, negative
-+ **[abs\*](a/abs.md)**
-	1. **absau** (_descriptor_) colorless, grey
-	2. **abse** (_descriptor_) black
-	3. **abso** (_descriptor_) white
-+ **[ábul](a/ábul.md)**
++ **[abs\*](abs)**
+	1. **absau**
+		1. (_descriptor_) colorless, grey
+	2. **abse**
+		1. (_descriptor_) black
+	3. **abso**
+		1. (_descriptor_) white
++ **[ábul](lexicon/a/ábul)**
 	1. (_noun_) a stepped temple (such as a ziggurat or pyramid) or a tower
 	2. a structure honoring a hero or deity, a monument
 	3. a site where deities or heroes were seen
-+ **[adan](a/adan.md)**
++ **[adan](lexicon/a/adan)**
 	1. (_pronoun_) any, any one, no specific one
-+ **[adin](a/adin.md)**
++ **[ademba](lexicon/a/ademba)**
+	1. (_pronoun_) any time, one time
++ **[adin](lexicon/a/adin.md)**
 	1. (_pronoun_) the people (universal, conceptual)
 	2. (_noun_) people, universal (form of **[dyn](d/dyn.md)**)
 	3. (_proper noun_) the race of people descended from the nation of Atlantis
 	4. (_proper noun_) a member of the species _Homo medeis_ or _Homo sapiens medeis_
-+ **[ace](a/ace.md)**
++ **[ace](lexicon/a/ace.md)**
 	1. (_noun_) creature
-+ **[acoréru](a/acoré.md)**
++ **[acoré.ru](lexicon/a/acoré.md)**
 	1. (_ton verb_) opening
-	2. unfolding, revealing
-	3. blooming, blossoming
-	4. growing outward, spreading
-+ **[aimei](a/aimei.md)**
+	2. (_ton verb_) unfolding, revealing
+	3. (_ton verb_) blooming, blossoming
+	4. (_ton verb_) growing outward, spreading
++ **[aimei](lexicon/a/aimei.md)**
 	1. (_descriptor_) visible
-+ **[aimi](a/aimi.md)**
++ **[aimi](lexicon/a/aimi.md)**
 	1. (_noun_) eye; **aiminu** eyes
-+ **[airend](a/aire.md)**
++ **[aire.nd](lexicon/a/aire.md)**
 	1. (_ton verb_) finding
-	2. learning
-	3. discovering
-+ **[-aiti](a/aiti.md)**
+	2. (_ton verb_) learning
+	3. (_ton verb_) discovering
++ **[-aiti](lexicon/a/aiti.md)**
 	1. (_suffix_) a suffix indicating a feminine aspect, gender, or nature; a suffix added to a name to indicate it belongs to a female (form of **[daiti](d/daiti.md)**)
 + **[akar](a/akar.md)**
 	1. (_positional_) through
-	2. beyond
+	2. (_ton verb_) beyond
 + **[akendan](a/akendan.md)**
-	1. (_noun_) high tale, great legend, grand fantasy (form of **[kendan](k/kendan.md)**)
+	1. (_noun_) high tale, great legend, grand fantasy (form of **[kendan](lexicon/k/kendan.md)**)
 + **[albor](a/albor.md)**
-	1. (_noun_) tar, ink, oil paint
+	1. (_noun_) tar
+	2. (_noun_) ink, oil paint
 + **[ald](a/ald.md)**
 	1. (_descriptor_) old
 + **[alʤin](a/aldjin.md)**
 	1. (_noun_) old blood, established names or families; Adin with bloodline traits
-+ **[almaru](a/alma.md)**
-  1. (_ton verb_) leading, exercising or showing leadership
-  2. ruling, interpreting rules or laws, passing judgement
-  3. governing, exercising authority
-  + **[almán](a/almán.md)**
-    1. (_noun_) a leader, as of a group or team
-    2. a leader or ruler appointed without regard for qualifications, usually for a short term until a properly qualified leader can be appointed
-    3. a leader without the will to lead or govern
-  + **[almatax](a/almatax.md)**
-    1. (_noun_) ruler, governor
-    2. manager, coach
-    3. teacher, professor, preacher
-    4. judge, court
-  + **[alnom](a/alnom.md)**
-    1. (_noun_) a rule or regulation
-    2. a protocol or procedure
-    3. a law
-+ **[almen](a/alme.md)**
++ **[alma.ru](a/alma.md)**
+	1. (_ton verb_) leading; exercising or showing leadership
+	2. (_ton verb_) ruling, interpreting rules or laws, passing judgement
+	3. (_ton verb_) governing, exercising authority
++ **[almán](a/almán.md)**
+	1. (_noun_) a leader, as of a group or team
+	2. (_noun_) a leader or ruler appointed without regard for qualifications, usually for a short term until a properly qualified leader can be appointed
+	3. a leader without the will to lead or govern
++ **[almatax](a/almatax.md)**
+	1. (_noun_) ruler, governor
+	2. manager, coach
+	3. teacher, professor, preacher
+	4. judge, court
++ **[alnom](a/alnom.md)**
+	1. (_noun_) a rule or regulation
+	2. a protocol or procedure
+	3. a law
++ **[alme.n](a/alme.md)**
   1. (_ton verb_) milking, suckling, nursing
-  2. extracting venom or toxins, whether from a gland or from a wound
-  3. (vulgar) masturbating
-  + **[almenin](a/almenin.md)**
-    1. (_descriptor_) milky
-    2. cloudy
-    3. pale
-    4. desaturated or faded
-  + **[almer](a/almer.md)**
-    1. (_noun_) milk, fluid produced by mammary glands
-    2. potion, any brew with magical properties (sometimes called **nayu almer** _magical milk_)
+  2. (_ton verb_) extracting venom or toxins, whether from a gland or from a wound
+  3. (_ton verb, vulgar_) masturbating
++ **[almenin](a/almenin.md)**
+	1. (_descriptor_) milky
+	2. cloudy
+	3. pale
+	4. desaturated or faded
++ **[almer](a/almer.md)**
+	1. (_noun_) milk, fluid produced by mammary glands
+	2. potion, any brew with magical properties (sometimes called **xáyu almer** _magical milk_)
 + **[alren](a/alren.md)**
-  1. (_noun_) twin
-+ **[amarte](a/amar.md)**
-  1. (_ton verb_) crying, weeping
-  2. mourning
+	1. (_noun_) twin
++ **[amar.te](a/amar.md)**
+	1. (_ton verb_) crying, weeping
+	2. mourning
 + **[amenar](a/amenar.md)**
 + **[amenru](a/amen.md)**
   1. (_ton verb_) waking as from sleep or rest
@@ -120,9 +127,11 @@
   1. (_descriptor_) holy
   + **[andenin](a/andenin.md)**
     1. (_noun_) holiness
-+ **Andurusidin** (_proper noun_) Andurusian
-+ **[anen](a/anen.md)** (_descriptor_) male (der. from an- + en ‘masculine gender’)
-+ **[ane.ru](a/ane.md)** (_ton verb_) using
++ **Andurusidin**
+	1. (_proper noun_) Andurusian
++ **[anen](a/anen)**
+	1. (_descriptor_) male (der. from an- + en ‘masculine gender’)
++ **[ane.ru](a/ane.md)** 1. (_ton verb_) using
   + **aneruha** _vb form_ (pass past)
   + **ane** _vb form_ (pass past)
   + **aneha** _vb form_ (pass past)

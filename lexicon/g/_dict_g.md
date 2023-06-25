@@ -1,0 +1,50 @@
+# G
+[[lexicon/b/_dict_b|B]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[lexicon/d/_dict_d|D]]
+
+- **gaea** 1. (_proper noun_) Gaea, Earth, Terra (att. 2001 ${\rightarrow}$ 2022-Oct-24)
+- **gaeani** 1. (_descriptor_) Human, Gaean (culturally), earthly; of or related to the (human cultures) native to Gaea (att. 2022-Jun-04 \${\rightarrow}$ 2023-Jan-13)
+- **-galm** 1. (_verb affix_) may do verb; indicates the potential to perform an action (att. 2003-Dec-25)
+- **galmcabi.nd** 1. (_ton verb_) mood-showing, potential-showing (att. 2003-Apr-24, rediscovered 2022-Jun-05)
+- **gambu** 1. (_noun_) lagoon, lake, pond, tarn, waterhole; _gambu_ refers exclusively to bodies of water containing fresh or brackish water, never saltwater (att. 2002-Jul-31)
+- **gamer.chin** 1. (_ton verb_) bleeding
+- **gani.s** 1. (_ton verb_) making, entering, or signing a contract (att. 2008-Jun-22) 2. (_ton verb_) swearing an oath, striking a covenant (att. 2023-Jan-13)
+- **ganwas** 1. (_noun_) contract, license, writ; a specific legal document (att. 2008-Jun-22) 2. authorization, contract, covenant, license, writ; any legal or personal agreement or the status of having such (att. 2023-Jan-13)
+- **gant** 1. (_noun_) rate, speed (att. 2002-Jul-31) 2. (_noun_) caravan, party, traveling group or companions (att. 2023-Jan-13)
+- **gante.dz** 1. (_ton verb_) carrying, exchanging, transporting, trading (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
+- **ganto** 1. (_noun_) member of a group (att. 2008-Jun-22)
+- **garuud** 1. (_noun_) captive, convict, prisoner, slave (att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
+- **gatla.shi** 1. (_ton verb_) disguising (att. 2003-Dec-25) 2. \[art\] costuming, dressing (att. 2023-Jan-13) 3. (_ton verb_) gathering information, infiltrating, spying (att. 2023-Jan-13)
+- **gatlan** 1. (_noun_) disguise (att. 2003-Dec-25) 2. (_noun_) \[art\] costume (att. 2023-Jan-13) 3. (_noun_) agent, investigator, diplomat, spy (att. 2023-Jan-13)
+- **gaya.m** 1. (_ton verb_) birthing, breeding, conceiving , hatching, impregnating, spawning (recovered from an old dictionary; att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
+- **gelm** 1. (_noun_) pride, confidence, surety (att. 2007-Nov-26 ${\rightarrow}$ 2022-Jun-04)
+- **gezud.em** 1. (_ton verb_) expecting, anticipating; hoping (att. 2021-Apr-22)
+- **gezudral** 1. (_noun_) expectation (att. 2021-Apr-22)
+- **gent** 1. (_noun_) child (att. 2008-Jun-22)
+- **géxa.la** 1. (_ton verb_) to laugh, to chuckle, to cackle
+- **gi** 1. (_conjunction_) so that (att. 2003-Dec-25) _formerly glossed as "this," presumed typo of "thus"_
+- **gif** 1. (_noun_) fire, flame (att. 1998-Jun-01)
+- **gifiluan** 1. (_proper noun_) August, Fire's Month
+- **gifjia** 1. (_proper noun_) Friday (of odd-numbered weeks), fire-day
+- **gil** 1. (_noun_) a flat (or flattened) circular animal shell 2. (_noun, slang_) `a.` shortened form of _gildern_, the name of international gold coins on Atrusius `b.` a coin of any denomination or material 3. (_noun, slang_) the price of an item in a store or catalog (att. 2022-Jun-23)
+- **gìlden** 1. (_noun_) the name of a currency used on Atrusius, this refers to the value of 1 gold coin, worth ${144_{10}}$ silver _daimosu_ (this word may be significantly older than the date hashtag suggests -- it has only been re-documented at this time thanks to review of old documents; att. 1999-Jun-01 ${\rightarrow}$ 2022-Jun-04)
+- **gramurnau** 1. (_descriptor_) Gramurn; of or related to the Gramurn (att. 2023-Jan-13)
+- **gramurdin** 1. (_proper noun_) Gramurn (att. 2008-Jun-22)
+- **gramurjo** 1. (_noun_) gramurn language (att. 2023-Jan-13)
+- **grat** 1. (_affix, descriptor_) least (att. 2003-Dec-25)
+- **greimík** 1. (_noun_) costume, outfit, wardrobe (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
+- **greis** 1. (_noun_) compasison, mercy (att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
+- **greishaun** 1. (_descriptor_) compassionate, merciful (att. 2008-Jan-13 ${\rightarrow}$ 2023-Jan-13)
+- **gyumi.da** 1. (_ton verb_) needing, requiring (att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
+- **gubra** 1. (_conjunction_) though, while (att. 2008-Jun-22)
+- **gur-** 1. (_descriptor_) imperial- (att. 2022-Jun-23)
+- **gurias** 1. (_noun_) empire (att. 2008-Jun-22)
+- **gurion** 1. (_descriptor_) imperial, of or relating to an empire (att. 2003-Dec-25)
+- **gurioni** 1. (_descriptor_) Adin (culturally), especially of the Imperial Culture on Atrusius or the Shipboard culture of Emissaries on Gaea (att. 2022-Jun-04)
+- **gurneim** 1. (_noun_) knight, rank in Imperial Military; rank title, lowest rank of non-commissioned officer (att. 2021-Apr-22)
+- **god** 1. (_proper noun_) God (singular unique divine, typically refers to YHWH or XIIC) (att. 2003-Dec-25)
+- **gojia** 1. (_noun_) tomorrow
+- **goju** 1. (_descriptor_) after, following (att. 2003-Dec-25)
+- **gojudekchin** 1. (_noun_) suffix, post script, afterword (att. 2006-Jun-04 ${\rightarrow}$ 2022-Jun-05)
+- **gore.m** 1. (_ton verb_) casting away, sending away
+- **gor.um** 1. (_ton verb_) growing, increasing 2. (_ton verb_) adding to (att. 2008-Jun-22)
+

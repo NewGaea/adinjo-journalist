@@ -1,0 +1,26 @@
+# Y
+[[_dict_u|U]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_f|F]]
+
+- **ya** 1. (_pronoun_) that (att. 2003-Dec-25)
+- **-ya-** 1. (_kun verb infix_) not; replaces the last vowel in the root (especially after another vowel) (att. 2003-Dec-25)
+- **yac** 1. (_vb form_) (neg inf/pres) to not be, is not, am not, are not (att. 2003-Dec-25)
+- **yachikun** 1. (_vb form_) (neg fut) to not be later, will not be (att. 2003-Dec-25)
+- **yanicin** 1. (_noun_) saying, expression (att. 2021-Apr-22)
+- **yaniqon.ij** 1. (_ton verb_) speech writing, taking dictation
+- **yani.s** 1. (_ton verb_) say (att. 2003-Dec-25)
+- **yans** 1. (_vb form_) (neg past) to not have been, was not (att. 2003-Dec-25)
+- **yanoc** 1. (_vb form_) (neg ger) not being (att. 2003-Dec-25)
+- **-ye** 1. (_suffix_) hand (att. 2008-Jun-22; cf. _aye_)
+- **yemain** 1. (_noun_) wolf (att. 2008-Jun-22)
+- **yenek** 1. (_noun_) generation, age gap from parent to child (att. 2008-Jun-22)
+- **yent** 1. (_noun_) text, written language (att. 2003-Dec-25)
+- **yev** 1. (_noun_) mouth (att. 2008-Jun-22)
+- **yi** 1. (_pronoun_) I, me (att. 2003-Dec-25)
+- **-ykun** 1. (_kun verb affix_) will, shall; future tense (used for _kun_ verbs which end in consonants) (att. 2003-Dec-25)
+- **yr** 1. (_conjunction_) or (att. 2008-Jun-22)
+- **yréons** 1. (_archaic verb_) to come first (archaic, proper name) (att. 2008-Jun-22)
+- **yuga** 1. (_noun_) thing (formerly _yugi_; att. 2003-Dec-25)
+- **yumare** 1. (_noun_) compassion, diffused love (att. 2008-Jun-22)
+- **yok.els** 1. (_ton verb_) lead, be ahead of (att. 2003-Dec-25)
+- **yoken** 1. (_noun_) lead, a distance between two (att. 2003-Dec-25)
+- **yoketax** 1. (_noun_) leader, one who is ahead (att. 2003-Dec-25)

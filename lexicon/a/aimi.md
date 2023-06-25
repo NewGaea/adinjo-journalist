@@ -1,9 +1,9 @@
 # aimi
 ---
-[[_dict_a|Return to List of Words beginning with A]]
+[[lexicon/a/_dict_a|Return to List of Words beginning with A]]
 
 ## Forms
-1. **aimi**
+1. **aimi** ![](audio/01-adob/mp3/aimi.mp3)
 	1. (_noun_) eye, the organ of sight and vision
 
 ### Other Forms

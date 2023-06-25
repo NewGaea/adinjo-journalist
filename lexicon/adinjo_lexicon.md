@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream:lexicon/lexicon_complete.md
 # List of Words
 
 - [List of Words](#list-of-words)
@@ -33,106 +32,85 @@
 
 **NOTE:** This listing may not include all words coined in 2021 or more recently. While attempts will be made to incoporate the biennial wordlists regularly, it is to be expected that this listing may, at times, be behind the curve of the latest coinages.
 
-## A
+If you would like to explore or contribute to a dictionary written _in_ Adinjo Journalist, you may add entries under _**[Firolan's Unabridged Dictionary](lexicon/firolan/_intro)**_, while if you want to explore or contribute to a richer English language translator's dictionary, you may contribute to _**[Persephone's Dictionary for English Speakers](lexicon/persephone/_intro)**_
 
-- **[-a](a/a.md)** 1. (_generic suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_) 2. (**-a-**) (_kun verb affix_) no, not; replaces the last vowel in the root (att. 2003-Dec-25; cf. _ha_)
-- **[a-](a/a.md)** 1. (_noun prefix_) all, each, every (att. 2003-Dec-25)
-- **[a-](a/a.md)** 1. (_descriptor prefix_) great, grand, superior (att. 2003-Dec-25)
-- **[abse](a/abs.md)** 1. (_descriptor_) black (att. 2002-Jul-31)
-- **[abso](a/abs.md)** 1. (_descriptor_) white (att. 2002-Jul-31)
-- **[ábul](a/ábul.md)** 1. (_noun_) monument (att. 2002-Jul-31)
-- **[adan](a/adan.md)** 1. (_pronoun_) any, any one, no specific one (att. 2005-Nov-04)
+## A
+[[lexicon/a/_dict_a|Dictionary Listing for A]]
+
+- **-a** 1. (_generic suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_) 2. (**-a-**) (_kun verb affix_) no, not; replaces the last vowel in the root (att. 2003-Dec-25; cf. _ha_)
+- **a-** 1. (_noun prefix_) all, each, every (att. 2003-Dec-25)
+- **a-** 1. (_descriptor prefix_) great, grand, superior (att. 2003-Dec-25)
+- **absau** 1. (_descriptor_) grey (att. 2018-Dec-31)
+- **abse** 1. (_descriptor_) black (att. 2002-Jul-31)
+- **abso** 1. (_descriptor_) white (att. 2002-Jul-31)
+- **ábul** 1. (_noun_) monument (att. 2002-Jul-31)
+- **adan** 1. (_pronoun_) any, any one, no specific one (att. 2005-Nov-04)
 - **ademba** 1. (_pronoun_) any time, one time (att. 2022-Jun-01; cf. _temba_)
-- **[adin](a/adin.md)** 1. (_pronoun_) the people (universal, conceptual) (att. 1998-Jun-01) 2. (_noun_) people, universal (att. 1998-Jun-01; cf. **dyn**)
+- **adin** 1. (_pronoun_) the people (universal, conceptual) (att. 1998-Jun-01) 2. (_noun_) people, universal (att. 1998-Jun-01; cf. **dyn**) 3. (_noun_) any of the Adin, anybody belonging to the species _Homo sapiens medeis_
+- **adinjo** 1. (_noun_) a language of the Adin people
 - **aduprani** 1. (_descriptor_) pansexual (att. 2022-Jun-04)
-- **[ace](a/ace.md)** 1. (_noun_) creature (att. 2003-Dec-25)
-- **[acoré.ru](a/acoré.md)** 1. (_ton verb_) unfold, open, bloom or blossom (att. 2003-Dec-25)
-- **[aimi](a/aimi.md)** 1. (_noun_) eye (att. 2002-Jul-31)
-- **[aire.nd](a/aire.md)** 1. (_ton verb_) finding, learning, discovering (att. 2003-Dec-25)
-- **[-aiti](a/aiti.md)** 1. (_suffix, gender_) a suffix indicating a feminine aspect, gender, or nature; a suffix added to a name to indicate it belongs to a female (possibly a form of _daiti_ or _naiti_; att. 2003-Dec-25)
-- **[akar](a/akar.md)** 1. (_positional_) through, beyond (att. 2007-Dec-29)
-- **[akendan](a/akendan.md)** (_noun_) high tale, great legend, grand fantasy (form of **kendan**; att. 2005-Nov-04)
+- **ace** 1. (_noun_) creature (att. 2003-Dec-25)
+- **acoré.ru** 1. (_ton verb_) unfold, open, bloom or blossom (att. 2003-Dec-25)
+- **aimei** 1. (_descriptor_) visible (att. UNKNOWN)
+- **aimi** 1. (_noun_) eye (att. 2002-Jul-31)
+- **aire.nd** 1. (_ton verb_) finding, learning, discovering (att. 2003-Dec-25)
+- **-aiti** 1. (_suffix, gender_) a suffix indicating a feminine aspect, gender, or nature; a suffix added to a name to indicate it belongs to a female (possibly a form of _daiti_ or _naiti_; att. 2003-Dec-25)
+- **akar** 1. (_positional_) through, beyond (att. 2007-Dec-29)
+- **akendan** (_noun_) high tale, great legend, grand fantasy (form of **kendan**; att. 2005-Nov-04)
 - **aki** 1. (_pronoun_) all of us, everybody here (att. 2022-Jun-24)
-- **[albor](a/albor.md)** 1. (_noun_) tar (att. 2003-Dec-25) 2. (_noun_) ink, oil paint
-- **[ald](a/ald.md)** 1. (_descriptor_) old (att. 2007-Dec-29)
-- **[aldjin](a/aldjin.md)** 1. (_noun_) old blood, established names or families 2. (_noun_) Adin with bloodline traits (att. 2007-Dec-29)
+- **albor** 1. (_noun_) tar (*allegedly* derived from _abse_ + _tlor_; att. 2003-Dec-25) 2. (_noun_) ink, oil paint
+- **ald** 1. (_descriptor_) old (att. 2007-Dec-29)
+- **aldjin** 1. (_noun_) old blood, established names or families 2. (_noun_) Adin with bloodline traits (att. 2007-Dec-29)
 - **aldyur** 1. (_descriptor_) ancient, very old, antique (att. 2007-Nov-26; red. 2022-Jun-05)
-- **[alma](a/alma.md).ru** 1. (_ton verb_) ruling, leading, governing (att. 2008-Jun-22; formerly _aluma.ru_)
-- **[almán](a/almán.md)** 1. (_noun_) leader by circumstance, acting leader
-- **[almatax](a/almatax.md)** 1. (_noun_) leader by profession, manager
-- **[alme.n](a/alme.md)** 1. (_ton verb_) milking (att. 2003-Dec-25)
-- **[almenin](a/almenin.md)** 1. (_descriptor_) milky, of a consistency or color like milk (att. 2021-Apr-21), creamy (att. 2022-Jun-27)
-- **[almer](a/almer.md)** 1. (_noun_) milk, potion (att. 2003-Dec-25; formerly _alman_)
-- **[alnom](a/alnom.md)** 1. (_noun_) a rule or law (att. UNKNOWN)
-- **[alren](a/alren.md)** 1. (_noun_) twin; a sibling born at the same time as another (att. 2008-Jun-22)
+- **alma.ru** 1. (_ton verb_) ruling, leading, governing (att. 2008-Jun-22; formerly _aluma.ru_)
+- **almán** 1. (_noun_) leader by circumstance, acting leader
+- **almatax** 1. (_noun_) leader by profession, manager
+- **alme.n** 1. (_ton verb_) milking (att. 2003-Dec-25)
+- **almenin** 1. (_descriptor_) milky, of a consistency or color like milk (att. 2021-Apr-21), creamy (att. 2022-Jun-27)
+- **almer** 1. (_noun_) milk, potion (att. 2003-Dec-25; formerly _alman_)
+- **alnom** 1. (_noun_) a rule or law (att. UNKNOWN)
+- **alren** 1. (_noun_) twin; a sibling born at the same time as another (att. 2008-Jun-22)
 - **amarau** 1. (_descriptor_) crying, weeping, mourning (att. 2022-Jun-27)
-- **[amar.te](a/amar.md)** 1. (_ton verb_) crying, weeping, mourning (att. 2021-Apr-22)
+- **amar.te** 1. (_ton verb_) crying, weeping, mourning (att. 2021-Apr-22)
 - **amén** 1. (_expression_) a voicing of agreement; a valediction used to conclude a wish, prayer, or request, serving as a call to action; to invoke or call to action (att. 2002-Jul-31)
-- **[amend](a/amend.md)** 1. (_descriptor_) awake; alert; in a state of readiness for action (att. 2002-Jul-31)
-- **[amen.ru](a/amen.md)** 1. (_ton verb_) waking, awakening, invoking, calling upon (att. 2002-Jul-31)
-- **[amkei.l](a/amkei.md)** 1. (_ton verb_) cutting, splitting, separating, removing, shearing; dividing (att. 2002-Jul-31)
-- **[amur.ent](a/amur.md)** 1. (_ton verb_) scattering, spreading, sowing (att. 2003-Dec-25)
-- **[an](a/an.md)** 1. (_prefix, descriptor_) expresses that the word is a statement of state or status, “to be x” (att. 2003-Dec-25) 2. (_prefix, noun_) sex, gender, class (att. 2008-Jun-22)
-- **[andaiti](a/andaiti.md)** 1. (_descriptor_) female (att. 2008-Jun-22; cf. _anjyu_, _daiti_)
-- **[andèn](a/andèn.md)** 1. (_descriptor_) holy, divine, sacred (att. 2008-Jun-22)
+- **amend** 1. (_descriptor_) awake; alert; in a state of readiness for action (att. 2002-Jul-31)
+- **amen.ru** 1. (_ton verb_) waking, awakening, invoking, calling upon (att. 2002-Jul-31)
+- **amkei.l** 1. (_ton verb_) cutting, splitting, separating, removing, shearing; dividing (att. 2002-Jul-31)
+- **amur.ent** 1. (_ton verb_) scattering, spreading, sowing (att. 2003-Dec-25)
+- **an-** 1. (_prefix, descriptor_) expresses that the word is a statement of state or status, “to be x” (att. 2003-Dec-25) 2. (_prefix, noun_) sex, gender, class (att. 2008-Jun-22)
+- **andaiti** 1. (_descriptor_) female (att. 2008-Jun-22; cf. _anjyu_, _daiti_)
+- **andèn** 1. (_descriptor_) holy, divine, sacred (att. 2008-Jun-22)
 - **andenau** 1. (_noun_) divinity (att. 2022-Jun-27)
-- **[andenin](a/andenin.md)** 1. (_noun_) holiness (att. 2021-Apr-22)
+- **andenin** 1. (_noun_) holiness (att. 2021-Apr-22)
 - **andurusau** 1. (_descriptor_) Andurusian (having an Andurusian quality) (att. 2022-Jun-27)
 - **andurusidin** 1. (_proper noun_) Andurusian (person) (att. 2021-Apr-22)
 - **andurusijo** 1. (_noun_) the Andurusian language (att. 2022-Jun-27)
-<<<<<<< Updated upstream
-- **[anen](a/anen.md)** 1. (_descriptor_) male (att. 2008-Jun-22; cf. _anjyu_, _nen_)
-- **[ane.ru](a/ane.md)** 1. (_ton verb_) using (att. 2002-Jul-31) 2. (_ton verb_) utilizing (att. 2002-Jul-31)
-- **anesh** (_noun_) 1. lightning, electricity
-- **ane'djia** 1. (_proper noun_) Friday (of even-numbered weeks), lightning-day
-- **[aneshdo'ain](a/aneshdoain.md)** 1. (_noun_) lightning bolt (att. 2008-Jun-22)
-- **anesh'iluan** 1. (_proper noun_) October, Lightning's Month
-- **[ani.ru](a/ani.md)** 1. (_ton verb_) being (as in, “to be or not to be…”) (att. 2002-Jul-31)
-=======
-- **[anèn](a/anen.md)** 1. (_descriptor_) male (att. 2008-Jun-22; cf. _anjyu_, _nen_)
-- **[ane.ru](a/ane.md)** 1. (_ton verb_) using (att. 2003-Dec-25), 2. (_ton verb_) utilizing (att. 2022-Jun-27)
+- **anèn** 1. (_descriptor_) male (att. 2008-Jun-22; cf. _anjyu_, _nen_)
+- **ane.ru** 1. (_ton verb_) using (att. 2003-Dec-25), 2. (_ton verb_) utilizing (att. 2022-Jun-27)
 - **anèsh** (_noun_) 1. lightning, electricity
 - **anèdjia** 1. (_proper noun_) Friday (of even-numbered weeks), lightning-day
-- **[anèshdóain](a/aneshdoain.md)** 1. (_noun_) lightning bolt (att. 2008-Jun-22)
+- **anèshdóain** 1. (_noun_) lightning bolt (att. 2008-Jun-22)
 - **anèsh'iluan** 1. (_proper noun_) October, Lightning's Month
-- **[ani.ru](a/ani.md)** 1. (_ton verb_) being (as in, “to be or not to be…”) (att. 2003-Dec-25)
->>>>>>> Stashed changes
-- **[anis.wa](a/anis.md)** 1. (_ton verb_) reading (att. 2008-Jun-22)
+- **ani.ru** 1. (_ton verb_) being (as in, “to be or not to be…”) (att. 2002-Jul-31)
+- **anis.wa** 1. (_ton verb_) reading (att. 2008-Jun-22)
 - **ankomar** 1. (_noun_) existence (att. 2008-Jun-22)
-- **[anko.ro](a/anko.md)** 1. (_ton verb_) existing (att. 2008-Jun-22)
-- **[anjyu](a/anjyu.md)** 1. (_noun_) sex, gender (att. 2008-Jun-22)
-- **[anon](a/anon.md)** 1. (_descriptor_) neuter, ungendered (att. 2008-Jun-22)
-<<<<<<< Updated upstream
-- **[ajan](a/ajan.md)** 1. (_p noun, title_) the Lord, My God; a title used when referring one's patron deity or spirit (att. 2002-Jul-31)
-- **aramdekchin** 1. (_noun_) password, passcode (att. 2021-Apr-21; cf. _aramel_, _dekcin_)
-- **[aram.el](a/aram.md)** 1. (_ton verb_) passing, going through, going beyond (att. 2002-Jul-31)
-- **arconir** 1. (_noun_) bear (animal)
-- **[ar.i](a/ar.md)** 1. (_ton verb_) throwing (att. 2008-Jun-22), hurling, launching (added 2023-Jan-09)
+- **anko.ro** 1. (_ton verb_) existing (att. 2008-Jun-22)
+- **anjyu** 1. (_noun_) sex, gender (att. 2008-Jun-22)
+- **anon** 1. (_descriptor_) neuter, ungendered (att. 2008-Jun-22)
+- **ajan** 1. (_p noun, title_) the Lord, My God; a title used when referring one's patron deity or spirit (att. 2002-Jul-31)
+- **aramdekchin** 1. (_noun_) password, passcode (att. 2015-Mar-16; cf. _aramel_, _dekcin_; formerly _aradekchin_)
+- **aram.el** 1. (_ton verb_) passing, going through, going beyond (att. 2002-Jul-31)
+- **arconir** 1. (_noun_) bear (animal) (att. UNKNOWN)
+- **ar.i** 1. (_ton verb_) throwing (att. 2008-Jun-22), hurling, launching (added 2023-Jan-09)
 - **arzol** 1. (_descriptor_) blue (att. 2002-Jul-31)
-- **[arlic](a/arlic.md)** 1. (_noun_) pen, a permanent writing implement
-- **[armo](a/armo.md)** 1. (_positional_) because, for the sake or purpose of (att. 2002-Jul-31)
+- **arlic** 1. (_noun_) pen; a permanent writing implement (att. 2015-Mar-16)
+- **armo** 1. (_positional_) because, for the sake or purpose of (att. 2002-Jul-31)
 - **arus.é** 1. (_ton verb_) sitting, lounging (att. 2002-Jul-31)
 - **arush** 1. (_noun_) seat, chair, cushion, sofa (att. 2002-Jul-31)
 - **arush.èn** 1. (_ton verb_) seating, providing or offering seats (att. 2002-Jul-31)
-- **asenger** 1. (_noun_) bite (the physical remains or damage of a bite) (att. 2002-Jul-31)
-- **asen.ru** 1. (_ton verb_) biting (att. 2002-Jul-31)
-- **asent** 1. (_noun_) east (att. 2003-Dec-25) 2. (_descriptor_) a shape or mark which is rising to the right (att. 2002-Jul-31) 3. (_descriptor_) tenseness (of a sound) (documented 2023-Jan-10)
-=======
-- **[ajan](a/ajan.md)** 1. (_p noun, title_) the Lord, My God; a title used when referring one's patron deity or spirit (att. 2003-Dec-25)
-- **aramdekchin** 1. (_noun_) password, passcode (att. 2015-Mar-16; cf. _aramel_, _dekcin_; formerly _aradekchin_)
-- **[aram.èl](a/aram.md)** 1. (_ton verb_) passing, going through, going beyond (att. 2003-Dec-25)
-- **arconir** 1. (_noun_) bear (animal) (att. UNKNOWN)
-- **[ar.i](a/ar.md)** 1. (_ton verb_) throwing (att. 2008-Jun-22), hurling, launching (added 2023-Jan-09)
-- **[arlic](a/arlic.md)** 1. (_noun_) pen; a permanent writing implement (att. 2015-Mar-16)
-- **[armo](a/armo.md)** 1. (_positional_) because, for the sake or purpose of (att. 2003-Dec-25)
-- **arus.é** 1. (_ton verb_) sitting, lounging (att. 2003-Dec-25)
-- **arush** 1. (_noun_) seat, chair, cushion, sofa (att. 2003-Dec-25)
-- **arush.èn** 1. (_ton verb_) seating, providing or offering seats (att. 2003-Dec-25)
-- **arzol** 1. (_descriptor_) blue (att. 2003-Dec-25)
-- **asenger** 1. (_noun_) bite (the physical remains or damage of a bite)
-- **asèn.ru** 1. (_ton verb_) biting (att. 2003-Dec-25)
-- **asènt** 1. (_noun_) east (att. 2003-Dec-25) 2. (_descriptor_) a shape or mark which is rising to the right (att. 2003-Dec-25) 3. (_descriptor_) tenseness (of a sound) (documented 2023-Jan-10)
->>>>>>> Stashed changes
+- **asènger** 1. (_noun_) bite (the physical remains or damage of a bite) (att. 2002-Jul-31)
+- **asèn.ru** 1. (_ton verb_) biting (att. 2002-Jul-31)
+- **asènt** 1. (_noun_) east (att. 2002-Jul-31) 2. (_descriptor_) a shape or mark which is rising to the right (att. 2002-Jul-31) 3. (_descriptor_) tenseness (of a sound) (documented 2023-Jan-10)
 - **asha** 1. (_noun_) peace (att. 2008-Jun-22), calmness, contentment (added 2023-Jan-10)
 - **ashaun** 1. (_noun_) horse (att. 2008-Jun-22)
 - **ashaus** 1. (_descriptor_) peaceful (att. 2008-Jun-22)
@@ -160,6 +138,7 @@
 - **axen** 1. (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
 
 ## B
+[[lexicon/b/_dict_b|Dictionary Listing for B]]
 
 - **ba** 1. (_descriptor, prefix_) this; immediate proximate demonstrative (att. 2003-Dec-25)
 - **baci.re** 1. (_ton verb_) seeing, viewing; watching (att. 2002-Jul-31)
@@ -1382,6 +1361,10 @@
 - **workait** 1. (_verb form_) be born from "born" (att. 2021-Apr-22)
 - **workatol** 1. (_verb form_) give birth Literally "bearing" (att. 2021-Apr-22)
 
+## HYPOTHETICAL ROOTS
+
++ **abs\*** 1. (_descriptor_) hueless light
+
 ## OLD FORMS
 
 The words listed in this section may be repurposed and redefined as they have modern forms in the lexicon.
@@ -1392,9 +1375,3 @@ The words listed in this section may be repurposed and redefined as they have mo
 ## UNSORTED
 
 - N/A
-  - [J](#j)
-  - [T](#t)
-  - [U](#u)
-  - [Y](#y)
-  - [F](#f)
-  - [V](#v)

@@ -1,0 +1,45 @@
+# R
+[[_dict_p|P]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_s|S]]
+
+- **racan** 1. (_noun_) knee (att. 2021-Apr-22)
+- **rac.el** 1. (_ton verb_) knee, kneel, to take to the knee, defer or submit to (att. 2021-Apr-22)
+- **ragunes** 1. (_noun_) mercenary (att. 2021-Apr-22)
+- **rai** 1. (_noun_) way, fashion, manner, path (att. 2008-Jun-22)
+- **rakim** 1. (_positional_) beside, aside, next to (att. 2008-Jun-22)
+- **ramu.ld** 1. (_ton verb_) lacking (att. 2003-Dec-25)
+- **rank** 1. (_descriptor_) wrong, perverse (att. 2021-Apr-22)
+- **raji** 1. (_noun_) star (att. 2003-Dec-25)
+- **rash** 1. (_noun_) sand
+- **rashi** 1. (_noun_) bank of a river, beach (near a lake, sea, ocean); sandy area along body of water (att. 2008-Jun-22)
+- **redjam** 1. (_kun verb_) to saddle, to prepare an animal for riding (att. 2008-Jun-22)
+- **redjau** 1. (_noun_) saddle (att. 2008-Jun-22)
+- **rez.as** 1. (_ton verb_) to stand, to present or show respect, to (stand or be) ready for a struggle or challenge (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
+- **reixa** 1. (_ton verb_) bloom, grow, unfold (as a flower)
+- **-rek** 1. (_verd suffix_) shall (att. 2003-Dec-25)
+- **relya** 1. (_noun_) courage, valour, bravery (formerly _relja_; att. 2003-Dec-25)
+- **ren.is** 1. (_ton verb_) fearing, worrying
+- **réjo** 1. (_noun_) family (att. 2008-Jun-22)
+- **repin** 1. (_noun_) a source of input, the value of an input (formerly _kunrep_; att. 2003-Dec-25)
+- **repi.ngos** 1. (_ton verb_) to enter information, to input (formerly _kunrepton_; att. 2003-Dec-25)
+- **-ri** 1. (_suffix, descriptor_) grosses (${144\text{s}_{10}}$, or ${100\text{s}_{12}}$) (att. 2003-Dec-25)
+- **-rin** 1. (_verb suffix_) possible to do (att. 2008-Jun-22)
+- **-rín** (_suffix_) well, sufficient, exceptional (att. 2003-Dec-25)
+- **ríntaro** 1. (_noun_) possible (att. 2008-Jun-22)
+- **rishen** 1. (_noun_) farm (att. 2008-Jun-22)
+- **rishe.ru** 1. (_ton verb_) farm (att. 2008-Jun-22)
+- **rishetax** 1. (_noun_) farmer (att. 2008-Jun-22)
+- **rist** 1. (_descriptor_) right, proper, correct (att. 2021-Apr-22)
+- **rukamakend** 1. (_noun_) umbrella; from _rukam_ + _makend_
+- **rukamtax** 1. (_noun_) guardian (att. 2003-Dec-25)
+- **rukam.os** 1. (_ton verb_) guard, protect (att. 2003-Dec-25)
+- **rukib** 1. (_noun_) odds, probability, ratio (att. 2003-Dec-25)
+- **robar** 1. (_noun_) robot, automaton (att. 2003-Dec-25; _formerly "robo"_)
+- **rodaiti** 1. (_noun_) grand-daughter (att. 2003-Dec-25)
+- **roha** 1. (_descriptor_) red (att. 2003-Dec-25)
+- **rokan** 1. (_noun_) grandson (att. 2003-Dec-25)
+- **roqints.el** 1. (_ton verb_) float on air (att. 2021-Apr-22)
+- **rom** 1. (_noun_) wind, air, sky; element or region (att. 2008-Jun-22)
+- **romari** 1. (_noun_) comparison (att. 2003-Dec-25)
+- **romar.ing** 1. (_ton verb_) compare (att. 2003-Dec-25)
+- **romiluan** 1. (_proper noun_) November, Wind's Month
+- **romjia** 1. (_proper noun_) Tuesday (of odd-numbered weeks), wind-day

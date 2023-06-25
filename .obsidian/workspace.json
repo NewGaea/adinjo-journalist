@@ -18,19 +18,73 @@
             }
           },
           {
-            "id": "616cfd456bc10141",
+            "id": "ee3ef1fb5952c2e5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/adinjo_lexicon.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "23ba4f0de8f2635e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/word_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d187d0d089bbf267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062ede0fa23e9f4c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/a/_dict_a.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f2152b175acd2f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a87cc486ea04706c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "texts/r_conlangs/lexember/2018/32_final.md",
+                "file": "lexicon/a/a.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "637e9b683719bf5f",
@@ -96,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "texts/r_conlangs/lexember/2018/32_final.md",
+                "file": "lexicon/a/a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "texts/r_conlangs/lexember/2018/32_final.md",
+                "file": "lexicon/a/a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,8 +191,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "texts/r_conlangs/lexember/2018/32_final.md"
+                "file": "lexicon/a/a.md"
               }
+            }
+          },
+          {
+            "id": "e0bd551b065d80d9",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ],
@@ -145,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,47 +218,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "616cfd456bc10141",
+  "active": "a87cc486ea04706c",
   "lastOpenFiles": [
+    "lexicon/a/_dict_a.md",
+    "lexicon/adinjo_lexicon.md",
+    "lexicon/thematic/gender_sex_sexuality.md",
+    "lexicon/thematic/colours.md",
+    "lexicon/a/adin.md",
+    "lexicon/a/ademba.md",
+    "lexicon/a/ace.md",
+    "lexicon/a/acoré.md",
+    "lexicon/a/aimi.md",
+    "lexicon/persephone/_intro.md",
+    "lexicon/firolan/_intro.md",
+    "lexicon/a/adan.md",
+    "lexicon/firolan/a/_firolan_a.md",
+    "lexicon/firolan/a/a.md",
+    "audio/dir/ademba.mp3.md",
+    "audio/dir",
+    "_templates/word_template.md",
+    "lexicon/t/temba.md",
+    "lexicon/a/aimei.md",
+    "texts/music/pokemon_english_theme_song.md",
+    "lexicon/a/ábul.md",
+    "lexicon/a/abs.md",
+    "lexicon/a/a.md",
+    "lexicon/b/_dict_b.md",
+    "audio/dir/file..md",
+    "lexicon/c/_dict_c.md",
+    "lexicon/c/chin.md",
+    "grammar/ch07_analyzed_texts",
+    "grammar/ch06_semantics_pragmatics",
+    "grammar/ch05_syntax",
+    "grammar/ch04_derivation",
+    "grammar/ch03_morphology",
+    "grammar/ch02_sounds_script",
+    "grammar/ch01_intro_meta",
+    "Untitled.canvas",
     "texts/r_conlangs/lexember/2018/media/POaaVpB.png",
     "texts/r_conlangs/lexember/2018/media",
-    "texts/literature/one_fish_two_fish.md",
-    "t/temba.md",
-    "t",
-    "lexicon/h/ha.md",
-    "lexicon/h",
-    "lexicon/adinjo_lexicon.md",
-    "lexicon/a/_dict_a.md",
-    "lexicon/_files/loanwords.md",
-    "lexicon/_files/lexicon_simple.md",
-    "lexicon/_files/lexicon_loans.md",
-    "lexicon/_files/lexicon_phrasebook.md",
-    "lexicon/_files/lexicon_generated.md",
-    "lexicon/_files/lexicon_etymology.md",
-    "lexicon/_files/lexicon_2020.md",
-    "lexicon/_files/lexicon_bare.md",
-    "lexicon/_files/lexicon_2022.md",
-    "lexicon/_files/lexicon_2024.md",
-    "lexicon/_files/lexicon_2016.md",
-    "lexicon/_files/lexicon_2012.md",
-    "lexicon/_files/lexicon_2008.md",
-    "lexicon/_files/lexicon_2004.md",
-    "lexicon/_files",
-    "lexicon-persephone/a/a.md",
-    "lexicon-persephone/_intro.md",
-    "lexicon-persephone/a",
-    "lexicon-persephone",
-    "audio/01-adob/ogg/aur.ogg",
-    "audio/01-adob/ogg/auf.ogg",
-    "audio/01-adob/ogg/ábul.ogg",
-    "audio/01-adob/ogg/atki.ogg",
-    "a/aimei.md",
-    "_templates/word_template.md",
-    "_templates/lexicon_periodic_template.md",
-    "Untitled.canvas",
-    "().md"
+    "t"
   ]
 }

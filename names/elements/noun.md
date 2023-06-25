@@ -14,7 +14,7 @@ The following table indicates simple or basic nouns, simple ideas which are not 
 
 | English Meaning   | Adinjo    | Initial      | Medial  | Final      |
 |:-----------------:|:---------:|:------------:|:-------:|:----------:|
-| arrow             | [nayu](../../lexicon/n/nayu.md)      | na, nay      | --      | yu         |
+| arrow             | nayu      | na, nay      | --      | yu         |
 | battle, fight     | lekake    | lek, leka    | --      | ake        |
 | bear (animal)     | sonros    | son(o)       | --      | ros        |
 | bear (animal)     | arcon     | ar, arc      | --      | son        |
@@ -34,7 +34,7 @@ The following table indicates simple or basic nouns, simple ideas which are not 
 | hammer            | --        | --           | --      | --         |
 | home              | domya     | dom          | --      | (o)mya     |
 | hope              | entir     | ent, enti    | --      | tír        |
-| horse             | [ashaun](../../lexicon/a/ashaun.md)    | --           | --      | --         |
+| horse             | ashaun    | --           | --      | --         |
 | house             | ucmat     | uc, us       | --      | mat        |
 | ice               | elz       | --           | --      | --         |
 | iron              | haiga     | hai          | --      | ga         |

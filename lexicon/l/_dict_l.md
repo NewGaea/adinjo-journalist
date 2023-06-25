@@ -1,0 +1,86 @@
+# L
+[[_dict_q|Q]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_m|M]]
+
+- **la** 1. (_conjunction_) yet, however 2. (_descriptor_) yet, by now, until now
+- **lai** 1. (_pronoun, dual gender_) dual gender pronoun (att. 2021-Apr-22)
+- **laire** 1. (_noun_) bank of a river (att. 2008-Jun-22)
+- **laive.ns** 1. (_ton verb_) pale, fade
+- **lakulu** 1. (_ton verb_) rule, guideline, law
+- **lama** 1. (_noun_) the name of the twelfth letter of the _adobat_ (att. 1998-Dec-31) 2. (_noun_) chin (att. 2008-Jun-22)
+- **lama.j** 1. (_ton verb_) scare, frighten, startle (att. 2008-Jun-22) _formerly "lamu.ji"_
+  - **lama he kinma** 1. (_expression_) scare half to death (att. 2003-Dec-25) _formerly "lama to kinma"_
+- **lambin** 1. (_noun_) completion, conclusion (att. 2002-Jul-31)
+- **lambi.ra** 1. (_ton verb_) complete (att. 2002-Jul-31)
+- **lamo** 1. (_noun_) only, just, simply (att. 2002-Jul-31)
+- **lan-** 1. (_prefix, noun_) self, indicator of the reflexive pronoun (att. 2003-Dec-25)
+- **lanai** 1. (_descriptor, dual gender_) of both genders, male and female, hermaphrodite, intersex (att. 2021-Apr-22)
+- **landjyu** 1. (_noun, dual gender_) hermaphrodite, intersex (att. 2021-Apr-22)
+- **lanja** 1. (_noun_) island, especially a volcanic island (att. 2022-Apr-13)
+- **lapi.n** 1. (_ton verb_) consider (att. 2002-Jul-31)
+- **lapiné** 1. (_descriptor_) considerate (att. 2002-Jul-31)
+- **lapuindo** 1. (_noun_) consideration (att. 2003-Dec-25)
+- **larijmo** 1. (_noun_) kingdom, country, nation (att. 2002-Jul-31)
+- **larmo** 1. (_descriptor_) two-dozen (${24_{10} or 20_{12}}$; att. 2002-Jul-31)
+- **larn** 1. (_descriptor_) two (att. 2002-Jul-31)
+- **larngu** 1. (_noun_) double, duplicate
+- **larngudin** 1. (_noun_) doppelganger
+- **larndelma** 1. (_pronoun_) both actions (att. 2022-Jun-04)
+- **larndin** 1. (_pronoun_) both people (att. 2022-Jun-04)
+- **larnqonjinu** 1. (_descriptor_) bilingual, familiar with two languages (att. 2022-Jun-04)
+- **larnjyu** 1. (_descriptor_) of two categories, both (att. 2022-Jun-04)
+- **larnri** 1. (_descriptor_) second (att. 2002-Jul-31)
+- **laume.r** 1. (_ton verb_) call, summon (att. 2008-Jun-22)
+- **laumétax** 1. (_noun_) page, one who delivers summons (att. 2008-Jun-22)
+- **lav** 1. (_noun_) soul, spirit (att. 1998-Jun-01)
+- **laven** 1. (_descriptor_) pale (att. 2002-Jul-31)
+- **lavendur** 1. (_noun_) pale flower (att. 2002-Jul-31)
+- **leka'e** 1. (_noun_) fight, battle, combat (formerly _lekake_; att. 2002-Jul-31)
+- **leka'e'i natrein** 1. (_noun_) martial art, combat style
+- **leka.ki** 1. (_ton verb_) fight, battle, engage in combat (formerly _lekakton_; att. 2002-Jul-31)
+- **lekatax** 1. (_noun_) soldier
+- **lekto** 1. (_noun_) liquid (state of matter) (att. 2003-Dec-25; _formerly "lektho"_)
+- **lesin** 1. (_noun_) page of a book (att. 2008-Jun-22)
+- **lex.orma** 1. (_ton verb_) defeat (final); indicates a final, deadly or crippling defeat (formerly _lesin_; att. 2002-Jul-31)
+- **libra.un** 1. (_ton verb_) free (att. 2008-Jun-22)
+- **ligore.m** 1. (_ton verb_) to broadcast
+- **lici** 1. (_noun_) stick (att. 2003-Dec-25)
+- **limien** 1. (_noun_) example (att. 2008-Jun-22)
+- **limpa** 1. (_noun_) pit, hole, well (for water) (att. 2002-Jul-31)
+- **lin** 1. (_descriptor_) like, alike, as, similar to (att. 2002-Jul-31)
+- **linhiro** 1. (_descriptor_) king-like (for living things; more casual or informal) (att. 2021-Apr-22)
+- **link** 1. (_noun_) shirt (att. 2003-Dec-25)
+- **lij.e** 1. (_ton verb_) title, give one a title; to label, to call by a label (especially in th active) (att. 2008-Jun-22)
+- **liju** 1. (_noun_) title, a term one is called by (att. 2008-Jun-22)
+- **lirja** 1. (_noun_) message; in any form (formerly _liruja_; att. 2002-Jul-31)
+- **lirjatax** 1. (_noun_) messenger, one who delivers messages (att. 2021-Apr-22)
+- **lixajo** 1. (_noun_) artificial language, created language, conlang (noun), auxlang (noun)
+- **lixa.st** 1. (_ton verb_) build, construct, create, make (att. 2002-Jul-31)
+- **liyer** 1. (_descriptor_) gentle, kind (att. 2009-Nov-06)
+- **liwin** 1. (_descriptor_) alone (att. 2021-Apr-22)
+- **luan** 1. (_noun_) moon 2. (_noun_) month (att. 2008-Jun-22)
+- **luando** 1. (_noun_) month (att. 2008-Jun-22)
+- **luaniluan** 1. (_noun_) moon's moon, moon's month, September, the month of the autumnal equinox, the 10th month of the Imperial Adin calendar for Earth
+- **luanjia** 1. (_noun_) moonday, Monday of odd weeks
+- **lukard** 1. (_noun_) offer, proposition (att. 2003-Dec-25)
+- **lukar.el** 1. (_ton verb_) offer (att. 2003-Dec-25)
+- **lum** 1. (_descriptor_) six (att. 2003-Dec-25; _formerly "lumen"_)
+- **lurok.an** 1. (_ton verb_) tense, tighten (att. 2021-Apr-22)
+- **lurokel** 1. (_noun_) tension, tightness, tautness (att. 2021-Apr-22)
+- **lux** 1. (_noun_) sage, scholar, bard, minstrel (att. 2008-Jun-22)
+- **luxan** 1. (_descriptor_) four (att. 2003-Dec-25)
+- **luxe.sh** 1. (_ton verb_) select, choose (att. 2003-Dec-25)
+- **loika** 1. (_noun_) devil, demon, a malicious or mischievous spirit (att. 2008-Jun-22)
+- **lok.ec** 1. (_ton verb_) care, have compassion (att. 2003-Dec-25)
+- **lokthamer** 1. (_noun_) creation (att. 2003-Dec-25)
+- **loktha.rel** 1. (_ton verb_) create, make (att. 2003-Dec-25)
+- **lokthatax** 1. (_noun_) creator (att. 2003-Dec-25)
+- **lolo** 1. (_noun_) revenge, vengeance (att. 2003-Dec-25)
+- **lolos.en** 1. (_ton verb_) avenge (att. 2003-Dec-25)
+- **lomaruhen** 1. (_noun_) gene (att. 2008-Jun-22)
+- **lonakudj** 1. (_noun_) pass word, pass code (unknown origin, modern slang) (att. 2003-Dec-25)
+- **lorek** 1. (_noun_) brightness, light (att. 2003-Dec-25)
+- **lorn** 1. (_noun_) 1. plain, flatland (att. 2003-Dec-25) 2. surface, table (att. 2022-Jun-05)
+- **lotre.gur** 1. (_ton verb_) enter an area or place
+- **lotrek** 1. (_noun_) entry, a path or means of entering
+- **lofar** 1. (_descriptor_) slow, deliberate, measured, cautious
+- **lofke** 1. (_kun verb_) counter, defeat (halting); this term indicates that the defeat was a slowing or halting (att. 2003-Dec-25)
