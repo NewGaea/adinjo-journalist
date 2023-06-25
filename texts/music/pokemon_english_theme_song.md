@@ -6,55 +6,65 @@ Adinjo Text
 
 ### Verse 1 ###
 
-> ```
-> yi  ansayoch        jontol'rin,  din'a       lin'a     kérin.
-> 1S  be-exceptional  wish.INT,    people.NEG  like.NEG  before
-> I wish to be great, unlike people before me.
->
-> (kuyi)    campan  xau   shi  duraben,      qanir  shi   koenen.
-> GEN.1S  test    true  3PL  capture.GER,  cause  them  teach.GER.
-> My true campaign is catching them, my cause is teaching them
->
-> (yi  ba)    planci  mogan   jocotochi,      anij        ni  nuqesir
-> 1S  this  land    across  adventure.FUT,  UNIV.place  in  search.GEN
-> I will adventure across this land, searching everywhere.
->
-> A'POKÉMON  (hi   kushi)     mirants  ijin
-> all   Pokémon  and  GEN.them  power    know.INF
-> To know all of the Pokémon and their powers.
-> ```
+```gloss
+\gla yi  ansayoch jontol'rin, din'a lin'a kérin.
+\glb 1S  be-exceptional  wish.INT,    people.NEG  like.NEG  before
+\ft I wish to be great, unlike people before me.
+```
+
+```gloss
+\gla (kuyi) campan xau shi duraben, qanir shi koenen.
+\glb GEN.1S  test    true  3PL  capture.GER,  cause  them  teach.GER.
+\ft My true campaign is catching them, my cause is teaching them
+```
+
+```gloss
+\gla (yi  ba)    planci  mogan   jocotochi,      anij        ni  nuqesir
+\glb 1S  this  land    across  adventure.FUT,  UNIV.place  in  search.GEN
+\ft I will adventure across this land, searching everywhere.
+```
+```gloss
+\gla A'POKÉMON  (hi   kushi)     mirants  ijin
+\glb all.Pokémon  and  GEN.them  power    know.INF
+\ft To know all of the Pokémon and their powers.
+```
 
 ### Refrain ###
 
-> ```
-> (POKÉMON!  kuri shi  durab!)
-> (Pokémon   all  them catch.INF)
-> (Pokémon! to catch them all)
->
-> ki   an'varmel!
-> 1PL  be-together
-> We're together!
->
-> kuki    nadir   ijinton!
-> GEN.1PL destiny know.PRES
-> (I) Know our destiny!
->
-> (POKÉMON!)  Ah!
-> (Pokémon)   Ah!
-> (Pokémon!) Ah!
->
-> kuyi    tomodak  sayrin:
-> GEN.1S  friend   best
-> My best friend:
->
-> ki  múri   faictochi
-> 1PL  world  defend.FUT
-> We will defend the world
-> ```
+```gloss
+\gla (POKÉMON!  kuri shi  durab!)
+\glb (Pokémon   all  them catch.INF)
+\ft (Pokémon! to catch them all)
+```
+```gloss
+\gla ki   an'varmel!
+\glb 1PL  be-together
+\ft We're together!
+```
+```gloss
+\gla kuki    nadir   ijinton!
+\glb GEN.1PL destiny know.PRES
+\ft (I) Know our destiny!
+```
+```gloss
+\gla (POKÉMON!)  Ah!
+\glb (Pokémon)   Ah!
+\ft (Pokémon!) Ah!
+```
+```gloss
+\gla kuyi    tomodak  sayrin:
+\glb GEN.1S  friend   best
+\ft My best friend:
+```
+```gloss
+\gla ki  múri   faictochi
+\glc 1PL  world  defend.FUT
+\ft We will defend the world
+```
 
 ### Refrain 2 ###
 
-> ```
+```
 > (POKÉMON!  kuri shi  durab!)
 > (Pokémon   all  them catch.INF)
 > (Pokémon! to catch them all)
@@ -90,26 +100,26 @@ Adinjo Text
 > ki shenzatochi aye varmel, lin ki jontol atemba
 > 1PL win-victory.FUT hand together, like we dream UNIV.time
 > We will win hand in hand, as in our constant dream.
-> ```
+```
 
 Adinjo Lyrics
 -------------
 
-yi ansayoch jontol'rin,
-din'a lin'a kérin.
+[yi](lexicon/y/yi) ansayoch jontol'rin,
+din'a lin'a [kérin](lexicon/k/kérin).
 kyi campan xau shi duraben,
 qanir shi koenen.
 
 planci mogan jocotochi,
-anij ni nuqesir
-kri POKÉMON hi kushi
-mirants ni ijin
+[a](lexicon/a/a)[nij](lexicon/n/nij) [ni](lexicon/n/ni) nuqesir
+kri POKÉMON [hi](lexicon/h/hi) kushi
+miranc ni ijin
 
-(POKÉMON! kuri shi durab!)
-ki an'varmel!
+(POKÉMON! [kuri](lexicon/k/ki) [shi](lexicon/s/shi) durab!)
+[ki](lexicon/k/ki) an'varmel!
 kuki nadir ijinton!
-(POKÉMON!) To-
--modak sayrin:
+(POKÉMON!) [To-](lexicon/t/tomodak)
+[-modak](lexicon/t/tomodak) sayrin:
 ki múri faicochi
 
 (POKÉMON! kuri shi durab!)

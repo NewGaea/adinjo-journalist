@@ -1,5 +1,6 @@
 # temba
 ---
+[[_dict_t|Return to List of Words beginning with T]]
 
 ## Forms
 1. **temba** #noun
@@ -10,7 +11,10 @@
 ### Other Forms
 
 - **tembaha**
-  1. (_negative_) no time, outside of time
+	1. (_negative_) no time, outside of time
+- **a'temba**
+	 1. (_noun, universal_) all of time, eternity
+	 2. (_descriptor_) (of) all time, eternal, everlasting, forever
 
 ### Derivation
 
@@ -18,11 +22,8 @@ May be related to Latin _tempo_.
 
 ### Related Words
 
-- **ademba**
+- **[ademba](lexicon/a/ademba)**
 	1. (_noun, indefinite_) any time, one time
-- **a'temba**
-	 1. (_noun, universal_) all of time, eternity
-	 2. (_descriptor_) (of) all time, eternal, everlasting, forever
 
 ## General Tags
 

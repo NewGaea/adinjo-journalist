@@ -20,6 +20,7 @@
 - **chanjia** 1. (_noun_) week (att. 2003-Dec-25; _formerly "gia"_)
 - **cherílya** 1. (_noun_) introduction (att. 2003-Dec-25)
 - **chérí.sol** 1. (_ton verb_) introduce (att. 2003-Dec-25)
+- **[chin](lexicon/c/chin)** 1. (_noun_) younger brother (att. 2003-Dec-25) 2. (_noun suffix_) younger brother of; used as an honorific to refer to another person's younger brother (att. 2003-Dec-25) 3. (_noun, suffix_) junior, mentee, understudy (att. 2003-Dec-25)
 - **chijin** 1. (_noun_) knowledge (att. 2003-Dec-25)
 - **chuma.stel** 1. (_ton verb_) having, possessing, owning (att. 2003-Dec-25)
 - **chu-**, **chur-** 1. (_prefix_) great, grand (att. 2003-Dec-25)
@@ -40,7 +41,6 @@
 - **cici** 1. (_pronoun, informal_) little one, a pronoun used to refer to young children, especially family (att. 2022-Jun-23)
 - **cimaru** 1. (_noun_) history, times past; the past
 - **cimarutwa** 1. (_noun_) history book
-- **cin** 1. (_noun_) younger brother (att. 2003-Dec-25) 2. (_noun suffix_) younger brother of; used as an honorific to refer to another person's younger brother (att. 2003-Dec-25) 3. (_noun, suffix_) junior, mentee, understudy (att. 2003-Dec-25)
 - **cir** 1. (_positional_) near, close, soon (att. 2008-Jun-22)
 - **ciron** 1. (_descriptor_) yellow (att. 2003-Dec-25; _formerly "ksiron"_)
 - **cún** 1. (_positional_) out, outside (att. 2003-Dec-25)

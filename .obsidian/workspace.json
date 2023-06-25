@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexicon/b/_dict_b.md",
+                "file": "lexicon/adinjo_lexicon.md",
                 "mode": "source",
                 "source": false
               },
@@ -32,14 +32,54 @@
             }
           },
           {
-            "id": "d29d25bfd3bb6cba",
+            "id": "23ba4f0de8f2635e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/word_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d187d0d089bbf267",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062ede0fa23e9f4c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lexicon/a/_dict_a.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "006760f672e4553e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a917d6870803db3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexicon/b/blani.md",
+                "file": "lexicon/thematic/gender_sex_sexuality.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -110,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lexicon/adinjo_lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lexicon/adinjo_lexicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,14 +189,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "lexicon/adinjo_lexicon.md"
+              }
+            }
+          },
+          {
+            "id": "e0bd551b065d80d9",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,48 +217,49 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "2187181674749490",
+  "active": "ee3ef1fb5952c2e5",
   "lastOpenFiles": [
-    "lexicon/b/blani.md",
-    "texts/old_texts/orig_blani_blani.md",
-    "lexicon/b/_dict_b.md",
-    "lexicon/b/blanisa.md",
-    "amenar.md",
-    "and.md",
-    "blani.md",
-    "lexicon/a/andèn.md",
-    "names/elements/descriptor.md",
-    "names/elements/noun.md",
-    "lexicon/b/bès.md",
-    "lexicon/w/_dict_w.md",
-    "lexicon/o/_dict_o.md",
-    "lexicon/x/_dict_x.md",
-    "lexicon/v/_dict_v.md",
-    "lexicon/f/_dict_f.md",
-    "lexicon/y/_dict_y.md",
-    "lexicon/u/_dict_u.md",
-    "lexicon/t/_dict_t.md",
+    "lexicon/thematic/gender_sex_sexuality.md",
+    "lexicon/adinjo_lexicon.md",
+    "lexicon/thematic/colours.md",
+    "lexicon/a/_dict_a.md",
+    "lexicon/a/adin.md",
+    "lexicon/a/ademba.md",
+    "lexicon/a/ace.md",
+    "lexicon/a/acoré.md",
+    "lexicon/a/aimi.md",
+    "lexicon/persephone/_intro.md",
+    "lexicon/firolan/_intro.md",
+    "lexicon/a/adan.md",
+    "lexicon/firolan/a/_firolan_a.md",
+    "lexicon/firolan/a/a.md",
+    "audio/dir/ademba.mp3.md",
+    "audio/dir",
+    "_templates/word_template.md",
     "lexicon/t/temba.md",
-    "lexicon/s/_dict_s.md",
-    "lexicon/r/_dict_r.md",
-    "lexicon/p/_dict_p.md",
-    "lexicon/j/_dict_j.md",
-    "lexicon/n/_dict_n.md",
-    "lexicon/m/_dict_m.md",
+    "lexicon/a/aimei.md",
+    "texts/music/pokemon_english_theme_song.md",
+    "lexicon/a/ábul.md",
+    "lexicon/a/abs.md",
+    "lexicon/a/a.md",
+    "lexicon/b/_dict_b.md",
+    "audio/dir/file..md",
+    "lexicon/c/_dict_c.md",
+    "lexicon/c/chin.md",
+    "grammar/ch07_analyzed_texts",
+    "grammar/ch06_semantics_pragmatics",
+    "grammar/ch05_syntax",
+    "grammar/ch04_derivation",
+    "grammar/ch03_morphology",
+    "grammar/ch02_sounds_script",
+    "grammar/ch01_intro_meta",
+    "Untitled.canvas",
     "texts/r_conlangs/lexember/2018/media/POaaVpB.png",
     "texts/r_conlangs/lexember/2018/media",
-    "t",
-    "lexicon/h",
-    "lexicon/_files",
-    "lexicon-persephone/a",
-    "lexicon-persephone",
-    "audio/01-adob/ogg/aur.ogg",
-    "audio/01-adob/ogg/auf.ogg",
-    "audio/01-adob/ogg/ábul.ogg",
-    "audio/01-adob/ogg/atki.ogg",
-    "Untitled.canvas"
+    "t"
   ]
 }

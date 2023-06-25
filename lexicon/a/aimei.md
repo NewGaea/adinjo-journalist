@@ -1,6 +1,6 @@
 # aimei
 ---
-[[_dict_a|Return to List of Words beginning with A]]
+[[lexicon/a/_dict_a|Return to List of Words beginning with A]]
 
 ## Forms
 1. **aimei**

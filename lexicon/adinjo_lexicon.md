@@ -32,8 +32,10 @@
 
 **NOTE:** This listing may not include all words coined in 2021 or more recently. While attempts will be made to incoporate the biennial wordlists regularly, it is to be expected that this listing may, at times, be behind the curve of the latest coinages.
 
+If you would like to explore or contribute to a dictionary written _in_ Adinjo Journalist, you may add entries under _**[Firolan's Unabridged Dictionary](lexicon/firolan/_intro)**_, while if you want to explore or contribute to a richer English language translator's dictionary, you may contribute to _**[Persephone's Dictionary for English Speakers](lexicon/persephone/_intro)**_
+
 ## A
-[[_dict_a|Dictionary Listing for A]]
+[[lexicon/a/_dict_a|Dictionary Listing for A]]
 
 - **-a** 1. (_generic suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_) 2. (**-a-**) (_kun verb affix_) no, not; replaces the last vowel in the root (att. 2003-Dec-25; cf. _ha_)
 - **a-** 1. (_noun prefix_) all, each, every (att. 2003-Dec-25)
@@ -136,7 +138,7 @@
 - **axen** 1. (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
 
 ## B
-[[_dict_b|Dictionary Listing for B]]
+[[lexicon/b/_dict_b|Dictionary Listing for B]]
 
 - **ba** 1. (_descriptor, prefix_) this; immediate proximate demonstrative (att. 2003-Dec-25)
 - **baci.re** 1. (_ton verb_) seeing, viewing; watching (att. 2002-Jul-31)
@@ -1358,6 +1360,10 @@
 - **worka.in** 1. (_ton verb_) bear, carry (att. 2008-Jun-22)
 - **workait** 1. (_verb form_) be born from "born" (att. 2021-Apr-22)
 - **workatol** 1. (_verb form_) give birth Literally "bearing" (att. 2021-Apr-22)
+
+## HYPOTHETICAL ROOTS
+
++ **abs\*** 1. (_descriptor_) hueless light
 
 ## OLD FORMS
 
