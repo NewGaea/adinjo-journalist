@@ -69,16 +69,16 @@
         ]
       },
       {
-        "id": "006760f672e4553e",
+        "id": "9f2152b175acd2f3",
         "type": "tabs",
         "children": [
           {
-            "id": "a917d6870803db3f",
+            "id": "a87cc486ea04706c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexicon/thematic/gender_sex_sexuality.md",
+                "file": "lexicon/a/a.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "637e9b683719bf5f",
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lexicon/adinjo_lexicon.md",
+                "file": "lexicon/a/a.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lexicon/adinjo_lexicon.md",
+                "file": "lexicon/a/a.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lexicon/adinjo_lexicon.md"
+                "file": "lexicon/a/a.md"
               }
             }
           },
@@ -221,12 +222,12 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "ee3ef1fb5952c2e5",
+  "active": "a87cc486ea04706c",
   "lastOpenFiles": [
-    "lexicon/thematic/gender_sex_sexuality.md",
-    "lexicon/adinjo_lexicon.md",
-    "lexicon/thematic/colours.md",
     "lexicon/a/_dict_a.md",
+    "lexicon/adinjo_lexicon.md",
+    "lexicon/thematic/gender_sex_sexuality.md",
+    "lexicon/thematic/colours.md",
     "lexicon/a/adin.md",
     "lexicon/a/ademba.md",
     "lexicon/a/ace.md",
