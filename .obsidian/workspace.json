@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_basics.md",
+                "file": "grammar/simple_grammar/01_basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_basics.md",
+                "file": "grammar/simple_grammar/01_basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_basics.md",
+                "file": "grammar/simple_grammar/01_basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_basics.md"
+                "file": "grammar/simple_grammar/01_basics.md"
               }
             }
           },
@@ -186,10 +186,10 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "1ea5ea46e6aaad08",
+  "active": "a23ff5513f7498fe",
   "lastOpenFiles": [
     "grammar/simple_grammar/00_introduction.md",
-    "01_basics.md",
+    "grammar/simple_grammar/01_basics.md",
     "lexicon/a/ademba.md",
     "grammar/advanced_grammar",
     "grammar/simple_grammar",
