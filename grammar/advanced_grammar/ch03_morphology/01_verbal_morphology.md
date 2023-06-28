@@ -314,4 +314,4 @@ On top of the qualitatives, you can compare multiple people within a category by
 ```
 ---
 
-[Next Section: Noun Morphology](02_noun_morphology)
+[Next Section: Noun Morphology](02_noun_morphology.md)

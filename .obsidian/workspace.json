@@ -16,55 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "ee3ef1fb5952c2e5",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lexicon/adinjo_lexicon.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "23ba4f0de8f2635e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_templates/word_template.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d187d0d089bbf267",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "062ede0fa23e9f4c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lexicon/a/_dict_a.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
           }
         ]
       },
@@ -78,13 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lexicon/a/a.md",
+                "file": "grammar/simple_grammar/00_introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea5ea46e6aaad08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "637e9b683719bf5f",
@@ -151,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lexicon/a/a.md",
+                "file": "01_basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lexicon/a/a.md",
+                "file": "01_basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lexicon/a/a.md"
+                "file": "01_basics.md"
               }
             }
           },
@@ -208,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 277.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,45 +186,45 @@
       "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
-  "active": "a87cc486ea04706c",
+  "active": "1ea5ea46e6aaad08",
   "lastOpenFiles": [
+    "grammar/simple_grammar/00_introduction.md",
+    "01_basics.md",
+    "lexicon/a/ademba.md",
+    "grammar/advanced_grammar",
+    "grammar/simple_grammar",
     "lexicon/a/_dict_a.md",
+    "lexicon/a/adan.md",
+    "lexicon/a/ábul.md",
+    "lexicon/a/abs.md",
+    "lexicon/a/a.md",
+    "_templates/word_template.md",
     "lexicon/adinjo_lexicon.md",
     "lexicon/thematic/gender_sex_sexuality.md",
     "lexicon/thematic/colours.md",
     "lexicon/a/adin.md",
-    "lexicon/a/ademba.md",
     "lexicon/a/ace.md",
     "lexicon/a/acoré.md",
     "lexicon/a/aimi.md",
     "lexicon/persephone/_intro.md",
     "lexicon/firolan/_intro.md",
-    "lexicon/a/adan.md",
     "lexicon/firolan/a/_firolan_a.md",
     "lexicon/firolan/a/a.md",
     "audio/dir/ademba.mp3.md",
     "audio/dir",
-    "_templates/word_template.md",
     "lexicon/t/temba.md",
     "lexicon/a/aimei.md",
     "texts/music/pokemon_english_theme_song.md",
-    "lexicon/a/ábul.md",
-    "lexicon/a/abs.md",
-    "lexicon/a/a.md",
     "lexicon/b/_dict_b.md",
     "audio/dir/file..md",
-    "lexicon/c/_dict_c.md",
-    "lexicon/c/chin.md",
-    "grammar/ch07_analyzed_texts",
-    "grammar/ch06_semantics_pragmatics",
-    "grammar/ch05_syntax",
-    "grammar/ch04_derivation",
-    "grammar/ch03_morphology",
-    "grammar/ch02_sounds_script",
-    "grammar/ch01_intro_meta",
+    "grammar/advanced_grammar/ch07_analyzed_texts",
+    "grammar/advanced_grammar/ch06_semantics_pragmatics",
+    "grammar/advanced_grammar/ch05_syntax",
+    "grammar/advanced_grammar/ch04_derivation",
+    "grammar/advanced_grammar/ch03_morphology",
+    "grammar/advanced_grammar/ch02_sounds_script",
+    "grammar/advanced_grammar/ch01_intro_meta",
     "Untitled.canvas",
-    "texts/r_conlangs/lexember/2018/media/POaaVpB.png",
-    "texts/r_conlangs/lexember/2018/media",
-    "t"
+    "texts/r_conlangs/lexember/2018/media/POaaVpB.png"
   ]
 }

@@ -1,4 +1,4 @@
-ademba
+# ademba
 ---
 [Return to Wordlist](lexicon/a/_dict_a.md)
 
