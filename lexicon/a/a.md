@@ -1,3 +1,8 @@
+---
+tags: dictionary, lexicon, word, pronoun, descriptor, prefix, suffix
+word:: pronoun, descriptor, prefix, suffix
+English:: all; every, each, great, grand, superior, no, not, un-, im-]
+---
 # a 
 ---
 [[lexicon/a/_dict_a|Return to List of Words beginning with A]]
