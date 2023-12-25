@@ -1,3 +1,4 @@
-
 .obsidian/
 .obsidian-mobile/
+.trash/
+*.ini
