@@ -135,7 +135,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - garnanun (gen. 2022-06-23)
 - **gaym** (att. 1998-Dec-31)
   1. (_noun_) the name of the third letter of the _adobat_ (att. 1998-Dec-31)
-- gebli (gen. 2022-06-20)
+- **gebli** (gen. 2022-06-20)
+  1. (_noun._) butter 2. ice cream (2023-Dec-11)
 - gí (gen. 2022-06-20)
 - giði (gen. 2022-06-20)
 - giheis (gen. 2022-06-23)
@@ -145,8 +146,10 @@ Note that there is no guarantee that these random words are entirely suitable fo
   3. (_noun, slang_) the price of an item in a store or catalog
 - ginpa (gen. 2022-06-23)
 - gipapubre (gen. 2022-06-20)
-- gir (gen. 2022-06-23)
-- girina (gen. 2022-06-23)
+- **gir** (gen. 2022-06-23)
+	- 1. (_desc._) warm, mildly hot; a good state for a fresh cooked meal or brewed drink to be in (c. 2023-Dec-08)
+- **girina** (gen. 2022-06-23)
+	- 1. (_noun._) summer, warm season, hot-dry season (c. 2023-Dec-08)
 - gisesafdo (gen. 2022-06-20)
 - gléú (gen. 2022-06-20)
 - glotí (gen. 2022-06-20)
@@ -480,6 +483,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - qa (gen. 2022-06-23)
 - **qorn** (att. 1998-Dec-31)
   1. (_noun_) the name of the eleventh letter of the _adobat_ (formerly _qor_; att. 1998-Dec-31)
+  2. (_noun._) sausage; meat stuffed into the intestines or other guts of an animal
 
 ## L
 
@@ -653,7 +657,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - **pente** (att. 1998-Dec-31)
   1. (_noun_) the name of the sixteenth letter of the _adobat_ (att. 1998-Dec-31)
 - pepu (gen. 2022-06-20)
-- pem (gen. 2022-06-23)
+- **pem** (gen. 2022-06-23, coined 2023-Dec-11)
+  1. (_noun._) peppercorn, ground pepper
 - pi (gen. 2022-06-20)
 - pikolrinxom (gen. 2022-06-23)
 - piltákerdima (gen. 2022-06-23)
@@ -746,9 +751,15 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - sá (gen. 2022-06-20)
 - saa (gen. 2022-06-23)
 - saagunilcuna (gen. 2022-06-23)
-- saale (gen. 2022-06-23)
+- **saale -> sa'ale** (gen. 2022-06-23, coined 2023-Dec-11)
+  1. (_kun verb._) boiling, steaming, roasting
+  2. **sano'ale** (*noun.*) boiled food, steamed food
+  3. **sanoban** (_noun._) noodle, pasta, dumpling; steamed or boiled bread
 - saiçakim (gen. 2022-06-23)
-- salal (gen. 2022-06-23)
+- **salal** (gen. 2022-06-23, coined 2023-Dec-11)
+  1. (_noun._) cucumber, squash
+  2. (_noun._) family *cucurbitaceae*
+  3. (_noun, suffix._) melon, gourd
 - salo (gen. 2022-06-23)
 - sam (gen. 2022-06-23)
 - sajpéxaí (gen. 2022-06-20)
@@ -807,7 +818,9 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - ʃeme -> ʃéme (gen. 2022-06-23)
 - ʃen'ak (gen. 2022-06-23)
 - ʃenenum (gen. 2022-06-23)
-- ʃeusa (gen. 2022-06-23)
+- **ʃeusa** (gen. 2022-06-23)
+	1. (_noun_) fat, grease, oil (coined 2023-Sep-07)
+	- **sheusarme.las** 1. (_verb_) frying; cooking with _shuesa_ as thermal medium; from _sheusa_ (fat, grease, oil) and _burme.las_ (cooking) (coined 2023-Sep-07)
 - ʃidim (gen. 2022-06-23)
 - ʃinfier (gen. 2022-06-23)
 - ʃíjdíþúʃude (gen. 2022-06-20)
@@ -833,7 +846,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - taʤeadi (gen. 2022-06-23)
 - takatton (gen. 2022-06-23)
 - tákíbre (gen. 2022-06-20)
-- tam (gen. 2022-06-23)
+- **tam** (gen. 2022-06-23)
+	1. (_noun_) pan, skillet, griddle; any shallow pan or metal sheet for cooking with a flat bottom (coined 2023-Sep-07)
 - tan (gen. 2022-06-23)
 - tanujigair (gen. 2022-06-23)
 - tanviroar (gen. 2022-06-23)
@@ -952,7 +966,9 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - fano (gen. 2022-06-23)
 - fe (gen. 2022-06-20)
 - felrimbekaʃon (gen. 2022-06-23)
-- fiðan (gen. 2022-06-23)
+- **fiðan -> fìdhán** (gen. 2022-06-23)
+  1. (_noun._) cheese made of sheep milk
+  2. (_noun._) cheese in general
 - **fil** (att. 1998-Dec-31)
   1. (_noun_) the name of the twenty-second letter of the _adobat_ (att. 1998-Dec-31)
 - fkraá (gen. 2022-06-20)
