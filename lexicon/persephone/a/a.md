@@ -1,6 +1,6 @@
 # a
 
-_ah_
+pronounced like: _ah_
 
 1. (_descriptor, prefix_) all, every
 2. (_descriptor, prefix_) a collective or group of something
