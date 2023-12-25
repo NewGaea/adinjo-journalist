@@ -14,39 +14,57 @@ But she was already pouring him a brimming glass of spiders.
 
 ## Interlinear Gloss
 
-```txt
-"aur    yi   ci'hem       nomoreks    lukártol'galm?"
-INTER   1S   2S-towards   drink.GER   offer.PRESACT.PERM
-"May I offer you something to drink?"
+```gloss
+\ex "Aur yi ci'hem nomoreks lukártol'galm?"
+\gla "aur    yi   ci'hem       nomoreks    lukártol'galm?"
+\glb INTER   1S   2S-towards   drink.GER   offer.PRESACT.PERM
+\ft "May I offer you something to drink?"
+```
+```gloss
+\ex Fi elzblaméd bidertolot.
+\gla fi    elzblaméd   bidertolot.
+\glb 3SF   icebox      open.PASTACT.
+\ft She opened the icebox.
+```
 
-fi    elzblaméd   bidertolot.
-3SF   icebox      open.PASTACT.
-She opened the icebox.
+```gloss
+\ex "Ki twar hi almer he da'salji hi zirtanu hi sóda--"
+\gla "ki   twar    hi    almer   hi    da'salji   hi    zirtanu     hi    sóda--"
+\glb 1P    water   and   milk    and   da'salji   and   spider.PL   and   soda--
+\ft "We (have) water, milk, da'salji, spiders, soda..."
+```
 
-"ki   twar    hi    almer   hi    da'salji   hi    zirtanu     hi    sóda--"
-1P    water   and   milk    and   da'salji   and   spider.PL   and   soda--
-"We (have) water, milk, da'salji, spiders, soda..."
+```gloss
+\ex "Aur zirtanu?"
+\gla "Aur    zirtanu?"
+\glb INTER   spider.PL
+\ft "Er, spiders?"
+```
 
-"Aur    zirtanu?"
-INTER   spider.PL
-"Er, spiders?"
+```gloss
+\ex "Tech, zirtanu ju."
+\gla "Tech,   zirtanu     ju."
+\glb yes      spider.PL   now
+\glc "Yes, spiders it is."
+```
 
-"Tech,   zirtanu     ju."
-yes      spider.PL   now
-"Yes, spiders it is."
+```gloss
+\ex "A! Kuyi lukesha--"
+\gla "A!   Kuyi   lukesha--"
+\glb No!   My     choice.NEG
+\ft "No! That's not my choice..."
+```
 
-"A!   Kuyi   lukesha..."
-No!   My     choice.NEG
-"No! That's not my choice..."
-
-Kend      fi    zirtanu     hort   noc   qaritolel'rin'dyur
-However   3SF   spider.PL   with   mug   fill.PRESACT.PERF.most.well
-However, she was already filling the mug full of spiders.
+```gloss
+\ex Kend fi zirtanu hort noc qaritolel'rin'dyur.
+\gla Kend      fi    zirtanu     hort   noc   qaritolel'rin'dyur
+\glb However   3SF   spider.PL   with   mug   fill.PRESACT.PERF.most.well
+\ft However, she was already filling the mug full of spiders.
 ```
 
 ## Adinjo Text
 
-"aur yi ci'hem nomoreks lukártol'galm?" fi elzblaméd bidertolot. "ki twar hi almer hi da'salji hi zirtanu hi sóda--"
+"Aur yi ci'hem nomoreks lukártol'galm?" fi elzblaméd bidertolot. "ki twar hi almer hi da'salji hi zirtanu hi sóda--"
 
 "Aur zirtanu?"
 
