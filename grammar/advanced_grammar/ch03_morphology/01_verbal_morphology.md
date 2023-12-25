@@ -202,7 +202,6 @@ Adinjo can express various aspects on verbs: It can express perfective, permissi
 |                | -grat  | ‘least’                                                                                 |
 
 ---
-
 #### Perfective
 
 The perfective indicates an action which is viewed with a completable aspect (infinitive and gerund), and which the speaker has completed (past), is in the process of completing (present), or has a mental commitment or desire to complete (future).
@@ -269,7 +268,7 @@ The potentive indicates the ability, skill, or talent to perform an action. This
 \glc Bal speak.(now).can
 \ft Bal can speak.
 ```
-
+---
 Note that the potentive does not always suggest an ability to act, so much as it does a potential in performance of acting. The negative example could indicate that Lor is either a coward (who does not fight), or is incompetent. If Lor is forbidden to fight, one would use the negative permissive rather than the potentive. Likewise, the positive example only indicates that Bal has the ability to speak, or that he is capable of speaking well enough to take note, it does not mean he has permission (this would be the permissive aspect) or that he is speaking, or even that his current situation is conducive to speaking.
 
 ---
