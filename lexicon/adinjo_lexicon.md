@@ -264,7 +264,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
   - **damachi ci** 1. (_expression_) Thank you more formal than "Damaci" (att. 2003-Dec-25)
   - **adamachi saci** 1. (_expression_) Thank you very formal version of "thank you" (att. 2003-Dec-25)
 - **dama.i** 1. (_ton verb_) thanking (att. 2023-Jan-13)
-- **dama.rio** 1. (_ton verb_) happening, occuring, especially inevitably or passively (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05) 2. also _damarion, damarionu_ (_noun, descriptor_) happenings, news, new event, news story (cn. 2023-May-27)
+- **dama.rio** 1. (_ton verb_) happening, occurring, especially inevitably or passively (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05) 2. also _damarion, damarionu_ (_noun, descriptor_) happenings, news, new event, news story (cn. 2023-May-27)
 - **damer** 1. (_noun_) a license, permission to use (att. 2003-Dec-25) 2. a lease or rental agreement (att. 2003-Dec-25)
 - **dame.ren** 1. (_ton verb_) licensing (out), allowing other to use something (att. 2003-Dec-25) 2. leasing, renting (att. 2003-Dec-25)
 - **dan** 1. (_article_) indefinite article; a, an, one, singular of multiple (att. 2003-Dec-25)
