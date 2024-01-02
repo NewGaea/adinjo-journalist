@@ -243,3 +243,5 @@ The words listed in this section may be repurposed and redefined as they have mo
 - **gir** 1. (_desc._) warm, hot; a good state for a fresh cooked meal or brewed drink to be in (gen. 2022-06-23, c. 2023-Dec-08)
 - **girina** 1. (_noun._) summer, warm season, hot-dry season (gen. 2022-06-23, c. 2023-Dec-08)
 - **amkeiban** 1. (_noun._) sliced bread; a slice of bread 2. sandwich, filling served between two or more slices of bread
+- **dama** 1. (_descriptor_) new, _novel, unique, creative, inventive, playful, clever_; this sense describes things and ideas, generally not people 2. (_noun_) novelty, gimmick, toy (cn. 2024-Jan-01) 3. (_positional_) currently, presently, here and now; this sense refers to a point in place and time simultaneously (cn. 2024-Jan-01)
+- **dama.rio** 1. (_ton verb_) happening, occurring, especially inevitably or passively (att. 2003-Apr-24) 2. also _damarion, damarionu_ (_noun, descriptor_) happenings, news, new event, news story (cn. 2023-May-27) 3. (_ton verb_) trending, becoming popular, going viral, hitting it big (cn. 2024-Jan-01)
