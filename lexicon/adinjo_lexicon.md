@@ -992,7 +992,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **jerad** 1. (_noun_) response, return (att. 2003-Dec-25)
 - **jera.nzu** 1. (_ton verb_) respond (att. 2003-Dec-25)
 - **jeso.a** 1. (_ton verb_) healing (att. 2008-Jun-22)
-- **ji** 1. (_m pron_) he, him (att. 2003-Dec-25)
+- **ji** 1. (_pronoun, masculine_) he, him (att. 2003-Dec-25)
 - **-ji** 1. (_suffix, descriptor_) great grosses (${1728s_{10}}$, or ${1000s_{12}}$) (att. 2003-Dec-25)
 - **jia** 1. (_noun_) day (both the period of daylight, and the entire period of time between two sunrises) (att. 2003-Dec-25)
 - **jiabi** 1. (_descriptor_) daily (att. 2003-Dec-25)
@@ -1300,7 +1300,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **feliman.is** 1. (_ton verb_) to speak softly and indistinctly, to speak quietly; from _felimin_ + _yan.is_
 - **felorn** 1. (_descriptor_) sturdy (att. 2009-Nov-06)
 - **fent** 1. (_noun_) fox
-- **fi** 1. (_feminine pronoun_) she, her (att. 2003-Dec-25)
+- **fi** 1. (_pronoun, feminine_) she, her (att. 2003-Dec-25)
 - **finit** 1. (_noun_) rival (att. 2003-Dec-25)
 - **fir** 1. (_descriptor_) grey, gray (att. 2008-Jun-22)
 - **flin.gel** 1. (_ton verb_) stranding (att. 2003-Dec-25)
