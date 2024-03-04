@@ -1,9 +1,9 @@
-# abs*
+# \*abs
 ---
 [[lexicon/a/_dict_a|Return to List of Words beginning with A]]
 
 ## Forms
-**abs\*** is a hypothetical root for the following words:
+\***abs** is a hypothetical root for the following words:
 1. **absau** (_descriptor_) #coined/2018
 	1. colorless, grey
 	2. grey, without colour, without hue

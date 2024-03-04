@@ -8,8 +8,8 @@
 - **mácujálunu** 1. (_noun_) breast wrap, bandeau, brassiere, bra
 - **mai** 1. (_descriptor_) sure, certain (att. 2003-Dec-25)
 - **mainyu** 1. (_positional_) instead, in place of (att. 2008-Jun-22)
-- **mak** 1. (_noun_) rain (att. 2008-Jun-22)
-- **make.nd** 1. (_ton verb_) raining, falling from the clouds or heavens
+- **[[mak]]** 1. (_noun_) rain (att. 2008-Jun-22)
+- **[[make.nd]]** 1. (_ton verb_) raining, falling from the clouds or heavens
 - **makowa** 1. (_noun_) palace, luxurious home of a ruler (typically an unfortified mansion) (att. 2003-Dec-25)
 - **mamar.in** 1. (_ton verb_) 1. a small walk, a recreational walk, _walkies_ (att. 2022-Apr-14)
 - **mant.ak** 1. (_ton verb_) to pass gradually, to change constantly (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05)

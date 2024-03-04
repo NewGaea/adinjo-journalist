@@ -29,9 +29,9 @@
 - **rishe.ru** 1. (_ton verb_) farm (att. 2008-Jun-22)
 - **rishetax** 1. (_noun_) farmer (att. 2008-Jun-22)
 - **rist** 1. (_descriptor_) right, proper, correct (att. 2021-Apr-22)
-- **rukamakend** 1. (_noun_) umbrella; from _rukam_ + _makend_
-- **rukamtax** 1. (_noun_) guardian (att. 2003-Dec-25)
-- **rukam.os** 1. (_ton verb_) guard, protect (att. 2003-Dec-25)
+- **[[rukamakend]]** 1. (_noun_) umbrella; from _rukam_ + _makend_
+- **[[rukamtax]]** 1. (_noun_) guardian (att. 2003-Dec-25)
+- **[[rukam|rukam.os]]** 1. (_ton verb_) guarding, protecting (att. 2003-Dec-25)
 - **rukib** 1. (_noun_) odds, probability, ratio (att. 2003-Dec-25)
 - **robar** 1. (_noun_) robot, automaton (att. 2003-Dec-25; _formerly "robo"_)
 - **rodaiti** 1. (_noun_) grand-daughter (att. 2003-Dec-25)

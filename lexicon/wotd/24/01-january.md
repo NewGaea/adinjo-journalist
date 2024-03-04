@@ -42,4 +42,4 @@ I think that looks good for a pretty early step forward in the new year. I can u
 
 - **dér** 1. (_prefix, descriptor_) `a.` proper, polite, formal `b.` \[fashion\] dress, formal attire; attire suited for a wedding, court, or ball) (att. 2004-Jul-13; in *dér'enex* "formal robe") 2. (_noun_) etiquette, manners, politeness, respectful behaviour (cn. 2024-Jan-02) 3. indirection, euphemism, epithet, respectful words (cn. 2024-Jan-02) 4. (_descriptor_) noble, cultured, refined, well-mannered, couth (cn. 2024-Jan-02)
 
-# 03 - ???
+# 03 - \[903] Morneyaci

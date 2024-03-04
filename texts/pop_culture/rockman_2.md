@@ -29,17 +29,34 @@
 
 ### Japanese Gloss
 
-|          |      |                  |            |               |           |        |
-|:---------|:-----|:-----------------|:-----------|:--------------|:---------|:--------|
-| ２００Ｘ  | 年−   | Ｄｒ.ライトの     | 生み出した   | スーパーロボット | ロックマン | によって |
-| ni-sen-x | nen  | DOKUTAA_RAITO_no | umidashita | SUPER_ROBOT   | ROCKMAN  | by      |
-| 200X     | year | doctor_LIGHT.gen | create.PFV | super_robot   | ROCKMAN  | by      |
+```ngloss
+\ex ２００X年ー　Ｄｒ.ライトの生み出した スーハ゜ーロホ゜ット　ロックマン　によって
+\gl ２００X [200X] [200X]
+	年ー [nen] [year]
+	Ｄｒ.ライトの [Dr-RAITO-no] [doctor-Light-GEN]
+	生み出した [umida-shita] [create-PFV]
+	スーハ゜ーロホ゜ット [SUPER-ROBOT] [super robot]
+	ロックマン [ROCKMAN] [Rockman]
+	によって [by] [by]
+\ft Year 200X: Dr. Light created the super robot Rockman for...
+```
 
-|             |                   |                   |          |       |              |       |      |       |         |             |
-|:------------|:------------------|:------------------|:---------|:------|:-------------|:------|:-----|:------|:--------|:------------|
-| ナゾの       | 天才科学者          | Ｄｒ.ワイリーの     | 野望      | は    | 阻止.され     | 世界   | に   | 平和   | が      | よみがえった。 |
-| nazo_no     | tensai_kagaku-sha | DOKUTAA_WAIRII_no | yabou    | wa    | soshi.sare   | sekai | ni   | heiwa | ga      | yomigae.tta |
-| mystery.GEN | genius_scientist  | doctor_Wily.GEN   | ambition | TOPIC | prevent.PASS | world | in   | peace | SUBJECT | restore.PAST |
+```ngloss
+\gl ナソ˝の天才科学者Ｄｒ.ワイリーの野望は阻止 され　世界に平和か˝　よみか˝えった。
+\gl ナソ˝の [nazo-no] [mystery-GEN] [mysterious]
+	天才 [tensai] [genius] [genius]
+	科学者 [kagaku-sha] [scientist] [scientist]
+	Ｄｒ.ワイリーの [Dr-WILY-no] [doctor-Wily-GEN] [Dr. Wily's]
+	野望 [yabou] [ambition] [ambition]
+	は [wa] [TOP-PART] [-]
+	阻止され [soshi-sare] [prevent.PASS] [preventing]
+	世界 [sekai] [world] [The world]
+	に [ni] [DIR-PART] [to]
+	平和 [heiwa] [peace] [peace]
+	か˝ [ga] [SUBJ-PART] [-]
+	よみか˝えった [yomigae.tta] [restore-PAST] [restored]
+\ft ... the sake of preventing the ambition of Dr. Wily, the genius scientist. World peace was restored
+```
 
 
 しかし、世界征服をたくらむ　Ｄｒ.ワイリーは、再び　ロックマンに戦いを挑むべく、

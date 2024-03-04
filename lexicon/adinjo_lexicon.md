@@ -30,7 +30,7 @@
   - [OLD FORMS](#old-forms)
   - [UNSORTED](#unsorted)
 
-**NOTE:** This listing may not include all words coined in 2021 or more recently. While attempts will be made to incoporate the biennial wordlists regularly, it is to be expected that this listing may, at times, be behind the curve of the latest coinages.
+**NOTE:** This listing may not include all words coined in 2021 or more recently. While attempts will be made to incorporate the biennial wordlists regularly, it is to be expected that this listing may, at times, be behind the curve of the latest coinages.
 
 If you would like to explore or contribute to a dictionary written _in_ Adinjo Journalist, you may add entries under _**[Firolan's Unabridged Dictionary](lexicon/firolan/_intro)**_, while if you want to explore or contribute to a richer English language translator's dictionary, you may contribute to _**[Persephone's Dictionary for English Speakers](lexicon/persephone/_intro)**_
 
@@ -64,7 +64,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **aldjin** 1. (_noun_) old blood, established names or families 2. (_noun_) Adin with bloodline traits (att. 2007-Dec-29)
 - **aldyur** 1. (_descriptor_) ancient, very old, antique (att. 2007-Nov-26; red. 2022-Jun-05)
 - **alma.ru** 1. (_ton verb_) ruling, leading, governing (att. 2008-Jun-22; formerly _aluma.ru_)
-- **almán** 1. (_noun_) leader by circumstance, acting leader
+- **almán** 1. (_noun_) leader by circumstance, acting leader 2. director, team leader
 - **almatax** 1. (_noun_) leader by profession, manager
 - **alme.n** 1. (_ton verb_) milking (att. 2003-Dec-25)
 - **almenin** 1. (_descriptor_) milky, of a consistency or color like milk (att. 2021-Apr-21), creamy (att. 2022-Jun-27)
@@ -184,7 +184,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **bront** 1. (_noun_) delay, hold, pause, stay, wait; a period of time spent delayed or awaiting something (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
 - **burme.las** 1. (_ton verb_) cooking, baking, boiling, frying, roasting, steaming (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
 - **bor.ak** 1. (_ton verb_) acquiring, getting, receiving (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
-- **borch.ent** 1. (_ton verb_) sending to, revealing to, inspiring (att. 2007-Nov-26) (att. 2022-Jun-05)
+- **borch.ent** 1. (_ton verb_) sending to (*transitive*), revealing to, inspiring (att. 2007-Nov-26 ${\rightarrow}$ 2022-Jun-05)
 - **bot.ek** 1. (_ton verb_) pressing, pushing (derived from _botan_; att. 2003-Dec-25)
 - **botan** 1. (_noun_) button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed (att. 2003-Dec-25)
 ## G
@@ -408,7 +408,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **habru.k** 1. (_ton verb_) snore (att. 2003-Dec-25)
 - **hach** 1. (_noun_) will, desire (att. 2003-Dec-25)
 - **hachanwas** 1. (_noun_) will contract, last will; a single-person contract authored to express the desires of the signing individual (att. 2022-May-31)
-- **hai!** 1. (_interjection_) come forth; this interjection expresses shock, awe, interest, or excitement (att. 2003-Dec-25)
+- **hai** 1. (_interjection_) come forth; this interjection draws attention and may express shock, awe, interest, or excitement (att. 2003-Dec-25) 2. (_interjection_) hello, hi
 - **haidai** 1. (_noun_) exclamation mark (att. 2003-Dec-25)
 - **hait** 1. (_positional_) than (att. 2008-Jun-22)
 - **hakason** 1. (_kun verb_) to negate, to invert, to reverse (att. 2004-Apr-24) (att. 2022-Jun-05)
@@ -551,7 +551,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **kazau** 1. (_noun_) fuck, sexual intercourse (att. 2003-Dec-25)
 - **kairo** 1. (_noun_) queen (att. 2021-Apr-22)
 - **kalat.u** 1. (_ton verb_) hunting (att. 2008-Jun-22)
-- **kalú** 1. (_noun_) leather, tanned animal skin or hide (att. 2003-Dec-25)
+- **kalú** 1. (_noun_) leather, tanned animal skin or hide (att. 2003-Dec-25) 2. (_noun_) *a.* drumskin *b.* drum
 - **kamar.ej** 1. (_ton verb_) war (att. 2008-Jun-22)
 - **kaman** 1. (_noun_) war (att. 2008-Jun-22)
 - **kamani natrein** 1. (_noun_) martial art, strategy, tactics this refers to military arts, not combat arts
@@ -584,7 +584,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **kason** 1. (_kun verb_) to make; impart quality X to Y (infinitive; may be used as a helper, as in kein kason ‘to impart beauty’) (att. 2008-Jun-22)
 - **kasontax** 1. (_noun_) maker, creator, artist (att. 2008-Jun-22)
 - **katon** 1. (_noun_) cotton (formerly _koton_; att. 2002-Jul-31)
-- **katri** 1. (_pronoun_) everybody (a very casual term) (att. 2003-Dec-25)
+- **katri** 1. (_pronoun_) everybody (a very casual term) (att. 2003-Dec-25; also once presented as **kitra**)
 - **kaumé** 1. (_noun_) rose (att. 2008-Jun-22)
 - **kafa** 1. (_noun_) coffee, tea (att. 2023-Jan-28)
 - **kafadomi** 1. (_noun_) café, coffee shop, tea shop (att. 2023-Jan-28)
@@ -826,7 +826,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **lolo** 1. (_noun_) revenge, vengeance (att. 2003-Dec-25)
 - **lolos.en** 1. (_ton verb_) avenge (att. 2003-Dec-25)
 - **lomaruhen** 1. (_noun_) gene (att. 2008-Jun-22)
-- **lonakudj** 1. (_noun_) pass word, pass code (unknown origin, modern slang) (att. 2003-Dec-25)
+- **lonakudj** 1. (_noun_) pass word, pass code (cf _aramdekchin_; modern slang, derived from _lonak_ "key") (att. 2003-Dec-25; updated etymology 2024-Feb-17)
 - **lorek** 1. (_noun_) brightness, light (att. 2003-Dec-25)
 - **lorn** 1. (_noun_) 1. plain, flatland (att. 2003-Dec-25) 2. surface, table (att. 2022-Jun-05)
 - **lotre.gur** 1. (_ton verb_) enter an area or place
@@ -854,10 +854,12 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **mayu** 1. (_noun_) cloud (att. 2003-Dec-25) 2. (_noun_) curtain, drape, veil (att. 2023-Feb-03)
 - **mao** 1. (_idiophone, onomatopoeia_) meow, mew, mya (sound made by a cat) (att. 2003-Dec-25)
 - **medra** 1. (_noun_) mother (att. 2008-Jun-22)
+- **mékaput** 1. (_noun, slang_) MILF, shortened form of _medra yi kazade putochi_ "mother I will like fucking" (att. 2023-Jan-20)
 - **megani** 1. (_noun_) ear (att. 2008-Jun-22)
 - **melkocar** 1. (_noun_) difficulty (att. 2003-Dec-25)
 - **melkoci** 1. (_descriptor_) difficult (att. 2003-Dec-25)
 - **memédra** 1. (_noun_) 1. mama, mommy (may be shortened to _memé_; att. 2022-Apr-14)
+- **menachin** 1. (_noun_) label, noun, title; the class of naming words (att. 2023-Jan-22)
 - **men.aru** 1. (_ton verb_) naming (att. 2003-Dec-25)
 - **menash** 1. (_noun_) button, as on clothing (clothing buttons only) (att. 2021-Apr-22)
 - **menax** 1. (_noun_) name (att. 2003-Dec-25)
@@ -887,7 +889,9 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **-mo** 1. (_suffix, descriptor_) twelves (${12_{10}}$s) (att. 2003-Dec-25)
 - **mogan** 1. (_positional_) across (att. 2008-Jun-22)
 - **moédamel** 1. (_noun_) shoulder (att. 2008-Jun-22)
+- **mokaurok** 1. (_noun_) atelier, office, studio, study (room), workshop (att. 2023-Jan-21)
 - **mokure.nd** 1. (_ton verb_) learning, studying (att. 2004-Apr-24 ${\rightarrow}$ att. 2022-Jun-05)
+- **mokuretax** 1. (_noun_) apprentice, disciple, follower, student (att. 2023-Jan-21)
 - **mokuri.das** 1. (_ton verb_) to know, to study (att. 2003-Dec-25 ${\rightarrow}$ att. 2006-Jun-04)
 - **monsi** 1. (_pronoun_) when (att. 2003-Dec-25)
 - **mor-** 1. (_prefix, positional_) younger, shorter, less so (att. 2003-Dec-25)
@@ -895,7 +899,10 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **moras.on** 1. (_ton verb_) purify (att. 2008-Jun-22)
 - **morent** 1. (_noun_) climate, mood, sense, feeling (att. 2021-Apr-22)
 - **mori** 1. (_noun_) heart (att. 2008-Jun-22)
+- **mornai** 1. (_noun_) girl, young lady, young woman (att. 2023-Jan-20)
+- **mornen** 1. (_noun_) boy, young man (att. 2023-Jan-20)
 - **mors** 1. (_noun_) life (the span of life) (att. 2003-Dec-25; _formerly "mor"_)
+- **morstan** 1. (_noun_) biography, _mors + dan_ "life-span story" (att. 2023-Jan-29)
 - **mortal** 1. (_noun_, _pejorative_) short-life
 - **mortis** 1. (_descriptor_) young (att. 2008-Jun-22)
 - **morcin** 1. (_noun_) younger brother (att. 2003-Dec-25)
@@ -903,16 +910,19 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **morneyaci** 1. (_noun_) knight, female junior similar to miss (att. 2021-Apr-22)
 - **morneyen** 1. (_noun_) knight, male junior similar to sir (att. 2021-Apr-22)
 - **mortadin** 1. (_noun_) short-lived person; often used as an insult to short lived races (att. 2021-Apr-22)
+- **morxagi** 1. (_noun_) a sapling or cutting of a tree intended for planting or grafting (att. 2023-Jan-05)
 - **moura** 1. (_noun_) buttocks, posterior, rear-end, rump (refers to the anatomy) (att. 2008-Jun-22)
 
 ## N
 
 - **nadir** 1. (_noun_) destiny
+- **naerkust** 1. (_noun_) hedge wizard, shaman, witch (att. 2023-Jan-20)
 - **nahertu** 1. (_noun_) nature, essence (att. 2003-Dec-25)
 - **naiti** 1. (_noun_) woman (att. 2003-Dec-25)
 - **nak** 1. (_descriptor_) forever, eternal (att. 2003-Dec-25)
 - **nakirm** 1. (_noun_) flight, formation, aerial squadron or unit (att. 2007-Nov-26) (att. 2022-Jun-05)
 - **nanda** 1. (_noun_) number, numeric value, symbol of such (att. 2008-Jun-22; _formerly "nada"_)
+- **nandé.o** 1. (_ton verb_) counting, enumerating, listing, numbering (att. 2023-Jan-23; derived from _nanda_ => number)
 - **nanef** 1. (_noun_) fairy, sprite; playful spirits (att. 2008-Jun-22)
 - **nani.sh** 1. (_ton verb_) scout (att. 2003-Dec-25)
 - **nantax** 1. (_noun_) scout (att. 2003-Dec-25)
@@ -934,6 +944,8 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **neim'somait** 1. (_noun, feminine_) knight-mistress (a female knight in command of other knights)
 - **nemal** 1. (_noun_) glass (att. 2008-Jun-22)
 - **nen** 1. (_noun, masculine_) man, masculine person (att. 2008-Jun-22)
+- **néter** 1. (_noun_) the nether (in Minecraft) (att. 2023-Jan-05; loanword from English, sometimes **néther**)
+- **néterak** 1. (_noun_) netherrack (in Minecraft) (att. 2023-Jan-05; loanword from English, sometimes **nétherak**)
 - **néyaci** 1. (_noun, feminine_) knight (female); similar to ma'am, madam, miss within a military context
 - **néyen** 1. (_noun, masculine_) knight (male); similar to sir within a military context
 - **nevel** 1. (_noun_) average
@@ -945,7 +957,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **-ns** 1. (_kun verb affix_)  was, did; past tense (att. 2003-Dec-25)
 - **-nu** 1. (_suffix_) -s, pluralization (usually shortened to **-u** for words ending in a consonant; att. 2003-Dec-25)
 - **nugo.rem** 1. (_ton verb_) cast something away cast away from oneself (att. 2021-Apr-22)
-- **nuqesir** 1. (_noun_) search, hunt, investigate, seek something in the physical world (att. 2021-Apr-22)
+- **nuqe.sir** 1. (_ton verb_) search, hunt, investigate, seek something in the physical world (att. 2021-Apr-22)
 - **nyeje.l** 1. (_ton verb_) pray (att. 2008-Jun-22)
 - **nyéjín** 1. (_noun_) prayer (att. 2008-Jun-22)
 - **nyore** 1. (_noun_) year (att. 2003-Dec-25)
@@ -957,7 +969,9 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **nolibrau** 1. (_noun_) freedom (att. 2021-Apr-22)
 - **-nom** 1. (_suffix_) -self, -own, the reflexive pronoun (att. 2003-Dec-25)
 - **nomor.eks** 1. (_ton verb_) drinking, sipping; consuming fluid
+- **nomori** 1. (_noun_) beverage, drink (att. 2023-Jan-28)
 - **nonke** 1. (_noun_) mountain (att. 2021-Apr-22)
+- **nonkelz** 1. (_noun_) glacier, iceberg (att. 2023-Jan-21)
 - **noventir** 1. (_noun_) hope (att. 2008-Jun-22)
 - **noventrol** 1. (_noun_) journey (att. 2008-Jun-22)
 - **novra.k** 1. (_ton verb_) need, require (att. 2008-Jun-22)
@@ -971,7 +985,9 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **jak.el** 1. (_ton verb_) turning one's back on something 2. (_ton verb_) damn, curse, condemn (att. 2003-Dec-25)
 - **jak'hau** 1. (_expletive_) damn you (a minor profanity, spoken to the intended party; att. 2003-Dec-25)
 - **jak'i** 1. (_expletive_) damn (a minor profanity, usually spoken to oneself; formerly _jak'ha_; att. 2003-Dec-25)
+- **jálban** (ʒæl.ban) 1. (_noun_) wrap, burrito, calzone, dumpling; a dish composed of bread wrapped around fillings, from _jálust_ (wrapping) and _ban_ (bread) (coined 2023-Sep-07)
 - **jalu** \[ʒa.'lu\] 1. (_noun_) earth (as an element), land, ground, dirt, stones, etc. (att. 2003-Dec-25)
+- **jalu'ai** 1. (_descriptor_) dirty, filthy, soiled (att. 2023-Jan-23; derived from _jalu_ => dirt)
 - **jalu'iluan** 1. (_proper noun_) May, Earth's Month
 - **jalunarika**1. (_kun verb_) to own land (att. 2022-May-31)
 - **jalunanorika** 1. (_noun_) owned land, land property (att. 2022-May-31)
@@ -980,8 +996,9 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
   - **jálutot kur ju** 1. (_expression_) I'm tied up right now (lit. ‘tied tight now’, indicates one is busy) (att. 2003-Dec-25; _formerly "jaltot kurin"_)
 - **jálunu** 1. (_noun_) clothing, garment, covering; especially improvised or simple garments (literally "wrappings")
 - **jálust** 1. (_noun_) wrapper, wrapping; hug, embrace; grip (att. 2021-Apr-22)
-- **jalygres** 1. (_noun_) development (att. 2008-Jun-22)
-- **jalyu.men** 1. (_ton verb_) develop (att. 2008-Jun-22)
+- **jalÿìgres** 1. (_noun_) development (att. 2008-Jun-22 as **jalygres**, updated to **jalÿìgres** 2024-Jan-14)
+- **jalÿu.men** 1. (_ton verb_) develop (att. 2008-Jun-22 as **jalyumen**, updated to **jalÿumen** 2024-Jan-14)
+- **jama.r** 1. (_ton verb_) to flee, to run, to escape (gen. 2022-Jun-23, att. 2023-Feb-17\*)
 - **jan** 1. (_suffix_) lord, landowner, servant keeper (att. 2003-Dec-25)
 - **janyu** 1. (_descriptor_) again (att. 2003-Dec-25)
 - **japas** 1. (_noun_) palm of hand, pads of paw (att. 2008-Jun-22)
@@ -991,24 +1008,29 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **jenesís** 1. (_noun_) life (the presence or existence of life) (att. 2003-Dec-25)
 - **jerad** 1. (_noun_) response, return (att. 2003-Dec-25)
 - **jera.nzu** 1. (_ton verb_) respond (att. 2003-Dec-25)
-- **jeso.a** 1. (_ton verb_) healing (att. 2008-Jun-22)
+- **jesö.a** 1. (_ton verb_) healing (att. 2008-Jun-22 as **jesoa**, changed to **jesöa** 2024-Jan-14)
+- **jesodomÿa** 1. (_noun_) clinic, hospital, medical centre (att. 2023-Jan-29 as **jesodomya**, 2024-Jan-14 changed to **jesodomÿa**)
 - **ji** 1. (_pronoun, masculine_) he, him (att. 2003-Dec-25)
 - **-ji** 1. (_suffix, descriptor_) great grosses (${1728s_{10}}$, or ${1000s_{12}}$) (att. 2003-Dec-25)
 - **jia** 1. (_noun_) day (both the period of daylight, and the entire period of time between two sunrises) (att. 2003-Dec-25)
 - **jiabi** 1. (_descriptor_) daily (att. 2003-Dec-25)
 - **jimar.u** 1. (_ton verb_) hearing, listening (att. 2008-Jun-22)
-- **ju** 1. (_descriptor_) now, the present (att. 2003-Dec-25) 2. (_descriptor_) live, current, in-progress; especially when added as a prefix to a verb `#2023.01.09
+- **ju** 1. (_descriptor_) now, the present (att. 2003-Dec-25) 2. (_descriptor_) live, current, in-progress; especially when added as a prefix to a verb (att. 2023-Jan-09)
 - **jua** 1. (_conjunction_) too, as well, also (_formerly "zhu"_; att. 2003-Dec-25)
 - **jubaci** 1. (_noun_) lion (_formerly meant "tiger," conflicted with "hotan"_; att. 2003-Dec-25)
 - **judaxin** 1. (_descriptor_) present-passive; outside of technical uses, "that which merely is"
 - **jukan** 1. (_noun_) card, dice, game tile, game piece (att. 2003-Apr-24) (att. 2022-Jun-05)
+- **julanjÿu** 1. (_descriptor_) transgender (att. 2023-Jan-21 as **julanjyu**, changed 2024-Jan-14 to **julanjÿu**)
+- **julanjÿudin** 1. (_noun_) transgender person (att. 2023-Jan-21 as **julanyudin**, changed 2024-Jan-14 to **julanjÿudin**)
 - **julajak.en** 1. (_ton verb_) to regress, to revert; from "to change back(wards)" (att. 2022-May-31)
 - **julaxan** 1. (_noun_) change, difference, transformation, variation (att. 2003-Dec-25)
 - **julax.en** 1. (_ton verb_) alter, change, transform (att. 2003-Dec-25)
+- **julígorem** 1. (_gerund_) livestream, live broadcast; does not conjugate on its own, but can be followed by _kempo_ to make verbal constructions (att. 2023-Jan-05)
 - **jumanai** 1. (_noun_) death (att. 2021-Apr-22)
 - **juman.o** 1. (_ton verb_) die (att. 2003-Dec-25)
 - **jumaye** 1. (_proper noun_) Death, the Reaper, Fate; the personification of Death in Adin, "Death's Hand" (att. 2021-Apr-22)
 - **jun** 1. (_positional_) at, in, or on a particular location 2. \[temporal\] at or during a particular time (att. 2003-Dec-25)
+- **juju** 1. (_positional_) at this time, immediate, instant, right now (cn. 2023-May-25)
 - **jurabi** 1. (_noun_) afternoon, midday (attributed in all found dictionaries, but previously only ever in _sayomin jurabi_ and _sayu jurabi_; att. 2003-Dec-25)
 - **jurag** 1. (_descriptor_) selfless (att. 2008-Jun-22)
 - **jurai** 1. (_noun_) reality (att. 2003-Dec-25)
@@ -1017,7 +1039,9 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **-jo** 1. (_suffix, descriptor_) language (att. 2003-Dec-25)
 - **joba.l** 1. (_ton verb_) shout (att. 2003-Dec-25)
 - **jobas** 1. (_noun_) shout (att. 2003-Dec-25)
+- **joma** 1. (_noun_) the trunk of a tree (att. 2023-Jan-05) 2. (_noun_) a length of a felled tree trunk or broad branch (att. 2023-Jan-05)
 - **jon** 1. (_descriptor_) three (att. 2003-Dec-25)
+- **jonauket** 1. (_noun_) threesome; a physically intimate sex act involving three participants (att. before 2024-Jan-01)
 - **jonqonjinu** 1. (_descriptor_) trilingual, familiar with three languages (att. 2022-Jun-04)
 - **jont** 1. (_noun_) dream (att. 2003-Dec-25)
 - **jon.tes** 1. (_ton verb_) dream, wish, fantasize (att. 2003-Dec-25)
@@ -1028,10 +1052,12 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 ## P
 
 - **páci** 1. (_noun_) sand dune, hill; an unstable geological feature (att. 2008-Jun-22)
-- **para** 1. (_noun_) sheet, page, tablet; a thin cloth used to cover surfaces (att. 2021-Apr-22)
+- **para** 1. (_noun_) paper, sheet, page, tablet; a thin cloth used to cover surfaces (att. 2021-Apr-22)
 - **paratwa** 1. (_noun_) letter, missive, message (lit. sheet book, usually a single sheet) (att. 2021-Apr-22)
+- **paratwan(u) damarion(u)** 1. (_noun_) newsletter, newspaper (literally "letters (about) happenings"; cn. 2023-May-27)
 - **pazo** 1. (_noun, descriptor_) black (att. 2022-Feb-25)
 - **pau.re** 1. (_ton verb_) to bid, to bet, to gamble; to make a play or move in a game (att. 2003-Apr-24 ${\rightarrow}$ att. 2022-Jun-05)
+- **paurenen** 1. (_noun_) bad boy, gambler, risk-taker 2. (_noun_) playboy (att. before 2024-Jan-01)
 - **pera.das** 1. (_ton verb_) please
   - **peraint** 1. (_expression_) "if you please" (may be a request for, or granting of, permission) (att. 2021-Apr-22)
 - **peradin** 1. (_proper noun_) Halfling (Atrusian) (att. 2021-Apr-22)
@@ -1043,6 +1069,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **promeid** 1. (_noun_) entry, record; as in a journal, diary, or logbook (att. 2008-Jun-22)
 - **promei.s**1.  (_ton verb_) enter or make a record in a book or list (att. 2008-Jun-22)
 - **pu.ru** 1. (_ton verb_) like, appreciate, enjoy (att. 2008-Jun-22)
+- **polchotax** 1. (_noun_) deceiver, oath breaker 2. (_noun_) demonist, warlock (att. before 2024-Jan-01)
 - **polt** 1. (_noun_) crime, violation of contract, sin (att. 2003-Dec-25)
 - **pol.tek** 1. (_ton verb_) breaking laws or terms of a contract, sinning (att. 2003-Dec-25; _formerly "polaton"_)
 - **pon** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to ${1.04_{10}}$_tolis_, ${250_{10}}$ grams, or ${8.81849_{10}}$ (${8.82_{10}}$) ounces (about half a pound) (att. 2007 ${\rightarrow}$ 2022-Jun-04)
@@ -1067,6 +1094,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **rakim** 1. (_positional_) beside, aside, next to (att. 2008-Jun-22)
 - **ramu.ld** 1. (_ton verb_) lacking (att. 2003-Dec-25)
 - **rank** 1. (_descriptor_) wrong, perverse (att. 2021-Apr-22)
+- **ranshoci** 1. (_noun_) sandstone (att. 2023-Jan-05 as **nocash**, changed 2024-Jan-14 to **ranshoci**)
 - **raji** 1. (_noun_) star (att. 2003-Dec-25)
 - **rash** 1. (_noun_) sand
 - **rashi** 1. (_noun_) bank of a river, beach (near a lake, sea, ocean); sandy area along body of water (att. 2008-Jun-22)
@@ -1085,6 +1113,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **-rín** (_suffix_) well, sufficient, exceptional (att. 2003-Dec-25)
 - **ríntaro** 1. (_noun_) possible (att. 2008-Jun-22)
 - **rishen** 1. (_noun_) farm (att. 2008-Jun-22)
+- **rishemat** 1. (_noun_) cottage, farmhouse (att. 2023-Jan-28)
 - **rishe.ru** 1. (_ton verb_) farm (att. 2008-Jun-22)
 - **rishetax** 1. (_noun_) farmer (att. 2008-Jun-22)
 - **rist** 1. (_descriptor_) right, proper, correct (att. 2021-Apr-22)
@@ -1102,6 +1131,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **romar.ing** 1. (_ton verb_) compare (att. 2003-Dec-25)
 - **romiluan** 1. (_proper noun_) November, Wind's Month
 - **romjia** 1. (_proper noun_) Tuesday (of odd-numbered weeks), wind-day
+- **ronoci** 1. (_noun_) redstone (in Minecraft) (att. 2023-Jan-05)
 
 ## S
 
@@ -1163,28 +1193,32 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **sintwa** 1. (_noun_) diary (att. 2003-Dec-25)
 - **stad.én** 1. (_ton verb_) to remain, to stay (att. 2003-Apr-24 ${\rightarrow}$ att. 2022-Jun-05)
 - **stram** 1. (_noun_) storm (att. 2021-Apr-22)
+- **stribó** (gen. 2022-Jun-20) 1. (_noun_) ore, stone containing valuable minerals or gems (att. 2023-Jan-05)
 - **sug** 1. (_article_) the, definite article (att. 2003-Dec-25)
 - **sugo** 1. (_descriptor_) especially, particularly (was formerly _sugoi_; att. 2003-Dec-25)
 - **sukendai** 1. (_descriptor_) fantastic, of fantasy (att. 2021-Apr-22)
 - **sóda** 1. (_noun_) soda, a drink made with bubbling water (borrowed from Modern English, att. 2021-Apr-22)
 - **soma** 1. (_noun_, _title_) master, teacher, slave holder (att. 2008-Jun-22)
+- **sorin** 1. (_noun_) older sister (att. 2023-Jan-17)
 - **sorok** 1. (_noun, title_) Doctor, Professor, Master of a Study (att. 2003-Dec-25)
 - **sourax** 1. (_noun_) tailor (att. 2021-Apr-22)
 
 ## T
 
+- **tabuk** 1. (_noun_) older brother (att. 2023-Jan-17)
 - **tago.rem** 1. (_ton verb_) cast something out, cast out from another (att. 2021-Apr-22)
 - **tak** 1. (_positional_) from, moving away (att. 2003-Dec-25)
 - **-ták** 1. (_verb affix_) apprentice, student
 - **takem** 1. (_positional_) between, back and forth (att. 2002-Jun-01)
 - **takama** 1. (_pronoun_) nothing (att. 2003-Dec-25)
   - **takama jun kuri** 1. (_expression_) Nothing at all (att. 2003-Dec-25) _formerly "takama hi mur"_
-- **taksu** 1. (_descriptor_) funky, wierd (att. 2003-Dec-25) _formerly "takchu" and "takcu"_
+- **taksu** 1. (_descriptor_) funky, weird (att. 2003-Dec-25) _formerly "takchu" and "takcu"_
 - **tal** 1. (_descriptor_) short, less (att. 2003-Dec-25)
 - **tala** 1. (_descriptor_) perfect (att. 2021-Apr-22)
 - **talau** 1. (_noun_) perfection (att. 2021-Apr-22)
 - **tamano** 1. (_noun_) friend (att. 2003-Dec-25) 2. (political) relationship (att. 2023-Jan-29)
 - **tamar** 1. (_noun_) pet, animal kept for company (att. 2003-Dec-25)
+- **tan** 1. (_noun_) myth, story, tale (att. 2023-Jan-29, existed by 2003-Dec-25 in _furatan_ "lemon story")
 - **tanxa** 1. (_noun_) stuff, miscellaneous objects (att. 2003-Dec-25)
 - **tar** 1. (_descriptor_) long (att. 2003-Dec-25)
 - **tariye** 1. (_noun_) future (att. 2008-Jun-22)
@@ -1198,13 +1232,17 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **telar** 1. (_noun_) beast, creature (a generic term for wild or unknown animals) (att. 2003-Dec-25)
 - **teljia** 1. (_proper noun_) Monday (of even-numbered weeks), beast-day
 - **temba** 1. (_noun_) time (att. 2003-Dec-25)
+- **temborel** 1. (_positional_) starting then, thereafter (att. 2023-Jan-21)
 - **ten** 1. (_noun_) sword (att. 2003-Dec-25)
 - **tena.re** 1. (_ton verb_) hallow, make holy or sacred (att. 2003-Dec-25)
 - **téol** 1. (_noun_) god (singular, usually of multiple) (att. 2003-Dec-25)
 - **téolu'iluan** 1. (_proper noun_) December, Gods' Month, Spirits' Month
 - **téoljia** 1. (_proper noun_) Saturday (of even-numbered weeks), spirit-day, god-day
+- **téomokurend** 1. (_noun_) divinities, theology (att. 2023-Jan-21)
 - **thelirutax** 1. (_noun_) prophet, oracle (a mortal who brings messages from a god) (att. 2008-Jun-22)
 - **thost** 1. (_ton verb_) try (att. 2021-Apr-22)
+- **titan** 1. (_noun_) colossus, giant, golem, titan (att. 2023-Jan-21)
+- **titanau** 1. (_descriptor_) colossal, gigantic (att. 2023-Jan-21)
 - **tlor** 1. (_noun_) mud (att. 2003-Dec-25)
 - **trák.eru** 1. (_ton verb_) visit (att. 2003-Dec-25)
 - **trakdin** 1. (_noun_) visitor (att. 2003-Dec-25)
@@ -1238,6 +1276,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **toshipáci** 1. (_noun_) snowbank, snow dune (att. 2022-May-31)
 - **-tot** 1. (_ton verb suffix_) did, was; past tense, active voice (att. 2003-Dec-25)
 - **tox** 1. (_kun verb_) to lose, to end (as a game or contest) (att. 2003-Dec-25)
+- **toxma** 1. (_noun_) loss, defeat (att. 2023-Jan-20)
 - **twa** 1. (_noun_) book (att. 2003-Dec-25)
 - **twar** 1. (_noun_) water (att. 2003-Dec-25)
 - **twariluan** 1. (_proper noun_) February, Water's Month
@@ -1260,6 +1299,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **-ya-** 1. (_kun verb infix_) not; replaces the last vowel in the root (especially after another vowel) (att. 2003-Dec-25)
 - **yac** 1. (_vb form_) (neg inf/pres) to not be, is not, am not, are not (att. 2003-Dec-25)
 - **yachikun** 1. (_vb form_) (neg fut) to not be later, will not be (att. 2003-Dec-25)
+- **yanda** 1. (_noun_) cry, call, speech, voice (att. 2023-Jan-20)
 - **yanicin** 1. (_noun_) saying, expression (att. 2021-Apr-22)
 - **yaniqon.ij** 1. (_ton verb_) speech writing, taking dictation
 - **yani.s** 1. (_ton verb_) say (att. 2003-Dec-25)
@@ -1270,6 +1310,9 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **yenek** 1. (_noun_) generation, age gap from parent to child (att. 2008-Jun-22)
 - **yent** 1. (_noun_) text, written language (att. 2003-Dec-25)
 - **yev** 1. (_noun_) mouth (att. 2008-Jun-22)
+- **yevihauket** 1. (_noun_) blowjob, cunnilingus; any act of oral sex (att. 2023-Jan-28)
+- **yevihauk.ret** 1. (_ton verb_) bobbing, blowing, licking, sucking; performing sensual acts with the mouth and tongue, especially oral sex (att. 2023-Jan-28)
+- **yevjálun** 1. (_noun_) gag, muzzle (att. 2023-Jan-28)
 - **yi** 1. (_pronoun_) I, me (att. 2003-Dec-25)
 - **-ykun** 1. (_kun verb affix_) will, shall; future tense (used for _kun_ verbs which end in consonants) (att. 2003-Dec-25)
 - **yr** 1. (_conjunction_) or (att. 2008-Jun-22)
@@ -1322,6 +1365,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 ## V
 
 - **va** 1. (_noun_) secret (att. 2021-Apr-22)
+- **varchin** 1. (_noun_) conjunction; the class of words that connect words, phrases, and clauses (att. 2023-Jan-22)
 - **varm** 1. (_noun_) mortar (to hold bricks together), grout (att. 2003-Dec-25)
 - **varmel** 1. (_descriptor_) together (att. 2021-Apr-22)
 - **varme.st** 1. (_ton verb_) bind bricks together with mortar (att. 2021-Apr-22)
@@ -1329,11 +1373,13 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **varnanorika** 1. (_noun_) a commune, a collective, the commons (att. 2022-May-31)
 - **vélon** 1. (_descriptor_) average (definition 2) (att. 2003-Dec-25)
 - **venari** 1. (_noun_) native (att. 2008-Jun-22)
+- **ventroganwas** 1. (_noun_) passport, travel papers, visa (att. 2023-Jan-20)
 - **ventro.l** 1. (_ton verb_) moving (att. 2003-Dec-25)
 - **veron** 1. (_descriptor_) green (att. 2003-Dec-25)
 - **verlic** 1. (_noun_) vine
 - **vérst** 1. (_noun_) whim (att. 2021-Apr-22)
 - **véol** 1. (_descriptor_) violet (att. 2003-Dec-25)
+- **vibun** (gen. 2022-Jun-23) 1. (_noun_) iron (metal) (att. 2023-Jan-05)
 - **vic** 1. (_noun, descriptor_) white (att. 2022-Feb-25)
 - **voten** 1. (_noun_) verb, a word which represents an action (att. 2003-Dec-25)
 
@@ -1347,6 +1393,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **xai** 1. (_descriptor_) truly (att. 2003-Dec-25)
 - **xá'iluan** 1. (_proper noun_) June, Magic's Month (att. 2021-Jan-19)
 - **xál'enex** 1. (_noun_) a magic-user's robe, a robe with many external pockets and straps (att. 2004-Jul-13)
+- **xálic** 1. (_noun_) rod, staff, stick, wand (att. 2023-Jan-20)
 - **xámul** 1. (_noun_) magic spell (att. 2021-Apr-22)
 - **xájia** 1. (_proper noun_) Saturday (of odd-numbered weeks), magic-day
 - **xajii** 1. (_descriptor_) rising, increasing, upwards, tall (att. 2003-Dec-25)
@@ -1364,10 +1411,12 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **xátoric** 1. (_noun_) artifice, magitech (att. 2022-May-31)
 - **xátoricax** 1. (_noun_) artificer, magitech engineer (att. 2022-May-31)
 - **xau** 1. (_descriptor_) true (att. 2003-Dec-25)
+- **xáu** 1. (_descriptor_) magical (att. 2023-Jan-20)
 - **xaf** 1. (_noun_) truth (att. 2003-Dec-25)
 - **xen** 1. (_descriptor_) last, final (att. 2008-Jun-22)
 - **xi** 1. (_pronoun_) it (att. 2003-Dec-25)
 - **xlama.st** 1. (_ton verb_) translate (mathematically), change from A to B (att. 2003-Dec-25)
+- **xlamastrai** 1. (_noun_) converter, interface, translator (att. 2023-Jan-20)
 - **xlamarn** 1. (_noun_) translation (mathematically) (att. 2003-Dec-25)
 - **xlari** 1. (_noun_) forest (att. 2008-Jun-22)
 - **xumas** 1. (_descriptor_) cruel, harsh (att. 2021-Apr-22)

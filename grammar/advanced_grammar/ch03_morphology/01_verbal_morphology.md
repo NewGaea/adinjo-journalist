@@ -4,7 +4,7 @@ Adinjo has 3 tenses, 5 voices, and 3 aspects. In addition to this, there are two
 
 ## TON Verbs
 
-The vast majority of verbs in Adinjo are TON verbs, named for the present tense suffix common to them. Adin linguists prefer the term **_taru votenu_** ('_t verbs_'), because the suffix for this class of verbs will always begine with the /**t**/ sound, unless it is assimilating to /**d**/ after a voiced stop. In common speech, they are often called **_kijuçinu votenu_** (_regular verbs_), because they are the most common form in the language -- even though their gerund formation is anything but regular.
+The vast majority of verbs in Adinjo are TON verbs, named for the present tense suffix common to them. Adin linguists prefer the term **_taru votenu_** ('_t verbs_'), because the suffix for this class of verbs will always begin with the /**t**/ sound, unless it is assimilating to /**d**/ after a voiced stop. In common speech, they are often called **_kijuçinu votenu_** (_regular verbs_), because they are the most common form in the language -- even though their gerund formation is anything but regular.
 
 TON verbs are regular in that (**a**) they rarely, if ever, change the verb stem when they are applied, (**b**) they all share the initial /to/ sound in their conjugation, and (**c**) they always apply the negative after the tense (and voice) is formed. However, there is no consistent rule for forming the gerund of a TON verb, thus TON verbs are listed (lemmatized) in the dictionary in their gerund form, though the lexicon pages begin with the stem rather than the lemma.
 
@@ -12,7 +12,7 @@ The basic suffixes are -**_tot_** for the past tense, -**_ton_** for the present
 
 ### Principal Parts of TON Verbs
 
-The principal parts of a TON Verb are the **infinitive, gerund,** and (in some cases) **nominal.** In this lexicon, the infinitive is the portion of a TON verb preceding the full-stop mark, while the gerund is the complete form of the lexical entry excluding the full-stop mark. For example, **julax.en** is composed of the infinitive **julax** (to change) and the gerund form, **julaxen** (changing). The word **julax** is useful here, as is does have a nominal form: **julaxan** (a change). Because the gerund is always appended to the infinitive, but is not predictable by other means, the lexicon and dictionaries use this notation to distinguish the forms.
+The principal parts of a TON Verb are the **infinitive, gerund,** and (in some cases) **nominal.** In this lexicon, the infinitive is the portion of a TON verb preceding the full-stop mark, while the gerund is the complete form of the lexical entry excluding the full-stop mark. For example, **julax.en** is composed of the infinitive **julax** (to change) and the gerund form, **julaxen** (changing). The word **julax** is useful here, as it does have a nominal form: **julaxan** (a change). Because the gerund is always appended to the infinitive, but is not predictable by other means, the lexicon and dictionaries use this notation to distinguish the forms.
 
 > **NOTE:** Not every verb has a listed nominal form, however (as of 2023-Feb-09) those that do have such, list it as a separate word defined as a _noun._ This is as unpredictable as the gerund form, and must be learned independently for those verbs which have a nominal form.
 
@@ -121,8 +121,8 @@ The gerund voice is used to discuss an action as a discrete event, as if it were
 
 ---
 ```gloss
-\ex chi yuginu ejis faileton
-\gla chi yugi-nu ejis faile-ton
+\ex chi yuganu ejis faileton
+\gla chi yuga-nu ejis faile-ton
 \glb 2S thing-PL chase.GER love-PRES.ACT
 \glc you thing-s chasing love
 \ft You love chasing things.

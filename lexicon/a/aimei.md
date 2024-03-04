@@ -4,7 +4,7 @@
 
 ## Forms
 1. **aimei**
-	1. (_noun_) eye, the organ of sight and vision
+	1. (_descriptor_) visible
 
 ### Other Forms
 
