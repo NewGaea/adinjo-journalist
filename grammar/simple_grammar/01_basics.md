@@ -58,9 +58,9 @@ Most diphthongs, or two-vowel combinations, in Adinjo are pronounced in a straig
 Sentences in Adinjo are broadly straightforward, flowing from the Subject, to the Object or Objects, to the Verb, or SOV order.
 
 ```gloss
-\ex Sug xáron dan kieretax faileton.
-\gla sug xáron dan kiere.tax faile.ton
-\glb DEF mage INDEF woodwork.tradesman love.PRES
+\ex (Sug) xáron (dan) kieretax faileton.
+\gla sug xáron dan kiere-tax faile-ton
+\glb DEF mage INDEF woodwork-tradesman love-PRES
 \glc The mage a woodworker loves.
 \ft The mage loves a woodworker.
 ```
@@ -81,16 +81,18 @@ In addition, our glossing conventions are as follows:
 
 **NOTE:** For simplicity, some common glossing terms are provided here in tables for reference. This is only the most common terms, a more detailed list of terms can be found in the Advanced Grammar.
 
-| ABBREVIATION | Meaning | Rough Translation |  | ABBREVIATION | Meaning | Rough Translation |
-|:------------:|:-------:|:-----------------:|:-:|:------------:|:-------:|:-----------------:|
-| 1 | first person | I, me, my; we, us | | 2 | second person | you, your, yours; you all |
-| 3 | third person | it, they | | 4 | fourth person | one\*, you\*, we\* |
-| DEF | definite article | the, this, that | | INDEF | indefinite article | a, an, one, some |
-| F | feminine gender | she, her; -ess, -ix | | I | indeterminate gender | it |
-| N | neutral gender | they, them | | M | masculine gender | he, him |
-| GER | gerund | x-ing | | INF | infinitive | to x |
-| PRES | present tense | -s, is (doing) x | | FUT | future tense | will x, shall x |
-| PAST |  past tense | -ed, did x | | PASS | passive voice | _changes the role of Subject and Object_ |
+| ABBREVIATION |      Meaning       |  Rough Translation  |     | ABBREVIATION |       Meaning        |            Rough Translation             |
+| :----------: | :----------------: | :-----------------: | :-: | :----------: | :------------------: | :--------------------------------------: |
+|      1       |    first person    |  I, me, my; we, us  |     |      2       |    second person     |        you, your, yours; you all         |
+|      3       |    third person    |      it, they       |     |      4       |    fourth person     |            one\*, you\*, we\*            |
+|     DEF      |  definite article  |   the, this, that   |     |    INDEF     |  indefinite article  |             a, an, one, some             |
+|      F       |  feminine gender   | she, her; -ess, -ix |     |      I       | indeterminate gender |                    it                    |
+|      N       |   neutral gender   |     they, them      |     |      M       |   masculine gender   |                 he, him                  |
+|     GER      |       gerund       |        x-ing        |     |     INF      |      infinitive      |                   to x                   |
+|     PRES     |   present tense    |  -s, is (doing) x   |     |     FUT      |     future tense     |             will x, shall x              |
+|     PAST     |     past tense     |     -ed, did x      |     |     PASS     |    passive voice     | _changes the role of Subject and Object_ |
+|      SG      |  singular number   |                     |     |      PL      |   plural (number)    |                    -s                    |
+|     UNIV     | universal (number) |     all, all of     |     |     DUAL     |    dual (number)     |                   pair                   |
 
 ### Case
 
