@@ -1,5 +1,5 @@
 # B
-[[lexicon/a/_dict_a|A]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_g|G]]
+[[lexicon/a/_a|A]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_g|G]]
 
 - **[ba](ba)** (att. 2003-Dec-25)
 	1. (_descriptor, prefix_) this; immediate proximate demonstrative
