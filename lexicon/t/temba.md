@@ -22,7 +22,7 @@ May be related to Latin _tempo_.
 
 ### Related Words
 
-- **[ademba](lexicon/a/ademba)**
+- **[ademba](lexicon/a/ademba.md)**
 	1. (_noun, indefinite_) any time, one time
 
 ## General Tags

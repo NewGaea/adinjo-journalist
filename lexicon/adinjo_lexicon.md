@@ -32,10 +32,10 @@
 
 **NOTE:** This listing may not include all words coined in 2021 or more recently. While attempts will be made to incorporate the biennial wordlists regularly, it is to be expected that this listing may, at times, be behind the curve of the latest coinages.
 
-If you would like to explore or contribute to a dictionary written _in_ Adinjo Journalist, you may add entries under _**[Firolan's Unabridged Dictionary](lexicon/firolan/_intro)**_, while if you want to explore or contribute to a richer English language translator's dictionary, you may contribute to _**[Persephone's Dictionary for English Speakers](lexicon/persephone/_intro)**_
+If you would like to explore or contribute to a dictionary written _in_ Adinjo Journalist, you may add entries under _**[Firolan's Unabridged Dictionary](_archive/firolan/_intro.md)**_, while if you want to explore or contribute to a richer English language translator's dictionary, you may contribute to _**[Persephone's Dictionary for English Speakers](_archive/persephone/_intro.md)**_
 
 ## A
-[[lexicon/a/_dict_a|Dictionary Listing for A]]
+[[lexicon/a/_a|Dictionary Listing for A]]
 
 - **-a** 1. (_generic suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_) 2. (**-a-**) (_kun verb affix_) no, not; replaces the last vowel in the root (att. 2003-Dec-25; cf. _ha_)
 - **a-** 1. (_noun prefix_) all, each, every (att. 2003-Dec-25)
@@ -145,7 +145,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **afailesi** 1. (_descriptor_) panromantic (att. 2022-Jun-04)
 - **axen** 1. (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
 ## B
-[[lexicon/b/_dict_b|Dictionary Listing for B]]
+[[lexicon/b/b|Dictionary Listing for B]]
 
 - **ba** 1. (_descriptor, prefix_) this; immediate proximate demonstrative (att. 2003-Dec-25)
 - **baci.re** 1. (_ton verb_) seeing, viewing; watching (att. 2002-Jul-31)
@@ -1074,7 +1074,8 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **pol.tek** 1. (_ton verb_) breaking laws or terms of a contract, sinning (att. 2003-Dec-25; _formerly "polaton"_)
 - **pon** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to ${1.04_{10}}$_tolis_, ${250_{10}}$ grams, or ${8.81849_{10}}$ (${8.82_{10}}$) ounces (about half a pound) (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 - **pontif.ar** 1. (_ton verb_) advising, guiding, helping (att. 2003-Dec-25)
-- **popóren** 1. (_noun_) 1. dada, papa, daddy (may be shorted to _popo_; att. 2022-Apr-14)
+- **popoi** 1. (_noun_) \[affectionate] daddy
+- **popóren** 1. (_noun_) dada, papa, daddy (may be shorted to _popo_; att. 2022-Apr-14)
 - **poraiti** 1. (_noun_) \[archaic\] mother (lit. _female father_, a remnant of an old movement; rare) (att. 2008-Jun-22)
 - **poren** 1. (_noun_) father (att. 2003-Dec-25)
 - **porén** 1. (_noun_) strength (att. 2003-Dec-25)
@@ -1216,6 +1217,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **tal** 1. (_descriptor_) short, less (att. 2003-Dec-25)
 - **tala** 1. (_descriptor_) perfect (att. 2021-Apr-22)
 - **talau** 1. (_noun_) perfection (att. 2021-Apr-22)
+- **tamanau** 1. (_descriptor_) friendly, amicable, coöperative 2. (_descriptor_) allied, working with 3. (_descriptor_) related, connected, affiliated
 - **tamano** 1. (_noun_) friend (att. 2003-Dec-25) 2. (political) relationship (att. 2023-Jan-29)
 - **tamar** 1. (_noun_) pet, animal kept for company (att. 2003-Dec-25)
 - **tan** 1. (_noun_) myth, story, tale (att. 2023-Jan-29, existed by 2003-Dec-25 in _furatan_ "lemon story")
