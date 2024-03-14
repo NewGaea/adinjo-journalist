@@ -12,7 +12,7 @@ This repository is for the Original Adin language, now called Adinjo Journalist.
 
 ### How do I get set up? ###
 
-It is recommended that you have ~~Atom~~, [VS Code](https://code.visualstudio.com/), or any similar modern text editor installed to edit and preview Markdown.
+It is recommended that you have [VS Code](https://code.visualstudio.com/), or any similar modern text editor installed to edit and preview Markdown. [Obsidian](https://obsidian.md) is preferred for access to plugins used by the vault for some formatting features, though as of March 2024, we do not synchronize our Obsidian plugins with GitHub.
 
 ### Contribution guidelines ###
 
@@ -22,4 +22,5 @@ It is recommended that you have ~~Atom~~, [VS Code](https://code.visualstudio.co
 
 ### Who do I talk to? ###
 
-* GaeaJen_6L27 - nathaniel.knight (at) newgaea.net
+* LinguaRoo - austin (at) newgaea.net
+* GaeaJen_6L27 - jen (at) newgaea.net
