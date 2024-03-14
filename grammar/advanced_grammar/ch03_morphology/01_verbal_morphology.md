@@ -24,9 +24,9 @@ When being learned, these principal parts will typically be presented or recited
 
 There are two forms of participle for TON verbs: Simple and Compound.
 
-The simple participle is formed by dropping the final vowel of the **infinitive** (and this will breaking diphthongs), unless this means dropping the only vowel in the stem, and any letters following it. Thus, **faileton** (loves) would become **failton** (loving) and **anitochi** (will be) would become **antochi** ((will be) being) to form their respective participles. TON verb participles may be of any tense (past, present or future), but are always in the active voice.
+The simple participle is formed by dropping the final vowel of the **infinitive** (and this will break diphthongs), unless this means dropping the only vowel in the stem, and any letters following it. Thus, **faileton** (loves) would become **failton** (loving) and **anitochi** (will be) would become **antochi** ((will be) being) to form their respective participles. TON verb participles may be of any tense (past, present or future), but are always in the active voice.
 
-The compound participle involves prefixing **an-,** from **aniru,** to the infinitive or gerund form of the verb, and refers primarily to a state of events. The compound participle does not inflect for tense, but may be either the **infinitive** or the **gerund**. So, for example, **yani.s** could be either **anyani** (literally, "be to speak") or **anyanis** (literally, "be speaking"), but cannot be **\*anyaniton** (hypothetically, "be speaks") or **\*anyaniton** (hypothetically, "be spoke").
+The compound participle involves prefixing **an-,** from **aniru,** to the infinitive or gerund form of the verb, and refers primarily to a state of events. The compound participle does not inflect for tense, but may be either the **infinitive** or the **gerund**. So, for example, **yani.s** could be either **anyani** (literally, "be to speak") or **anyanis** (literally, "be speaking"), but cannot be **\*anyaniton** (hypothetically, "be speaks") or **\*anyanitot** (hypothetically, "be spoke").
 
 ## KUN Verbs
 
