@@ -172,47 +172,91 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 	1. (_descriptor_) neuter, ungendered (att. 2008-Jun-22)
 - **ajan**
 	1. (_p noun, title_) the Lord, My God; a title used when referring one's patron deity or spirit (att. 2002-Jul-31)
-- **aramdekchin** 1. (_noun_) password, passcode (att. 2015-Mar-16; cf. _aramel_, _dekcin_; formerly _aradekchin_)
-- **aram.el** 1. (_ton verb_) passing, going through, going beyond (att. 2002-Jul-31)
-- **arconir** 1. (_noun_) bear (animal) (att. UNKNOWN)
-- **ar.i** 1. (_ton verb_) throwing (att. 2008-Jun-22), hurling, launching (added 2023-Jan-09)
-- **arzol** 1. (_descriptor_) blue (att. 2002-Jul-31)
-- **arlic** 1. (_noun_) pen; a permanent writing implement (att. 2015-Mar-16)
-- **armo** 1. (_positional_) because, for the sake or purpose of (att. 2002-Jul-31)
-- **arus.é** 1. (_ton verb_) sitting, lounging (att. 2002-Jul-31)
-- **arush** 1. (_noun_) seat, chair, cushion, sofa (att. 2002-Jul-31)
-- **arush.èn** 1. (_ton verb_) seating, providing or offering seats (att. 2002-Jul-31)
-- **asènger** 1. (_noun_) bite (the physical remains or damage of a bite) (att. 2002-Jul-31)
-- **asenkuha** 1. (_noun_) dawn, sunrise (att. 2023-Jan-21)
-- **asèn.ru** 1. (_ton verb_) biting (att. 2002-Jul-31)
-- **asènt** 1. (_noun_) east (att. 2002-Jul-31) 2. (_descriptor_) a shape or mark which is rising to the right (att. 2002-Jul-31) 3. (_descriptor_) tenseness (of a sound) (documented 2023-Jan-10)
-- **asha** 1. (_noun_) peace (att. 2008-Jun-22), calmness, contentment (added 2023-Jan-10)
-- **ashaun** 1. (_noun_) horse (att. 2008-Jun-22)
-- **ashaus** 1. (_descriptor_) peaceful (att. 2008-Jun-22)
-- **ashenros** 1. (_noun_) hypnosis, meditation, trance (att. 2023-Jan-21)
-- **ashurt.as** 1. (_ton verb_) raiding (att. 2003-Dec-25)
-- **ashurtath** 1. (_noun_) raid (att. 2003-Dec-25)
-- **atakama** 1. (_expression_) absolutely nothing (less formal version of "nothing at all") (att. 2003-Dec-25)
-- **atin** 1. (_noun_) descendant (att. 2008-Jun-22)
-- **atki** 1. (_descriptor_) bonus, extra, spare (att. 2003-Dec-25)
-- **auf** 1. (_idiophone, onomatopoeia_) woof, bark, bow-wow, arf (sound of a dog) (att. 2008-Jun-22)
-- **aur** 1. (_particle_) question marker (spoken; means the following utterance is a question) (att. 2008-Jun-22)
-- **aurdai** 1. (_noun_) question mark (att. 2008-Jun-22)
-- **aur.en** 1. (_ton verb_) asking, interrogating, querying, questioning (att. 2023-Jan-10)
-- **auresh** 1. (_noun_) tunic, blouse, shirt (alternate **aresh**) (att. 2004-Jul-13)
-- **auresh'anden** 1. (_noun_) holy tunic, a buttoned tunic with sleeves and a single pocket over the left breast (att. 2004-Jul-13)
-- **auresh'ektar** 1. (_noun_) tight shirt, tank top, undershirt (att. 2004-Jul-13)
-- **auresh'enaiten** 1. (_noun_) heavy tunic, a (usually heavy) tunic that hangs loose so as to conceal the appearance (att. 2004-Jul-13)
-- **auresh'tal** 1. (_noun_) little shirt, camisole (att. 2004-Jul-13)
-- **aurok** 1. (_noun_) room, space (att. 2008-Jun-22)
-- **aurpoéna** 1. (_descriptor_) meal-like, satisfying (of hunger) (att. 2015-Mar-26; modified spelling _aurpwéna ${\rightarrow}$ aurpoéna_` 2023-Jan-10)
-- **ause.ne** 1. (_ton verb_) lying (down), laying (att. 2008-Jun-22), setting down (added 2023-Jan-10)
-- **ayas.uri** 1. (_ton verb_) comforting, soothing, calming (att. 2008-Jun-22)
-- **ayastel** 1. (_noun_) comfort (att. 2008-Jun-22), kindness (added 2023-Jan-10)
-- **aye** 1. (_noun_) hand; may be literal or figurative (att. 2008-Jun-22) 2. holdings, things held in a hand (added 2023-Jan-10)
-- **aygins.ten** 1. (_ton verb_) playing (a game), acting, engaging in a hobby or pursuit of passion (att. 2021-Apr-21)
-- **afailesi** 1. (_descriptor_) panromantic (att. 2022-Jun-04)
-- **axen** 1. (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
+- **aramdekchin**
+	1. (_noun_) password, passcode (att. 2015-Mar-16; cf. _aramel_, _dekcin_; formerly _aradekchin_)
+- **aram.el**
+	1. (_ton verb_) passing, going through, going beyond (att. 2002-Jul-31)
+- **arconir**
+	1. (_noun_) bear (animal) (att. UNKNOWN)
+- **ar.i**
+	1. (_ton verb_) throwing (att. 2008-Jun-22), hurling, launching (added 2023-Jan-09)
+- **arzol**
+	1. (_descriptor_) blue (att. 2002-Jul-31) Ety: Loosely based on Modern Spanish *azul* with sounds changed just to be different
+- **arlic**
+	1. (_noun_) pen; a permanent writing implement (att. 2015-Mar-16)
+- **armo**
+	1. (_positional_) because, for the sake or purpose of (att. 2002-Jul-31)
+- **arus.é**
+	1. (_ton verb_) sitting, lounging (att. 2002-Jul-31)
+- **arush**
+	1. (_noun_) seat, chair, cushion, sofa (att. 2002-Jul-31)
+- **arush.èn**
+	1. (_ton verb_) seating, providing or offering seats (att. 2002-Jul-31)
+- **asènger**
+	1. (_noun_) bite (the physical remains or damage of a bite) (att. 2002-Jul-31)
+- **asenkuha**
+	1. (_noun_) dawn, sunrise (att. 2023-Jan-21)
+- **asèn.ru**
+	1. (_ton verb_) biting (att. 2002-Jul-31)
+- **asènt**
+	1. (_noun_) east (att. 2002-Jul-31)
+	2. (_noun_) a shape or mark which is rising to the right (att. 2002-Jul-31)
+	3. (_descriptor_) tenseness (of a sound) (documented 2023-Jan-10)
+- **asha**
+	1. (_noun_) peace (att. 2008-Jun-22), calmness, contentment (added 2023-Jan-10)
+- **ashaun**
+	1. (_noun_) horse (att. 2008-Jun-22)
+- **ashaus**
+	1. (_descriptor_) peaceful (att. 2008-Jun-22)
+- **ashenros**
+	1. (_noun_) hypnosis, meditation, trance (att. 2023-Jan-21)
+- **ashurt.as**
+	1. (_ton verb_) raiding (att. 2003-Dec-25)
+- **ashurtath**
+	1. (_noun_) raid (att. 2003-Dec-25)
+- **atakama**
+	1. (_expression_) absolutely nothing (less formal version of "nothing at all") (att. 2003-Dec-25)
+- **atin**
+	1. (_noun_) descendant (att. 2008-Jun-22)
+- **atki**
+	1. (_descriptor_) bonus, extra, spare (att. 2003-Dec-25)
+- **auf**
+	1. (_idiophone, onomatopoeia_) woof, bark, bow-wow, arf (sound of a dog) (att. 2008-Jun-22)
+- **aur**
+	1. (_particle_) question marker (spoken; means the following utterance is a question) (att. 2008-Jun-22)
+- **aurdai**
+	1. (_noun_) question mark (att. 2008-Jun-22)
+- **aur.en**
+	1. (_ton verb_) asking, interrogating, querying, questioning (att. 2023-Jan-10)
+- **auresh**
+	1. (_noun_) tunic, blouse, shirt (alternate **aresh**) (att. 2004-Jul-13)
+- **auresh'anden**
+	1. (_noun_) holy tunic, a buttoned tunic with sleeves and a single pocket over the left breast (att. 2004-Jul-13)
+- **auresh'ektar**
+	1. (_noun_) tight shirt, tank top, undershirt (att. 2004-Jul-13)
+- **auresh'enaiten**
+	1. (_noun_) heavy tunic, a (usually heavy) tunic that hangs loose so as to conceal the appearance (att. 2004-Jul-13)
+- **auresh'tal**
+	1. (_noun_) little shirt, camisole (att. 2004-Jul-13)
+- **aurok**
+	1. (_noun_) room, space (att. 2008-Jun-22)
+- **aurpoéna**
+	1. (_descriptor_) meal-like, satisfying (of hunger) (att. 2015-Mar-26; modified spelling _aurpwéna ${\rightarrow}$ aurpoéna_` 2023-Jan-10)
+- **ause.ne**
+	1. (_ton verb_) lying (down), laying (att. 2008-Jun-22), setting down (added 2023-Jan-10)
+- **ayas.uri**
+	1. (_ton verb_) comforting, soothing, calming (att. 2008-Jun-22)
+- **ayastel**
+	1. (_noun_) comfort (att. 2008-Jun-22), kindness (added 2023-Jan-10)
+- **aye**
+	1. (_noun_) hand; may be literal or figurative (att. 2008-Jun-22)
+	2. holdings, things held in a hand (added 2023-Jan-10)
+- **aygins.ten**
+	1. (_ton verb_) playing (a game), acting, engaging in a hobby or pursuit of passion (att. 2021-Apr-21)
+- **afailesi**
+	1. (_descriptor_) panromantic (att. 2022-Jun-04) from ***failes***, originally from Ancient Greek *φίλος* "love"; compound of *a* "all" + *failes* "love" + *i* "of"
+- **axen**
+	1. (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
 
 ## B
 
