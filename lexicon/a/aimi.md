@@ -1,25 +1,37 @@
-# aimi
 ---
-[[lexicon/a/_dict_a|Return to List of Words beginning with A]]
+tags:
+  - dictionary
+  - lexicon
+  - word
+partSpeech:
+  - Noun
+englishGloss:
+  - eye
+  - lens
+  - scope
+  - camera
+  - magic eye
+coinDate: 2002-07-31
+---
+# aimi
 
-## Forms
-1. **aimi** ![](audio/01-adob/mp3/aimi.mp3)
-	1. (_noun_) eye, the organ of sight and vision
+# Adinjo
+## Alternative Forms
 
-### Other Forms
+## Etymology
 
-- **aiminu** (_plural_) eyes
+## Pronunciation
+- **IPA Broad**: /ai.'mi:/
 
-## Derivation
+## Noun
 
-## Related Words
+### aimi (plural *aiminu*)
+1. eye
+2. lens, scope
+3. \[technology] magic eye, camera
 
-- **[aimei](aimei.md)**
-	1. (_descriptor_) visible
-	- **aimeiha** (_descriptor_) invisible
+# Thesaurus
+## Synonyms
+- [**xáymi**](lexicon/x/xáymi): magic eye, camera
 
- Other possibilities include words for _camera, mirror,_ or _vision._
-
-## General Tags
-
-#noun
+# Translations

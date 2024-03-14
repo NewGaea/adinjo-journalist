@@ -1,42 +1,72 @@
-aire
-====
+---
+tags:
+  - dictionary
+  - lexicon
+  - word
+  - verb
+  - verb/ton
+partSpeech:
+  - Ton Verb
+englishGloss:
+  - find
+  - learn
+  - discover
+coinDate: 2003-12-25
+---
+# aire
 
-**airend** _ton verb, gerund_
+# Adinjo
+## Alternative Forms
 
-1. finding
-2. learning
-3. discovering
+## Etymology
 
-This verb refers to the result of self-directed actions, those actions which stem from _intrinsic motivation_ rather than those which result from _extrinsic motivation_ such as being an apprentice or a student in standard or compulsory education, or even following a map produced by someone else. Forms of **aire** are appropriate for finding a coin on the ground or discovering something one has no prior knowledge of.
+## Pronunciation
+- **IPA Broad**: /'ai:.r3nd/
 
-`#verb` `#ton`
+## Ton Verb
 
-### Examples
+### aire (pres *aireton*, past *airetot*, fut *airetoçi*)
+1. to find, to learn, to discover
+	1. ***Aire*** refers to the results of self-directed actions, those actions which stem from _intrinsic motivation_ rather than those which result from _extrinsic motivation_ such as being an apprentice or a student in standard or compulsory education, or even following a map produced by someone else. Forms of **aire** are appropriate for finding a coin on the ground or discovering something one has no prior knowledge of.
+### airend
+1. finding, learning, discovering
 
-> Bajia ni yi aireton
+#### Verb Paradigms
 
-Literally "Today I am learning," this is the most appropriate way to refer to a current learning process, equivalent to the Reddit shorthand TIL meaning "Today I Learned." If abbreviated, it would drop the positional **ni** and be rendered as **BYA**.
+|                | Positive | Negative  |
+| -------------- | -------- | --------- |
+| **Infinitive** | *aire*   | *aireha*  |
+| **Gerund**     | *airend* | *airenda* |
 
-### Other Forms
+|         | Act. Pos    | Act. Neg    | Pass. Pos     | Pass. Neg     |
+| ------- | ----------- | :---------- | :------------ | :------------ |
+| Present | *aireton*  | *airetona* | *airetol*    | *airetola*   |
+| Past    | *airetot*  | *airetota* | *airetolot*  | *airetolota* |
+| Future  | *airetoçi* | *acoretoça* | *airetoloçi* | *airetoloça* |
+## Noun
+### [sairent](lexicon/s/sairent) (plural *sairentu*)
+1. find, loot
+2. reward, prize
+## Participle
+### air (present *airon*, past *airot*, future *airoçi*)
+1. find, learn, discover
+### anaire (gerund *anairend*)
+1. (be) finding, (be) learning, (be) discovering
 
-> **_Gerund_**
-> > **airend** _gerund_ finding, learning; **airenda** _negative gerund_ not finding, not learning
+# Thesaurus
+## Synonyms
+\[List words with roughly matching or similar meanings to the main word.]
+## Antonyms
+\[List words with roughly opposite meanings to the main word.]
 
-> **_Infinitive_**
-> > **aire** _infinitive_ to find; **aireha** _negative infinitive_ to not find
+## Meronyms
+\[List words or phrases which refer to a portion of a larger thing which is the main thing.]
+## Hyponyms
+\[List words which refer to a subset, subcategory, or more specific version of the main word.]
 
-> **_Past_**
-> > **airetot** _passive_; **airetolot** _active_<br/>
-> > **airetota** _negative passive_; **airetolota** _negative active_
+## Derived Terms
 
-> **_Present_**
-> > **aireton** _passive_; **airetol** _active_<br/>
-> > **airetona** _negative passive_; **airetola** _negative active_
+### Phrasal Terms
+- ***Bajia ni yi airenton***: "Today I am learning", can be abbreviated as **BYA** equivalent to online shorthand **TIL** "Today I Learned".
 
-> **_Future_**
-> > **airetoçi** _passive_; **airetoloçi** _active_<br/>
-> > **airetoça** _negative passive_; **airetoloça** _negative active_
-
-### Derivation
-
-### Related Words
+# Translations

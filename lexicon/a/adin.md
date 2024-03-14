@@ -1,30 +1,60 @@
-# adin
 ---
-[Return to List of Words beginning with A](lexicon/a/_dict_a)
+tags:
+  - dictionary
+  - lexicon
+  - word
+  - noun
+  - noun/proper
+  - pronoun
+partSpeech:
+  - Noun
+  - Pronoun
+englishGloss:
+  - Adin
+  - people
+  - tribe
+  - clan
+  - ethnic group
+  - species
+  - all people
+  - the people
+coinDate: 1998-06-01
+---
+# adin
 
-## Forms
-1. **adin** (_noun, pronoun, universal_)
-	1. all people, the people
-	2. people as a concept
-2. **ADIN** (_proper noun_)
-	1. the Adin race
-	2. a member of the Adin race
+# Adinjo
+## Alternative Forms
+- **ADIN** (proper noun)
 
-### Other Forms
+## Etymology
+**Adin** is the result of the straightforward derivation process of prefixing **[a-](lexicon/a/a-.md)** + **[dyn](lexicon/d/dyn)** to create a universal noun.
 
-- **adinu** (_universal plural_) all peoples, all races or species
-- **k'adin** (_universal genitive_) of all people
+## Pronunciation
+- **IPA Broad**: /a.ˈdiˑn/
 
-### Derivation
+## Noun
 
-**Adin** is the result of the straightforward derivation process of prefixing **[a](lexicon/a/a)** + **[dyn](lexicon/d/dyn)** to create a universal noun.
+### adin
+1. people, tribe, clan, ethnic group, species
+2. (proper) the Adin species, the Adin ethnic group, the Adin bloodline
+3. (proper) an Adin individual, a group of Adin people
 
-### Related Words
+## Pronoun
+1. (universal) all people, mass group, species
 
-- **[a](lexicon/a/a.md)** (_prefix_) all, each, every
-- **[dyn](lexicon/d/dyn.md)** (_noun_) person, man, human, intelligent being
+# Thesaurus
+## Synonyms
+
+## Hyponyms
+
+## Derived Terms
 - **[ADINJO](lexicon/a/adinjo.md)** (_proper noun_) a language of the Adin people
 
-## General Tags
+### Compound Words
+### Phrasal Terms
 
-#coined/1998 #noun #noun/proper #pronoun #universal 
+## Related Terms
+- **[a-](lexicon/a/a-.md)** (_prefix_) all, each, every
+- **[dyn](lexicon/d/dyn.md)** (_noun_) person, man, human, intelligent being
+
+# Translations

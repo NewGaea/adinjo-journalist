@@ -1,28 +1,44 @@
+---
+tags:
+  - dictionary
+  - lexicon
+  - word
+  - noun
+  - pronoun
+partSpeech:
+  - Pronoun
+englishGloss:
+  - any time
+  - one time
+coinDate: 2022-06-01
+---
 # ademba
----
-[Return to Wordlist](lexicon/a/_dict_a.md)
 
-## Forms
+# Adinjo
+## Alternative Forms
 
-1. **ademba** (_noun, pronoun_) ![audio sample](audio/01-adob/mp3/ademba.mp3)
-	1. any time, one time
-		+ Usually refers to a specific period or point in time when used with past tense, and to the generic when used with future tense
-
-### Other Forms
-
-+ N/A
-
----
-### Derivation
-
+## Etymology
 Derived from **[temba](lexicon/t/temba)** by an indefinite process.
 
----
-### Related Words
+## Pronunciation
+- **IPA Broad**: /a.'deːm.ba/
 
+## Pronoun
+
+### ademba (plural *adembanu*)
+1. (fut.) any time, (non-fut.) one time
+
+# Thesaurus
+## Synonyms
+
+## Hyponyms
+
+## Derived Terms
+
+### Compound Words
+### Phrasal Terms
+
+## Related Words
 * **temba** 1. (_noun_) time
 
----
-## General Tags
-
-#noun #pronoun 
+# Translations
