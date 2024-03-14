@@ -1,6 +1,8 @@
-# All Words
+# Kun Verbs
+
 ```dataview
 TABLE englishGloss as "English"
-FROM "lexicon" AND #dictionary
+FROM #dictionary AND #verb/kun 
 SORT (file.name)ASC
 ```
+

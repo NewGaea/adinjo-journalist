@@ -1,6 +1,7 @@
-# All Words
+# Nouns
+
 ```dataview
 TABLE englishGloss as "English"
-FROM "lexicon" AND #dictionary
+FROM #dictionary AND #noun
 SORT (file.name)ASC
 ```
