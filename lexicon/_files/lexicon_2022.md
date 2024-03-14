@@ -35,7 +35,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## A
 
-- **[-a](lexicon/a/a.md)** 1. (_generic suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_) 2. (**-a-**) (_kun verb affix_) no, not; replaces the last vowel in the root (att. 2003-Dec-25; cf. _ha_)
+- **[-a](lexicon/a/a-.md)** 1. (_generic suffix_) no, not, negative (att. 2003-Dec-25; cf. _ha_) 2. (**-a-**) (_kun verb affix_) no, not; replaces the last vowel in the root (att. 2003-Dec-25; cf. _ha_)
 - **ademba** 1. (_pronoun_) any time, one time (att. 2022-Jun-01; cf. _temba_)
 - **aduprani** 1. (_descriptor_) pansexual (att. 2022-Jun-04)
 - **aki** 1. (_pronoun_) all of us, everybody here (att. 2022-Jun-24)
