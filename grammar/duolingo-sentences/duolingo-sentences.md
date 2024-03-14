@@ -1,0 +1,1 @@
+This contains a selection of sentences used in Duolingo courses, translated into Adinjo. Each sentence is sorted into a Section by folder and a unit by file, and is drawn from the phrasebook. The sentences are not merely translated, but glossed, so you can study the grammar more clearly.
