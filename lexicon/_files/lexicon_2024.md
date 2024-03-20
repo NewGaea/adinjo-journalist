@@ -277,3 +277,4 @@ The words listed in this section may be repurposed and redefined as they have mo
 - **temnis** 1. (_noun_) meat, flesh 2. (_noun_) food, edible matter whether plant or animal 3. (_noun_) information, data, especially when such is meaningful or actionable (cn. 2024-Mar-06)
 - **paratwa pöén** 1. (_noun_) menu, food list (cn. 2024-Mar-07)
 - **pöén** 1. (_noun_) food; may refer to anything edible (cn. 2024-Mar-07)
+- **aci** 1. (_pronoun_) all of you, everybody her (except me) (cn. 2024-Mar-14) 2. (descriptor, honorific) miss, ma'am; shortened form of *aiti* used to show respect (cn. 2024-Mar-14) 3. pi, the ratio of a circle's circumference to its diameter, approx. ${3.141592_{10}}$  or ${3;184809_{12}}$ (cn. 2024-Mar-14) 
