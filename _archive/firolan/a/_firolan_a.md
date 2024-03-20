@@ -48,82 +48,82 @@
 	1. (_noun_) high tale, great legend, grand fantasy (form of **[kendan](k/kendan.md)**)
 + **[albor-OLD](lexicon/a/albor-OLD.md)**
 	1. (_noun_) tar, ink, oil paint
-+ **[ald](a/ald.md)**
++ **[ald-OLD](_archive/old-words/ald-OLD.md)**
 	1. (_descriptor_) old
-+ **[alʤin](a/aldjin.md)**
++ **[alʤin](_archive/old-words/aldjin-OLD.md)**
 	1. (_noun_) old blood, established names or families; Adin with bloodline traits
-+ **[almaru](a/alma.md)**
++ **[almaru](_archive/old-words/alma-OLD.md)**
   1. (_ton verb_) leading, exercising or showing leadership
   2. ruling, interpreting rules or laws, passing judgement
   3. governing, exercising authority
-  + **[almán](a/almán.md)**
+  + **[almán-OLD](_archive/old-words/almán-OLD.md)**
     1. (_noun_) a leader, as of a group or team
     2. a leader or ruler appointed without regard for qualifications, usually for a short term until a properly qualified leader can be appointed
     3. a leader without the will to lead or govern
-  + **[almatax](a/almatax.md)**
+  + **[almatax-OLD](_archive/old-words/almatax-OLD.md)**
     1. (_noun_) ruler, governor
     2. manager, coach
     3. teacher, professor, preacher
     4. judge, court
-  + **[alnom](a/alnom.md)**
+  + **[alnom-OLD](_archive/old-words/alnom-OLD.md)**
     1. (_noun_) a rule or regulation
     2. a protocol or procedure
     3. a law
-+ **[almen](a/alme.md)**
++ **[almen](_archive/old-words/alme-OLD.md)**
   1. (_ton verb_) milking, suckling, nursing
   2. extracting venom or toxins, whether from a gland or from a wound
   3. (vulgar) masturbating
-  + **[almenin](a/almenin.md)**
+  + **[almenin-OLD](_archive/old-words/almenin-OLD.md)**
     1. (_descriptor_) milky
     2. cloudy
     3. pale
     4. desaturated or faded
-  + **[almer](a/almer.md)**
+  + **[almer-OLD](_archive/old-words/almer-OLD.md)**
     1. (_noun_) milk, fluid produced by mammary glands
     2. potion, any brew with magical properties (sometimes called **nayu almer** _magical milk_)
-+ **[alren](a/alren.md)**
++ **[alren-OLD](_archive/old-words/alren-OLD.md)**
   1. (_noun_) twin
-+ **[amarte](a/amar.md)**
++ **[amarte](_archive/old-words/amar-OLD.md)**
   1. (_ton verb_) crying, weeping
   2. mourning
 + **[amenar](a/amenar.md)**
-+ **[amenru](a/amen.md)**
++ **[amenru](_archive/old-words/amen-OLD.md)**
   1. (_ton verb_) waking as from sleep or rest
   2. becoming sober, either from the intoxication of drugs or emotions
   3. invoking authority, this term is considered to refer to the respectful manner of asking favors from superiors
   4. calling upon a group, as in public speaking such as preaching or elections
-  + **[amén](a/amen.md)**
+  + **[amén](_archive/old-words/amen-OLD.md)**
     1. (_expression_) so be it
     2. might it be so
-  + **[amend](a/amend.md)**
+  + **[amend-OLD](_archive/old-words/amend-OLD.md)**
     1. (_descriptor_) awake
     2. alert
     3. ready to act
-+ **[amkeil](a/amkei.md)**
++ **[amkeil](lexicon/a/amkei-OLD.md)**
   1. (_ton verb_) cutting
   2. splitting, separating
   3. removing, shearing
   4. dividing
-+ **[amurent](a/amur.md)**
++ **[amurent](lexicon/a/amur-OLD.md)**
   1. (_ton verb_) scattering
   2. spreading out, hiding
   3. sowing seeds
   4. (_via (3)_) to have (typically casual) sexual relations with various partners
-  + **[amurtemba](a/amurtemba.md)**
+  + **[amurtemba-OLD](lexicon/a/amurtemba-OLD.md)**
     1. (_noun_) planting season
-+ **[an-](a/an.md) [1]**
++ **[an-](lexicon/a/an-OLD.md) [1]**
   + (_via **anjyu**_)
     1. (_prefix_) sex or gender
     2. class
     3. genre
   + (_via **aniru**_)
     1. (_prefix_) expresses that the word is a statement of state or status, “to be _x_”
-+ **[andaiti](a/andaiti.md)**
++ **[andaiti-OLD](lexicon/a/andaiti-OLD.md)**
   1. (_noun_) female; in sexual species, the gender which normally produces ova
   2. (_descriptor_) female, feminine
 + **[anden](a/anden.md)**
   1. (_descriptor_) holy
-  + **[andenin](a/andenin.md)**
+  + **[andenin-OLD](lexicon/a/andenin-OLD.md)**
     1. (_noun_) holiness
 + **Andurusidin**
 	1. (_proper noun_) Andurusian
