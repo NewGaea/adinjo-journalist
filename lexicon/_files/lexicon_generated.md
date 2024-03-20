@@ -176,6 +176,11 @@ Note that there is no guarantee that these random words are entirely suitable fo
 	1. (_noun_) reward, prize
 - dambenguxe (gen. 2022-Jun-23)
 - dand (gen. 2022-Jun-23)
+	1. **dandè** (cn. 2024-Mar-14)
+		1. (_noun_) circle
+		2. (_noun_) group, guild, organization, society (closed membership)
+		3. (*descriptor*) (distance) equal, even, uniform
+		4. (*descriptor*) (value) absolute, non-negative
 - danin (gen. 2022-Jun-23)
 - darduláji (gen. 2022-Jun-23)
 - darkalca (gen. 2022-Jun-23)
