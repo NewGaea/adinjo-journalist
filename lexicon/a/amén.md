@@ -3,43 +3,41 @@ tags:
   - dictionary
   - lexicon
   - word
-  - verb
-  - verb/ton
 partSpeech:
-  - Ton Verb
+  - Interjection
 englishGloss:
-  - cry
-  - weep
-  - mourn
-coinDate:
+  - yeah
+  - okay
+  - let it be
+  - make it so
+  - do it
+  - amen
+  - right
+coinDate: 2002-07-31
 ---
-# amar
-
+# amén
 # Adinjo
 ## Alternative Forms
-- **amarau** (former participle, retired when participle rules were made)
 
 ## Etymology
+### Internal Origin
+From [**amèn**](lexicon/a/amèn) "to wake, to invoke, to call upon" borrowed from Ancient Hebrew [**אָמֵן**](https://en.wiktionary.org/wiki/אמן#Hebrew) (_amén_, "so be it")
+### External Origin
+From Modern English [**amen**](https://en.wiktionary.org/wiki/amen#English), used as a valediction to prayer or an assent or affirmation especially in religious contexts.
 
 ## Pronunciation
-- **IPA Broad**: /am.ar/
+- **IPA Broad**: /a.'me:n/
 
-## Ton Verb (Infinitive)
+## Interjection
 
-### amar (present *amarton*, past *amartot*, future *amartoçi*)
-1. cry, weep 
-2. mourn
-## Ton Verb (Gerund)
-### amarte
-1. crying, weeping
-2. mourning
-## Ton Verb (Participle)
-### am (present *amton*, past *amtot*, future *amtoçi*)
-1. crying, weeping
-2. mourning
-### anamar (gerund *anamarte*)
-1. (to be) crying, (to be) weeping
-2. (to be) mourning
+### amén
+1. yes, yeah, right, okay 
+2. (oratory) make it so, go forth
+	1. This is a common formal valediction and call to action in public speech, though it may also be used in private conditions to request favors of higher class persons.
+3. (religion) let it be, make it so, do it
+	1. A formal way to request the spirits to do something on one's behalf
+
+Senses 2 and 3 are both a common way to verbally punctuate a prayer or call to action, implying, without explicitly saying, "I am finished here."
 
 # Thesaurus
 ## Synonyms

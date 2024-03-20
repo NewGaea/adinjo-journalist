@@ -1,31 +1,58 @@
-ald
-===
+---
+tags:
+  - dictionary
+  - lexicon
+  - word
+partSpeech:
+  - Descriptor
+englishGloss:
+  - aged
+  - dated
+  - unfold
+  - outdated
+  - worn down
+  - worn out
+coinDate: 2007-12-29
+---
+# ald
 
-**ald** _descriptor_
+# Adinjo
+## Alternative Forms
 
-1. old
-2. antique
+## Etymology
+### External Origin
+Likely from Germanic *ald* "old"
 
-`#descriptor`
+## Pronunciation
+- **IPA Broad**: /ald/
 
-**ald** _noun_
+## Descriptor
 
+### ald
+1. old, aged 
+2. dated, outdated
+3. worn out, worn down
+
+## Noun
+
+### ald (plural *aldu*)
 1. age
-2. year of age; this refers only to a count of years, not the the concept of a year (cf. **nyore** for the period of time)
+2. year of age; this refers only to a count of years, not the the concept of a year (cf. [**nyore**](lexicon/n/nyore) for the period of time)
 3. level of education or training; may be used similarly to a year of school or years spent working a job
 
-`#noun`
+# Thesaurus
 
-### Other Forms
+## Synonyms
+- [**dul**](lexicon/d/dul): old, older, senior (relative age)
+- [**dyur**](lexicon/d/dyur): oldest, most senior (relative age)
 
-> **aldu** _plural descriptor_ describes a group of old things
+## Antonyms
+- [**mortis**](lexicon/m/mortis): young, youthful, fresh
 
-> **aldu** _plural noun_ any count of years other than zero or one
+## Derived Terms
 
-### Derivation & Etymology
+### Compound Words
+- [**aldjin**](lexicon/a/aldjin): old blood, established family
+- [**aldyur**](lexicon/a/aldyur): ancient, antique
 
-### Related Words
-
-> **aldjin** _noun_ old blood, establishment
-
-> **ALDJIN** _proper noun_ Adin who demonstrate specific bloodline traits
+# Translations

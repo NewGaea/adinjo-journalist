@@ -1,40 +1,75 @@
-alma
-====
+---
+tags:
+  - dictionary
+  - lexicon
+  - word
+  - verb
+  - verb/ton
+partSpeech:
+  - Ton Verb
+englishGloss:
+  - rule
+  - lead
+  - govern
+coinDate: 2008-07-22
+---
+# alma
 
-**almaru** _ton verb, gerund_
+# Adinjo
+## Alternative Forms
 
+## Etymology
+
+## Pronunciation
+- **IPA Broad**: /al.ˈmaˑ/
+
+## Ton Verb
+
+### alma (pres *almaton*, past *almatot*, future *almatoçi*)
+1. to lead
+	1. to exercise leadership, to show leadership
+2. to rule
+	1. to make rulings, to interpret rules or laws, to pass judgement
+3. to govern
+	1. to exercise authority
+
+### almaru
 1. leading
-2. ruling (_active_: passing judgement)
+2. ruling
 3. governing
 
-`#verb` `#ton`
+#### Verb Paradigms
 
-### Other Forms ###
+|                | Positive  | Negative    |
+| -------------- | --------- | ----------- |
+| **Infinitive** | *acoré*   | *acoréha*   |
+| **Gerund**     | *acoréru* | *acoréruha* |
 
-> **_Gerund_**
-> > **almaru** _gerund_ leading; **almaruha** _negative gerund_ not leading
+|         | Act. Pos    | Act. Neg    | Pass. Pos     | Pass. Neg     |
+| ------- | ----------- | :---------- | :------------ | :------------ |
+| Present | *acoréton*  | *acorétona* | *acorétol*    | *acorétola*   |
+| Past    | *acorétot*  | *acorétota* | *acorétolot*  | *acorétolota* |
+| Future  | *acorétoçi* | *acoretoça* | *acorétoloçi* | *acorétoloça* |
 
-> **_Infinitive_**
-> > **alma** _infinitive_ to lead; **almaha** _negative infinitive_ to not lead, to fail to lead
+## Noun
+### almag (plural *almagu*)
+1. leadership
+2. rule
+3. governance
+## Participle
 
-> **_Past_**
-> > **almatot** _passive_; **almatolot** _active_<br/>
-> > **almatota** _negative passive_; **almatolota** _negative active_
+### alm (present *almton*, past *almtot*, future *almtoçi*)
+1. lead
+2. rule
+3. govern
+### analma (gerund *analmaru*)
+1. (be) leading
+2. (be) ruling
+3. (be) governing
 
-> **_Present_**
-> > **almaton** _passive_; **almatol** _active_<br/>
-> > **almatona** _negative passive_; **almatola** _negative active_
-
-> **_Future_**
-> > **almatoçi** _passive_; **almatoloçi** _active_<br/>
-> > **almatoça** _negative passive_; **almatoloça** _negative active_
-
-### Derivation ###
-
-Related words.
-
-> **almán** _noun_ leader, ruler, governor; a leader by circumstance rather than a leader by profession
-
-> **almatax** _noun_ leader, ruler, manager, governor; a leader by profession, but one who is not the highest authority; this title _may_ be adopted by higher leaders who wish to create an atmosphere of familiarity, though this is rare
-
-> **alnom** _noun_ a rule or regulation; a protocol or procedure; a law
+# Thesaurus
+## Derived Terms
+- [**almán**](lexicon/a/almán): leader, acting leader, director, team leader
+- [**almatax**](lexicon/a/almatax): leader, manager
+- [**alnom**](_archive/old-words/alnom-OLD.md): law, procedure, protocol, regulation, rule, ruling
+# Translations

@@ -32,7 +32,7 @@ May be derived from an old composition such as **_*hatyurìl_**, meaning _not fo
 	- *infinitive* /a.'tso.re/
 	- *gerund* /a.'tso.re.ru/ ![listen](../../audio/01-adob/mp3/acoré.ru.mp3)
 
-## *Taru Votèn* (Ton Verb)
+## Ton Verb
 
 ### acoré (present *acoréton*, past *acorétot*, future *acorétoçi*)
 1. to open

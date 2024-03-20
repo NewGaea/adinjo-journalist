@@ -3,44 +3,54 @@ tags:
   - dictionary
   - lexicon
   - word
-  - verb
-  - verb/ton
 partSpeech:
   - Ton Verb
 englishGloss:
-  - cry
-  - weep
-  - mourn
-coinDate:
+  - wake
+  - awaken
+  - sober
+  - sober up
+  - invoke
+  - call
+  - call upon
+  - call to action
+coinDate: 2002-07-31
 ---
-# amar
+# amèn
 
 # Adinjo
 ## Alternative Forms
-- **amarau** (former participle, retired when participle rules were made)
-
+- **amen** (alternative spelling, dis-preferred as of 2024)
+- **amènd, amend** (former participle, retired when participle rules were made)
 ## Etymology
 
 ## Pronunciation
-- **IPA Broad**: /am.ar/
+- **IPA Broad**: /am.ɛn/
 
 ## Ton Verb (Infinitive)
 
-### amar (present *amarton*, past *amartot*, future *amartoçi*)
-1. cry, weep 
-2. mourn
+### amèn (present *amènton*, past *amèntot*, future *amèntoçi*)
+1. to wake, to awake, to awaken 
+2. to sober, to become sober
+3. to invoke, to invoke authority
+4. to call on, to call upon
 ## Ton Verb (Gerund)
-### amarte
-1. crying, weeping
-2. mourning
+### amènru
+1. waking, awakening
+2. sobering (up)
+3. invoking authority
+4. calling on
 ## Ton Verb (Participle)
 ### am (present *amton*, past *amtot*, future *amtoçi*)
-1. crying, weeping
-2. mourning
-### anamar (gerund *anamarte*)
-1. (to be) crying, (to be) weeping
-2. (to be) mourning
-
+1. waking, awoke
+2. sober
+3. requesting, invoking
+4. calling
+### anamèn (gerund *anamènru*)
+1. (to be) waking, (to be) awakening
+2. (to be) sober
+3. (to be) requesting, (to be) invoking
+4. (to be) calling
 # Thesaurus
 ## Synonyms
 \[List words with roughly matching or similar meanings to the main word.]

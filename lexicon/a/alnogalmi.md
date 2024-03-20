@@ -3,50 +3,41 @@ tags:
   - dictionary
   - lexicon
   - word
-  - verb
-  - verb/ton
 partSpeech:
-  - Ton Verb
+  - Descriptor
 englishGloss:
-  - cry
-  - weep
-  - mourn
-coinDate:
+  - lawful
+  - legal
+  - regulated
+  - legitimate
+coinDate: 2023-06-22
 ---
-# amar
+# alnogalmi
 
 # Adinjo
 ## Alternative Forms
-- **amarau** (former participle, retired when participle rules were made)
 
 ## Etymology
+From [**alnom**](lexicon/a/alnom) "law" and [**galm**](lexicon/g/galm) "allow, permit"
 
 ## Pronunciation
-- **IPA Broad**: /am.ar/
+- **IPA Broad**: /al.,no.gal.'mi/
 
-## Ton Verb (Infinitive)
+## Descriptor
 
-### amar (present *amarton*, past *amartot*, future *amartoçi*)
-1. cry, weep 
-2. mourn
-## Ton Verb (Gerund)
-### amarte
-1. crying, weeping
-2. mourning
-## Ton Verb (Participle)
-### am (present *amton*, past *amtot*, future *amtoçi*)
-1. crying, weeping
-2. mourning
-### anamar (gerund *anamarte*)
-1. (to be) crying, (to be) weeping
-2. (to be) mourning
+### alnogalmi (negative *alnogalmya*)
+1. lawful, legal
+	1. permitted by some rule or law
+2. legitimate
+	1. in accordance with rule or law
+3. regulated
+	1. subject to some form of rule or regulation
 
 # Thesaurus
 ## Synonyms
 \[List words with roughly matching or similar meanings to the main word.]
 ## Antonyms
 \[List words with roughly opposite meanings to the main word.]
-
 ## Meronyms
 \[List words or phrases which refer to a portion of a larger thing which is the main thing.]
 ## Hyponyms
