@@ -1,0 +1,29 @@
+# Original Poem: _Hyma Ci Koru_
+
+## Original Adinjo Text
+
+```txt
+Gurion hiro ic dan karen,
+Miktan hi curito.
+Zus Sonhir sug kemitakh,
+Ton Olímpús ramintot.
+
+Kame sino, kuZus shir,
+Kemi ton kufi loji kenz.
+Hira Sonhir sug kharon,
+Ton Olímpús fritot kufi twa.
+
+Hefastus, sug cintal,
+Hiro i sug gif hi gifan,
+Ji ins baton kuji shir,
+kenji ins tokh.
+
+Hiro Hediz i sug jamdukal,
+Sorok inda Olímpús.
+```
+
+## Commentary
+
+This poem is an original work written by Nathaniel Knight in 2002. At this time, the language was closer to a relex of English than it is at present, as is reflected in the word ordering. All words found in this poem may be attributed to 2002-Dec-31 when updating wordlists.
+
+This poem, about the Emissary Kings of Olímpús (sic), was never completed. An updated version of the poem is not currently scheduled as of 2023-Feb-14.
