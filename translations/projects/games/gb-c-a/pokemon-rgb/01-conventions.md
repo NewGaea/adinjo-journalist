@@ -1,5 +1,5 @@
 # Translation Conventions & Limitations
-[Index](pokemon-red-green-blue.md) | [Next](02-menus-pregame.md)
+[Index](translations/projects/games/gb-c-a/pokemon-rgb/pokemon-red-green-blue.md) | [Next](translations/projects/games/gb-c-a/pokemon-rgb/02-menus-pregame.md)
 
 This translation is designed to be insertable into a GameBoy ROM image for the U.S. English releases of Pokémon Red Version and Pokémon Blue Version. This means it may need to abbreviate some Adinjo words in atypical ways, and otherwise limit certain things.
 
@@ -35,4 +35,4 @@ In the Adinjo Journalist translation, the following terms are used to fit the co
 	- Where a name is altered between localizations, the pun or joke values of both of JP and EN may be considered and preserved, or a new pun or joke should be made in a similar vein.
 		- For example, **<ruby>フシギダネ<rt>fushigi-dane</rt></ruby>** means something like "mystery seed" or "mysterious seed" while **Bulbasaur** refers to a seed, a dinosaur, and the word *bizarre* (though the last is somewhat obscured by spelling). Adinjo should seek a way to create a "bizarre" or "mysterious" pun relating to a seed.
 
-**[Index](pokemon-red-green-blue.md) | [Next: Pregame Menus](02-menus-pregame.md)**
+**[Index](translations/projects/games/gb-c-a/pokemon-rgb/pokemon-red-green-blue.md) | [Next: Pregame Menus](translations/projects/games/gb-c-a/pokemon-rgb/02-menus-pregame.md)**
