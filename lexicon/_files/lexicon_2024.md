@@ -43,7 +43,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **ancoté** 1. (_noun_) sisterhood, sorority (att. 2023-Feb-03)
 - **asenkuha** 1. (_noun_) dawn, sunrise (att. 2023-Jan-21)
 - **ashenros** 1. (_noun_) hypnosis, meditation, trance (att. 2023-Jan-21)
-- **aur.en** 1. (_ton verb_) asking, interrogating, querying, questioning `#2023.01.10`
+- **aur.en** 1. (_ton verb_) asking, interrogating, querying, questioning (att. 2023-Jan-10)
 
 ## B
 
