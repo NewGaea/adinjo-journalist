@@ -118,12 +118,12 @@
     3. genre
   + (_via **aniru**_)
     1. (_prefix_) expresses that the word is a statement of state or status, “to be _x_”
-+ **[andaiti-OLD](lexicon/a/andaiti-OLD.md)**
++ **[andaiti-OLD](_archive/old-words/andaiti-OLD.md)**
   1. (_noun_) female; in sexual species, the gender which normally produces ova
   2. (_descriptor_) female, feminine
 + **[anden](a/anden.md)**
   1. (_descriptor_) holy
-  + **[andenin-OLD](lexicon/a/andenin-OLD.md)**
+  + **[andenin-OLD](_archive/old-words/andenin-OLD.md)**
     1. (_noun_) holiness
 + **Andurusidin**
 	1. (_proper noun_) Andurusian

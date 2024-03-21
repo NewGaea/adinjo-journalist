@@ -6,24 +6,26 @@ tags:
 partSpeech:
   - Noun
 englishGloss:
-  - divinity
-coinDate: 2022-07-27
+  - October
+  - Lightning-moon
+coinDate: 2021-01-19
 ---
-# andènau
+# anèsh'ilüan
 
 # Adinjo
 ## Alternative Forms
 
 ## Etymology
+From [**anèsh**](lexicon/a/anèsh) "lightning" and [**lüan**](lexicon/l/lüan) "moon."
 
 ## Pronunciation
-- **IPA Broad**: /an.d3n.au/
+- **IPA Broad**: /an.ɛʃ.ˈiː.lʷan/
 
 ## Noun
 
-### andènau
-1. divinity, divine nature
-	1. the essential spiritual quality of good gods or spirits that ensures they remain good
+### anèsh'ilüan
+1. October
+2. Lightning-moon, Lightning's Month
 
 # Thesaurus
 ## Synonyms

@@ -6,24 +6,26 @@ tags:
 partSpeech:
   - Noun
 englishGloss:
-  - divinity
-coinDate: 2022-07-27
+  - boltsaber
+coinDate: 2008-01-03
 ---
-# andènau
+# anèshtèn
 
 # Adinjo
 ## Alternative Forms
 
 ## Etymology
+From [**anèsh**](lexicon/a/anèsh) "lightning, electricity" and [**tèn**](lexicon/t/tèn) "sword, saber."
 
 ## Pronunciation
-- **IPA Broad**: /an.d3n.au/
+- **IPA Broad**: /an.ɛʃ.ˈtɛn/
 
 ## Noun
 
-### andènau
-1. divinity, divine nature
-	1. the essential spiritual quality of good gods or spirits that ensures they remain good
+### anèshtèn (plural *anèshtènu*)
+1. boltsaber
+	1. A straight-edged saber traditionally fashioned by [*jedai*](lexicon/j/jedai) to help them focus and wield their elemental magics in combat.
+	2. Any weapon chosen and fashioned by a *jedai* for the same purpose
 
 # Thesaurus
 ## Synonyms

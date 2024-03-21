@@ -6,35 +6,33 @@ tags:
 partSpeech:
   - Descriptor
 englishGloss:
-  - blessed
-  - hallowed
-  - holy place
-  - sanctified
-coinDate: 2003-12-25
+  - agender
+  - genderless
+  - neuter
+  - ungendered
+coinDate: 2008-06-22
 ---
-# antènar
+# anon
 
 # Adinjo
 ## Alternative Forms
-- **amenar** (mistaken form, typo)
-- **atenar** (old, retired)
 
 ## Etymology
-### Internal Etymology
-From [**ani**](lexicon/a/ani), reduced to the prefix ***an-***, and [**tèna**](lexicon/t/tèna)
+Indefinite. From [**an- (1)**](lexicon/a/an), "sex, gender" and an unknown element. There is a suggestion that it derives from [**kon**](lexicon/k/kon) "metal".
 
 ## Pronunciation
-- **IPA Broad**: /an.tɛ.ˈnaːr/
+- **IPA Broad**: /an.ˈon/
 
 ## Descriptor
 
-### antènar
-1. blessed, hallowed 
-2. sacred
+### anon
+1. genderless, ungendered
+2. (grammar) neuter
+3. (identity) agender
 
 # Thesaurus
 ## Synonyms
-- [**andènin**](lexicon/a/andènin): holiness, sacredness
+\[List words with roughly matching or similar meanings to the main word.]
 ## Antonyms
 \[List words with roughly opposite meanings to the main word.]
 

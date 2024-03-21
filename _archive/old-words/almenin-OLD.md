@@ -14,7 +14,7 @@ almenin
 
 ### Derivation
 
-Though the exact process used has not been formally defined, **almenin** is derived from **almeru** _milking_. The word **[andenin-OLD](lexicon/a/andenin-OLD.md)** uses this same process.
+Though the exact process used has not been formally defined, **almenin** is derived from **almeru** _milking_. The word **[andenin-OLD](_archive/old-words/andenin-OLD.md)** uses this same process.
 
 ### Related Words
 

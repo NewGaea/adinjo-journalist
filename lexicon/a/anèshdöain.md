@@ -6,24 +6,27 @@ tags:
 partSpeech:
   - Noun
 englishGloss:
-  - divinity
-coinDate: 2022-07-27
+  - lightning bolt
+  - electrical arc
+coinDate: 2008-01-03
 ---
-# andènau
+# anèshdöain
 
 # Adinjo
 ## Alternative Forms
 
 ## Etymology
+From [**anèsh**](lexicon/a/anèsh) "lightning, electricity" and [**döain**](lexicon/d/döain) "river", refers 
 
 ## Pronunciation
-- **IPA Broad**: /an.d3n.au/
+- **IPA Broad**: /f.netiks/
 
 ## Noun
 
-### andènau
-1. divinity, divine nature
-	1. the essential spiritual quality of good gods or spirits that ensures they remain good
+### anèshdöain (plural *anèshdöainu*)
+1. lightning bolt, electrical arc
+2. ley line
+3. magical discharge
 
 # Thesaurus
 ## Synonyms

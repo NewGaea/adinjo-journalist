@@ -5,29 +5,37 @@ tags:
   - word
 partSpeech:
   - Noun
+  - Ton Verb
 englishGloss:
-  - divinity
-coinDate: 2022-07-27
+  - brotherhood
+  - fraternity
+coinDate: 2023-02-03
 ---
-# andènau
+# andévo
 
 # Adinjo
 ## Alternative Forms
 
 ## Etymology
+From [**ani**](lexicon/a/ani) "to be" and [**dévo**](lexicon/d/dévo) "brother."
 
 ## Pronunciation
-- **IPA Broad**: /an.d3n.au/
+- **IPA Broad**: /an.'de.vo/
 
 ## Noun
 
-### andènau
-1. divinity, divine nature
-	1. the essential spiritual quality of good gods or spirits that ensures they remain good
+### andévo
+1. brotherhood, fraternity
+	1. sense of familial or otherwise close camaraderie between men
+	2. an organization based on such sense
+
+## Ton Verb
+### andévo
+1. to be brothers, to be like brothers
 
 # Thesaurus
 ## Synonyms
-\[List words with roughly matching or similar meanings to the main word.]
+- [**ancoté**](lexicon/a/ancoté): sisterhood, sorority
 ## Antonyms
 \[List words with roughly opposite meanings to the main word.]
 

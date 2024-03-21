@@ -4,12 +4,12 @@ tags:
   - lexicon
   - word
 partSpeech:
-  - Noun
+  - Ton Verb
 englishGloss:
-  - divinity
-coinDate: 2022-07-27
+  - read
+coinDate: 2008-07-22
 ---
-# andènau
+# anis
 
 # Adinjo
 ## Alternative Forms
@@ -17,13 +17,30 @@ coinDate: 2022-07-27
 ## Etymology
 
 ## Pronunciation
-- **IPA Broad**: /an.d3n.au/
+- **IPA Broad**: /an.ˈiːs/
 
-## Noun
+## Ton Verb
+### 1. anis (infinitive)
+1. to read
+### 2. aniswa (gerund)
+1. reading
+#### Verb Paradigms
 
-### andènau
-1. divinity, divine nature
-	1. the essential spiritual quality of good gods or spirits that ensures they remain good
+|                | Positive  | Negative   |
+| -------------- | --------- | ---------- |
+| **Infinitive** | *anis*   | *anisha*   |
+| **Gerund**     | *aniswa* | *aniswaha* |
+
+|         | Act. Pos    | Act. Neg    | Pass. Pos     | Pass. Neg     |
+| ------- | ----------- | :---------- | :------------ | :------------ |
+| Present | *aniston*  | *anistona* | *anistol*    | *anistola*   |
+| Past    | *anistot*  | *anistota* | *anistolot*  | *anistolota* |
+| Future  | *anistoçi* | *acoretoça* | *anistoloçi* | *anistoloça* |
+
+### 3. an (participle)
+1. read
+### 4. ananis, ananiswa (compound participle)
+1. (to be) reading
 
 # Thesaurus
 ## Synonyms

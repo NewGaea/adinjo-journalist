@@ -8,50 +8,38 @@ partSpeech:
 englishGloss:
   - holiness
   - sacredness
-coinDate:
+coinDate: 2008-06-22
 ---
-# *dekçin*
+# andènin
 
 # Adinjo
 ## Alternative Forms
 
 ## Etymology
 
+From [**andèn**](lexicon/a/andèn), with a regular inflection for nominalzation
+
 ## Pronunciation
-- **IPA Broad**: /f.netiks/
+- **IPA Broad**: /an.d3n.In/
 
-## 1. Class
+## Descriptor
 
-### lexeme (form inflected-lexeme)
-1. sense 
-2. (context) sense
+Words based on **andèn** are specifically descriptive of things innately spiritual and connected to positive spiritual energy. Things blessed, whether by mortals or the divine, are rather **[atena](atena.md)**, from **tenare** _to make holy_.
+
+### andènin
+
+1. holiness, righteousness
+	1. respect or desire to act in accordance with the will of good gods or spirits
+2. sacredness
+	1. the state or quality of having been in the presence of good gods or spirits 
 
 # Thesaurus
 ## Synonyms
-\[List words with roughly matching or similar meanings to the main word.]
+\[List words with roughly similar meanings to the main word.]
+
 ## Antonyms
 \[List words with roughly opposite meanings to the main word.]
 
-## Meronyms
-\[List words or phrases which refer to a portion of a larger thing which is the main thing.]
-## Hyponyms
-\[List words which refer to a subset, subcategory, or more specific version of the main word.]
-## Hypernyms
-\[List words which refer to a set, category, or to a broader version of the main word.]
-## Metonyms
-\[List closely related concepts that can be used to refer to the main word]
-
 ## Derived Terms
-
-### Compound Words
-\[List words which use the main word as an element in full along with one or more other full words.]
-### Clippings
-\[List words which are clipped from the main word, or from which the main word may be clipped.]
-### Blendings
-\[List words in which the main word is mutated into a blended element.]
-### Reduplications
-\[List terms which reduplicate any part of this main word to form a new word.]
-### Phrasal Terms
-\[List phrases which use the main word in them.]
 
 # Translations

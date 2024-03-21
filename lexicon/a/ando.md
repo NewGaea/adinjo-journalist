@@ -6,10 +6,15 @@ tags:
 partSpeech:
   - Noun
 englishGloss:
-  - divinity
-coinDate: 2022-07-27
+  - cave
+  - cavern
+  - hollow
+  - hole
+  - confident
+  - burrow
+coinDate: 2023-01-13
 ---
-# andènau
+# ando
 
 # Adinjo
 ## Alternative Forms
@@ -17,13 +22,15 @@ coinDate: 2022-07-27
 ## Etymology
 
 ## Pronunciation
-- **IPA Broad**: /an.d3n.au/
+- **IPA Broad**: /an.'do/
 
 ## Noun
 
-### andènau
-1. divinity, divine nature
-	1. the essential spiritual quality of good gods or spirits that ensures they remain good
+### ando (plural *andonu*)
+1. cave, cavern, hollow
+	1. a stable hole in a soft rise of land, especially one suitable for shelter from adverse weather
+2. hole, den, burrow
+	1. a stable hole (in any sort of land) which is actively used as housing for a living being
 
 # Thesaurus
 ## Synonyms

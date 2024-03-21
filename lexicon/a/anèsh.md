@@ -6,10 +6,14 @@ tags:
 partSpeech:
   - Noun
 englishGloss:
-  - divinity
-coinDate: 2022-07-27
+  - lightning
+  - electricity
+  - magical energy
+  - plasma
+  - mana
+coinDate: 2008-01-03
 ---
-# andènau
+# anèsh
 
 # Adinjo
 ## Alternative Forms
@@ -17,13 +21,14 @@ coinDate: 2022-07-27
 ## Etymology
 
 ## Pronunciation
-- **IPA Broad**: /an.d3n.au/
+- **IPA Broad**: /an.ɛʃ/
 
 ## Noun
 
-### andènau
-1. divinity, divine nature
-	1. the essential spiritual quality of good gods or spirits that ensures they remain good
+### anèsh (uncountable)
+1. lightning
+2. magical energy, plasma, mana
+3. electricity
 
 # Thesaurus
 ## Synonyms
@@ -34,11 +39,13 @@ coinDate: 2022-07-27
 ## Derived Terms
 
 ### Compound Words
-\[List words which use the main word as an element in full along with one or more other full words.]
+- [**anèshdöain**](lexicon/a/anèshdöain): lightning bolt, electrical arc
+- [**anèsh'iluan**](lexicon/a/anèsh'ilüan.md): October, Lightning-moon
+- [**anèshtèn**](lexicon/a/anèshtèn.md): boltsaber
 ### Clippings
 \[List words which are clipped from the main word, or from which the main word may be clipped.]
 ### Blendings
-\[List words in which the main word is mutated into a blended element.]
+- [**anèdjia**](lexicon/a/anèdjïa.md): Friday (of even-numbered weeks)
 ### Reduplications
 \[List terms which reduplicate any part of this main word to form a new word.]
 ### Phrasal Terms

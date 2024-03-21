@@ -37,7 +37,7 @@ Likely comes from defining *Afrodaiti*, the Adinjo form of **Aphrodite**, to mea
 
 # Thesaurus
 ## Synonyms
-- [**andaiti**](lexicon/a/andaiti-OLD.md): female (sex), woman (gender)
+- [**andaiti**](_archive/old-words/andaiti-OLD.md): female (sex), woman (gender)
 - [**imparé**](lexicon/i/imparé): feminine spirit
 ## Antonyms
 - [**anèn**](lexicon/a/anèn): male (sex), man (gender)

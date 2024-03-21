@@ -6,24 +6,31 @@ tags:
 partSpeech:
   - Noun
 englishGloss:
-  - divinity
-coinDate: 2022-07-27
+  - Andurusian (person)
+  - Andurusian (species)
+  - Andurusian
+coinDate: 2008-06-22
 ---
-# andènau
+# andùrusidin
 
 # Adinjo
 ## Alternative Forms
+- **andurusidin** (implied stress)
+- **andùrudin** (mild contraction)
+- **andurín** (strong contraction)
 
 ## Etymology
+From **Andurusian**, the name of a species of anthropomorphic felines, truncated as ***andùrusi-*** in Adinjo, and [**din**](lexicon/d/din) "people, type of people."
 
 ## Pronunciation
-- **IPA Broad**: /an.d3n.au/
+- **IPA Broad**: /an.dʌ.ru.sɪ.'din/
 
 ## Noun
 
-### andènau
-1. divinity, divine nature
-	1. the essential spiritual quality of good gods or spirits that ensures they remain good
+### andùrusìdin (plural *andùrusìdinu*)
+1. Andurusian
+	1. a member of the Andurusian species
+	2. a member of an Andurusian culture
 
 # Thesaurus
 ## Synonyms
