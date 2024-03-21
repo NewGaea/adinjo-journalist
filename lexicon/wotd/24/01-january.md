@@ -1,4 +1,4 @@
-This is the list of [Word of the Day](_root) entries for January 2024. For earlier Word of the Day Entries, check [wotd-2023](wotd-2023.md) and [lexember2023](lexember2023.md).
+This is the list of [Word of the Day](_root) entries for January 2024. For earlier Word of the Day Entries, check [wotd-2023](wotd-2023.md) and [lexember2023](translations/projects/lexember2023.md).
 
 # 01 - \[262] Dama, \[267] Dama.rio
 
