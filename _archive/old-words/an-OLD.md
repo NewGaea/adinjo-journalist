@@ -17,8 +17,7 @@ an
 
 ### Other Forms
 
-Because Adinjo writing is phonetic, when any of the following mutations occur,
-they are indicated in writing.
+Because Adinjo writing is phonetic, when any of the following mutations occur, they are indicated in writing.
 
 Preceding \<b\>, \<p\>, \<f\>, or \<v\> either of these prefices may mutate
 into _**am-**_.

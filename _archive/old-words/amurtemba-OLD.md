@@ -16,6 +16,6 @@ A simple compounding of **amur** _sowing_ with **temba** _time_.
 
 ### Related Words
 
-> **[amurent](lexicon/a/amur-OLD.md)** (_ton verb_) scattering, spreading, sowing
+> **[amurent](_archive/old-words/amur-OLD.md)** (_ton verb_) scattering, spreading, sowing
 
 `reference`

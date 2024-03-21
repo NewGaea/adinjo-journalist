@@ -5,7 +5,7 @@
 1. **andèn**
 	1. (_descriptor_) holy, sacred
 
-The words based on **anden** are specifically descriptive of things innately spiritual and connected to positive spiritual energy. Things blessed, whether by mortals or the divine, are rather **[amenar](amenar)**, from the word **[menaru](../m/menaru)** meaning _to make holy_.
+The words based on **anden** are specifically descriptive of things innately spiritual and connected to positive spiritual energy. Things blessed, whether by mortals or the divine, are rather **[antènar](lexicon/a/antènar.md)**, from the word **[tènare](lexicon/m/tènare)** meaning _to make holy_.
 
 ### Other Forms
 

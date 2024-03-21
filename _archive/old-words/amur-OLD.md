@@ -50,4 +50,4 @@ amur
 
 ### Related Words
 
-> **[amurtemba-OLD](lexicon/a/amurtemba-OLD.md)** _noun_ planting season, the time for sowing seeds
+> **[amurtemba-OLD](_archive/old-words/amurtemba-OLD.md)** _noun_ planting season, the time for sowing seeds

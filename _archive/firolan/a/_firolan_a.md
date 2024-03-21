@@ -86,7 +86,7 @@
 + **[amarte](_archive/old-words/amar-OLD.md)**
   1. (_ton verb_) crying, weeping
   2. mourning
-+ **[amenar](a/amenar.md)**
++ **[antènar](lexicon/a/antènar.md)**
 + **[amenru](_archive/old-words/amen-OLD.md)**
   1. (_ton verb_) waking as from sleep or rest
   2. becoming sober, either from the intoxication of drugs or emotions
@@ -99,19 +99,19 @@
     1. (_descriptor_) awake
     2. alert
     3. ready to act
-+ **[amkeil](lexicon/a/amkei-OLD.md)**
++ **[amkeil](_archive/old-words/amkei-OLD.md)**
   1. (_ton verb_) cutting
   2. splitting, separating
   3. removing, shearing
   4. dividing
-+ **[amurent](lexicon/a/amur-OLD.md)**
++ **[amurent](_archive/old-words/amur-OLD.md)**
   1. (_ton verb_) scattering
   2. spreading out, hiding
   3. sowing seeds
   4. (_via (3)_) to have (typically casual) sexual relations with various partners
-  + **[amurtemba-OLD](lexicon/a/amurtemba-OLD.md)**
+  + **[amurtemba-OLD](_archive/old-words/amurtemba-OLD.md)**
     1. (_noun_) planting season
-+ **[an-](lexicon/a/an-OLD.md) [1]**
++ **[an-](_archive/old-words/an-OLD.md) [1]**
   + (_via **anjyu**_)
     1. (_prefix_) sex or gender
     2. class

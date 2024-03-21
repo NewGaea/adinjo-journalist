@@ -67,28 +67,27 @@
 	2. manager, coach
 	3. teacher, professor, preacher
 	4. judge, court
-+ **[alnom-OLD](_archive/old-words/alnom-OLD.md)**
++ **[alnom](lexicon/a/alnom.md)**
 	1. (_noun_) a rule or regulation
 	2. a protocol or procedure
 	3. a law
-+ **[alme.n](_archive/old-words/alme-OLD.md)**
++ **[almè.n](lexicon/a/alme.md)**
   1. (_ton verb_) milking, suckling, nursing
   2. (_ton verb_) extracting venom or toxins, whether from a gland or from a wound
   3. (_ton verb, vulgar_) masturbating
-+ **[almenin-OLD](_archive/old-words/almenin-OLD.md)**
++ **[almènin](lexicon/a/almènin.md)**
 	1. (_descriptor_) milky
 	2. cloudy
 	3. pale
 	4. desaturated or faded
-+ **[almer-OLD](_archive/old-words/almer-OLD.md)**
++ **[almer](lexicon/a/almer.md)**
 	1. (_noun_) milk, fluid produced by mammary glands
 	2. potion, any brew with magical properties (sometimes called **xáyu almer** _magical milk_)
-+ **[alren-OLD](_archive/old-words/alren-OLD.md)**
++ **[alren](lexicon/a/alren.md)**
 	1. (_noun_) twin
-+ **[amar.te](_archive/old-words/amar-OLD.md)**
++ **[amar.te](_archive/old-words/amar.md)**
 	1. (_ton verb_) crying, weeping
 	2. mourning
-+ **[amenar](a/amenar.md)**
 + **[amenru](_archive/old-words/amen-OLD.md)**
   1. (_ton verb_) waking as from sleep or rest
   2. becoming sober, either from the intoxication of drugs or emotions
@@ -106,14 +105,14 @@
   2. splitting, separating
   3. removing, shearing
   4. dividing
-+ **[amurent](lexicon/a/amur-OLD.md)**
++ **[amurent](_archive/old-words/amur-OLD.md)**
   1. (_ton verb_) scattering
   2. spreading out, hiding
   3. sowing seeds
   4. (_via (3)_) to have (typically casual) sexual relations with various partners
-  + **[amurtemba-OLD](lexicon/a/amurtemba-OLD.md)**
+  + **[amurtemba-OLD](_archive/old-words/amurtemba-OLD.md)**
     1. (_noun_) planting season
-+ **[an-](lexicon/a/an-OLD.md) [1]**
++ **[an-](_archive/old-words/an-OLD.md) [1]**
   + (_via **anjyu**_)
     1. (_prefix_) sex or gender
     2. class
@@ -200,6 +199,7 @@
   + **ankotoloçi** _vb form_ (pass past)
   + **ankotoloçiha** _vb form_ (pass past)
   + **ankomar** _noun_ existence
++ **[antènar](lexicon/a/antènar.md)** *desc* holy, blessed, hallowed, sanctified
 + **anon** _desc_ neuter, ungendered
 + **ajan** _p noun_ Lord (the Lord, divine)
 + **ar.i** _ton vb_ throwing
