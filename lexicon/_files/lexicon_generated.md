@@ -1143,3 +1143,9 @@ Note that there is no guarantee that these random words are entirely suitable fo
 ## UNSORTED
 
 - N/A
+- kosin (gen 2004-Jan-02)
+- xumanto (gen 2004-Jan-02)
+- kyurdir (gen 2004-Jan-02)
+- tabirit (gen 2004-Jan-02)
+- tarenef (gen 2004-Jan-02)
+- shani (gen 2004-Jan-02)

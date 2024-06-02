@@ -1,0 +1,30 @@
+Adinjo Zelda Intro
+
+Screen Palette Data: 0001.A8B0
+
+Original Data:
+
+orig:  FF 0B 0A 0A 0A 0A 0E FF
+orig:  FF 00 00 4A 5A 52 00 FF
+orig:  FF 00 00 00 00 58 5A FF
+orig:  FF 00 00 10 00 00 00 FF
+orig:  FF 00 00 0A 0A 02 00 FF
+orig:  FF FA FA BA AA AA AA FF
+orig:  FF FF FF FF FF FF FF FF
+
+reva:  FF 0B 0A 0A 0A 0A 0E FF
+reva:  FF 00 00 4A 5A 52 00 FF
+reva:  FF 00 00 00 00 58 5A FF
+reva:  23 E0 20                 // These 3 bytes seem out of place?
+reva:  FF 00 00 10 00 00 00 FF
+reva:  FF 00 00 0A 0A 02 00 FF
+reva:  FF FA FA BA AA AA AA FF
+reva:  FF FF FF FF FF FF FF FF
+
+targ:  FF 0F 0A 0A 0A 0A 0F FF
+targ:  FF 50 58 5A 12 04 05 FF
+targ:  FF 5A 5A 1A 00 05 A5 FF
+targ:  FF 85 A5 A1 20 00 00 FF
+targ:  FF 00 00 A0 A0 00 00 FF
+targ:  FF FF FF FF FF FF FF FF
+targ:  FF FF FF FF FF FF FF FF

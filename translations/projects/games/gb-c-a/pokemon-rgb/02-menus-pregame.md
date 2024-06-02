@@ -53,7 +53,7 @@ While the primary copyright screen will not be updated, the copyright on the Tit
 
 ```ngloss
 \ex ©'95.'96.'98 GAME FREAK inc.
-\gl LG [larganwas] [two-contract] [copyright]
+\gl LG [larnganwas] [two-contract] [copyright]
 	6@60 [lumji-shakri-lummo] [twelve.1728s-ten.144s-six.12s] [12024]
 	kuADIN [ku-a-din] [GEN-UNIV-people]
 	NOMERAJI [nomeraji] [institute] [institute]

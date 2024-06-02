@@ -175,7 +175,7 @@ This page contains no text.
 ```
 ## I make a big mess.
 ```ngloss
-\ex Yi jalu'aidul kasons.
+\ex Yi anjalu'aidul kasons.
 \gl yi [1.SG] [I]
 	an-jaluai-dul [be-messy-more] [a big mess]
 	kason-s [make-PRES] [make]

@@ -8,54 +8,71 @@ I don't expect you to read the whole book in one sitting, so this chapter will p
 
 This book does not use Adin script or fonts, so everything is presented in _romanized_ form, using the simplest Latin script possible. This most complicated linguistic documentation for this book is how to read and pronounce Adinjo, which we are presenting in a simple table.
 
-| Romanization | Pronunciation | &nbsp; | Romanization | Pronunciation |
-|:------------:|:-------------:|:---:|:------------:|:-------------:|
-| **a** | _f<u>a</u>ther_ | | **á** | _f<u>a</u>t_ |
-| **b** | _<u>b</u>ath_ | | **c** | _ra<u>ts</u>_ |
-| **ch, ç** | _<u>ch</u>eese_ | | **d** | _<u>d</u>og_ |
-| **dh** | _<u>th</u>en_ | | **e** | _<u>e</u>nd_ |
-| **é** | _n<u>a</u>me_ | | **f** | _<u>f</u>ade_ |
-| **g** | _bi<u>g</u>_ | | **h** | _<u>h</u>otel, a-<u>h</u>a_ |
-| **i** | _h<u>i</u>ll_ | | **í** | _h<u>ea</u>t_ |
-| **j** | _mea<u>s</u>ure_ | | **dj** | _<u>j</u>ewel_ |
-| **k** | _<u>k</u>iss_ | | **l** | _<u>l</u>ift_, _mo<u>l</u>e_ |
-| **m** | _<u>m</u>iddle_ | | **n** | _<u>n</u>orth_ |
-| **o** | _c<u>o</u>de_ | | **ó** | _adi<u>eu</u>_ |
-| **p** | _pencil_ | | **q** | _<u>qu</u>est_ |
-| **r** | _<u>r</u>ent_ | | **s** | _<u>s</u>un_ |
-| **sh** | _<u>sh</u>ine_ | | **t** | _<u>t</u>ide_ |
-| **th** | _<u>th</u>ick_ | | **u** | _r<u>u</u>de_ |
-| **ú** | _p<u>u</u>t_ | | **v** | _se<u>v</u>en_ |
-| **w** | _<u>w</u>ill_ | | **x** | _lo<u>ch</u>_ |
-| **y** | _<u>y</u>ell_ | | **z** | _ha<u>z</u>e_ |
-
+|  Romanization  |  IPA   |          Pronunciation          | &nbsp; | Romanization | IPA |        Pronunciation         |
+| :------------: | :----: | :-----------------------------: | :----: | :----------: | :-: | :--------------------------: |
+|    **a, à**    |   a    |         _f<u>a</u>ther_         |        |    **á**     |  æ  |         _f<u>a</u>t_         |
+|     **b**      |   b    |          _<u>b</u>ath_          |        |    **c**     | t͜s |        _ra<u>ts</u>_         |
+| **ch, ç, c̣**  |  t͜ʃ   |         _<u>ch</u>eese_         |        |    **d**     |  d  |         _<u>d</u>og_         |
+| **dh, ḑ, ḍ** |   ð    |          _<u>th</u>en_          |        |    **è**     |  ɛ  |         _<u>e</u>nd_         |
+|    **e, é**    |   e    |          _n<u>a</u>me_          |        |    **f**     |  f  |        _<u>f</u>ade_         |
+|     **g**      |   g    |          _bi<u>g</u>_           |        |    **h**     |  h  | _<u>h</u>otel, a-<u>h</u>a_  |
+|     **ì**      |   ɪ    |          _h<u>i</u>ll_          |        |   **i, í**   |  i  |        _h<u>ea</u>t_         |
+|     **j**      |   ʒ    |        _mea<u>s</u>ure_         |        |    **dj**    | d͜ʒ |        _<u>j</u>ewel_        |
+|     **k**      |   k    |          _<u>k</u>iss_          |        |    **l**     |  l  | _<u>l</u>ift_, _mo<u>l</u>e_ |
+|     **m**      |   m    |         _<u>m</u>iddle_         |        |    **n**     |  n  |        _<u>n</u>orth_        |
+|    **o, ó**    |   o    |          _c<u>o</u>de_          |        |    **ò**     |  ø  |        _adi<u>eu</u>_        |
+|     **p**      |   p    |            _pencil_             |        |    **q**     | kʷ  |        _<u>qu</u>est_        |
+|     **r**      | ɾ<br>ɹ | _wa<u>t</u>er_<br>_<u>r</u>ent_ |        |    **s**     |  s  |         _<u>s</u>un_         |
+| **sh, ş, ṣ**  |   ʃ    |         _<u>sh</u>ine_          |        |    **t**     |  t  |        _<u>t</u>ide_         |
+| **th, ţ, ṭ**  |   θ    |         _<u>th</u>ick_          |        |   **u, ú**   |  u  |        _r<u>u</u>de_         |
+|     **ù**      |   ʊ    |          _p<u>u</u>t_           |        |    **v**     |  v  |        _se<u>v</u>en_        |
+|     **w**      |   w    |          _<u>w</u>ill_          |        |    **x**     |  x  |        _lo<u>ch</u>_         |
+|     **y**      |   j    |          _<u>y</u>ell_          |        |    **z**     |  z  |        _ha<u>z</u>e_         |
 
 In the table, each letter (or letter combination), is presented on the left, with a word reflecting that sound on the right. The underlined portion of the word is the sound produced by the letter. While no guarantee is made that all dialects of English pronounce these words the same, a so-called General American dialect is the model used to define how these words are pronounced.
 
-As you are likely to be writing Adinjo more often than speaking it, this 
+As you are likely to be writing Adinjo more often than speaking it, this guide will not look more closely at pronunciation at this time.
+
+### Notes on Pronunciation
+
+Adinjo Journalist has far fewer variants and exceptions to pronunciation than English, but it can still take a bit of adaptation for English speakers to get used to these.
+#### Aspiration
+
+Adinjo does not distinguish words based on aspiration, though it is present in voiceless stops (p, t, k) at the start of words or stressed syllables, and can sometimes also occur on their voiced counterparts (b, d, g) unlike English.
+#### "Soft" G
+
+Adinjo does not have a soft version of \<g>, it is always pronounced as in the English word "gift" or "get." The sound of the english *soft G* as in "gem" or "engine" is generally represented as \<dj> which makes the IPA sound /d͜ʒ/. In some cases, the sound in borrowed words like "formaggio" may also be represented just as \<j> which makes the IPA sound /ʒ/.
+
+#### H digraphs, Cedilla, Underdot
+
+Adinjo can represent the digraphs \<ch, dh, sh, th> above in three ways -- as a digraph, by attaching a *cedilla* to the letter, or by placing a dot under the letter. All three of these forms work, with the digraph form being the easiest.
 
 ### Diphthongs
 
 Most diphthongs, or two-vowel combinations, in Adinjo are pronounced in a straightforward manner, combining the two vowel sounds with a glide rather than a break, but for accurate pronunciation, the following table may be helpful.
 
-**NOTE:** The presence of a diphthong on the table below is no guarantee that this is in any way a common sound in the language, or even that it is found in any existing text.
+> [!Note]- Frequency
+> The presence of a diphthong on the table below is no guarantee that this is in any way a common sound in the language, or even that it is found in any existing text.
 
-| Romanization | Pronunciation | &nbsp; | Romanization | Pronunciation |
-|:------------:|:-------------:|:---:|:------------:|:-------------:|
-| **ae** | (rare) as _áy_ | | **ai** | _b<u>i</u>de_ |
-| **ao** | _l<u>aw</u>_ | | **au** | _h<u>ow</u>_ |
-| **ea** | as _éa_ | | **ei** | as _éy_ |
-| **eo** | _b<u>oo</u>k_ | | **eu** | _l<u>ef</u>t_, _s<u>ev</u>en_ |
-| **ia** | _<u>ea</u>r_ | | **ie** | _<u>ye</u>s_ |
-| **io** | _<u>y</u>oke_ | | **iu** | _c<u>u</u>te_ |
-| **oa** | _l<u>aw</u>_ | | **oe** | _c<u>oa</u>l_ |
-| **oi** | _b<u>oy</u>_ | | **ou** | _l<u>owe</u>r_ |
-| **ua** | _q<u>ua</u>d_ | | **ue** | _<u>wei</u>ght_ |
-| **ui** | _q<u>uee</u>n_ | | **uo** | _q<u>uo</u>te_ |
+> [!Note]+ Diphthongs & Triphthongs
+> Some of these are phonetically considered tripthongs (three vowel sounds together), while others are just phonetically long vowels, and one even sees an isolated phonological change of a vowel to a consonant!
+
+| Romanization | IPA | Pronunciation  | &nbsp; | Romanization |   IPA    |         Pronunciation         |
+| :----------: | :-: | :------------: | :----: | :----------: | :------: | :---------------------------: |
+|    **ae**    | æʲ  | (rare) as _áy_ |        |    **ai**    |    ai    |         _b<u>i</u>de_         |
+|    **ao**    | aɔ  | _l<u>aw</u>_\* |        |    **au**    |    au    |         _h<u>ow</u>_          |
+|    **ea**    | eʲa |    as _éa_     |        |    **ei**    |   eiʲ    |            as _éy_            |
+|    **eo**    | ʊ:  | _b<u>oo</u>k_  |        |    **eu**    | ɛf<br>ɛv | _l<u>ef</u>t_, _s<u>ev</u>en_ |
+|    **ia**    | iʲ  |  _<u>ea</u>r_  |        |    **ie**    |    ʲe    |         _<u>ye</u>s_          |
+|    **io**    | ʲo  | _<u>y</u>oke_  |        |    **iu**    |    ʲu    |         _c<u>u</u>te_         |
+|    **oa**    | ɔa  | _l<u>aw</u>_\* |        |    **oe**    |    oʊ    |         _c<u>oa</u>l_         |
+|    **oi**    | oi  |  _b<u>oy</u>_  |        |    **ou**    |   oʊw    |        _l<u>owe</u>r_         |
+|    **ua**    | wa  | _q<u>ua</u>d_  |        |    **ue**    |    we    |        _<u>wei</u>ght_        |
+|    **ui**    | wi  | _q<u>uee</u>n_ |        |    **uo**    |    wo    |        _q<u>uo</u>te_         |
 
 ## Sentences
 
-Sentences in Adinjo are broadly straightforward, flowing from the Subject, to the Object or Objects, to the Verb, or SOV order.
+Sentences in Adinjo are broadly straightforward, flowing from the Subject to the Object (or Objects), to the Verb, using a Subject-Object-Verb (SOV) order.
 
 ```gloss
 \ex (Sug) xáron (dan) kieretax faileton.
@@ -65,6 +82,8 @@ Sentences in Adinjo are broadly straightforward, flowing from the Subject, to th
 \ft The mage loves a woodworker.
 ```
 The _articles_ in Adinjo are the definite **_[sug](lexicon/s/sug)_** (the) and the indefinite **_[dan](lexicon/d/dan)_** (a, an). They are optional, but can be helpful to distinguish between the noun phrases in a sentence, especially as you are learning the language.
+
+### Glossing
 
 In addition, our glossing conventions are as follows:
 
@@ -77,7 +96,7 @@ In addition, our glossing conventions are as follows:
 4. The fourth line is an English Gloss, which preserves the word order of Adinjo but uses English words to translate any element that can be translated.
 5. The last line, _"Quoted in emphasis or italic style,"_ is a free translation, or how an English speaker might choose to represent the sample in a normal English format.
 
-### Common Glossing Terms
+#### Common Glossing Terms
 
 **NOTE:** For simplicity, some common glossing terms are provided here in tables for reference. This is only the most common terms, a more detailed list of terms can be found in the Advanced Grammar.
 
@@ -94,7 +113,8 @@ In addition, our glossing conventions are as follows:
 |      SG      |  singular number   |                     |     |      PL      |   plural (number)    |                    -s                    |
 |     UNIV     | universal (number) |     all, all of     |     |     DUAL     |    dual (number)     |                   pair                   |
 
-### Case
+## Nouns 
+#### Case
 
 Adinjo only has three cases: the **nominative, genitive,** and **vocative.** All nouns are listed in their nominative form, and the genitive is always marked by the prefixed clitic \<_ku-_\> or \<_k-_\>.
 
@@ -144,12 +164,10 @@ Adinjo Journalist is not a gendered language, though it does have a way to indic
 
 These words are marked, and not every noun ending with one of these suffixes is necessarily gendered.
 
----
 ### Pluralization
 
 In Adinjo, nouns may be singular or plural, however if an explicit number is present, the plural form is optional. Some words (sometimes called _uncountables_) take the same form whether they are singular or plural. In the case of most nouns, the plural is indicated by the clitic suffix \<nu\> or \<u\>. There are some exceptions to this rule (notably, \<_dyn_\> becomes \<_din_\>), but those will be addressed as you learn them.
 
----
 #### Simple Plural Form
 
 ```gloss
@@ -159,7 +177,8 @@ In Adinjo, nouns may be singular or plural, however if an explicit number is pre
 \glc I an eight gold.coin found
 \ft I found eight gìlden.
 ```
-Here we see that the explicit number, **eight,** is accompanied by the singular _gìlden_. While precise numbers may seem an obvious case for this, even vague numbers like _tomonu_ (dozens) allow for this manner of unmarked pluralization.
+
+Here we see that the explicit number, **eight,** is accompanied by the singular _gìlden_. While precise numbers may seem an obvious case for this, even vague numbers like _tomonu_ (dozens) allow for this manner of unmarked pluralization. You may opt use the explicit plural with a number, but you are not required to.
 
 ```gloss
 \ex LUKA cori gìldenu enmitot.
@@ -168,9 +187,12 @@ Here we see that the explicit number, **eight,** is accompanied by the singular 
 \glc Luka some gold.coins lost
 \ft Luka lost some gold coins.
 ```
-And here we see the implicit number _cori_ (some) pairs with the explicit plural _gìldenu._ 
+And here we see the implicit number _cori_ (some) pairs with the explicit plural _gìldenu._ When a number is implicit, like *cori*, or absent, it is important to make sure to use the explicit plural.
 
----
+#### Countable vs. Uncountable
+
+Adinjo Journalist does have a distinction between countable and uncountable nouns, similar to English. For example, *rash* "sand" is an uncountable noun in normal use, you cannot explicitly number it by saying something like *jon rash* "three sands" -- you must instead say *jon irenu rashi* "three grains of sand" or *jon rashinu* "three bits of sand" to pluralize *rashi*.
+
 #### Universal Form
 
 In addition to pluralization, the prefix \<a-\> may be used to create the **universal**, which may be singular or plural itself.
@@ -228,3 +250,39 @@ This demonstrates the second person singular. A simple statement of (presumed) f
 \ft Jules and their partners are polyamorous.
 ```
 Using the properly gendered pronoun is not only polite, it's a common courtesy in Adinjo. If you don't know the pronouns an individual uses, _shi_ is the most preferred term (neutral rather than unknown).
+
+##### Personal Pronouns by Person and Number
+|                       |     Singular     |       Plural       |
+| --------------------- | :--------------: | :----------------: |
+| 1st Person            |   *yi* "I, me"   |   *ki* "we, us"    |
+| 2nd Person            |    *ci* "you"    |  *cinu* "you all"  |
+| 3rd Person, Masculine |   *ji* "he, him"   | *jinu* "those guys"  |
+| 3rd Person, Feminine  |  *fi* "she, her"   | *finu* "those gals"  |
+| 3rd Person, Neutral   | *shi* "they, them" | *shinu* "that group" |
+
+While there are further pronouns, these ten are the most important. The dual and genderless pronouns are considerably less common in modern usage than these.
+
+## Ton Verbs
+
+Verbs are the most important part of a formal sentence -- they communicate what is happening. Adinjo Journalist has two types of verbs, Ton Verbs and Kun Verbs, with ton verbs generally being the more regular form. For example:
+
+```ngloss
+\ex Yi con kruçiton.
+\gl yi [1SG] [I]
+	con [pig] [pork]
+	kruçi.ton [eat.PRES] [am eating]
+\ft I am eating pork.
+```
+
+The Adin do not generally distinguish between the animal and the name of its meat. Also, the present tense fills the roles of the progressive and the stative gerund. 
+
+```ngloss
+\ex Kérincoci ki fainutota sayurín.
+\gl kérin-coci [before-night] [last night]
+	ki [1PL] [we]
+	fainu-tot-a [sleep-PAST-NEG] [did not sleep]
+	sayurin [well] [well]
+\ft Last night we did not sleep well.
+```
+
+In Adinjo Journalist, verbs inflect for their negative form, rather than using auxiliary or helper verbs like the English "do not." This is as easy as adding an *-a* suffix to the end of a Ton verb.

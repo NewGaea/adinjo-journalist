@@ -29,8 +29,8 @@ _(Principal Skinner exits into the kitchen)_
 *(Principal Skinner takes off his apron and opens the window.*
  *He puts his leg over the window, attempting to step outside.*
  *Before he can leave, Superintendent Chalmers enters the kitchen)*
-> *(Elauretax SKÌNÙR kuji hincet kiraton, kyorel \<window> biderot.*
->  *Ji darél \<window> akar brakton, cún marin thosdon.*
+> *(Elauretax SKÌNÙR kuji hincet kiraton, kyorel **zencún** biderot.*
+>  *Ji darél zencún akar brakton, cún marin thosdon.*
 >  *Kérin ji dépton'mer, Curitelauretax CHALMERZ burmok'hèm lotreton.)*
 
 **\[SUPERINTENDENT CHALMERS]**
