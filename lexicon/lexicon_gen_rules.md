@@ -21,16 +21,16 @@ th|þ
 
 ## Syllable Types
 
-CV
-RV
-NV
-SV
-CVN
-V
-CVR
-JV
-VN
-VR
+CV # Stop + Vowel
+RV # Resonant + Vowel
+NV # Nasal  + Vowel
+SV # Fricative + Vowel
+V # Vowel (usually long!)
+CVN # Stop + Vowel + Nasal
+CVR # Stop + Vowel + Resonant
+JV # Affricate + Vowel
+VN # Vowel + Nasal
+VR # Vowel + Resonant
 SVN
 NVR
 YV
