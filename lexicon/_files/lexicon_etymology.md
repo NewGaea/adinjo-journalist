@@ -17,10 +17,10 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 ## D
 
 + **\*da'u** give birth
-  + **gaea** 1. (_proper noun_) Gaea, Earth, Terra
-  + **gaya(m)** 1. (_ton verb_) to give birth
-  + **jalu** 1. (_noun_) earth (as an element), land, ground, dirt, stones, etc.
-  + **jálu(st)** 1. (_ton verb_) to wrap, to bind
+	+ **gaea** 1. (_proper noun_) Gaea, Earth, Terra
+	+ **gaya(m)** 1. (_ton verb_) to give birth
+	+ **jalu** 1. (_noun_) earth (as an element), land, ground, dirt, stones, etc.
+	+ **jálu(st)** 1. (_ton verb_) to wrap, to bind
 
 ## E
 
@@ -37,8 +37,8 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 ## C
 
 + **\*chedyn**
-  + **chennur** 1. (_noun_) school, student group, education
-  + **chijin** 1. (_noun_) knowledge
+	+ **chennur** 1. (_noun_) school, student group, education
+	+ **chijin** 1. (_noun_) knowledge
 
 ## I
 
@@ -67,8 +67,8 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 ## J
 
 + **jak** back
-  + **jak.el** 1. turn one's back 2. condemning, cursing, damning
-  + **jaktomit** 1. backpack, satchel
+	+ **jak.el** 1. turn one's back 2. condemning, cursing, damning
+	+ **jaktomit** 1. backpack, satchel
 
 ## P
 
@@ -81,10 +81,10 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 ## S
 
 + **\*suxa**
-  + **kuha** 1. (_noun_) sun
-  + **jia** 1. (_noun_) day
-    + **bajia** 1. (_noun_) today
-    + **jiabi** 1. (_descriptor_) daily
+	+ **kuha** 1. (_noun_) sun
+	+ **jia** 1. (_noun_) day
+		+ **bajia** 1. (_noun_) today
+		+ **jiabi** 1. (_descriptor_) daily
 
 ## T
 
@@ -116,7 +116,20 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 
 ## O
 
-+ N/A
++ (Proto-Adinjo) **\*ʔoensè** 1. one, singular
+	+ (Coastal) *\*wénsè*
+		+ **súg** 1. the; definite article (OA: *\*sweŋ* -> CA: *\*swŋ* -> MA: *suŋg* -> RA: *súgè* -> ADJ: *\*súg* )
+	+ (Mountain) *\*went͜s*
+		+ **dyn** 1. person, sapient being
+	+ (Plains) *\*óʔnas*
+		+ **dan** 1. a, an; indefinite article
+		+ **dun** 1. small, short of stature
+	+ (Forest) *\*uint͜sa*
+		+ **win** 1. one, oneness, singular
+			+ **liwin** 1. alone, independent
+			+ **winilarn** 1. half, one of two parts
+			+ **winirin** 1. first, prime, primary, original, initial
+			+ **winlin** 1. loke one, as one, united
 
 ## W
 
