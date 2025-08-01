@@ -12,53 +12,230 @@ Section I contains 285 sentences, of increasing complexity.
 
 **Section I Progress:** 10/285
 
-1. Birds sing.
-   + `bird.PL sing`
-   + _trininu shokatol_
-   + `bird.PL sing.PRES.ACT`
-2. Children play.
-   + `child.PL play`
-   + _gentu ayginstol_
-   + `child.PL play.PRES.ACT`
-3. Dogs bark.
-   + `dog.PL bark`
-   + _kitanu auf yanitol_
-   + `dog.PL arf say.PRES.ACT`
-4. Bees hum.
-5. Baby laughed.
-   + `Baby laugh.PAST.ACT` (_Due to the structure of this sentence, the immediately following translation interprets 'Baby' as a name or nickname_)
-   + _BÉBI géxatolot_
-   + `Bébi laugh.PAST.ACT`
-6. The sun shines.
-   + `DEF sun shine.3PRES`
-   + _kuha ellores_
-   + `sun shine.PRES`
-7. The wind blows.
-   + `DEF wind blow.PRES`
-   + _romulin brautol_
-   + `wind.PL.REFL blow.PRES.ACT`
-8. The car started.
-   + `DEF car start.PAST.ACT`
-   + _sug urén dobertolot_
-   + `DEF carriage work.PAST.ACT`
-9. School began again.
-   + `school begin.PAST again`
-   + _janyu chennur keftot_
-   + `again school begin.PAST`
-10. The child ran quickly.
-    + `DEF child run.PAST quick.ADV`
-    + _gent gantali jamatolot_
-    + `child speed.great.DESC run.PAST.ACT`
-11. Yellow daffodils nodded gaily.
-12. Little Marigold cried bitterly.
-13. All the people shouted.
-14. I recited twice.
-15. The weary traveler slept soundly.
-16. The little brook flows swiftly.
-17. Softly the great white snowflakes fell.
-18. The kind old man laughed pleasantly.
-19. The happy days passed quickly.
-20. Up jumped the smallest boy.
+### 1. Birds sing.
+
+```ngloss
+\num 1a
+\ex Trininu shoxaton.
+\gl trini-nu [bird-PL]
+    shoxa-ton [sing-PRS]
+\ft Birds are singing (now).
+```
+
+```ngloss
+\num 1b
+\ex Trininu shoxatol
+\gl trini-nu [bird-PL]
+    shoxa-tol [sing-PRS.PASS]
+\ft Birds (generally) sing.
+```
+## 2. Children play.
+
+```ngloss
+\num 2a
+\ex Gentu ayginston
+\gl gent-u [child-PL]
+    aygins-ton [play.game-PRS]
+\ft (The) Children are playing a game.
+```
+
+```ngloss
+\num 2b
+\ex Gentu ayginstol
+\gl gent-u [child-PL]
+    aygins-tol [play.game-PRS.PASS]
+\ft Children (usually) play game(s).
+```
+
+## 3. Dogs bark.
+
+```ngloss
+\num 3a
+\ex Kitanu auf yaniton
+\gl kita-nu [dog-PL]
+    auf [arf]
+    yani-ton [say-PRS]
+\ft (The) Dogs are barking (now).
+```
+
+```ngloss
+\num 3a
+\ex Kitanu auf yanitol
+\gl kita-nu [dog-PL]
+    auf [arf]
+    yani-tol [say-PRS.PASS]
+\ft Dogs (usually) bark.
+```
+
+## 4. Bees hum.
+
+```ngloss
+\num 4a
+\ex Kieresu mathi zum yaniton.
+\gl kieres-u [builder-PL]
+	mathi [honey]
+	zum [zum]
+	yani-ton [say-PRS]
+\ft Bees are buzzing (now).
+```
+
+```ngloss
+\num 4b
+\ex Kieresu mathi zum yanitol.
+\gl kieres-u [builder-PL]
+    mathi [honey]
+    zum [zum]
+    yani-tol [say-PRS.PASS]
+\ft Bees (usually) buzz.
+```
+
+## 5. Baby laughed.
+(_Due to the structure of this sentence, the immediately following translation interprets 'Baby' as a name or nickname_)
+
+```ngloss
+\num 5a
+\ex BÉBÍ géxatot.
+\gl BÉBÍ [Baby.VOC]
+	gexa-tot [laugh-PST]
+\ft Baby laughed.
+```
+
+```ngloss
+\num 5b
+\ex BÉBÍ gexatolot.
+\gl BÉBÍ [Baby.VOC]
+	gexa-t<ol>ot [laugh-PST<PASS>]
+\ft Baby used to laugh.
+```
+
+## 6. The sun shines.
+
+```ngloss
+\num 6a
+\ex Kuha ellores
+\gl kuha [sun]
+	ellore-s [shine.PRS]
+\ft (The) sun shines.
+```
+
+This sentence uses the _kun_ verb paradigm which does not have a passive voice. 
+## 7. The wind blows.
+
+```ngloss
+\num 7a
+\ex Romulin brautol
+\gl rom-u-lin [wind-PL-REFL]
+	brau-tol [blow-PRES.PASS]
+\ft The wind blows itself.
+```
+
+## 8. The car started.
+
+```ngloss
+\num 8a
+\ex Sug urén dobertot.
+\gl sug [DEF]
+	urén [carriage]
+	dober-tot [work-PST]
+\ft The car worked.
+```
+
+```ngloss
+\num 8b
+\ex Sug urén dobertolot/
+\gl sug [DEF]
+	urén [carriage]
+	dober-t<ol>ot [work-PST<PASS>]
+\ft The car was working.
+```
+
+```ngloss
+\num 8c
+\ex Sug urénlin dobertot.
+\gl sug [DEF]
+	urén-lin [carriage-REFL]
+	dober-tot [work.PST]
+\ft The car started itself.
+```
+
+## 9. School began again.
+
+```ngloss
+\num 9a
+\ex Janyu chennur keftot
+\gl janyu [again]
+	chennur [school]
+	kef-tot [begin-PST]
+\ft Again, shool began.
+```
+
+```ngloss
+\num 9b
+\ex Janyu chennur keftolot.
+\gl janyu [again]
+	chennur [school]
+	kef-t<ol>ot [begin-PST<PASS>]
+\ft Yet again, school began.
+```
+
+```ngloss
+\num 9c
+\ex Chennur jankeftot.
+\gl chennur [school]
+	jan-kef-tot [again-begin-PST]
+\ft School resumed.
+```
+
+```ngloss
+\num 9d
+\ex Chennur jankeftolot.
+\gl chennur [school]
+	jan-kef-t<ol>ot [again-begin-PST<PASS>]
+\ft School usually resumed.
+```
+
+## 10. The child ran quickly.
+
+```ngloss
+\num 10a
+\ex Gent jamatot gandari.
+\gl gent [child]
+	jama-tot [run-PST]
+	gant-tar-i [speed-great-DSC]
+\ft (The) child ran quickly.
+```
+
+```ngloss
+\num 10b
+\ex Gent jamatolot gandari.
+\gl gent [child]
+	jama-t<ol>ot [run-PST<PASS>]
+	gant-tar-i [speed-great-DSC]
+\ft The child (usually) ran quickly.
+```
+
+## 11. Yellow daffodils nodded gaily.
+
+```ngloss
+\num 11a
+\ex Lumrajinu ciron carmatot menra.
+\gl lumraji-nu [lily-PL]
+    ciron [yellow]
+    carma-tot [nod-PAST]
+    menra [happy]
+\ft Yellow daffodils nodded cheerily. 
+```
+
+## 12. Little Marigold cried bitterly.
+## 13. All the people shouted.
+## 14. I recited twice.
+## 15. The weary traveler slept soundly.
+## 16. The little brook flows swiftly.
+## 17. Softly the great white snowflakes fell.
+## 18. The kind old man laughed pleasantly.
+## 19. The happy days passed quickly.
+## 20. Up jumped the smallest boy.
+
 21. My little white kitten purrs softly.
 22. Slowly the great door opened.
 23. All the boys ran away.
