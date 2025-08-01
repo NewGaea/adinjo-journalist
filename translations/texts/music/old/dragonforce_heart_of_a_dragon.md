@@ -1,20 +1,20 @@
-| **English Lyrics** | **Old Adinjo Lyrics**  | **New Adinjo Lyrics** |
-|:-|:-|:-|
-| Proud and so glorious | _gelm hi feisa'udur_ | kuki'kérin reztol |
-| Standing before of us | _reztol kérin iki_ | gelm hi feisa'un hort, |
-| Our swords will shine bright in the sky | _ki ten iptochi ni sug rom_ | Ten kuki rom'ni iptoçi |
-| | | |
-| When united we come | _monsi winlin ki'hem_ | KUKUHA LARIJMO |
-| To the land of the sun | _le sug kuha larij(mo)_ | hem ki winlin hemlé |
-| With the heart of a dragon we ride | _hort sug kudreik mori ki sedra_ | ki mori kudreik hort senodrac |
-| | | |
-| We are flying on wings in winter sky | _kich kirmeltol dai deham shukarom_ | ki dehamu dai shukarom akar, |
-| With fire burning deep inside | _hort gif 'etol iljye nikar_ | |
-| We are warriors of endless time forever and on | _kich dorjaxe i atemba atemba hi goju_ | |
-| | | |
-| On wings of steel an ancient flight | _deham i exan aldyur nakirm_ | |
-| We see the powers that unite | _bachton deirin ira kson winlin_ | |
-| The gods will now send us a sign of battle once more | _Teolu borchto ju ki morent lekaké janyu_ | |
+| **English Lyrics**                                   | **Old Adinjo Lyrics**                     | **New Adinjo Lyrics**         |
+| :--------------------------------------------------- | :---------------------------------------- | :---------------------------- |
+| Proud and so glorious                                | _gelm hi feisa'udur_                      | kuki'kérin reztol             |
+| Standing before of us                                | _reztol kérin iki_                        | gelm hi feisa'un hort,        |
+| Our swords will shine bright in the sky              | _ki ten iptochi ni sug rom_               | Ten kuki rom'ni iptoçi        |
+|                                                      |                                           |                               |
+| When united we come                                  | _monsi winlin ki'hem_                     | KUKUHA LARIJMO                |
+| To the land of the sun                               | _sug kuha larij'hem_                      | hem ki winlin hemlé           |
+| With the heart of a dragon we ride                   | _hort sug kudreik mori ki sedra_          | ki mori kudreik hort senodrac |
+|                                                      |                                           |                               |
+| We are flying on wings in winter sky                 | _kich kirmeltol dai deham shukarom_       | ki dehamu dai shukarom akar,  |
+| With fire burning deep inside                        | _hort gif 'etol iljye nikar_              |                               |
+| We are warriors of endless time forever and on       | _kich dorjaxe i atemba atemba hi goju_    |                               |
+|                                                      |                                           |                               |
+| On wings of steel an ancient flight                  | _deham i exan aldyur nakirm_              |                               |
+| We see the powers that unite                         | _bachton deirin ira kson winlin_          |                               |
+| The gods will now send us a sign of battle once more | _Teolu borchto ju ki morent lekaké janyu_ |                               |
 | | | |
 ---
 
