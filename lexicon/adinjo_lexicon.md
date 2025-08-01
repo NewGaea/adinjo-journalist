@@ -32,7 +32,7 @@
 
 **NOTE:** This listing may not include all words coined in 2021 or more recently. While attempts will be made to incorporate the biennial wordlists regularly, it is to be expected that this listing may, at times, be behind the curve of the latest coinages.
 
-If you would like to explore or contribute to a dictionary written _in_ Adinjo Journalist, you may add entries under _**[Firolan's Unabridged Dictionary](_archive/firolan/_intro.md)**_, while if you want to explore or contribute to a richer English language translator's dictionary, you may contribute to _**[Persephone's Dictionary for English Speakers](_archive/persephone/_intro.md)**_
+If you would like to explore or contribute to a dictionary written _in_ Adinjo Journalist, you may add entries under _**[Firolan's Unabridged Dictionary](_meta/archive/firolan/_intro.md)**_, while if you want to explore or contribute to a richer English language translator's dictionary, you may contribute to _**[Persephone's Dictionary for English Speakers](_meta/archive/persephone/_intro.md)**_
 
 ## A
 [[lexicon/a/_a|Dictionary Listing for A]]
@@ -263,8 +263,8 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **dalme.x** 1. (_ton verb_) process or prepare food (before cooking)
 - **dama** 1. (_descriptor_) new (att. 2003-Dec-25)
 - **damachi** 1. (_expression_) Thank you casual expression of gratitude, "thanks" (att. 2003-Dec-25)
-  - **damachi ci** 1. (_expression_) Thank you more formal than "Damaci" (att. 2003-Dec-25)
-  - **adamachi saci** 1. (_expression_) Thank you very formal version of "thank you" (att. 2003-Dec-25)
+- **damachi ci** 1. (_expression_) Thank you more formal than "Damaci" (att. 2003-Dec-25)
+- **adamachi saci** 1. (_expression_) Thank you very formal version of "thank you" (att. 2003-Dec-25)
 - **dama.i** 1. (_ton verb_) thanking (att. 2023-Jan-13)
 - **dama.rio** 1. (_ton verb_) happening, occurring, especially inevitably or passively (att. 2003-Apr-24 ${\rightarrow}$ 2022-Jun-05) 2. also _damarion, damarionu_ (_noun, descriptor_) happenings, news, new event, news story (cn. 2023-May-27)
 - **damer** 1. (_noun_) a license, permission to use (att. 2003-Dec-25) 2. a lease or rental agreement (att. 2003-Dec-25)
@@ -278,7 +278,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **dantax** 1. (_noun_) employee, laborer, servant, worker (att. 2021-Apr-22 ${\rightarrow}$ 2023-Jan-13)
 - **dapis** 1. (_noun_) comma, pause symbol (cf. _dapisdai_, att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13) 2. breath, short pause in speech (att. 2023-Jan-13)
 - **dapisdai** 1. (_noun_) comma, pause symbol (cf. _dapis_, 2023-Jan-13)
-- **dapis.é** 1. (_ton verb_) pause, hesitate (att. 2008-Jun-22) 2. (_ton verb_) breathe (att. 2023-Jan-13) 3. (_ton verb_) enunciate (cf. _dapiyani.s_; att. 2023-Jan-13)
+- **dapis.é** 1. (_ton verb_) pausing, hesitating (att. 2008-Jun-22) 2. (_ton verb_) breathing (in speech or song) (att. 2023-Jan-13) 3. (_ton verb_) enunciating (cf. _dapiyani.s_; att. 2023-Jan-13)
 - **dapiyani.s** 1. (_ton verb_) enunciating (att. 2023-Jan-13)
 - **daré** 1. (_noun_) mouse, rat, rodent (att. 2003-Dec-25  ${\rightarrow}$ 2023-Jan-13)
 - **darel** 1. (_noun_) leg (att. 2008-Jun-22)
@@ -447,7 +447,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **hirocedin** 1. (_noun_) king-thinking person (att. 2008-Jun-22)
 - **hiro'urda** 1. (_descriptor_) king-like (for living things, more polite or formal) (att. 2008-Jun-22)
 - **huir** 1. (_noun_) tongue (part of body) (att. 2008-Jun-22)
-- **humaren** 1. (_descriptor_) proper, right, good (att. 2008-Jun-22)
+- **humaren** 1. (_descriptor_) \[moral, legal] proper, right, good (att. 2008-Jun-22)
 - **hunt.elar** 1. (_ton verb_) explode (att. 2003-Dec-25)
 - **huntensai** 1. (_noun_) explosion (att. 2003-Dec-25)
 - **hufan** 1. (_ton verb_) knock, to hit upon something lightly (att. 2008-Jun-22; _originally "huwan"_)
@@ -480,8 +480,8 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **chanjia** 1. (_noun_) week (att. 2003-Dec-25; _formerly "gia"_)
 - **chennur** (gen. 2022-Jun-23) 1. (_noun_) academy, college, school, university (att. 2023-Jan-05) 2. (_noun_) the group of people who follow a set of teachings (att. 2023-Jan-05)
 - **chennuri** 1. (_descriptor_) learned, educated, smart (att. 2023-Jan-05)
-- **cherílya** 1. (_noun_) introduction (att. 2003-Dec-25)
-- **chérí.sol** 1. (_ton verb_) introduce (att. 2003-Dec-25)
+- **chérìlyas** 1. (_noun_) introduction (att. 2003-Dec-25 as *cherílya* ${\rightarrow}$ updated 2024-Dec-10 to _chérìlyas_)
+- **chérì.sol** 1. (_ton verb_) introduce (att. 2003-Dec-25 as *cherílya* ${\rightarrow}$ updated 2024-Dec-10 to _chérìlyas_)
 - **chijin** 1. (_noun_) knowledge (att. 2003-Dec-25)
 - **chuma.stel** 1. (_ton verb_) having, possessing, owning (att. 2003-Dec-25)
 - **chu-**, **chur-** 1. (_prefix_) great, grand (att. 2003-Dec-25)
@@ -558,7 +558,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **kaman** 1. (_noun_) war (att. 2008-Jun-22)
 - **kamani natrein** 1. (_noun_) martial art, strategy, tactics this refers to military arts, not combat arts
 - **kami** 1. (_positional_) among (att. 2003-Dec-25)
-- **kamp.is** 1. (_ton verb_) tell (att. 2003-Dec-25)
+- **kamp.is** 1. (_ton verb_) telling (att. 2003-Dec-25) 2. (_ton verb_) teaching, preaching (att. _What Have We Become_ original translation; doc. 2024-Dec-18) 3. (_ton verb_) insisting, asserting (att. _What Have We Become_ original translation; doc. 2024-Dec-18)
 - **kamuli** 1. (_noun_) surface, especially  of a structure or planet (att. 2003-Dec-25)
 - **kan** 1. (_noun_) son (att. 2003-Dec-25)
 - **kanakana** 1. (_idiophone, onomatopoeia_) the sound of spinning, especially of spinning metal (att. 2003-Dec-25)
@@ -753,8 +753,8 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **laive.ns** 1. (_ton verb_) pale, fade
 - **lakulu** 1. (_ton verb_) rule, guideline, law
 - **lama** 1. (_noun_) the name of the twelfth letter of the _adobat_ (att. 1998-Dec-31) 2. (_noun_) chin (att. 2008-Jun-22)
+- **lama he kinma** 1. (_expression_) scare half to death (att. 2003-Dec-25) _formerly "lama to kinma"_
 - **lama.j** 1. (_ton verb_) scare, frighten, startle (att. 2008-Jun-22) _formerly "lamu.ji"_
-  - **lama he kinma** 1. (_expression_) scare half to death (att. 2003-Dec-25) _formerly "lama to kinma"_
 - **lambin** 1. (_noun_) completion, conclusion (att. 2002-Jul-31)
 - **lambi.ra** 1. (_ton verb_) complete (att. 2002-Jul-31)
 - **lamo** 1. (_noun_) only, just, simply (att. 2002-Jul-31)
@@ -1069,7 +1069,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **planci** 1. (_noun_) frontier, unexplored land (att. 2008-Jun-22)
 - **prame** 1. (_positional_) (physical) about, around (att. 2008-Jun-22)
 - **promeid** 1. (_noun_) entry, record; as in a journal, diary, or logbook (att. 2008-Jun-22)
-- **promei.s**1.  (_ton verb_) enter or make a record in a book or list (att. 2008-Jun-22)
+- **promei.s** 1.  (_ton verb_) enter or make a record in a book or list (att. 2008-Jun-22)
 - **pu.ru** 1. (_ton verb_) like, appreciate, enjoy (att. 2008-Jun-22)
 - **polchotax** 1. (_noun_) deceiver, oath breaker 2. (_noun_) demonist, warlock (att. before 2024-Jan-01)
 - **polt** 1. (_noun_) crime, violation of contract, sin (att. 2003-Dec-25)
@@ -1224,7 +1224,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - **tamar** 1. (_noun_) pet, animal kept for company (att. 2003-Dec-25)
 - **tan** 1. (_noun_) myth, story, tale (att. 2023-Jan-29, existed by 2003-Dec-25 in _furatan_ "lemon story")
 - **tanxa** 1. (_noun_) stuff, miscellaneous objects (att. 2003-Dec-25)
-- **tar** 1. (_descriptor_) long (att. 2003-Dec-25)
+- **tar** 1. (_descriptor_) long, big, great (att. 2003-Dec-25)
 - **tariye** 1. (_noun_) future (att. 2008-Jun-22)
 - **ta.skel** 1. (_ton verb_) call by a name (att. 2003-Dec-25)
 - **tashi** 1. (_positional_) front (att. 2008-Jun-22)
