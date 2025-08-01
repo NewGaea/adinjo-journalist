@@ -23,13 +23,13 @@ In most cases, you will only need to know the masculine, feminine, and neutral f
 
 Referential pronouns are pronouns that refer to things which are not treated as people. They may refer to a place or point in time, an inanimate object, or an impersonal abstract concept. These also include the oft-called "question" pronouns like "Who, What, When, Where, Why, and How."
 
-|          | Interrogative | Proximal | Distal | Indefinite |
-|:--------:|:--------------|:---------|:-------|:-----------|
-| **Person**   | _qi_ (who, whom) | _bawin\*_ (this one) | _yawin\*_ (that one) | _wi_ (who, whom)<br>_coridin\*_ (someone) |
-| **Object** | _qe_ (what, which) | _ba_ (this) | _ya_ (that) | _cori_ (some) |
-| **Reason** | _sif_ (why) | _basif\*_ (this reason) | _yasif\*_ (that reason) | _corisif\*_ (some reason) |
-| **Time** | _monsi_ (when) | _ju_ (now) | _kyorel_ (then) | _corimonsi\*_ (some-when) |
-| **Place** | _dán_ (where) | _natha_ (here) | _mué_ (there) | _coridán\*_ (somewhere) |
-| **Manner** | _del_ (how) | _badel\*_ (this manner) | _yadel\*_ (that manner) | _coridel\*_ (some manner) |
+|            | Interrogative      | Proximal                | Distal                  | Indefinite                                |
+| :--------: | :----------------- | :---------------------- | :---------------------- | :---------------------------------------- |
+| **Person** | _qi_ (who, whom)   | _bawin\*_ (this one)    | _yawin\*_ (that one)    | _wi_ (who, whom)<br>_coridin\*_ (someone) |
+| **Object** | _qe_ (what, which) | _ba_ (this)             | _ya_ (that)             | _cori_ (some)                             |
+| **Reason** | _sif_ (why)        | _basif\*_ (this reason) | _yasif\*_ (that reason) | _corisif\*_ (some reason)                 |
+|  **Time**  | _monsi_ (when)     | _ju_ (now)              | _kyorel_ (then)         | _corimonsi\*_ (some-when)                 |
+| **Place**  | _dán_ (where)      | _natha_ (here)          | _mué_ (there)           | _coridán\*_ (somewhere)                   |
+| **Manner** | _del_ (how)        | _badel\*_ (this manner) | _yadel\*_ (that manner) | _coridel\*_ (some manner)                 |
 
 The entries with asterisks are constructions or compound words (which may not be fully documented elsewhere).
