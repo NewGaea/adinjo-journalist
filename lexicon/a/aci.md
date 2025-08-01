@@ -43,7 +43,7 @@ coinDate: 2024-03-14
 
 ### aci
 1. pi, π
-	1. a mathematical constant used to represent the ratio of a Euclidean circle's circumference to its diameter, approx. ${3.141592_{10}}$ or ${3;184809_{12}}$ may be written with the Adinjo letter \<c>
+	1. a mathematical constant used to represent the ratio of a Euclidean circle's circumference to its diameter, approx. ${3.141592_{10}}$ or ${3.184809_{12}}$ may be written with the Adinjo letter \<c>
 
 # Thesaurus
 ## Related Terms
