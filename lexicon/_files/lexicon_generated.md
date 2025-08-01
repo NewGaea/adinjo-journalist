@@ -44,14 +44,14 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - aa (gen. 2022-Jun-20)
 - a'amdakenni (gen. 2022-Jun-23)
 - **adob** (att. 1998-Dec-31)
-  1. (_noun_) the name of the first letter of the _adobat_ (att. 1998-Dec-31)
+	1. (_noun_) the name of the first letter of the _adobat_ (att. 1998-Dec-31)
 - aðe (gen. 2022-Jun-20)
 - aepaʃee (gen. 2022-Jun-20)
 - aceki (gen. 2022-Jun-23)
 - açintafo (gen. 2022-Jun-23)
 - akanmira (gen. 2022-Jun-23)
 - **aki** (gen. 2022-Jun-23)
-  1. (_pronoun_) all of us, everybody here (cn. 2022-06-24)
+	1. (_pronoun_) all of us, everybody here (cn. 2022-06-24)
 - al (gen. 2022-Jun-23)
 - alu (gen. 2022-Jun-23)
 - am (gen. 2022-Jun-23)
@@ -127,7 +127,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - ga (gen. 2022-Jun-20)
 - gazisbusó (gen. 2022-Jun-20)
 - **gázi** (gen. 2022-Jun-20)
-  1. (_noun_) a board or plank of wood (cn. 2023-Feb-21)
+	1. (_noun_) a board or plank of wood (cn. 2023-Feb-21)
 - gan (gen. 2022-Jun-23)
 - gantur (gen. 2022-Jun-23)
 - gapi (gen. 2022-Jun-20)
@@ -165,7 +165,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - gupilinkemra (gen. 2022-Jun-23)
 - gu (gen. 2022-Jun-23)
 - **gur**- (gen. 2022-Jun-23)
-  1. (_descriptor_) imperial
+	1. (_descriptor_) imperial
 - go (gen. 2022-Jun-23)
 
 ## D
@@ -290,7 +290,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - elni (gen. 2022-Jun-23)
 - en (gen. 2022-Jun-23)
 - **enx** (att. 1998-Dec-31)
-  1. (_noun_) the name of the fifth letter of the _adobat_ (att. 1998-Dec-31)
+	1. (_noun_) the name of the fifth letter of the _adobat_ (att. 1998-Dec-31)
 - er (gen. 2022-Jun-23)
 - erbiʃer (gen. 2022-Jun-23)
 - eri (gen. 2022-Jun-23)
@@ -306,7 +306,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - zamiba (gen. 2022-Jun-23)
 - zanosearka (gen. 2022-Jun-23)
 - **zapen** (att. 1998-Dec-31)
-  1. (_noun_) the name of the sixth letter of the _adobat_ (att. 1998-Dec-31)
+	1. (_noun_) the name of the sixth letter of the _adobat_ (att. 1998-Dec-31)
 - zatayiceri (gen. 2022-Jun-23)
 - zaoxitoó (gen. 2022-Jun-20)
 - zbli (gen. 2022-Jun-20)
@@ -338,7 +338,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - hiþtéðó (gen. 2022-Jun-20)
 - hifko (gen. 2022-Jun-20)
 - **hort** (att. 1998-Dec-31)
-  1. (_noun_) the name of the seventh letter of the _adobat_ (att. 1998-Dec-31)
+	1. (_noun_) the name of the seventh letter of the _adobat_ (att. 1998-Dec-31)
 - hote (gen. 2022-Jun-20)
 - hoxusklábipa (gen. 2022-Jun-20)
 
@@ -367,6 +367,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - ctlúxra (gen. 2022-Jun-20)
 - **cumit** (att. 1998-Dec-31)
 	1. (_noun_) the name of the eighth letter of the _adobat_ (formerly _chumit_; att. 1998-Dec-31)
+	2. (_noun_) arrowhead, spearhead (c. ???, r. 2025-Jun-27)
+	3. (_noun_) triangle (c. ???, r. 2025-Jun-27)
 - cxleciópo (gen. 2022-Jun-20)
 - cxóhi (gen. 2022-Jun-20)
 - co (gen. 2022-Jun-23)
@@ -424,7 +426,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - ifo (gen. 2022-Jun-20)
 - iví (gen. 2022-Jun-20)
 - **iom** (att. 1998-Dec-31)
-  1. (_noun_) the name of the ninth letter of the _adobat_ (att. 1998-Dec-31)
+	1. (_noun_) the name of the ninth letter of the _adobat_ (att. 1998-Dec-31)
 - ion (gen. 2022-Jun-23)
 
 ## K
@@ -446,7 +448,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - kar (gen. 2022-Jun-23)
 - karse (gen. 2022-Jun-23)
 - **kasi** (att. 1998-Dec-31)
-  1. (_noun_) the name of the tenth letter of the _adobat_ (att. 1998-Dec-31)
+	1. (_noun_) the name of the tenth letter of the _adobat_ (att. 1998-Dec-31)
 - ke (gen. 2022-Jun-23)
 - ké (gen. 2022-Jun-23)
 - keg (gen. 2022-Jun-23)
@@ -499,11 +501,16 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - kunarri (gen. 2022-Jun-23)
 - kusi (gen. 2022-Jun-20)
 - kuzó (gen. 2022-Jun-20)
+- kyurdir (gen 2004-Jan-02)
 - ko (gen. 2022-Jun-23)
 - kok (gen. 2022-Jun-23)
 - kokla (gen. 2022-Jun-23)
 - komci (gen. 2022-Jun-23)
 - konur (gen. 2022-Jun-23)
+- **kosin** (gen 2004-Jan-02)
+	1. **kosin** (c. 2025-Jul-04)
+		1. (_noun_) sadness, sorrow, disappointment
+		2. (_adjective_) sad, disappointing
 - koturo (gen. 2022-Jun-23)
 - kov (gen. 2022-Jun-23)
 
@@ -661,7 +668,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - jádu (gen. 2022-Jun-20)
 - jacabancimum (gen. 2022-Jun-23)
 - **jama.r** (gen. 2022-Jun-23)
-  1. (_ton verb_) to flee, to run, to escape
+	1. (_ton verb_) to flee, to run, to escape
 - jar (gen. 2022-Jun-23)
 - je (gen. 2022-Jun-23)
 - jedilmerreka (gen. 2022-Jun-23)
@@ -862,6 +869,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - ʃa (gen. 2022-Jun-23)
 - ʃaacun (gen. 2022-Jun-23)
 - ʃamilʤe (gen. 2022-Jun-23)
+- ʃani (gen 2004-Jan-02)
 - ʃata (gen. 2022-Jun-23)
 - ʃaukarlamexo (gen. 2022-Jun-23)
 - ʃayealfin (gen. 2022-Jun-23)
@@ -900,6 +908,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 ## T
 
 - ta (gen. 2022-Jun-23)
+- tabirit (gen 2004-Jan-02)
 - taʤeadi (gen. 2022-Jun-23)
 - takatton (gen. 2022-Jun-23)
 - tákíbre (gen. 2022-Jun-20)
@@ -915,6 +924,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 	1. **tar**
 		1. (_noun_) the name of the nineteenth letter of the _adobat_ (att. 1998-Dec-31)
 		2. (_affix, descriptor_) long, stretched, tall (att. 2002-Jul-31)
+- tarenef (gen 2004-Jan-02)
 - tarre (gen. 2022-Jun-23)
 - taxenko (gen. 2022-Jun-23)
 - tépébleʃbri (gen. 2022-Jun-20)
@@ -1084,6 +1094,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - xi'osridanri (gen. 2022-Jun-23)
 - xle (gen. 2022-Jun-20)
 - xlie (gen. 2022-Jun-20)
+- xumanto (gen 2004-Jan-02)
 - xo (gen. 2022-Jun-23)
 - xogáði (gen. 2022-Jun-20)
 - xoexrixa (gen. 2022-Jun-20)
@@ -1143,9 +1154,3 @@ Note that there is no guarantee that these random words are entirely suitable fo
 ## UNSORTED
 
 - N/A
-- kosin (gen 2004-Jan-02)
-- xumanto (gen 2004-Jan-02)
-- kyurdir (gen 2004-Jan-02)
-- tabirit (gen 2004-Jan-02)
-- tarenef (gen 2004-Jan-02)
-- shani (gen 2004-Jan-02)
