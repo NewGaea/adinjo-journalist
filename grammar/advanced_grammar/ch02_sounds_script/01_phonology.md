@@ -90,7 +90,7 @@ Stressed diphthongs stress the offset vowel, never the onset. Note also that the
 
 ### Stress
 
-Stress occurs by tensing (usually also raising) the tone of the first syllable containing certain vowels, in order of priority. This tensing causes the vowel to be pronounced as it's _asent_ marked counterpart, though it is overridden by explicit accent markings, and is the only way **\<a\>** can be stressed.
+Stress occurs by tensing (usually also raising) the tone of the first syllable containing certain vowels, in order of priority. This tensing causes the vowel to be pronounced more like its _asènt_ marked counterpart. Natural stress patterns are overridden by explicit accent markings, which are the only way **\<a\>** can be stressed.
 
 #### Explicit Stress Markers
 
@@ -108,26 +108,26 @@ Stress occurs by tensing (usually also raising) the tone of the first syllable c
 #### Examples
 
 + **\<_ic_\>** is one syllable, and because it contains **\<i\>** is stressed,
-  and thus pronounced [its:]
+  and thus pronounced /'i:ts/
 + **\<_poren_\>** is two syllables, and because it contains no **\<i\>** the
-  primary stress is placed on the second syllable, thus pronounced [po rɛn:].
+  primary stress is placed on the second syllable, thus pronounced /po.'ren:/.
 + **\<_jedai_\>** is two syllables, and the second syllable contains the
-  diphthong **\<ai\>**. The primary stress is on the second syllable [ʒɛ däi:]
+  diphthong **\<ai\>**. The primary stress is on the second syllable /ʒɛ.'dai:/
 + **\<_kashontax_\>** is three syllables, and has no **\<i\>**, **\<e\>**, or
   **\<u\>**. This means the primary stress falls on the second syllable, and the
-  word is pronounced [kä ʃon: täx]
+  word is pronounced /ka.ˈʃo:n.tax/
 
 ### Other Phonological Processes
 
 #### Palatalization
 
-When followed by **\<i\>** or **\<y\>**, the letter **\<c\>** becomes palatalized to **\<ç\>**.
+When followed by **\<i>** or **\<y>**, the letter **\<c\>** may become palatalized to **\<ch/ç>** or /tʃ/. This process is not universal in modern speakers, and is more common in unstressed syllables and casual speech.
 
-When followed by **\<y\>**, the letter **\<j\>** is always read as \[ʒ\], even if it is part of a **\<dj\>** digraph.
+When followed by **\<y>**, the letter **\<j>** is always read as \[ʒ], even if it is otherwise part of a **\<dj>** digraph.
 
 #### Glottalization
 
-Written as **\<'\>**, the glottal stop between any two letters indicates a syllabic break, even if the two letters would normally form a digraph.
+Written as **\<'>**, the glottal stop between any two letters indicates a syllabic break, even if the two letters would normally form a digraph.
 
 [Additional Information: Writing Systems for Adinjo Journalist](02_writing.md)
 [Next Chapter: Morphology](00_morphology.md)
