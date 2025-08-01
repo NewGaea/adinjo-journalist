@@ -31,9 +31,9 @@ Word-genned words starting with K:
 - kinmul (gen. 2022-06-23)
 - kíjótotródu (gen. 2022-06-20)
 - **kiraj** (gen. 2022-06-23)
-  1. (_noun_) pull, tug
-  2. (_noun_) extraction, removal
-  - **kira.ja** (_ton verb_) pulling, removing, tugging (att. 2023-Feb-03)
+	1. (_noun_) pull, tug
+	2. (_noun_) extraction, removal
+	- **kira.ja** (_ton verb_) pulling, removing, tugging (att. 2023-Feb-03)
 - kirdo (gen. 2022-06-23)
 - kitim (gen. 2022-06-23)
 - kifi (gen. 2022-06-20)
