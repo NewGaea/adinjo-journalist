@@ -11,14 +11,14 @@ Well, Seymour, I made it... Despite your directions.
 
 **\[PRINCIPAL SKINNER]**
 Ahhh, Superintendent Chalmers! Welcome! I hope you're prepared for an unforgettable luncheon.
-> Oha! Curitelauretax CHALMERZ! Cérilya! Yi ci in-jiadjoi kobalau xataar entiton.
+> Oha! Curitelauretax CHALMARZ! Cérilya! Yi ci in-jiadjoi kobalau xataar entiton.
 
 **\[SUPERINTENDENT CHALMERS]**
 Nyeh...
 > Hnyè...
 
 _(Principal Skinner exits into the kitchen)_
-> *(Elauretax SKÌNÙR **burmok**'hèm dépton)*
+> *(Elauretax SKÌNAR **burmok**'hèm dépton)*
 
 **\[PRINCIPAL SKINNER]**
 (GASP!) Oh egads! My roast is ruined! But what if... I were to purchase fast food and disguise it as my own cooking? Oh ho ho ho ho ho! Delightfully devilish, Seymour.
@@ -29,7 +29,7 @@ _(Principal Skinner exits into the kitchen)_
 *(Principal Skinner takes off his apron and opens the window.*
  *He puts his leg over the window, attempting to step outside.*
  *Before he can leave, Superintendent Chalmers enters the kitchen)*
-> *(Elauretax SKÌNÙR kuji hincet kiraton, kyorel **zencún** biderot.*
+> *(Elauretax SKÌNAR kuji hincet kiraton, kyorel **zencún** biderot.*
 >  *Ji darél zencún akar brakton, cún marin thosdon.*
 >  *Kérin ji dépton'mer, Curitelauretax CHALMERZ burmok'hèm lotreton.)*
 
