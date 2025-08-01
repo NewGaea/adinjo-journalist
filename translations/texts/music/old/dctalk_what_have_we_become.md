@@ -1,181 +1,373 @@
-## DC Talk's _What Have We Become_
+---
+tags: [translation, song, hip-hop, rap, religious]
+---
 
-```txt
-A preacher shuns his brother
-Because his bride's a different color;
-And this is not acceptable,
-His papa taught him so.
+# _What Have We Become_ (DC Talk/Toby Mac)
 
-It was love that he'd been preaching,
-But this was overreaching;
-The boundaries stretching further
-Than his heart would choose to go.
+This is a format update of the original translation of this song, which was produced sometime in or before 2015, likely much earlier. From the structure of lines, it appears likely to have been produced prior to 2008, and it contains numerous words which appeared nowhere else in documentation as of 2024-Dec-18.
 
-Like an angel with no wings
-Like a kingdom with no king
+The only changes to the original translation at this time are spelling reforms.
 
-[C1]
-What have we become?
-A self indulgent people.
-What have we become?
-Tell me where are the righteous ones?
-What have we become?
-In a world degenerating,
-What have we become?
+## Verse A
 
-[C2]
-Speak your mind, look out for yourself
-The answer to it all is a life of wealth
-Grab all you can cause you just live once
-You got the right to do whatever you want
-Don't worry about others or where you came from
-It ain't what you were, it's what you have become
+### A Preacher Shuns His Brother
 
-Mom and Dad are fighting,
-As Rosie lies there crying;
-For once again she's overheard
-Regrets of their mistake.
+```ngloss
+\ex Dan koen trellec ji cin
+\ft A priest ignores his brother
+```
 
-With Christmas bells a-ringing,
-Little Rosie'd leave them grieving
-The gift she'd give her family
-Would be the pills she'd take
+### Because His Bride's a Different Color;
 
-An inconvenient child
-She wasn't worth their while
+```ngloss
+\ex Kuji kendai icha Adin;
+\ft who has married someone Other
+```
 
-(repeat choruses 1 and 2)
+### And This is not Acceptable,
+
+```ngloss
+\ex Hi ba ica humaren
+\ft And this (marriage) is improper,
+```
+
+### His Papa Taught Him So.
+
+```ngloss
+\ex Kuji poren kamput.
+\ft was their father's attitude.
+```
+
+### It Was Love that He'd Been Preaching,
+
+```ngloss
+\ex Ji ins liktol failes
+\ft He speaks a message of love,
+```
+
+### But This Was Overreaching;
+
+```ngloss
+\ex Kend ba ins allarames;
+\ft but this is not allowed:
+```
+
+### The Boundaries Stretching Further
+
+```ngloss
+\ex Sug aure bolotol dai ji
+\ft This pushes the fence inwards,
+```
+
+### Than His Heart Would Choose to Go.
+
+```ngloss
+\ex Kuji mori joren'ha.
+\ft suffocating his heart.
+```
+
+## Bridge A
+
+### Like an Angel with no Wings
+
+```ngloss
+\ex Lin korja a deham.
+\ft Like a wingless angel,
+```
+
+### Like a Kingdom with no King
+
+```ngloss
+\ex Lin larijmo a hiro.
+\ft Like a kingless land
+```
+
+## Chorus A
+
+### What Have We Become?
+
+```ngloss
+\ex Qe ic ku'i ju?
+\ft What are we now?
+```
+
+### A Self Indulgent People.
+
+```ngloss
+\ex Dan langurin din.
+\ft Indolent and ignorant?
+```
+
+### What Have We Become?
+
+```ngloss
+\ex Qe ic ku'i ju?
+\ft What are we now?
+```
+
+### Tell Me where Are the Righteous Ones?
+
+```ngloss
+\ex Kampis; dán ic sug omaki din?
+\ft Speak up! Where are the righteous?
+```
+
+### What Have We Become?
+
+```ngloss
+\ex Qe ic ku'i ju?
+\ft What are we now?
+```
+
+### In a World Degenerating,
+
+```ngloss
+\ex Ni dan muri daheretol
+\ft In this world rotting away,
+```
+
+(orig. retranslation was: "In this world of permissiveness")
+
+### What Have We Become?
+
+```ngloss
+\ex Qe ic ku'i ju?
+\ft what are we now?
+```
+
+## Chorus B
+
+### Speak Your Mind, Look out for Yourself
+
+```ngloss
+\ex Yani minic zenton jun lin'yi
+\ft Speak your thoughts, defend yourself
+```
+
+### The Answer to it All is a Life of Wealth
+
+```ngloss
+\ex Sug aknamarg ich jeneru ni gilden
+\ft The only solution is to live in gold
+```
+
+### Grab All You Can Cause You just Live once
+
+```ngloss
+\ex Uren yugisu yi jenera kabu winau
+\ft Fill your hands in this one life,
+```
+
+### You Got the Right to Do whatever You want
+
+```ngloss
+\ex Yi ic libron kempo qe yi falc
+\ft Freedom is the right to live your whims
+```
+
+### Don't Worry about Others or where You Came from
+
+```ngloss
+\ex Qi takama minit ha sug furi:
+\ft Others are a burden, so is the past,
+```
+
+### It Ain't what You Were, It's what You Have Become
+
+```ngloss
+\ex Qe yi ich'ins atakama nyuma qe yi tonston.
+\ft The future will erase all of that.
+```
+
+## Verse B
+
+### Mom and Dad Are Fighting,
+
+```ngloss
+\ex Medra Poren lekakel
+\ft Mother and father fight,
+```
+
+The original translation retranslated _lekakel_ as "shout"
+### As Rosie Lies there Crying;
+
+```ngloss
+\ex (Hi) Kaumé aruse sentol;
+\ft as Rosie sit in tears:
+```
+
+### For once Again She's Overheard
+
+```ngloss
+\ex Janyu fi jimarut del shi
+\ft Again she's heard them
+```
+
+### Regrets of Their Mistake.
+
+```ngloss
+\ex Kejé kushi midox.
+\ft lament their "big mistake."
+```
+
+### With Christmas Bells A-ringing,
+
+```ngloss
+\ex Hort Banchi-jia freijol,
+\ft With the Gift Festival approaching,
+```
+
+### Little Rosie'd Leave Them Grieving
+
+```ngloss
+\ex Kaumé'tal shi kason sento:
+\ft Little Rosie chooses their tears:
+```
+
+### The Gift She'd Give Her Family
+
+```ngloss
+\ex Kufi banchi hem sug réjo,
+\ft Her gift to her family will
+```
+
+### Would Be the Pills She'd Take
+
+```ngloss
+\ex Dan dokre ni [sug] mori.
+\ft be her bloodstained bed.
+```
+
+## Bridge B
+
+### An Inconvenient Child
+
+```ngloss
+\ex Dan kendis ha kani,
+\ft An unwanted child,
+```
+
+### She Wasn't Worth Their while
+
+```ngloss
+\ex Ins ha hort kushi temba.
+\ft she'd waste their time no more.
+```
+
+### (repeat Choruses 1 and 2)
+
+## Breakdown A
 
 What about love?
+
 What about God?
+
 What about holiness?
+
 What about mercy, compassion and selflessness?
 
+## Breakdown B
+
 You know it's true
+
 He is there for me and you
+
 Doesn't matter what you do
 
 (repeat chorus 1)
 
 What have we become?
+
 Have we come undone?
+
 [repeat x3]
 
 (repeat chorus 2)
 
-Selfish...
-With selfish...
+Selfish…
+
+With selfish…
+
 Selfish people
+
 When you gonna learn?
+
 Everyone of us
+
 Gathered 'round in trust
+
 What have we become?
+
+```txt
+
+
+\ft What is love?
+\ft Where are the gods?
+\ft We've lost our righteousness.
+\ft We've lost mercy, compassion, and self-sacrifice
+
+\ft Know the truth:
+\ft We must raise ourselves up,
+\ft in order to improve this world.
 ```
 
 ```txt
-A priest ignores his brother
-who has married someone Other
-This marriage is improper,
-was their father's attitude.
 
-He speaks a message of love,
-but this is not allowed:
-This pushes the fence inwards,
-suffocating his heart.
 
-Like a wingless bird,
-Like a kingless land
+\ex Delman failes?
+\ex Delman Khi'ich?
+\ex Delman andenin?
+\ex Delman graumi hi yumare hi juragin?
 
-What are we now?
-Indolent and ignorant?
-What are we now?
-Speak up! Where are the righteous?
-What are we now?
-In this world of permissiveness,
-what are we now?
-
-Speak your thoughts, defend yourself
-The only solution is to live in gold
-Fill your hands in this one life,
-Freedom is the right to live your whims
-Others are a burden, so is the past,
-The future will erase all of that.
-
-Mother and father shout,
-as Rosie lies in tears:
-Again she's heard them
-lament their "big mistake."
-
-As the Gift Festival approaches,
-Little Rosie chooses their tears:
-Her gift to her family will
-be her bloodstained bed.
-
-An unwanted child,
-she'd waste their time no more.
-
-What is love?
-Where are the gods?
-We've lost our righteousness.
-We've lost mercy, compassion, and self-sacrifice
-
-Know the truth:
-We must raise ourselves up,
-in order to improve this world.
-```
-
-```txt
-Dan koen trellets ji cin
-Kuji kendai ica Adin;
-Hi ba ica humaren
-Kuji poren kamput.
-
-Ji ins liktol failes
-Kend ba ins allarames;
-Sug aure bolotol dai ji
-Kuji mori joren'ha.
-
-Lin korja a deham.
-Lin larijmo a hiro.
-
-Que ic ku'i ju?
-Dan langurin din.
-Que ic ku'i ju?
-Kampis; dán ic sug omaki din?
-Que ic ku'i ju?
-Ni dan muri daheretol
-Que ic ku'i ju?
-
-Yani minits zenton jun lin'yi
-Sug aknamarg ich jeneru ni gilden
-Uren yugisu yi jenera kabu winau
-Yi ic libron kempo que yi falc
-Qui takama minit ha sug furi:
-Que yi icins atakama nyuma que yi tonston.
-
-Medra Poren lekakel
-[Hi] Kaumé aruse sentol;
-Janyu fi jimarut del shi
-Kejé kushi midokh.
-
-Hort Banchi-jia freijol,
-Kaumé'tal shi kason sento:
-Kufi banchi hem sug réjo,
-Dan dokre ni [sug] mori.
-
-Dan kendis ha kani,
-Ins ha hort kushi temba.
-
-Delman failes?
-Delman Khi'ich?
-Delman andenin?
-Delman graumi hi yumare hi juragin?
-
-Techi khich nam,
-   Khi'ich failon yi hen chi
-Ayugi chi kempo
+\ex Techi khich nam,
+\ex Khi'ich failon yi hen chi
+\ex Ayugi chi kempo
 ```
 
 ## Commentary
 
 This translation appears to be dated to 2015 or earlier and may contain words not documented as of 2023-Feb-13. As a song, it may also contain misformed words meant to maintain the rhythm of the original song.
+
+## Undocumented Words in Translation
+
+This original translation of this song contains undocumented words which are only found in this document, or are first identified in this translation. Below is the list of these words, and what they may be, or have become, in the intervening years.
+
+- **trellets** ${\rightarrow}$ **trellec** ${\rightarrow}$ **trellu.n**
+	1. ignoring, shunning
+- **kamput** ${\rightarrow}$ **kamp.is**
+	1. telling 2. teaching, instructing 3. asserting, insisting
+- **liktol** ${\rightarrow}$ (pot.) **lixa.st**
+	1. constructing, making
+- **allarames** ${\rightarrow}$ _allar_ + _hames_
+	- **allar** (from historical _al_ + _tlor_ "over")
+		1. over, above, beyond
+	- **hames** (_kun verb_)
+		1. to stretch out, to reach out, to extend
+- **aure**
+	1. fence, wall 2. perimeter 3. border, boundary
+- **bolotol** ${\rightarrow}$ (pot.) **bot.ek**
+	1. pushing, pressing
+- **joren** ${\rightarrow}$ **jore.n**
+	1. breathing, respirating 2. living, thriving
+- **langurin** ${\rightarrow}$ _lan-_ + _gurin_
+	- **lan-**
+		1. self-, reflexive prefix
+	- **gurin**
+		1. indulgent?, pleasing?, serving?
+- **omaki**
+	1. righteous, upright, upstanding
+- **aknamarg**
+	1. solution, answer, outcome
+- **uren**
+- **yugisu**
+- **libron** ${\rightarrow}$ **libra.un**
+	1. freeing, liberating, releasing
+- **falc** ${\rightarrow}$ **falc.et**
+	1. (emotional) feeling, sensing
+	2. wanting impulsively, having a whim
+- **sentol**
+	1. crying, grieving, despairing
+- **nyuma** ${\rightarrow}$ **mainyu**
+	1. rather, instead, in place of
+- **freijol** ${\rightarrow}$ **frei.jol**
+	- approaching, coming near, 
