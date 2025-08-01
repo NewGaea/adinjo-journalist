@@ -8,14 +8,14 @@ haʔyurel > aʔyurel > aʔyuré > acure > acore
 
 ## Diachronic List 
 
-- h -> . / #_aʔ
-- l -> e / V_#
-- ʔy -> c / V_
-- u -> o / S_
+- h -> . / \#\_aʔ
+- l -> e / V\_#
+- ʔy -> c / V\_
+- u -> o / S\_
 
 ## Reverse Diachronic List
 
-- o -> u / S_
-- c -> ʔy / V_
-- e -> l / V_\#
-- \# -> h / #_aʔ
+- o -> u / S\_
+- c -> ʔy / V\_
+- e -> l / V\_\#
+- \# -> h / \#\_aʔ
