@@ -303,7 +303,7 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 - **kannura** 1. (_noun_) exclusion, denial, refusal, rejection (att. 2002-Jul-31)
 - **kant** 1. (_noun_) older sibling (att. 2002-Jul-31) 2. (_noun, title_) older sibling of; used as an honorific to refer to another person's younger sibling (att. 2002-Jul-31) 3. (_noun, suffix_) mentor, senior, tutor, upperclassman (att. 2002-Jul-31)
 - **kaja** 1. (_noun_) bolt, corkscrew, screw; can refer to several tool whichs are twisted into position (att. 2002-Jul-31)
-- **karadu** 1. (_noun_) phoenix, legendary bird of fire and rebirth (att. 1998-Jun-01) 2. (_noun_) \[Archaic\]ember, flame, spark; a small (piece of) fire (att. 2023-Feb-10)
+- **karadu** 1. (_noun_) phoenix, legendary bird of fire and rebirth (att. 1998-Jun-01) 2. (_noun_) \[Archaic\] ember, flame, spark; a small (piece of) fire (att. 2023-Feb-10)
 - **karen** 1. (_noun_) bison, bull, cattle, ox, yak (att. 2002-Jul-31)
 - **karm** 1. (_noun_) game (att. 2002-Jul-31)
 - **karni** (1. _noun_) west (att. 2002-Jul-31)
