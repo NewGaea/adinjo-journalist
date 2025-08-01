@@ -136,7 +136,7 @@
 - **koèn'enex** 1. (_noun_) a priests robe, a robe meant to be tied off with a single sash and internal pockets (att. 2004-Jul-13)
 - **kolbu** 1. (_noun_) evening, dusk (att. 2002-Jul-31)
 - **kolengaus** 1. (_noun_) betrayal (att.  2002-Jul-31)
-- **kolen.ger** 1. (_ton verb_) betray (att.  2002-Jul-31)
+- **kolen.ger** 1. (_ton verb_) betraying (att.  2002-Jul-31)
 - **kolentau** 1. (_descriptor_) traitorous (att.  2002-Jul-31)
 - **kolentax** 1. (_noun_) betrayer, traitor (att.  2002-Jul-31)
 - **kolcon** 1. (_noun_) middle finger (esp. on the right hand) (att.  2002-Jul-31)
