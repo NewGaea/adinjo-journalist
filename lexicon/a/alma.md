@@ -71,5 +71,5 @@ coinDate: 2008-07-22
 ## Derived Terms
 - [**almán**](lexicon/a/almán): leader, acting leader, director, team leader
 - [**almatax**](lexicon/a/almatax): leader, manager
-- [**alnom**](_archive/old-words/alnom-OLD.md): law, procedure, protocol, regulation, rule, ruling
+- [**alnom**](lexicon/a/alnom.md): law, procedure, protocol, regulation, rule, ruling
 # Translations
