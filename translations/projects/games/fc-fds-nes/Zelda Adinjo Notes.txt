@@ -1,6 +1,7 @@
 Adinjo Zelda Intro
 
-Screen Palette Data: 0001.A8B0
+Screen Palette Data:
+  REVA: 0001.A8B0
 
 Original Data:
 
