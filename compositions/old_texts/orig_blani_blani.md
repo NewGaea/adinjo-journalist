@@ -40,8 +40,8 @@ The pit. Will you be a friend?
 
 ## Commentary
 
-This poem is an original work written by Nathaniel Knight in 2002. At this time, the language was closer to a relex of English than it is at present, as is reflected in the word ordering. All words found in this poem may be attributed to 2002-Dec-31 when updating wordlists.
+This poem is an original work written by Austin Springer in 2002. At this time, the language was closer to a relex of English than it is at present, as is reflected in the word ordering. All words found in this poem may be attributed to 2002-Dec-31 when updating wordlists.
 
-An updated version of the poem is scheduled to be produced during Spring 2023.
+An [updated version of the poem](compositions/old_texts/mod_blaninu_inda.md) was produced during Summer 2025.
 
 #written/2002
