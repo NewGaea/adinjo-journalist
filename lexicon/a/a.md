@@ -89,41 +89,41 @@
 	1. (_ton verb_) crying, weeping
 	2. mourning
 + **[amènru](lexicon/a/amèn.md)**
-  1. (_ton verb_) waking as from sleep or rest
-  2. becoming sober, either from the intoxication of drugs or emotions
-  3. invoking authority, this term is considered to refer to the respectful manner of asking favors from superiors
-  4. calling upon a group, as in public speaking such as preaching or elections
-  + **[amén](_archive/old-words/amen-OLD.md)**
+	  1. (_ton verb_) waking as from sleep or rest
+	  2. becoming sober, either from the intoxication of drugs or emotions
+	  3. invoking authority, this term is considered to refer to the respectful manner of asking favors from superiors
+	  4. calling upon a group, as in public speaking such as preaching or elections
+  + **[amén](lexicon/a/amén.md)**
     1. (_expression_) so be it
     2. might it be so
   + **[amènd](lexicon/a/amènd.md)**
     1. (_descriptor_) awake
     2. alert
     3. ready to act
-+ **[amkeil](lexicon/a/amkei-OLD.md)**
-  1. (_ton verb_) cutting
-  2. splitting, separating
-  3. removing, shearing
-  4. dividing
-+ **[amurent](_archive/old-words/amur-OLD.md)**
-  1. (_ton verb_) scattering
-  2. spreading out, hiding
-  3. sowing seeds
-  4. (_via (3)_) to have (typically casual) sexual relations with various partners
-  + **[amurtemba](_archive/old-words/amurtemba.md)**
++ **[amkeil](lexicon/a/amkei.md)**
+	  1. (_ton verb_) cutting
+	  2. splitting, separating
+	  3. removing, shearing
+	  4. dividing
++ **[amurent](lexicon/a/amur.md)**
+	  1. (_ton verb_) scattering
+	  2. spreading out, hiding
+	  3. sowing seeds
+	  4. (_via (3)_) to have (typically casual) sexual relations with various partners
+  + **[amurtemba](lexicon/a/amurtemba.md)**
     1. (_noun_) planting season
-+ **[an-](_archive/old-words/an-OLD.md) [1]**
-  + (_via **anjyu**_)
-    1. (_prefix_) sex or gender
-    2. class
-    3. genre
-  + (_via **aniru**_)
-    1. (_prefix_) expresses that the word is a statement of state or status, “to be _x_”
++ **[an-](lexicon/a/an.md)**
+	+ (_via **anjyu**_)
+		1. (_prefix_) sex or gender
+		2. class
+		3. genre
+	+ (_via **aniru**_)
+		1. (_prefix_) expresses that the word is a statement of state or status, “to be _x_”
 + **[andaiti](lexicon/a/andaiti.md)**
-  1. (_noun_) female; in sexual species, the gender which normally produces ova
-  2. (_descriptor_) female, feminine
+	  1. (_noun_) female; in sexual species, the gender which normally produces ova
+	  2. (_descriptor_) female, feminine
 + **[anden](lexicon/a/anden.md)**
-  1. (_descriptor_) holy
+	  1. (_descriptor_) holy
   + **[andenin](lexicon/a/andenin.md)**
     1. (_noun_) holiness
 + [**Andurusidin**](lexicon/a/andurusidin)
@@ -133,12 +133,12 @@
 + **[ane.ru](lexicon/a/ane.md)** 1. (_ton verb_) using
 + [**anèʃdöain**](lexicon/a/anèshdöain) 1. (_noun_) lightning bolt
 + [**ani.ru**](lexicon/a/ani) 1. (_ton vb_) being (as in, “to be or not to be…”)
-  + **an-** _desc pfx_ expresses that the word is a statement of state or status, “to be x”
+	+ **an-** _desc pfx_ expresses that the word is a statement of state or status, “to be x”
 + **anis.wa** _ton vb_ reading
 + **anjyu** _noun_ sex, gender
-  + **an-** _pfx_ sex, gender, class
+	+ **an-** _pfx_ sex, gender, class
 + **anko.ro** _ton vb_ existing
-  + **ankomar** _noun_ existence
++ **ankomar** _noun_ existence
 + **[antènar](lexicon/a/antènar.md)** *desc* holy, blessed, hallowed, sanctified
 + **anon** _desc_ neuter, ungendered
 + **ajan** _p noun_ Lord (the Lord, divine)
