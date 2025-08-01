@@ -1,6 +1,0 @@
-# All Words
-```dataview
-TABLE englishGloss as "English"
-FROM "lexicon" AND #dictionary
-SORT (file.name)ASC
-```

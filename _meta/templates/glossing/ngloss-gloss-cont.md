@@ -1,0 +1,1 @@
+    dekchin [IPA] [metalang] [gloss]
