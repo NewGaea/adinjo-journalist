@@ -5,10 +5,17 @@ This is an updated translation of *Let it Go*, translated in 2024 to help lay so
 
 ### Verse 1
 
-```gloss
+```ngloss
 \ex Dai ba nonke, sug abse toshi umaston adashinu (bacoci)
-\gla Dai ba nonke sug abse toshi umas-ton a-dashin-u (ba-coci)
-\glb On this mountain, DEF white snow hide-PRES.ACT UNIV-path-PL (this-night)
+\gl Dai [On]
+	ba [this]
+	nonke [mountain]
+	sug [DEF]
+	abse [white]
+	toshi [snow]
+	umas-ton [hide-PRES.ACT]
+	a-dashin-u [UNIV-path-PL]
+	(ba-coci) [(this-night)]
 \ft On this mountain, the white snow hides all paths (tonight)
 ```
 
