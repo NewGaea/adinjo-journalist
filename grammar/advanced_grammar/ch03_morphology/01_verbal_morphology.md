@@ -4,7 +4,7 @@ Adinjo has 3 tenses, 5 voices, and 3 aspects. In addition to this, there are two
 
 ## TON Verbs
 
-The vast majority of verbs in Adinjo are TON verbs, named for the present tense suffix common to them. Adin linguists prefer the term **_taru votenu_** ('_t verbs_'), because the suffix for this class of verbs will always begin with the /**t**/ sound, unless it is assimilating to /**d**/ after a voiced stop. In common speech, they are often called **_kijuçinu votenu_** (_regular verbs_), because they are the most common form in the language -- even though their gerund formation is anything but regular.
+The vast majority of verbs in Adinjo are TON verbs, named for the present tense suffix common to them. Adin linguists prefer the term **_votenu taru_** ('_t verbs_'), because the suffix for this class of verbs will always begin with the /**t**/ sound, unless it is assimilating to /**d**/ after a voiced stop. In common speech, they are often called **_votenu kijuçinu_** (_regular verbs_), because they are the most common form in the language -- even though their gerund formation is anything but regular.
 
 TON verbs are regular in that (**a**) they rarely, if ever, change the verb stem when they are applied, (**b**) they all share the initial /to/ sound in their conjugation, and (**c**) they always apply the negative after the tense (and voice) is formed. However, there is no consistent rule for forming the gerund of a TON verb, thus TON verbs are listed (lemmatized) in the dictionary in their gerund form, though the lexicon pages begin with the stem rather than the lemma.
 
@@ -18,7 +18,7 @@ The principal parts of a TON Verb are the **infinitive, gerund,** and (in some c
 
 When being learned, these principal parts will typically be presented or recited in the form _infinitive, gerund, nominal_, such that a student learning the forms of **[julax](../lexicon/j/julax)** would recite, "julax, julaxen, julaxan" during spoken lessons, or would write them down in writing lessons.
 
-> **THOUGHT:** It is sometimes suggested that the _nominal_ simply uses only the first sound of the gerund ending, but **jalyu** proves this wrong, as its forms are **jalyu, jalyumen, jalygres** and it is not the only word with a very different _nominal_ form than its _gerund_ form.
+> **THOUGHT:** It is sometimes suggested that the _nominal_ simply uses only the first sound of the gerund ending, but **jalyu** proves this wrong, as its forms are **jalyu, jalyumen, jalygres** and it is not the only word with a different _nominal_ form than its _gerund_ form.
 
 ### Participle Forms of TON Verbs
 
@@ -121,6 +121,7 @@ The gerund voice is used to discuss an action as a discrete event, as if it were
 
 ---
 ```gloss
+\num 1
 \ex chi yuganu ejis faileton
 \gla chi yuga-nu ejis faile-ton
 \glb 2S thing-PL chase.GER love-PRES.ACT
@@ -128,6 +129,7 @@ The gerund voice is used to discuss an action as a discrete event, as if it were
 \ft You love chasing things.
 ```
 ```gloss
+\num 2
 \ex ki ba yanis novratolot
 \gla ki ba yanis novra-t-ol-ot
 \glb 1P this talk.GER need.PAST-PASS
@@ -148,6 +150,7 @@ Explicitly using the passive voice _can_ change the meaning of a word, however: 
 
 ---
 ```gloss
+\num 3
 \ex fi lai faileton
 \gla fi lai faile-ton
 \glb 3SF 3SD love-PRES.ACT
@@ -156,6 +159,7 @@ Explicitly using the passive voice _can_ change the meaning of a word, however: 
 ```
 
 ```gloss
+\num 4
 \ex ji yi failetolot
 \gla ji yi faile-t-ol-ot
 \glb 3SM 1S love-PAST.PASS
@@ -170,6 +174,7 @@ The negative voice indicates that a verb is not performed in the given context -
 
 ---
 ```gloss
+\num 5
 \ex chinu failetonha
 \gla chi-nu faile-ton-ha
 \glb 2S-PL love-PRES.PASS-NEG
@@ -177,6 +182,7 @@ The negative voice indicates that a verb is not performed in the given context -
 \ft You are not loved.
 ```
 ```gloss
+\num 6
 \ex ki kuchi kendan janbacitochiha
 \gla ki ku-chi kendan jan-baci-tochi-ha
 \glb 1PL GEN.2P story again-see-FUT-ACT-NEG
@@ -210,6 +216,7 @@ In the active voice, the -el suffix may be positioned as the passive voice infix
 
 ---
 ```gloss
+\num 7
 \ex yi twa anistotel
 \gla yi twa anis-tot-el
 \glb 1S book read.PAST-ACT.PERF
@@ -217,6 +224,7 @@ In the active voice, the -el suffix may be positioned as the passive voice infix
 \ex I read all of (a/the) book.
 ```
 ```gloss
+\num 8
 \ex ten lixatolotel
 \gla ten lixa-t.ol.ot.el
 \glb sword create.PAST.PASS.PERF
@@ -231,6 +239,7 @@ The permissive indicates that the subject of the statement is allowed, in some w
 
 ---
 ```gloss
+\num 9
 \ex ROMAN-neim harudj lekatol'galm
 \gla ROMAN-neim harudj leka-tol'galm
 \glb Roman.knight enemy fight.PRES-PASS.PERM
@@ -238,6 +247,7 @@ The permissive indicates that the subject of the statement is allowed, in some w
 \ft Sir Roman has authority to engage the enemy in battle.
 ```
 ```gloss
+\num 10
 \ex ROMAN-neim harudj lekaton'galm
 \gla ROMAN-neim harudj leka-ton'galm
 \glb Roman.knight enemy fight.PRES-ACT.PERM
@@ -254,6 +264,7 @@ The potentive indicates the ability, skill, or talent to perform an action. This
 
 ---
 ```gloss
+\num 11
 \ex LOR lekatonmerha
 \gla LOR leka.ton.mer.ha
 \glb Lor fight.PRES-ACT.POT.NEG
@@ -262,6 +273,7 @@ The potentive indicates the ability, skill, or talent to perform an action. This
 ```
 
 ```gloss
+\num 12
 \ex BAL yanitolmer
 \gla BAL yani.tol.mer
 \glb Bal speak.PRES-PASS.POT
@@ -278,6 +290,7 @@ In Adinjo, it is possible to qualify the quality with which a verb is performed.
 
 ---
 ```gloss
+\num 13
 \ex ROMAN-neim lekatolot'rin
 \gla ROMAN-neim leka-t-ol-ot-'-rin
 \glb Roman.knight fight.PAST-PASS.POSQ
@@ -285,6 +298,7 @@ In Adinjo, it is possible to qualify the quality with which a verb is performed.
 \ft Sir Roman fought well
 ```
 ```gloss
+\num 14
 \ex LOR qontolochi'ntas
 \gla LOR qon-t-ol-ochi-intas
 \glb Lor write.FUT-PASS.NEGQ
@@ -298,6 +312,7 @@ On top of the qualitatives, you can compare multiple people within a category by
 
 ---
 ```gloss
+\num 15
 \ex Ki blamedu burmetochi'rindyur
 \gla ki blamed.u burme-tochi-rin-dyur
 \glb 1PL brick.PL cook.FUT-ACT.POSQ.MOST
@@ -305,6 +320,7 @@ On top of the qualitatives, you can compare multiple people within a category by
 \ft We will cook bricks most thoroughly.
 ```
 ```gloss
+\num 16
 \ex Chinu neimu ichintas'grat
 \gla chi.nu neim.u ic-intas-grat
 \glb 2S.PL knight.PL be.NEGQ.LEAST
