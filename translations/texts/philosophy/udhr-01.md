@@ -5,6 +5,7 @@ As a note, the document itself is titled **Lakulu Yanicin inda Ijinau Adinu hi S
 
 ## English 
 All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
 ## Adinjo Journalist
 Kami dynu ijinau, kuri banu livrau hi orom lakulu i nahertuma gayatolot. Shinu chijn hi rist-kirénos bancolot, bakira lanadin ni lav i andévo hi ancoté kejastolochigalm.
 
@@ -23,13 +24,14 @@ Among sapient people, all these are by law of nature born free and equal. They a
 \ex Shinu chijn hi rist-kirénos bancolot,
 \gla Shi-nu chijin hi rist kirénos banc-ol.ot
 \glb 3SG.PL knowledge and right wish give-PASTPASS
-\glc They(pl) are given knowledge and right-wishing,
+\glc They(pl) knowledge and right wishing are.given,
+\ft They(pl) are given knowledge and right-wishing,
 ```
 
 ```gloss
 \ex bakira lanadin ni lav i andévo hi ancoté kejastolochigalm.
 \gla bakira lan-a-din ni lav i an-dévo hi an-coté kejas-t.ol.ochi-galm
 \glb therefore REFL.UNIV.people in spirit of be-brother and be-sister honor-FUTPASS-PERM
-\glc Therefore each-to-the-other in spirit of brotherhod and sisterhood honor.shall.continually.ought
+\glc Therefore each-to-the-other in spirit of brotherhood and sisterhood honor.shall.continually.ought
 \ft therefore each to the other ought to act continually in a spirit of brotherhood and sisterhood.
 ```
