@@ -8,3 +8,8 @@ tags:
 # Ashara
 
 **Ashara** is a typically feminine personal name. It is primarily derived from the words *asha* "peace" and *menra* "happy." As a whole the name means "peace and happiness," and is a name given as a wish for a good life.
+
+## Related Words
+
+- [**asha**](lexicon/a/asha) 1. peace ![asha](audio/lexicon/adob/mp3/asha.mp3)
+- [**menra**](lexicon/m/menra)
