@@ -30,7 +30,7 @@ The compound participle involves prefixing **an-,** from **aniru,** to the infin
 
 ## KUN Verbs
 
-KUN verbs are named for the distinctive future tense suffix -**_ykun_**. KUN verbs do not distinguish active and passive voices, and their dictionary form is the infinitive, not the gerund. The majority of KUN verbs are simple verbs, including the copula (ic 'to be'), and are used often -- it is theorized that KUN verbs were retained because of their regular use, while other paradigms were being simplified by use into the TON verb system.
+KUN verbs are named for the distinctive future tense suffix -**_ykun_**. KUN verbs do not distinguish active and passive voices, and their dictionary form is the infinitive, not the gerund. The majority of KUN verbs are simple verbs, including the copula (_ic_ 'to be'), and are used often -- it is theorized that KUN verbs were retained because of their regular use, while other paradigms were being simplified by use into the TON verb system.
 
 KUN verbs do have one distinction, however: they conjugate differently if they end in a _consonant_ or a _vowel_. The basic suffixes are -ns for the past, -s for the present, and -ykun for the future. The infix -y(a)- may replace the final vowel in the root to indicate the negative voice. The infix -no- may be added after the first vowel, even if it breaks a diphthong, to form the gerund.
 
