@@ -1,0 +1,277 @@
+filters:
+  and:
+    - file.path.startsWith("lexicon")
+    - '!file.name.startsWith("_")'
+    - file.ext == "md"
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Annual 1998
+    filters:
+      and:
+        - coinDate >= "1998-01-01"
+        - coinDate <= "1998-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 1999
+    filters:
+      and:
+        - coinDate >= "1999-01-01"
+        - coinDate <= "1999-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2000
+    filters:
+      and:
+        - coinDate >= "2000-01-01"
+        - coinDate <= "2000-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2001
+    filters:
+      and:
+        - coinDate >= "2001-01-01"
+        - coinDate <= "2001-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2002
+    filters:
+      and:
+        - coinDate >= "2002-01-01"
+        - coinDate <= "2002-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2003
+    filters:
+      and:
+        - coinDate >= "2003-01-01"
+        - coinDate <= "2003-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2004
+    filters:
+      and:
+        - coinDate >= "2004-01-01"
+        - coinDate <= "2004-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2005
+    filters:
+      and:
+        - coinDate >= "2005-01-01"
+        - coinDate <= "2005-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2006
+    filters:
+      and:
+        - coinDate >= "2006-01-01"
+        - coinDate <= "2006-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2007
+    filters:
+      and:
+        - coinDate >= "2007-01-01"
+        - coinDate <= "2007-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2008
+    filters:
+      and:
+        - coinDate >= "2008-01-01"
+        - coinDate <= "2008-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2009
+    filters:
+      and:
+        - coinDate >= "2009-01-01"
+        - coinDate <= "2009-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2010
+    filters:
+      and:
+        - coinDate >= "2010-01-01"
+        - coinDate <= "2010-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2011
+    filters:
+      and:
+        - coinDate >= "2011-01-01"
+        - coinDate <= "2011-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2012
+    filters:
+      and:
+        - coinDate >= "2012-01-01"
+        - coinDate <= "2012-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2013
+    filters:
+      and:
+        - coinDate >= "2013-01-01"
+        - coinDate <= "2013-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2014
+    filters:
+      and:
+        - coinDate >= "2014-01-01"
+        - coinDate <= "2014-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2015
+    filters:
+      and:
+        - coinDate >= "2015-01-01"
+        - coinDate <= "2015-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2016
+    filters:
+      and:
+        - coinDate >= "2016-01-01"
+        - coinDate <= "2016-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2017
+    filters:
+      and:
+        - coinDate >= "2017-01-01"
+        - coinDate <= "2017-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2018
+    filters:
+      and:
+        - coinDate >= "2018-01-01"
+        - coinDate <= "2018-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2019
+    filters:
+      and:
+        - coinDate >= "2019-01-01"
+        - coinDate <= "2019-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2020
+    filters:
+      and:
+        - coinDate >= "2020-01-01"
+        - coinDate <= "2020-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2021
+    filters:
+      and:
+        - coinDate >= "2021-01-01"
+        - coinDate <= "2021-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2022
+    filters:
+      and:
+        - coinDate >= "2022-01-01"
+        - coinDate <= "2022-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2024
+    filters:
+      and:
+        - coinDate >= "2024-01-01"
+        - coinDate <= "2024-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate
+  - type: table
+    name: Annual 2025
+    filters:
+      and:
+        - coinDate >= "2025-01-01"
+        - coinDate <= "2025-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - coinDate

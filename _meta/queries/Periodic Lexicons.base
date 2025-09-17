@@ -1,0 +1,102 @@
+filters:
+  and:
+    - file.path.startsWith("lexicon")
+    - '!file.name.startsWith("_")'
+    - file.ext == "md"
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Periodic Lexicon 2000
+    filters:
+      and:
+        - coinDate <= "2000-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - aliases
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Periodic Lexicon 2004
+    filters:
+      and:
+        - coinDate >= "2001-01-01"
+        - coinDate <= "2004-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - aliases
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Periodic Lexicon 2008
+    filters:
+      and:
+        - coinDate >= "2005-01-01"
+        - coinDate <= "2008-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - aliases
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Periodic Lexicon 2012
+    filters:
+      and:
+        - coinDate >= "2009-01-01"
+        - coinDate <= "2012-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - aliases
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Periodic Lexicon 2016
+    filters:
+      and:
+        - coinDate >= "2013-01-01"
+        - coinDate <= "2016-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - aliases
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Periodic Lexicon 2020
+    filters:
+      and:
+        - coinDate >= "2017-01-01"
+        - coinDate <= "2020-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - aliases
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Periodic Lexicon 2024
+    filters:
+      and:
+        - coinDate >= "2021-01-01"
+        - coinDate <= "2024-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - aliases
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Periodic Lexicon 2028
+    filters:
+      and:
+        - coinDate >= "2025-01-01"
+        - coinDate <= "2028-12-31"
+    order:
+      - file.name
+      - englishGloss
+      - aliases
+    columnSize:
+      file.name: 111
