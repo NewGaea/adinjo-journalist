@@ -1,0 +1,105 @@
+filters:
+  and:
+    - file.path.startsWith("lexicon")
+    - '!file.name.startsWith("_")'
+    - file.ext == "md"
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Adinjo to English
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+      - coinDate
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Nouns
+    filters:
+      and:
+        - partSpeech.contains("Noun")
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Ton Verbs
+    filters:
+      and:
+        - partSpeech.contains("Ton Verb")
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Descriptors
+    filters:
+      and:
+        - partSpeech.contains("Descriptor")
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Kun Verbs
+    filters:
+      and:
+        - partSpeech.contains("Kun Verb")
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Positions
+    filters:
+      and:
+        - partSpeech.contains("Positional")
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+    columnSize:
+      file.name: 111
+  - type: table
+    name: All Verbs
+    filters:
+      or:
+        - partSpeech.contains("Ton Verb")
+        - partSpeech.contains("Kun Verb")
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Interjections
+    filters:
+      and:
+        - partSpeech.contains("Interjection")
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+    columnSize:
+      file.name: 111
+  - type: table
+    name: Participles
+    filters:
+      and:
+        - partSpeech.contains("Participle")
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+    columnSize:
+      file.name: 111
