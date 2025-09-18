@@ -8,10 +8,11 @@ tags:
   - prefix
   - suffix
 partSpeech:
-  - pronoun
-  - descriptor
-  - prefix
-  - suffix
+  - Pronoun
+  - Descriptor
+  - Prefix
+  - Suffix
+  - Affix
 englishGloss:
   - all
   - every
@@ -25,9 +26,8 @@ englishGloss:
   - im-
 coinDate: 1998-06-01
 ---
-# a 
-[[lexicon/a/_a|Return to List of Words beginning with A]]
-
+# _a_
+[Return to List of Words beginning with A](lexicon/a/_a.md)
 
 ### Alternative Forms
 
