@@ -1,14 +1,7 @@
 ---
-tags:
-  - dictionary
-  - lexicon
-  - word
-partSpeech:
-  - Noun
-englishGloss:
-  - hypnosis
-  - meditation
-  - trance
+tags: [dictionary, lexicon, word]
+partSpeech: [Noun]
+englishGloss: [hypnosis, meditation, trance]
 coinDate: 2023-01-21
 ---
 
