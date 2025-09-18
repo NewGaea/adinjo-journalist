@@ -218,3 +218,22 @@
   + **ayginstoloçi** _vb form_ (pass past)
   + **ayginstoloçiha** _vb form_ (pass past)
 + **axen** _desc_ last, final, the last, the final; term of absolution, indicates finality
+
+## Base
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - file.tags.contains("word")
+formulas:
+  Adinjo Journalist: file
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Adinjo Journalist
+      - englishGloss
+    sort: []
+
+```
