@@ -99,3 +99,21 @@
 - **doramukran** 1. (_expression_) spoilsport (att. 2008-Jun-22)
 - **doran** 1. (_noun_) lip (att. 2008-Jun-22)
 - **dorja** 1. (_noun_) adventurer, soldier, fighter; one who focuses on martial tactics (att. 2003-Dec-25)
+
+## Base
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - file.tags.contains("word")
+formulas:
+  Adinjo Journalist: file
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Adinjo Journalist
+      - englishGloss
+
+```

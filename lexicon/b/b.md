@@ -1,21 +1,21 @@
 # B
 [[lexicon/a/_a|A]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_g|G]]
 
-- **[ba](ba)** (att. 2003-Dec-25)
+- **[ba](lexicon/b/ba.md)** (att. 2003-Dec-25)
 	1. (_descriptor, prefix_) this; immediate proximate demonstrative
 	2. (_pronoun_) this, this one
-- **[baci.re](baci)** (att. 2002-Jul-31)
+- **[baci.re](lexicon/b/baci.md)** (att. 2002-Jul-31)
 	1. (_ton verb_) seeing, viewing; watching (att. 2002-Jul-31)
-- **[bak](bak)**
+- **[bak](lexicon/b/bak.md)**
 	1. (_noun_) card, a sturdy piece of paper often containing images (att. 2022-Jun-04)
-- **[bakato](bakato)**
+- **[bakato](lexicon/b/bakato.md)**
 	1. (_expression_) _equivalent to:_ bite me, buzz off, fuck off, sod off; _\[alleged\]_ a colloquial expression meaning "cook and serve" (actual translation unclear, but always used pejoratively; att. 2003-Dec-25)
-- **[bakira](bakira)**
+- **[bakira](lexicon/b/bakira.md)**
 	1. (_conjunction, expression_) also, as you see, by the way, clearly, furthermore, therefore, understandably; this expression is usually used to redirect attention to what one is saying, most often when it seems the listener is not paying attention (att. 2003-Dec-25)
-- **[bal](bal)**
+- **[bal](lexicon/b/bal.md)**
 	1. (_noun_) beat, rhythm, swing, tempo (att. 2009-Nov-06 ${\rightarrow}$ 2023-Jan-12)
 	2. (_noun_) a sense of rhythmic timing (att. 2009-Nov-06)
-- **[ban](ban)**
+- **[ban](lexicon/b/ban.md)**
 	1. (_noun_) bread (att. 2003-Dec-25)
 	2. (_noun_) meal; a prepared amount of food (att. 2023-Jan-12)
 - **banc.els**
@@ -87,3 +87,21 @@
 	1. (_noun_) button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed (att. 2003-Dec-25)
 - **bot.ek**
 	1. (_ton verb_) pressing, pushing (derived from _botan_; att. 2003-Dec-25)
+
+## Base
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - file.tags.contains("word")
+formulas:
+  Adinjo Journalist: file
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Adinjo Journalist
+      - englishGloss
+
+```

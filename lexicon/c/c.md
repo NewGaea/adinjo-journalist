@@ -20,7 +20,7 @@
 - **chanjia** 1. (_noun_) week (att. 2003-Dec-25; _formerly "gia"_)
 - **cherílya** 1. (_noun_) introduction (att. 2003-Dec-25)
 - **chérí.sol** 1. (_ton verb_) introduce (att. 2003-Dec-25)
-- **[chin](lexicon/c/chin)** 1. (_noun_) younger brother (att. 2003-Dec-25) 2. (_noun suffix_) younger brother of; used as an honorific to refer to another person's younger brother (att. 2003-Dec-25) 3. (_noun, suffix_) junior, mentee, understudy (att. 2003-Dec-25)
+- **[chin](lexicon/c/chin.md)** 1. (_noun_) younger brother (att. 2003-Dec-25) 2. (_noun suffix_) younger brother of; used as an honorific to refer to another person's younger brother (att. 2003-Dec-25) 3. (_noun, suffix_) junior, mentee, understudy (att. 2003-Dec-25)
 - **chijin** 1. (_noun_) knowledge (att. 2003-Dec-25)
 - **chuma.stel** 1. (_ton verb_) having, possessing, owning (att. 2003-Dec-25)
 - **chu-**, **chur-** 1. (_prefix_) great, grand (att. 2003-Dec-25)
@@ -51,3 +51,19 @@
 - **coridin** 1. (_pronoun_) some people, folks, part of a group
 - **corinanfailia** 1. (_descriptor_) polyamorous (att. 2022-Jun-04)
 - **coriju** 1. (_pronoun_) some time (at present)
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - file.tags.contains("word")
+formulas:
+  Adinjo Journalist: file
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Adinjo Journalist
+      - englishGloss
+
+```

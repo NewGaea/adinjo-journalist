@@ -1,5 +1,5 @@
 ## E
-[[_dict_d|D]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_z|Z]]
+[[lexicon/d/d|D]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_z|Z]]
 
 - **-el** 1. (_verb affix_) perfective marker; indicates an action with noteworthy or unusual duration for that action (att. 2003-Dec-25)
 - **elaure.na** 1. (_ton verb_) caring for, keeping, safeguarding, stewarding (word found in name element list from 2007, never recorded in lexicon until 2022; att. 2008-Jul-06 ${\rightarrow}$ 2022-Jun-14)

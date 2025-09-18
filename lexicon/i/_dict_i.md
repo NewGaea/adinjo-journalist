@@ -1,5 +1,5 @@
 ## I
-[[_dict_c|C]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_k|K]]
+[[lexicon/c/c|C]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_k|K]]
 
 - **i** 1. (_positional_) of, from (att. 2003-Dec-25)
 - **ic** 1. (_kun verb_) to be, is, am, are (infinitive and present tenses are identical) (att. 2003-Dec-25)

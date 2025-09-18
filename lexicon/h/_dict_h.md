@@ -1,5 +1,5 @@
 ## H
-[[_dict_z|Z]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_c|C]]
+[[_dict_z|Z]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[lexicon/c/c|C]]
 
 - **habijad** 1. (_noun_) partner (att. 2003-Dec-25)
 - **habru.k** 1. (_ton verb_) snore (att. 2003-Dec-25)

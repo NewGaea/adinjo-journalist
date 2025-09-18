@@ -56,3 +56,21 @@
 - **noventrol** 1. (_noun_) journey (att. 2008-Jun-22)
 - **novra.k** 1. (_ton verb_) need, require (att. 2008-Jun-22)
 - **novrul** 1. (_noun_) need, necessity (att. 2008-Jun-22)
+
+## Base View
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - file.tags.contains("word")
+formulas:
+  Adinjo Journalist: file
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Adinjo Journalist
+      - englishGloss
+
+```
