@@ -5,8 +5,9 @@ tags:
   - word
 partSpeech:
   - Noun
-  - Ton Verb
-englishGloss: 
+englishGloss:
+  - sisterhood
+  - sorority
 coinDate:
 ---
 # ancoté

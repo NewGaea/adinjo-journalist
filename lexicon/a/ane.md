@@ -19,7 +19,7 @@ coinDate: 2003-12-25
 ## Etymology
 
 ## Pronunciation
-- **IPA Broad**: /a.ne/
+- **IPA Broad**: /a.'ne/
 
 ## Ton Verb
 

@@ -20,18 +20,19 @@ coinDate: 2003-12-25
 
 ## Etymology
 ### Internal Origin
-From Ancient Adinjo **\*habès tloor** "dark mud, black mud."
+From Ancient Adinjo **\*halbès tloor** "dark mud, black mud."
 ### External Origin
 Derived as a mutated compound of **abse** + **tlor**, or _black_ + _mud_. This word was derived before I had any formal knowledge of sound changes, I just made something that felt interesting.
 ## Pronunciation
-- **IPA Broad**: /f.netiks/
+- **IPA Broad**: /al.ˈboɾ/
 
 ## Noun
 
 ### albor (plural *alboru*)
-1. tar (always singular)
-2. ink
-3. oil paint, gouache
+1. tar, oil (mass noun)
+2. ink, dye, pigment
+3. oil paint, body paint, gouache
+	1. \[NP head] a form of paint or makeup
 
 # Thesaurus
 ## Synonyms

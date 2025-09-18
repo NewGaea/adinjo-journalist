@@ -3,6 +3,8 @@ tags:
   - dictionary
   - lexicon
   - word
+  - telephone_game
+  - knasesj
 partSpeech:
   - Noun
 englishGloss:
