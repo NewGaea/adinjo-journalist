@@ -21,5 +21,9 @@ coinDate: 2003-12-25
 
 ### atki
 
-1. bonus, extra
+1. bonus, extra, tip
+	1. something in addition to what is expected or strictly due
+	2. more than is due, expected, necessary, or usual
 2. spare
+	1. something not being used, _especially_ if held in reserve for use as a replacement
+	2. being over, above, or beyond what is necessary
