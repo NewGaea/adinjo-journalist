@@ -43,6 +43,7 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 ## A
 
 - **[acedaiti](lexicon/a/acedaiti)** 1. (_noun_) monster girl (c. 2025-Jul-15; literally "monster-daughter")
+- **[aiminalbor](lexicon/a/aiminalbor.md)** 1. (_noun_) eyeliner, eyeshadow, mascara (c. 2025-Sep-15; literally "eye-paint")
 - **[arsetlor](lexicon/a/arsetlor)** 1. (_noun_) incubus (c. 2025-Jul-15; from _arse tlor_ "sitting atop")
 - **[aure](lexicon/a/aure)** 1. (_noun_) fence, wall, divider (c. 2015-Dec-31 or earlier, r. 2025-Jun-27; located in translation of [*What Have We Become* (DC Talk)](translations/texts/music/old/dctalk_what_have_we_become.md) from 2015 or earlier, cf. _aurok_ "room")
 - **[ausneblut](lexicon/a/ausneblut)** 1. (_noun_) succubus (c. 2025-Jul-15; from _ausne blut_ "lying beneath")
@@ -160,7 +161,7 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 
 ## X (KH)
 
-- N/A
+- **[xómnat.i](lexicon/x/xómnat.md)** 1. (_ton verb_) doubting 2. (_ton verb_) questioning truth, questioning validity, questioning belief 3. (_ton verb_) defying authority, defying norms
 
 ## O
 
@@ -173,3 +174,5 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 ## UNSORTED
 
 - N/A
+- **[náytèl](lexicon/n/náytèl.md)** 1. (_noun_) uncle, older male relative (esp. consanguine) (cn. [2025-Sep-15](https://www.reddit.com/r/conlangs/comments/1nhjolk/comment/necua3r/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) from [Reddit Telephone Game 711](https://www.reddit.com/r/conlangs/comments/1nhjolk/biweekly_telephone_game_v3_711/), from Classical Leqan [_naɟeltel_](https://www.reddit.com/r/conlangs/comments/1nhjolk/comment/nebzxam/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) "uncle, mother's brother") 2. mister, sir; polite title for a man, especially one with whom the speaker is unfamiliar (cn. 2025-Sep-15) 3. mentor, senior, upperclassman, {先輩|せんぱい}; a senior of the same rank or class as oneself, especially such a person as one looks up to or admires, may also be used by younger adults when speaking to their former teachers (cn. 2025-Sep-15)
+- [**nonkelorn**](lexicon/n/nonkelorn.md) 1. (_noun_) mesa, plateau; a flatland or flattened area on a mountain 2. (_noun_) \[sexuality] edge, withheld orgasm
