@@ -8,7 +8,7 @@ partSpeech:
 englishGloss:
   - room
   - space
-coinDate: 2008-07-22
+coinDate: 2008-06-22
 ---
 
 # _aurok_

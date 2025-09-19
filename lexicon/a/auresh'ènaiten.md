@@ -12,7 +12,7 @@ englishGloss:
 coinDate: 2004-07-13
 ---
 
-# _auresh'enaiten_
+# _auresh'ènaiten_
 
 # English
 
