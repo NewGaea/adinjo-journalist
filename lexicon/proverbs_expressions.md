@@ -5,6 +5,7 @@ The following is a lexical list of common proverbs and expressions sorted alphab
 ## T
 
 ### talau "perfection"
+
 ```gloss
 \ex talau hi sayomin harudju ic
 \gla talau hi sayomin harudj-u ic
@@ -12,4 +13,5 @@ The following is a lexical list of common proverbs and expressions sorted alphab
 \glc perfection and goodness enemy-PL be-PRES
 \ft Perfection and goodness are enemies.
 ```
-A common expression used in teaching and training, this serves to remind the learner that there is such a thing as good enough, and that perfection will leave you blind to your progress and quality. It is sometimes shortened to "**talau hi...**" leaving the remainder of the expression unspoken.
+
+A common expression used in teaching and training, this serves to remind the learner that there is such a thing as good enough, and that pursuit of perfection will leave you blind to your progress and quality. It is sometimes shortened to "**talau hi...**" leaving the remainder of the expression unspoken.
