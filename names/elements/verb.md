@@ -20,7 +20,7 @@ The words in these tables reflect commonly used verbs in Adinjo names. Most verb
 |    guarding     |  rukamos  |  ruk, ruka  |              |    kam, amtax     |
 |   harvesting    |           |             |              |                   |
 |     healing     |   jesoa   |  jes, jés   |              |        soa        |
-|     helping     |           |             |              |                   |
+|     helping     | pontifar  |  pon, pont  | onti, on, ti |     ifar, far     |
 |     hoping      |  entire   |  ent, enti  |              |        tír        |
 |     keeping     | elaurena  |  elau, ela  |     lau      | aure, ure, retax  |
 |     knowing     |  ijinrel  |   ci, çi    |     iji      |      jin, in      |
