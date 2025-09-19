@@ -72,9 +72,9 @@
 	2. a protocol or procedure
 	3. a law
 + **[almè.n](lexicon/a/alme.md)**
-  1. (_ton verb_) milking, suckling, nursing
-  2. (_ton verb_) extracting venom or toxins, whether from a gland or from a wound
-  3. (_ton verb, vulgar_) masturbating
+	1. (_ton verb_) milking, suckling, nursing
+	2. (_ton verb_) extracting venom or toxins, whether from a gland or from a wound
+	3. (_ton verb, vulgar_) masturbating
 + **[almènin](lexicon/a/almènin.md)**
 	1. (_descriptor_) milky
 	2. cloudy

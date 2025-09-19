@@ -52,7 +52,7 @@
 - **tok** 1. (_noun_) minute (att. 2003-Dec-25)
 - **tolam** 1. (_noun_) smoke (att. 2003-Dec-25)
 - **-tol** 1. (_ton verb suffix_) is doing, am doing; present tense, passive voice (att. 2003-Dec-25)
-- **tolis** 1. (_noun_) half-pound, a light weight or mass, roughly ${240_(10)}$ grams, ${8.46_(10)}$ ounces, or precisely _tomo onsu_ (${12_{10}}$ onz) (att. 2007 ${\rightarrow}$ rediscovered 2022-Jun-04)
+- **tolis** 1. (_noun_) half-pound, a light weight or mass, roughly ${240_{(10)}}$ grams, ${8.46_{(10)}}$ ounces, or precisely _tomo onsu_ (${12_{10}}$ onz) (att. 2007 ${\rightarrow}$ rediscovered 2022-Jun-04)
 - **-tolochi** 1. (_ton verb suffix_) will, shall; future tense, passive voice (att. 2003-Dec-25)
 - **-tolot** 1. (_ton verb suffix_) have finished, was doing; past tense, passive voice (att. 2003-Dec-25)
 - **tomo** 1. (_descriptor_) twelve (att. 2003-Dec-25)

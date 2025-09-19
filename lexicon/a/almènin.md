@@ -18,7 +18,7 @@ coinDate: 2021-04-21
 - **almazan** (archaic; archived, 2015-Mar-26)
 
 ## Etymology
-From [**almèn**](lexicon/a/almèn) "milk" and [**lin**](lexicon/l/lin) "like".
+From [**almer**](lexicon/a/almer.md) "milk" and [**lin**](lexicon/l/lin) "like".
 
 ## Pronunciation
 - **IPA Broad**: /al.mɛn.'i:n/

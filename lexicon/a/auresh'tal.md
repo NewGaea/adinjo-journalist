@@ -6,7 +6,7 @@ tags:
 partSpeech:
   - Noun
 englishGloss:
-  - canisole
+  - camisole
   - little shirt
   - small shirt
 coinDate: 2004-07-13
