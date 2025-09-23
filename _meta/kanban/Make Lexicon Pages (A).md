@@ -36,29 +36,30 @@ Create new style lexicon pages for each documented word beginning with \<a>. The
 - [x] [**ayastel**](lexicon/a/ayastel.md) 1. (_noun_) comfort (att. 2008-Jun-22), kindness (added 2023-Jan-10)
 - [x] [**aye**](lexicon/a/aye.md) 1. (_noun_) hand; may be literal or figurative (att. 2008-Jun-22) 2. holdings, things held in a hand (added 2023-Jan-10)
 - [x] [**aygins.ten**](lexicon/a/aygins.md) 1. (_ton verb_) playing (a game), acting, engaging in a hobby or pursuit of passion (att. 2021-Apr-21)
-- [ ] [**afailesi](lexicon/a/afailesi.md)** 1. (_descriptor_) panromantic (att. 2022-Jun-04)
-- [ ] [**axen**](lexicon/a/axen.md) 1. (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
+- [x] [**afailesi](lexicon/a/afailesi.md)** 1. (_descriptor_) panromantic (att. 2022-Jun-04)
+- [x] [**axen**](lexicon/a/axen.md) 1. (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
 
 ## [`lexicon_2024`](lexicon/_files/lexicon_2024.md)
 
 _If the words below have already been given files, check them off. Else, make the file._
 
-- [ ] [**absel**](lexicon/a/absel.md) 1. (_noun_) darkness (cn. 2024-Apr-01)
-- [ ] [**adinjo**](lexicon/a/adinjo.md) 1. (_proper noun_) Adin language (att. 2023-Jan-10)
-- [ ] [**a.hi**](lexicon/a/ah.md) 1. (_ton verb_) traveling, wandering, journeying (att. 2003-Jun-19, documented 2023-Apr-01)
-- [ ] [**ahimé**](lexicon/a/ah.md) 1. (_noun_) wandering martial artist (att. 2003-Jun-19, documented 2023-Apr-01)
+- [x] [**absel**](lexicon/a/absel.md) 1. (_noun_) darkness (cn. 2024-Apr-01)
+- [x] [**adinjo**](lexicon/a/adinjo.md) 1. (_proper noun_) Adin language (att. 2023-Jan-10)
+- [x] [**ah.i**](lexicon/a/ah.md) 1. (_ton verb_) traveling, wandering, journeying (att. 2003-Jun-19, documented 2023-Apr-01)
+- [x] [**ahimé**](lexicon/a/ahimé.md) 1. (_noun_) wandering martial artist (att. 2003-Jun-19, documented 2023-Apr-01)
 - [x] [**aci**](lexicon/a/aci.md) 1. (_pronoun_) all of you, everybody here (except me) (cn. 2024-Mar-14) 2. (_descriptor, honorific_) miss, ma'am; shortened form of *aiti* used to show respect (cn. 2024-Mar-14) 3. (_noun_) pi, the ratio of a circle's circumference to its diameter, approx. ${3.141592_{10}}$  or ${3.184809_{12}}$ (cn. 2024-Mar-14) 
 - [x] [**aimijálun**](lexicon/a/aimijálun.md) 1. (_noun_) blindfold, eye patch (att. 2023-Jan-28)
+- [x] [**álèmyum**](lexicon/a/álèmyum.md) 1. (_noun._) onion, scallion, leek 2. (_noun._) genus _allium_, garlic, shallot, chives (coined 2023-Dec-11)
 - [x] [**alnogalmi**](lexicon/a/alnogalmi.md) 1. (_descriptor_) lawful, legal, legitimate (att. 2023-Jan-20_)
-- [ ] [**amkeiban**](lexicon/a/amkeiban.md) 1. (_noun._) sliced bread; a slice of bread 2. sandwich, filling served between two or more slices of bread
-- [ ] [**amuran**](lexicon/a/amuran.md) 1. (_noun._) spring, warming season; (c. 2023-Dec-08; from _amurent_ "scattering, sowing")
-- [ ] [**anburme**](lexicon/a/anburme.md) 1. (_noun_) roasted food, cooked food; food
+- [x] [**amkeiban**](lexicon/a/amkeiban.md) 1. (_noun._) sliced bread; a slice of bread 2. sandwich, filling served between two or more slices of bread
+- [x] [**amuran**](lexicon/a/amuran.md) 1. (_noun._) spring, warming season; (c. 2023-Dec-08; from _amurent_ "scattering, sowing")
+- [x] [**anburme**](lexicon/a/anburme.md) 1. (_noun_) roasted food, cooked food; food
 - [x] [**andévo**](lexicon/a/andévo.md) 1. (_noun_) brotherhood, fraternity (att. 2023-Feb-03)
 - [x] [**ando**](lexicon/a/ando.md) 1. (_noun_) cave, cavern (added 2023-Jan-13)
 - [x] [**ancoté**](lexicon/a/ancoté.md) 1. (_noun_) sisterhood, sorority (att. 2023-Feb-03)
-- [ ] [**anjaluai**](lexicon/a/anjalu'ai.md) 1. (_noun_) mess, dirtiness
+- [x] [**anjaluai**](lexicon/a/anjalu'ai.md) 1. (_noun_) mess, dirtiness
 - [x] [**asènkuha**](lexicon/a/asènkuha.md) 1. (_noun_) dawn, sunrise (att. 2023-Jan-21)
 - [x] [**ashenros**](lexicon/a/ashenros.md) 1. (_noun_) hypnosis, meditation, trance (att. 2023-Jan-21)
 - [x] [**aur.en**](lexicon/a/aur.md) 1. (_ton verb_) asking, interrogating, querying, questioning (att. 2023-Jan-10)
-- [ ] [**axáron**](lexicon/a/axáron.md) 1. (_noun_) archmage; a mage who has mastered at least four elemental branches of magecraft (att. 2003-Jun-19, documented 2023-Apr-01; originally documented as *alkháron* due to spelling conventions and epenthesis)
+- [x] [**axáron**](lexicon/a/axáron.md) 1. (_noun_) archmage; a mage who has mastered at least four elemental branches of magecraft (att. 2003-Jun-19, documented 2023-Apr-01; originally documented as *alkháron* due to spelling conventions and epenthesis)
 
