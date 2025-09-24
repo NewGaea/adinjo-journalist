@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -8,8 +8,7 @@ kanban-plugin: basic
 
 - [ ] [Make Lexicon Queries](_meta/kanban/Make%20Lexicon%20Queries.md)
 - [ ] [Make Lexicon Pages (New Words)](_meta/kanban/Make%20Lexicon%20Pages%20(New%20Words).md)
-- [ ] [Make Lexicon Pages (A)](_meta/kanban/Make%20Lexicon%20Pages%20(A).md)
-- [ ] Make Lexicon Pages (B)
+- [ ] [Make Lexicon Pages (B)](_meta/kanban/Make%20Lexicon%20Pages%20(B).md)
 - [ ] Make Lexicon Pages (G)
 - [ ] Make Lexicon Pages (D)
 - [ ] Make Lexicon Pages (E)
@@ -32,10 +31,14 @@ kanban-plugin: basic
 - [ ] Post each word on proper day
 
 
+***
 
+## Archive
+
+- [ ] [Make Lexicon Pages (A)](_meta/kanban/Make%20Lexicon%20Pages%20(A).md)
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%

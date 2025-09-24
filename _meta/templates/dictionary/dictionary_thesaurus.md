@@ -45,5 +45,3 @@
 ### Phrasal Terms
 
 \[List phrases which use the main word in them.]
-
-[dictionary_translations](_meta/templates/dictionary/dictionary_translations.md)
