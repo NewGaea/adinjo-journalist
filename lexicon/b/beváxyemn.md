@@ -36,9 +36,9 @@ From [Reddit's Biweekly Telephone Game #700](https://www.reddit.com/r/conlangs/c
 
 - **IPA Broad**: /be.'væ:.xʲɛmn/
 
-## 1. Noun
+## Noun
 
-### Lexeme (form inflected-lexeme)
+### beváxyemn (plural _beváxyemnu_)
 
 1. squall, monsoon
 	1. a strong storm, especially one originating from an ocean or sea
