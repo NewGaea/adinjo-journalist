@@ -41,12 +41,12 @@ Originally coined prior to 2003-Dec-25 as _borchton_, was already changed to _ba
 
 |                | Positive  | Negative    |
 | -------------- | --------- | ----------- |
-| **Infinitive** | _acoré_   | _acoréha_   |
-| **Gerund**     | _acoréru_ | _acoréruha_ |
+| **Infinitive** | _banc_    | _banc_      |
+| **Gerund**     | _bancels_ | _bancelsa_  |
 
 |         | Act. Pos     | Act. Neg     | Pass. Pos      | Pass. Neg      |
 | ------- | :----------- | :----------- | :------------- | :------------- |
-| Present | _acoréton_   | _acorétona_  | _acorétol_     | _acorétola_    |
-| Past    | _acorétot_   | _acorétota_  | _acorétolot_   | _acorétolota_  |
-| Future  | _acorétochi_ | _acoretocha_ | _acorétolochi_ | _acorétolocha_ |
+| Present | _bancon_     | _bancona_    | _bancol_       | _bancola_      |
+| Past    | _bancot_     | _bancota_    | _bancolot_     | _bancolota_    |
+| Future  | _bancochi_   | _bancocha_   | _bancolochi_   | _bancolocha_   |
 

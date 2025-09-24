@@ -28,6 +28,8 @@ kanban-plugin: board
 
 - [ ] [**bitke**](lexicon/b/bitke.md) 1. (_noun_) door, heavy gate (att. 2003-Dec-25)
 - [ ] [**blamèd**](lexicon/b/blamèd.md) 1. (_noun_) brick, block; man-made block of wood, dirt, or other mixed materials (but not of cut stone; formerly _blamed_, spelling altered 2023-Jan-13 for clarity of pronunciation; att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
+- [ ] [**blani**](lexicon/b/blani.md) 1. (_noun_) cat, feline; refers to any cat-like creature (att. 2003-Dec-25)
+- [ ] [**blanisa**](lexicon/b/blanisa.md) 1. (_noun_) cat, housecat (att. 2003-Dec-25) 2. (_noun_) pet (att. 2003-Dec-25; senses split 2023-Jan-13) 3. (_descriptor_) tame (att. 2003-Dec-25; senses split 2023-Jan-13)
 - [ ] [**blani'urdin**](lexicon/b/bllani'urdin.md) 1. (_noun_) cat-like person (any cat-like person) (att. 2003-Dec-25)
 - [ ] [**blut**](lexicon/b/blut.md) 1. (_positional_) down (att. 2003-Dec-25)
 - [ ] [**brak.esh**](lexicon/b/brak.md) 1. (_ton verb_) lifting, picking up, raising (att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
@@ -53,15 +55,9 @@ kanban-plugin: board
 - [ ] **[bandomi](lexicon/b/bandomi.md)** 1. (_noun_) bakery, bread store, patisserie (att. 2023-Jan-28)
 
 
-## [`lexicon_2025`](lexicon/_files/lexicon_2025.md#B)
-
-
-
 ## Completed Pages
 
 **Complete**
-- [ ] [**blanisa**](lexicon/b/blanisa.md) 1. (_noun_) cat, housecat (att. 2003-Dec-25) 2. (_noun_) pet (att. 2003-Dec-25; senses split 2023-Jan-13) 3. (_descriptor_) tame (att. 2003-Dec-25; senses split 2023-Jan-13)
-- [ ] [**blani**](lexicon/b/blani.md) 1. (_noun_) cat, feline; refers to any cat-like creature (att. 2003-Dec-25)
 - [x] **[bra](lexicon/b/bra.md)** 1. (_descriptor_) heavy, weighted, burdensome (c. 2025-Jun-04 from _bural_ in [fifty_roots_proto](_meta/archive/old_documents/fifty_roots_proto.md), cf. _bralyumé_ "lead (metal)") 2. (_descriptor_) deep, reflective, contemplative (c. 2025-Jun-04 from _bural_ in [fifty_roots_proto](_meta/archive/old_documents/fifty_roots_proto.md), cf. _bralyumé_ "lead (metal)")
 - [x] **[beváxyemn](lexicon/b/beváxyemn.md)** 1. (_noun_) squall, monsoon 2. (_noun_) inundation, flood 3. (_noun_) tantrum
 - [ ] [**banc.els**](lexicon/b/banc.md) 1. (_ton verb_) giving (formerly _borchton_; att. 2003-Dec-25)
