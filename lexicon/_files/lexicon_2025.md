@@ -42,16 +42,16 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 
 ## A
 
-- **[acedaiti](lexicon/a/acedaiti)** 1. (_noun_) monster girl (c. 2025-Jul-15; literally "monster-daughter")
+- **[acedaiti](lexicon/a/acedaiti.md)** 1. (_noun_) monster girl (c. 2025-Jul-15; literally "monster-daughter")
 - **[aiminalbor](lexicon/a/aiminalbor.md)** 1. (_noun_) eyeliner, eyeshadow, mascara (c. 2025-Sep-15; literally "eye-paint")
-- **[arsetlor](lexicon/a/arsetlor)** 1. (_noun_) incubus (c. 2025-Jul-15; from _arse tlor_ "sitting atop")
-- **[aure](lexicon/a/aure)** 1. (_noun_) fence, wall, divider (c. 2015-Dec-31 or earlier, r. 2025-Jun-27; located in translation of [*What Have We Become* (DC Talk)](translations/texts/music/old/dctalk_what_have_we_become.md) from 2015 or earlier, cf. _aurok_ "room")
-- **[ausneblut](lexicon/a/ausneblut)** 1. (_noun_) succubus (c. 2025-Jul-15; from _ausne blut_ "lying beneath")
+- **[arsetlor](lexicon/a/arsetlor.md)** 1. (_noun_) incubus (c. 2025-Jul-15; from _arse tlor_ "sitting atop")
+- **[aure](lexicon/a/aure.md)** 1. (_noun_) fence, wall, divider (c. 2015-Dec-31 or earlier, r. 2025-Jun-27; located in translation of [*What Have We Become* (DC Talk)](translations/texts/music/old/dctalk_what_have_we_become.md) from 2015 or earlier, cf. _aurok_ "room")
+- **[ausneblut](lexicon/a/ausneblut.md)** 1. (_noun_) succubus (c. 2025-Jul-15; from _ausne blut_ "lying beneath")
 
 ## B
 
-- **[beváxyemn](lexicon/b/beváxyemn)** 1. (_noun_) squall, monsoon 2. (_noun_) inundation, flood 3. (_noun_) tantrum
-- **[bra](lexicon/b/bra)** 1. (_descriptor_) heavy, weighted, burdensome (c. 2025-Jun-04 from _bural_ in [fifty_roots_proto](_meta/archive/old_documents/fifty_roots_proto.md), cf. _bralyumé_ "lead (metal)") 2. (_descriptor_) deep, reflective, contemplative (c. 2025-Jun-04 from _bural_ in [fifty_roots_proto](_meta/archive/old_documents/fifty_roots_proto.md), cf. _bralyumé_ "lead (metal)")
+- **[beváxyemn](lexicon/b/beváxyemn.md)** 1. (_noun_) squall, monsoon 2. (_noun_) inundation, flood 3. (_noun_) tantrum
+- **[bra](lexicon/b/bra.md)** 1. (_descriptor_) heavy, weighted, burdensome (c. 2025-Jun-04 from _bural_ in [fifty_roots_proto](_meta/archive/old_documents/fifty_roots_proto.md), cf. _bralyumé_ "lead (metal)") 2. (_descriptor_) deep, reflective, contemplative (c. 2025-Jun-04 from _bural_ in [fifty_roots_proto](_meta/archive/old_documents/fifty_roots_proto.md), cf. _bralyumé_ "lead (metal)")
 
 ## G
 
