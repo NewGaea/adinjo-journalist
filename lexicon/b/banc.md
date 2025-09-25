@@ -50,3 +50,10 @@ Originally coined prior to 2003-Dec-25 as _borchton_, was already changed to _ba
 | Past    | _bancot_     | _bancota_    | _bancolot_     | _bancolota_    |
 | Future  | _bancochi_   | _bancocha_   | _bancolochi_   | _bancolocha_   |
 
+## Participle
+
+Note: Because the stem _banc_ has only one vowel, the standard participle matches the standard active conjugations.
+
+### anbanc (gerund _anbancels_)
+
+1. (be) giving
