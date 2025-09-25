@@ -15,7 +15,7 @@ _My room..._"
 **Kuyi jontes hi dangelar**
 "_My dreaming and my planning_"
 **acoc auseton.**
-"_lie up in bed all night._"
+"_lie awake all night._"
 **Amarte hi dapisé**
 "_(My) crying and (my) soft breathing_"
 **Kér'jia'hem géxaton.**
