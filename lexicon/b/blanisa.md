@@ -1,17 +1,45 @@
-# blanisa
+---
+tags:
+  - dictionary
+  - lexicon
+  - word
+partSpeech:
+  - Noun
+  - Descriptor
+englishGloss:
+  - cat
+  - pet
+  - tame
+  - housecat
+  - domesticated
+coinDate: 2003-12-25
 ---
 
-## Forms
-1. **blani**sa
-	1. (_word class_) housecat, pet cat
+# _blanisa_
 
-### Other Forms
+# English
 
-- **blanisanu** (_plural_) housecats
+## Alternative Forms
 
-## Derivation
-+ [blani](blani) 1. (_noun_) cat, feline
+## Etymology
 
-## Related Words
+### Internal Etymology
 
-#tags
+From [_blani_](lexicon/b/blani.md) "cat, felid."
+
+## Pronunciation
+
+- **IPA Broad**: /bla.ˈni.sa/
+
+## Noun
+
+### blanisa (plural _blanisanu_)
+
+1. cat, housecat
+2. pet
+
+## Descriptor
+
+### blanisa
+
+1. domesticated, tame

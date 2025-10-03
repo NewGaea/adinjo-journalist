@@ -8,6 +8,7 @@ partSpeech:
 englishGloss:
   - finish
   - finishing touch
+  - finale
 coinDate: 2003-12-25
 ---
 

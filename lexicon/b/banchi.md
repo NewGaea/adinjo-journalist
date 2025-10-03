@@ -7,7 +7,7 @@ partSpeech:
   - Noun
 englishGloss:
   - gift
-coinDate: 2031-02-25
+coinDate: 2003-12-25
 ---
 
 # _banchi_
