@@ -1,4 +1,14 @@
-Fifty Core Roots - Adinjo
+---
+Origin Date: 2015-02-17
+aliases:
+  - 50 Core Roots from Proto-Adinjo
+tags:
+  - archive
+  - lexicon
+  - proto-adinjo
+---
+
+# Fifty Core Roots - Adinjo
 	
 01. **a**	 1. intensifier, extender
 02. **abd**	 1. cave, shelter, tent
