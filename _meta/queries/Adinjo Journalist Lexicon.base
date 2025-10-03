@@ -4,14 +4,25 @@ filters:
     - '!file.name.startsWith("_")'
     - file.ext == "md"
     - "!englishGloss.isEmpty()"
+formulas:
+  initialLetter: file
+summaries:
+  new summary: ""
 views:
   - type: table
     name: Adinjo to English
+    groupBy:
+      property: coinDate
+      direction: ASC
     order:
       - file.name
       - englishGloss
       - partSpeech
       - coinDate
+      - formula.initialLetter
+    sort: []
+    summaries:
+      coinDate: Filled
     columnSize:
       file.name: 111
   - type: table
@@ -101,5 +112,19 @@ views:
       - file.name
       - englishGloss
       - partSpeech
+    columnSize:
+      file.name: 111
+  - type: list
+    name: Adinjo to English List
+    groupBy:
+      property: coinDate
+      direction: ASC
+    order:
+      - file.name
+      - englishGloss
+      - partSpeech
+      - coinDate
+      - formula.initialLetter
+    sort: []
     columnSize:
       file.name: 111
