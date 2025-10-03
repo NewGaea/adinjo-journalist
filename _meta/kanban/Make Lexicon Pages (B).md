@@ -10,40 +10,40 @@ kanban-plugin: board
 
 ## On Deck (12)
 
-- [ ] [**bitke**](lexicon/b/bitke.md) 1. (_noun_) door, heavy gate (att. 2003-Dec-25)
-- [ ] [**blamèd**](lexicon/b/blamèd.md) 1. (_noun_) brick, block; man-made block of wood, dirt, or other mixed materials (but not of cut stone; formerly _blamed_, spelling altered 2023-Jan-13 for clarity of pronunciation; att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
-- [ ] [**blani**](lexicon/b/blani.md) 1. (_noun_) cat, feline; refers to any cat-like creature (att. 2003-Dec-25)
-- [ ] [**blanisa**](lexicon/b/blanisa.md) 1. (_noun_) cat, housecat (att. 2003-Dec-25) 2. (_noun_) pet (att. 2003-Dec-25; senses split 2023-Jan-13) 3. (_descriptor_) tame (att. 2003-Dec-25; senses split 2023-Jan-13)
-- [ ] [**blani'urdin**](lexicon/b/bllani'urdin.md) 1. (_noun_) cat-like person (any cat-like person) (att. 2003-Dec-25)
-- [ ] [**blut**](lexicon/b/blut.md) 1. (_positional_) down (att. 2003-Dec-25)
-- [ ] [**brak.esh**](lexicon/b/brak.md) 1. (_ton verb_) lifting, picking up, raising (att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
-- [ ] [**bralum**](lexicon/b/bralum.md) 1. (_noun_) lead, metal
-- [ ] [**bralyumé**](lexicon/b/bralyumé.md) 1. (_descriptor_) leaden, made of lead
-- [ ] [**braubrú**](lexicon/b/braubrú.md) 1. (_noun_) a particularly notable fart (att. 2022-Jun-20)
-- [ ] [**brau.jen**](lexicon/b/brau.md) 1. (_ton verb_) blowing, exhaling; farting (this is considered a polite way to refer to farting) (att. 2003-Dec-25; _formerly "bura.nu"_)
-- [ ] **[bágèt](lexicon/b/bágèt.md)** 1. (_noun_) baguette, submarine sandwich, hero sandwich, grinder, hoagie; a sandwich made by placing fillings in the middle of a baked loaf of bread; from French _baguette_ (borrowed 2024-Dec-)
-
-
-## [`adinjo_lexicon`](lexicon/adinjo_lexicon.md)
-
 - [ ] [**bron.ru**](lexicon/b/bron.md) 1. (_ton verb_) delaying, holding position, pausing, staying, waiting (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
 - [ ] [**bront**](lexicon/b/bront.md) 1. (_noun_) delay, hold, pause, stay, wait; a period of time spent delayed or awaiting something (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
 - [ ] [**burme.las**](lexicon/b/burme.md) 1. (_ton verb_) cooking, baking, boiling, frying, roasting, steaming (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
 - [ ] [**bor.ak**](lexicon/b/bor.md) 1. (_ton verb_) acquiring, getting, receiving (att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
 - [ ] [**borch.ent**](lexicon/b/borch.md) 1. (_ton verb_) sending to (*transitive*), revealing to, inspiring (att. 2007-Nov-26 ${\rightarrow}$ 2022-Jun-05)
-- [ ] [**bot.ek**](lexicon/b/bot.md) 1. (_ton verb_) pressing, pushing (derived from _botan_; att. 2003-Dec-25)
 - [ ] [**botan**](lexicon/b/botan.md) 1. (_noun_) button, pressure plate; this word may be used to describe anything which reacts mechanically to being pressed or pushed (att. 2003-Dec-25)
+- [ ] [**bot.ek**](lexicon/b/bot.md) 1. (_ton verb_) pressing, pushing (derived from _botan_; att. 2003-Dec-25)
+
+
+## [`adinjo_lexicon`](lexicon/adinjo_lexicon.md)
+
 
 
 ## [`lexicon_2024`](lexicon/_files/lexicon_2024.md#B)
 
-- [ ] **[baik](lexicon/b/baik.md)** 1. (_noun_) bike, bicycle, motorcycle, tricycle 2. (__noun__) a pedal-powered vehicle (loanword from English "bike"; rec. 2024-09-03 by Jerin)
-- [ ] **[bánden](lexicon/b/bánden.md)** 1. (_noun_) wine, cider, fermented fruit juice (c. 2023-Dec-12)
 
 
 ## Completed Pages
 
 **Complete**
+- [x] **[bánden](lexicon/b/bánden.md)** 1. (_noun_) wine, cider, fermented fruit juice (c. 2023-Dec-12)
+- [x] **[baik](lexicon/b/baik.md)** 1. (_noun_) bike, bicycle, motorcycle, tricycle 2. (__noun__) a pedal-powered vehicle (loanword from English "bike"; rec. 2024-09-03 by Jerin)
+- [x] **[bágèt](lexicon/b/bágèt.md)** 1. (_noun_) baguette, submarine sandwich, hero sandwich, grinder, hoagie; a sandwich made by placing fillings in the middle of a baked loaf of bread; from French _baguette_ (borrowed 2024-Dec-)
+- [x] [**brau.jen**](lexicon/b/brau.md) 1. (_ton verb_) blowing, exhaling; farting (this is considered a polite way to refer to farting) (att. 2003-Dec-25; _formerly "bura.nu"_)
+- [x] [**braubrú**](lexicon/b/braubrú.md) 1. (_noun_) a particularly notable fart (att. 2022-Jun-20)
+- [x] [**bralyumé**](lexicon/b/bralyumé.md) 1. (_descriptor_) leaden, made of lead
+- [x] [**bralum**](lexicon/b/bralum.md) 1. (_noun_) lead, metal
+- [x] [**brak.esh**](lexicon/b/brak.md) 1. (_ton verb_) lifting, picking up, raising (att. 2008-Jun-22 ${\rightarrow}$ 2023-Jan-13)
+- [x] [**blut**](lexicon/b/blut.md) 1. (_positional_) down (att. 2003-Dec-25)
+- [x] [**blani'urdin**](lexicon/b/blani'urdin.md) 1. (_noun_) cat-like person (any cat-like person) (att. 2003-Dec-25)
+- [x] [**blani**](lexicon/b/blani.md) 1. (_noun_) cat, feline; refers to any cat-like creature (att. 2003-Dec-25)
+- [x] [**blanisa**](lexicon/b/blanisa.md) 1. (_noun_) cat, housecat (att. 2003-Dec-25) 2. (_noun_) pet (att. 2003-Dec-25; senses split 2023-Jan-13) 3. (_descriptor_) tame (att. 2003-Dec-25; senses split 2023-Jan-13)
+- [x] [**blamèd**](lexicon/b/blamèd.md) 1. (_noun_) brick, block; man-made block of wood, dirt, or other mixed materials (but not of cut stone; formerly _blamed_, spelling altered 2023-Jan-13 for clarity of pronunciation; att. 2003-Dec-25 ${\rightarrow}$ 2023-Jan-13)
+- [x] [**bitke**](lexicon/b/bitke.md) 1. (_noun_) door, heavy gate (att. 2003-Dec-25)
 - [x] [**bironga**](lexicon/b/bironga.md) 1. (_noun_) finish, final touches
 - [x] [**bir.mak**](lexicon/b/bir.md) 1. (_ton verb_) finishing (att. 2003-Dec-25)
 - [x] [**bider.in**](lexicon/b/bider.md) 1. (_ton verb_) opening (att. 2008-Jun-22)
@@ -76,6 +76,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true]}
+{"kanban-plugin":"board","list-collapse":[true,null,true,true]}
 ```
 %%
