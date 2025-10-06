@@ -7,7 +7,7 @@ partSpeech:
   - Descriptor
 englishGloss:
   - burdensome
-  - heavy tunic
+  - heavy
   - weighted
   - deep
   - reflective
