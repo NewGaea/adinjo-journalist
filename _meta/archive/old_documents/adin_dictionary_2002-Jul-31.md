@@ -159,7 +159,7 @@ Arrows connect words to a modernized phonetic spelling of the word, and double-a
 13. **cumaton** → **chumaton** + (att. 2002-Jul-31)
 14. **cumit** → _chumit_ → **cumit** + (att. 2002-Jul-31)
 15. **cún** → _chún_ →→ **cún** + (att. 2002-Jul-31)
-16. **cu'ort** → _chu'ort_ → **chuort** (att. 2002-Jul-31)
+16. **cu'ort** → _chu'ort_ → **chuort** (att. ==2002-Jul-31== ${\rightarrow}$ 1999-Jun-01)
 17. **cuprén** → **chuprén** (att. 2002-Jul-31)
 18. **curito** → **churito** (att. 2002-Jul-31)
 19. **curporen** → _churporen_ →→ **chuporen** (att. 2002-Jul-31)

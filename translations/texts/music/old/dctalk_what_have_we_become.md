@@ -1,125 +1,156 @@
 ---
-tags: [translation, song, hip-hop, rap, religious]
+tags:
+  - translation
+  - song
+  - hip-hop
+  - rap
+  - religious
+Origin Date: 2003-10-03
+aliases:
+  - What Have We Become?
 ---
 
 # _What Have We Become_ (DC Talk/Toby Mac)
 
-This is a format update of the original translation of this song, which was produced sometime in or before 2015, likely much earlier. From the structure of lines, it appears likely to have been produced prior to 2008, and it contains numerous words which appeared nowhere else in documentation as of 2024-Dec-18.
+This is a format update of the original translation of this song, which was produced in 2003 (well into the first era of the language). It contains numerous words which appeared nowhere else in documentation as of 2024-Dec-18.
 
 The only changes to the original translation at this time are spelling reforms.
 
-## Verse A
+## Original Lyrics
 
-### A Preacher Shuns His Brother
+## Translated Lyrics
+
+Dan koen trelles ji chin, kuji kendai icha adin,
+Hi ba icha humaren, kuji poren kampton ba.
+Ji ins likton failes, kend ba ins allarames,
+Sug aure boloton dai ji, kuji mori joren'a.
+
+Lin korja a deham...
+Lin larijmo a hiro...
+
+Qe ic ku'i ju?
+Dan langurin din?
+Qe ic ku'i ju?
+Kampis; dán ic sug omakidin?
+Qe ic ku'i ju?
+Ni dan muri daheretol...
+Qe ic ku'i ju?
+
+
+## Glossed Translation
+
+### Verse A
+
+#### A Preacher Shuns His Brother
 
 ```ngloss
 \ex Dan koen trellec ji cin
 \ft A priest ignores his brother
 ```
 
-### Because His Bride's a Different Color;
+#### Because His Bride's a Different Color;
 
 ```ngloss
 \ex Kuji kendai icha Adin;
 \ft who has married someone Other
 ```
 
-### And This is not Acceptable,
+#### And This is not Acceptable,
 
 ```ngloss
 \ex Hi ba ica humaren
 \ft And this (marriage) is improper,
 ```
 
-### His Papa Taught Him So.
+#### His Papa Taught Him So.
 
 ```ngloss
 \ex Kuji poren kamput.
 \ft was their father's attitude.
 ```
 
-### It Was Love that He'd Been Preaching,
+#### It Was Love that He'd Been Preaching,
 
 ```ngloss
 \ex Ji ins liktol failes
 \ft He speaks a message of love,
 ```
 
-### But This Was Overreaching;
+#### But This Was Overreaching;
 
 ```ngloss
 \ex Kend ba ins allarames;
 \ft but this is not allowed:
 ```
 
-### The Boundaries Stretching Further
+#### The Boundaries Stretching Further
 
 ```ngloss
 \ex Sug aure bolotol dai ji
 \ft This pushes the fence inwards,
 ```
 
-### Than His Heart Would Choose to Go.
+#### Than His Heart Would Choose to Go.
 
 ```ngloss
 \ex Kuji mori joren'ha.
 \ft suffocating his heart.
 ```
 
-## Bridge A
+### Bridge A
 
-### Like an Angel with no Wings
+#### Like an Angel with no Wings
 
 ```ngloss
 \ex Lin korja a deham.
 \ft Like a wingless angel,
 ```
 
-### Like a Kingdom with no King
+#### Like a Kingdom with no King
 
 ```ngloss
 \ex Lin larijmo a hiro.
 \ft Like a kingless land
 ```
 
-## Chorus A
+### Chorus A
 
-### What Have We Become?
+#### What Have We Become?
 
 ```ngloss
 \ex Qe ic ku'i ju?
 \ft What are we now?
 ```
 
-### A Self Indulgent People.
+#### A Self Indulgent People.
 
 ```ngloss
 \ex Dan langurin din.
 \ft Indolent and ignorant?
 ```
 
-### What Have We Become?
+#### What Have We Become?
 
 ```ngloss
 \ex Qe ic ku'i ju?
 \ft What are we now?
 ```
 
-### Tell Me where Are the Righteous Ones?
+#### Tell Me where Are the Righteous Ones?
 
 ```ngloss
 \ex Kampis; dán ic sug omaki din?
 \ft Speak up! Where are the righteous?
 ```
 
-### What Have We Become?
+#### What Have We Become?
 
 ```ngloss
 \ex Qe ic ku'i ju?
 \ft What are we now?
 ```
 
-### In a World Degenerating,
+#### In a World Degenerating,
 
 ```ngloss
 \ex Ni dan muri daheretol
@@ -128,60 +159,60 @@ The only changes to the original translation at this time are spelling reforms.
 
 (orig. retranslation was: "In this world of permissiveness")
 
-### What Have We Become?
+#### What Have We Become?
 
 ```ngloss
 \ex Qe ic ku'i ju?
 \ft what are we now?
 ```
 
-## Chorus B
+### Chorus B
 
-### Speak Your Mind, Look out for Yourself
+#### Speak Your Mind, Look out for Yourself
 
 ```ngloss
 \ex Yani minic zenton jun lin'yi
 \ft Speak your thoughts, defend yourself
 ```
 
-### The Answer to it All is a Life of Wealth
+#### The Answer to it All is a Life of Wealth
 
 ```ngloss
 \ex Sug aknamarg ich jeneru ni gilden
 \ft The only solution is to live in gold
 ```
 
-### Grab All You Can Cause You just Live once
+#### Grab All You Can Cause You just Live once
 
 ```ngloss
 \ex Uren yugisu yi jenera kabu winau
 \ft Fill your hands in this one life,
 ```
 
-### You Got the Right to Do whatever You want
+#### You Got the Right to Do whatever You want
 
 ```ngloss
 \ex Yi ic libron kempo qe yi falc
 \ft Freedom is the right to live your whims
 ```
 
-### Don't Worry about Others or where You Came from
+#### Don't Worry about Others or where You Came from
 
 ```ngloss
 \ex Qi takama minit ha sug furi:
 \ft Others are a burden, so is the past,
 ```
 
-### It Ain't what You Were, It's what You Have Become
+#### It Ain't what You Were, It's what You Have Become
 
 ```ngloss
 \ex Qe yi ich'ins atakama nyuma qe yi tonston.
 \ft The future will erase all of that.
 ```
 
-## Verse B
+### Verse B
 
-### Mom and Dad Are Fighting,
+#### Mom and Dad Are Fighting,
 
 ```ngloss
 \ex Medra Poren lekakel
@@ -189,74 +220,74 @@ The only changes to the original translation at this time are spelling reforms.
 ```
 
 The original translation retranslated _lekakel_ as "shout"
-### As Rosie Lies there Crying;
+#### As Rosie Lies there Crying;
 
 ```ngloss
 \ex (Hi) Kaumé aruse sentol;
 \ft as Rosie sit in tears:
 ```
 
-### For once Again She's Overheard
+#### For once Again She's Overheard
 
 ```ngloss
 \ex Janyu fi jimarut del shi
 \ft Again she's heard them
 ```
 
-### Regrets of Their Mistake.
+#### Regrets of Their Mistake.
 
 ```ngloss
 \ex Kejé kushi midox.
 \ft lament their "big mistake."
 ```
 
-### With Christmas Bells A-ringing,
+#### With Christmas Bells A-ringing,
 
 ```ngloss
 \ex Hort Banchi-jia freijol,
 \ft With the Gift Festival approaching,
 ```
 
-### Little Rosie'd Leave Them Grieving
+#### Little Rosie'd Leave Them Grieving
 
 ```ngloss
 \ex Kaumé'tal shi kason sento:
 \ft Little Rosie chooses their tears:
 ```
 
-### The Gift She'd Give Her Family
+#### The Gift She'd Give Her Family
 
 ```ngloss
 \ex Kufi banchi hem sug réjo,
 \ft Her gift to her family will
 ```
 
-### Would Be the Pills She'd Take
+#### Would Be the Pills She'd Take
 
 ```ngloss
 \ex Dan dokre ni [sug] mori.
 \ft be her bloodstained bed.
 ```
 
-## Bridge B
+### Bridge B
 
-### An Inconvenient Child
+#### An Inconvenient Child
 
 ```ngloss
 \ex Dan kendis ha kani,
 \ft An unwanted child,
 ```
 
-### She Wasn't Worth Their while
+#### She Wasn't Worth Their while
 
 ```ngloss
 \ex Ins ha hort kushi temba.
 \ft she'd waste their time no more.
 ```
 
-### (repeat Choruses 1 and 2)
+#### (repeat Choruses 1 and 2)
 
-## Breakdown A
+### Breakdown A
 
 What about love?
 
@@ -266,7 +297,7 @@ What about holiness?
 
 What about mercy, compassion and selflessness?
 
-## Breakdown B
+### Breakdown B
 
 You know it's true
 
@@ -339,7 +370,7 @@ This original translation of this song contains undocumented words which are onl
 - **liktol** ${\rightarrow}$ (pot.) **lixa.st**
 	1. constructing, making
 - **allarames** ${\rightarrow}$ _allar_ + _hames_
-	- **allar** (from historical _al_ + _tlor_ "over")
+	- **allar** (from historical _al_ + _klor_ "over")
 		1. over, above, beyond
 	- **hames** (_kun verb_)
 		1. to stretch out, to reach out, to extend

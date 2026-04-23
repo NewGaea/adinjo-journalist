@@ -7,7 +7,7 @@ partSpeech:
   - Ton Verb
 englishGloss:
   - calming
-  - somforting
+  - comforting
   - soothing
 coinDate: 2008-06-22
 ---

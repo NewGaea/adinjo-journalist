@@ -28,7 +28,7 @@ coinDate: 2003-12-25
 ### **IPA Broad**
 
 - _infinitive_ /bɾau/
-- _gerund_ /bɾau.bɾu/
+- _gerund_ /bɾau.ʒen/
 
 ## Ton Verb
 
@@ -59,14 +59,14 @@ coinDate: 2003-12-25
 
 |                | Positive  | Negative    |
 | -------------- | --------- | ----------- |
-| **Infinitive** | _acoré_   | _acoréha_   |
-| **Gerund**     | _acoréru_ | _acoréruha_ |
+| **Infinitive** | _brau_    | _brauha_    |
+| **Gerund**     | _braujen_ | _braunjena_ |
 
 |         | Act. Pos     | Act. Neg     | Pass. Pos      | Pass. Neg      |
 | ------- | :----------- | :----------- | :------------- | :------------- |
-| Present | _acoréton_   | _acorétona_  | _acorétol_     | _acorétola_    |
-| Past    | _acorétot_   | _acorétota_  | _acorétolot_   | _acorétolota_  |
-| Future  | _acorétochi_ | _acoretocha_ | _acorétolochi_ | _acorétolocha_ |
+| Present | _brauton_   | _brautona_  | _brautol_     | _brautola_    |
+| Past    | _brautot_   | _brautota_  | _brautolot_   | _brautolota_  |
+| Future  | _brautochi_ | _brautocha_ | _brautolochi_ | _brautolocha_ |
 
 ## Participle
 

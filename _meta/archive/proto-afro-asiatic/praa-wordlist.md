@@ -580,82 +580,82 @@ This list was copied from [Wiktionary](https://en.wiktionary.org/wiki/Appendix:P
 498. **\*-tsag-, \*-cag-, \*-tsaag-, \*-caag-**: to not move, be at rest 
 499. **\*-tsîk’-/\*-tsâk’-, \*-cîk’-, \*-câk’-**: to pluck out, pluck off 
 500. **\*-tsoon-, \*-coon-**: to smell 
-501. \*tsuun-, *cuun- | hair, especially pubic hair 
-502. \*-tsǎŋ-, *-cǎŋ- | to split in two, split one from the other 
-503. \*tsan-, *can- | two | (proposed source: #502, with regular PAA *ŋ > PBA *n; Eg., Berber, Sem. innovation: as synonym for #505) |
-504. \*-tsar-, *-car- | to grasp 
-505. \*tsîr(n)-, *cîr(n)- | two | (vowel reconstruction uncertain: PAA *u, *ee, or *oo are also possible here; contrary to earlier views, this is surely a distinct root from #503) |
-506. \*-šab- | to strike (with an implement) 
-507. \*-šob- | to immerse, apply water to 
-508. \*-šad- | to extend (lengthwise) 
-509. \*-šoof- | to scratch, scrape 
-510. \*-šaḥ- | to burn (tr.) 
-511. \*-šooḥ- | to wet down 
-512. \*-šok- | to cover 
-513. \*-šîkʷ- | to cut repeatedly 
-514. \*-šuk’-, *-šukʷ’- | to be beaten 
-515. \*šuuk’-, *šuukʷ’- | narrow, slim 
-516. \*-šaal- | to lap 
-516. \*-šaalkʷ- | to lick up | (stem + *kʷ fin.) |
-517. \*-šul-, *-šuul- | to scratch 
-518. \*-šun- | to come close, come near 
-519. \*-šeŋ- | to be good 
-520. \*šâp- | earth, ground 
-521. \*-šaap- | to cry out 
-522. \*-šup’- | to abuse, revile 
-523. \*-šĕr- | to shift (position) 
-524. \*-šoor- | to feed 
-525. \*-šǎawd- | to wrap around 
-| 526. | *-šǎy- | to sparkle 
-| 527. | *-šĕeʕ- | to be scraped 
-| 528. | *-šūʕ-/*-šāʕ- | to smell (intr.) 
-| 529. | *-s’êd- | to be (dark-)colored 
-| 530. | *-s’ig- | to stay 
-| 531. | *-s’uuɣ-, *-s’uuɣʷ’ | to rub 
-| 532. | *-s’ah- | to pound (to loosen) 
-| 533. | *-s’ik’-, *-s’ikʷ’- | to come near 
-| 534. | *-s’uk’-, *-s’ukʷ’- | to strike (with tool, weapon) 
-| 535. | *-s’ǎm- | to sour 
-| 536. | *-s’iink’-, *-s’iinkʷ’- | to become weak 
-| 537. | *-s’ēer- | to lower, put low 
-| 538. | *-s’at-/*-s’it- | to cut into 
-| 539. | *-s’at- | to exude | (Eg., Sem. innovation: shift to outflow of water, not from body; root *-s’a- seen in #540 + *t dur.) |
-| 540. | *-s’aw- | to flow | (root *-s’a-, seen also in #539 preceding, + *w inchoative) |
-| 541. | *s’iw- | daylight, sunlight 
-| 542. | *-s’aʔ- | to drink up, slurp up (liquid) 
-| 543. | *-s’âʕ-/*-s’îʕ- | to burn (intr.) 
-| 544. | *-s’iʕ- | to draw out, pull out 
-| 545. | *s’iʕ- | hurry, haste 
-| 546. | *-c’ǔb- | to glow, burn low | (2nd root shape *-c’aab- seen in PEC v. and Banna (SOm) 'white,' is not as yet satisfactorily accounted for) |
-| 547. | *-c’of- | to flow slowly 
-| 548. | *-c’uf-/*-c’if- | to tie together 
-| 549. | *c’ohr- | trash, residue, discarded materials 
-| 550. | *c’ohr- | lower back 
-| 551. | *-c’aḥ- | to dig 
-| 552. | *-c’aḥ- | to beat 
-| 553. | *-c’uuk-/*-c’iik- | to rub off 
-| 554. | *c’îk’l- | jaw 
-| 555. | *-c’il- | to darken, become dark colored 
-| 556. | *c’ilm-/*c’alm- | black | (root #555 + *m adj. suff.) |
-| 557. | *-c’aam- | to rest 
-| 558. | *-c’em- | to become dark 
-| 559. | *-c’iin- | to observe 
-| 560. | *-c’ep- | to wait 
-| 561. | *-c’ap’-/*-c’ip’- | to drip 
-| 562. | *-c’âr- | to be clever 
-| 563. | *-c’ar-/*-c’ir- | to rise up 
-| 564. | *c’irf-, *c’ifr- | nail, claw 
-| 565. | *-c’êyg- | to shout 
-| 566. | *-c’îʔ-, *-c’îiʔ- | to convey 
-| 567. | *-c’eʕ- | to rise 
-| 568. | *m- | indefinite pronoun stem (one, someone, somebody) 
-| 569. | *-m- (*-mǎ- ?) | to be wet 
-| 569. | *âm- | water | (*a- attrib. n. pref. + stem) |
-| 570. | *-im- | to come 
-| 571. | *ma, *mi | what? 
-| 572. | *-ma- | to not have 
-| 573. | *-mâc- | to walk swaying, move about disjointedly 
-| 574. | *-mǎac- | to immerse, flow over 
+501. **\*tsuun-**, **\*cuun-** | hair, especially pubic hair 
+502. **\*-tsǎŋ-**, **\*-cǎŋ-** | to split in two, split one from the other 
+503. **\*tsan-**, **\*can-** | two | (proposed source: #502, with regular PAA \*ŋ > PBA \*n; Eg., Berber, Sem. innovation: as synonym for #505) |
+504. **\*-tsar-**, **\*-car-** | to grasp 
+505. **\*tsîr(n)-**, **\*cîr(n)-** | two | (vowel reconstruction uncertain: PAA \*u, \*ee, or \*oo are also possible here; contrary to earlier views, this is surely a distinct root from #503) |
+506. **\*-šab-** | to strike (with an implement) 
+507. **\*-šob-** | to immerse, apply water to 
+508. **\*-šad-** | to extend (lengthwise) 
+509. **\*-šoof-** | to scratch, scrape 
+510. **\*-šaḥ-** | to burn (tr.) 
+511. **\*-šooḥ-** | to wet down 
+512. **\*-šok-** | to cover 
+513. **\*-šîkʷ-** | to cut repeatedly 
+514. **\*-šuk’-** **\*-šukʷ’-** | to be beaten 
+515. **\*šuuk’-**, **\*šuukʷ’-** | narrow, slim 
+516. **\*-šaal-** | to lap 
+517. **\*-šaalkʷ-** | to lick up | (stem + \*kʷ fin.) |
+518. **\*-šul-,** \*-šuul- | to scratch 
+519. **\*-šun-** | to come close, come near 
+520. **\*-šeŋ-** | to be good 
+521. **\*šâp-** | earth, ground 
+522. **\*-šaap-** | to cry out 
+523. **\*-šup’**- | to abuse, revile 
+524. **\*-šĕr-** | to shift (position) 
+525. **\*-šoor-** | to feed 
+526. **\*-šǎawd-** | to wrap around 
+527. **\*-šǎy-** | to sparkle 
+528. **\*-šĕeʕ-** | to be scraped 
+529. **\*-šūʕ-**/**\*-šāʕ-** | to smell (intr.) 
+530. **\*-s’êd-** | to be (dark-)colored 
+531. **\*-s’ig-** | to stay 
+532. \*-s’uuɣ-, \*-s’uuɣʷ’ | to rub 
+533. **\*-s’ah-** | to pound (to loosen) 
+534. **\*-s’ik’-**, **\*-s’ikʷ’-** | to come near 
+535. **\*-s’uk’-**, **\*-s’ukʷ’-** | to strike (with tool, weapon) 
+536. **\*-s’ǎm-** | to sour 
+537. **\*-s’iink’-,** **\*-s’iinkʷ’-** | to become weak 
+538. **\*-s’ēer-** | to lower, put low 
+539. **\*-s’at-**/\*-s’it- | to cut into 
+540. **\*-s’at-** | to exude | (Eg., Sem. innovation: shift to outflow of water, not from body; root \*-s’a- seen in #540 + \*t dur.) |
+541. **\*-s’aw-** | to flow | (root \*-s’a-, seen also in #539 preceding, + \*w inchoative) |
+542. **\*s’iw-** | daylight, sunlight 
+543. **\*-s’aʔ-** | to drink up, slurp up (liquid) 
+544. **\*-s’âʕ-**/\*-s’îʕ- | to burn (intr.) 
+545. **\*-s’iʕ-** | to draw out, pull out 
+546. **\*s’iʕ-** | hurry, haste 
+547. **\*-c’ǔb-** | to glow, burn low | (2nd root shape *-c’aab- seen in PEC v. and Banna (SOm) 'white,' is not as yet satisfactorily accounted for) |
+548. **\*-c’of-** | to flow slowly 
+549. **\*-c’uf-**/**\*-c’if-** | to tie together 
+550. **\*c’ohr-** | trash, residue, discarded materials 
+551. **\*c’ohr-** | lower back 
+552. **\*-c’aḥ-** | to dig 
+553. **\*-c’aḥ-** | to beat 
+554. **\*-c’uuk-**/**\*-c’iik-** | to rub off 
+555. **\*c’îk’l-** | jaw 
+556. **\*-c’il-** | to darken, become dark colored 
+557. \***c’ilm-**/**\*c’alm-** | black | (root #555 + *m adj. suff.) |
+558. **\*-c’aam-** | to rest 
+559. **\*-c’em-** | to become dark 
+560. **\*-c’iin-** | to observe 
+561. **\*-c’ep-** | to wait 
+562. **\*-c’ap’**-/**\*-c’ip’**- | to drip 
+563. **\*-c’âr-** | to be clever 
+564. **\*-c’ar-**/**\*-c’ir-** | to rise up 
+565. **\*c’irf-**, **\*c’ifr-** | nail, claw 
+566. **\*-c’êyg-** | to shout 
+567. **\*-c’îʔ-**, **\*-c’îiʔ-** | to convey 
+568. **\*-c’eʕ-** | to rise 
+569. **\*m-** | indefinite pronoun stem (one, someone, somebody) 
+570. **\*-m-** (\*-mǎ- ?) | to be wet 
+571. **\*âm-** | water | (\*a- attrib. n. pref. + stem) |
+572. **\*-im-** | to come 
+573. **\*ma**, **\*mi** | what? 
+574. **\*-ma-** | to not have 
+575. **\*-mâc-** | to walk swaying, move about disjointedly 
+576. **\*-mǎac-** | to immerse, flow over 
 | 575. | *-mîc- | to chew up 
 | 576. | *-môoc-, *-môots- | to turn (tr.) 
 | 577. | *-mac’- | to start 

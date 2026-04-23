@@ -14,7 +14,7 @@ The following list is Alphabetical by English or Romanized title, ignoring artic
 | Final Fantasy III                       | Akendan Axen: 3irin Tan                                       |
 | The Hyrule Fantasy: The Legend of Zelda | kuHAIRUL Tansaun: Sug Kendan i ZELDA                          |
 | Link's Adventure: The Legend of Zelda 2 | Jocon i LINK: Sug Kendan i ZELDA: 2irin Tan                   |
-| The Legend of Zelda: A Link to the Past | TRIFORS i TÉOLAITINU: Sug Kendan i ZELDA: 3irin Tan           |
+| The Legend of Zelda: A Link to the Past | TRAIFORS i TÉOLAITINU: Sug Kendan i ZELDA: 3irin Tan          |
 | The Legend of Zelda: Link's Awakening   | Anjontes Lanja: Sug Kendan i ZELDA: 4irin Tan                 |
 | The Legend of Zelda: Ocarina of Time    | Fanwe Anden i Temba: Sug Kendan i ZELDA: 5irin Tan            |
 | The Legend of Zelda: Majora's Mask      | LINK hi sug Sinjálu Loikau: Sug Kendan i ZELDA: 6irin Tan     |
@@ -25,7 +25,7 @@ The following list is Alphabetical by English or Romanized title, ignoring artic
 | The Legend of Zelda: The Minish Cap     | Kasul i PÌCORI hi Xáron i ROMU: Sug Kendan i Zelda            |
 | The Legend of Zelda: Phantom Hourglass  | Rashamper i Lavu: Sug Kendan i ZELDA: 10irin Tan              |
 | Animal Crossing                         | Jènjal i Telru                                                |
-| Kingdom Hearts                          |                                                               |
+| Kingdom Hearts                          | Kumorinu Larijmo, Larijmo i Morinu > LarijMorinu              |
 | Harvest Moon                            |                                                               |
 | Super Mario Bros.                       | Churito MARIO Dévonu                                          |
 | Super Mario Bros. 2                     | MARIO Tan: SABKON Jocon                                       |

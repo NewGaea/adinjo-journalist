@@ -87,3 +87,9 @@ coinDate: 2002-07-31
 
 1. (be) seeing, (be) viewing
 2. (be) observing, (be) watching
+
+## Noun
+
+1. sight, vision
+2. vigil, watch
+3. duty, shift, watch

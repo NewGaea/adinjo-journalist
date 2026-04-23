@@ -141,7 +141,7 @@ Kuci popo'hemlé koranton.
 ```txt
 Cori ébra ic.
 Hi cori owas ic.
-Ba dan shep owas dan enxuri ciron chumaton.
+Ba dan shep owas dan enxur i ciron chumaton.
 ```
 
 ```txt

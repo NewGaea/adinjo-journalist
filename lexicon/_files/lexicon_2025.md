@@ -176,3 +176,16 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 - N/A
 - **[náytèl](lexicon/n/náytèl.md)** 1. (_noun_) uncle, older male relative (esp. consanguine) (cn. [2025-Sep-15](https://www.reddit.com/r/conlangs/comments/1nhjolk/comment/necua3r/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) from [Reddit Telephone Game 711](https://www.reddit.com/r/conlangs/comments/1nhjolk/biweekly_telephone_game_v3_711/), from Classical Leqan [_naɟeltel_](https://www.reddit.com/r/conlangs/comments/1nhjolk/comment/nebzxam/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) "uncle, mother's brother") 2. mister, sir; polite title for a man, especially one with whom the speaker is unfamiliar (cn. 2025-Sep-15) 3. mentor, senior, upperclassman, {先輩|せんぱい}; a senior of the same rank or class as oneself, especially such a person as one looks up to or admires, may also be used by younger adults when speaking to their former teachers (cn. 2025-Sep-15)
 - [**nonkelorn**](lexicon/n/nonkelorn.md) 1. (_noun_) mesa, plateau; a flatland or flattened area on a mountain 2. (_noun_) \[sexuality] edge, withheld orgasm
+- [**dojìn**](lexicon/d/dojìn.md) 1. (_noun_) lizard; esp. one which has sharp teeth or fangs (cn. 2025-Oct-22)
+- [**sèxrif**](lexicon/s/sèxrif.md) 1. (_noun_) rabbit, hare (doc. 2025-Oct-22)
+- [**qinchini**](lexicon/q/qinchini.md) 1. (_noun_) duck (doc. 2025-Oct-22)
+- [**grámya**](lexicon/g/grámya.md) 1. (_noun_) deer, stag (doc. 2025-Oct-22)
+- [**medhéres**](lexicon/m/medhéres.md) 1. (_noun_) bee, wasp, hornet (doc. 2025-Oct-22)
+- [**xetli**](lexicon/x/xetli.md) 1. (_noun_) snake, serpents (doc. 2025-Oct-22)
+- [**telkhan**](lexicon/t/telkhan.md) 1. (_noun_) lizard; esp. one which has dull or flat teeth (doc. 2025-Oct-22)
+- [**blujòl**](lexicon/b/blujòl.md) 1. (_noun_) mole (doc. 2025-Oct-22)
+- [**tèlcor**](lexicon/t/tèlcor.md) 1. (_noun_) otter (doc. 2025-Oct-22)
+- [**démandé**](lexicon/d/démandé.md) 1. (_noun_) command menu, command list (c. 2025-Oct-26)
+- [**ijin**](lexicon/i/ijin.md) 2. (_descriptor_) safe, reasonable (doc. 2025-Oct-26)
+- [**ijina**](lexicon/i/ijina.md) 1. (_descriptor_) ignorant, unaware, unwise 2. (_descriptor_) dangerous, foolish, reckless, unsafe (doc. 2025-Oct-26)
+- [**konberon**](lexicon/k/konberon.md) 1. (_noun_) chromia, eskolaite 2. (_noun_) viridian, evergreen

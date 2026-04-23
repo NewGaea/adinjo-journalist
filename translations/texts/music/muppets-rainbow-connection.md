@@ -1,7 +1,7 @@
-**Aur coridul shoxemu romoju treno, hi yuganu umashton?**
+**Aur coridul shoxemu romoju treno, hi yuganu umashtolon?**
 "_Hm, aren't there are too many songs about rainbows, and things that from us they hide?_"
 **Romoju bacinu, jontu jiai lamo, xi atakama umashtona.**
-"_Rainbows are seen, but they're only daydreams, they're keeping nothing inside._"
+"_Rainbows are seen, but they're only daydreams, they're hiding nothing inside._"
 
 **Ki ba deku kimbancon, cori din xi çotas,**
 "_We inherited these words, some folks trust them,_"

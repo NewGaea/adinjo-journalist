@@ -1,18 +1,10 @@
 ---
-tags: [dictionary, lexicon, word]
-partSpeech:
-  - Noun
-englishGloss:
-  - uncle
-  - older male relative
+tags: [dictionary, lexicon, word, telephone_game, classical_leqan]
+partSpeech: [Noun]
+englishGloss: [uncle, older male relative]
 coinDate: 2025-09-15
-frenchGloss:
-  - oncle
-  - monsieur
-jpGloss:
-  - 叔父
-  - 叔父さん
-  - 先輩
+frenchGloss: [oncle, monsieur]
+jpGloss: [叔父, 叔父さん, 先輩]
 ---
 
 # _náytèl_

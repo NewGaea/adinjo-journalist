@@ -70,7 +70,7 @@ In addition to the above individual letters, Adinjo has several digraphs which r
 | enx + iom    |   ei   |   ei    |   ɛɪ   |
 | enx + unta   | ef, ev |   eu    | ɛf, ɛv |
 | cumit + hort |   ch   |  ç, ch  |   tʃ   |
-| cumit + iom  |  chi   | çi, chi |  tʃɪ   |
+| cumit + iom  |  chi   | çi, chi |  tʃi   |
 | cumit + yast |   ch   | ç, chy  |   tʃ   |
 | swen + hort  |   sh   |  ʃ, sh  |   ʃ    |
 | tar + hort   |   th   |  θ, th  |   θ    |

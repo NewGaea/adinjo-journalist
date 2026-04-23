@@ -56,8 +56,9 @@ Adinjo Text
 \glb GEN.1S  friend   best
 \ft My best friend:
 ```
+
 ```gloss
-\gla ki  múri   faictochi
+\gla ki  múri   faicochi
 \glc 1PL  world  defend.FUT
 \ft We will defend the world
 ```

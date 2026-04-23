@@ -37,7 +37,7 @@
 - **trák.eru** 1. (_ton verb_) visit (att. 2003-Dec-25)
 - **trakdin** 1. (_noun_) visitor (att. 2003-Dec-25)
 - **trakt** 1. (_noun_) visit (att. 2003-Dec-25)
-- **trellu.n** 1. (_ton verb_) ignore (att. 2021-Apr-22)
+- **trellu.n** 1. (_ton verb_) ignore (att. 2021-Apr-22, from _trellec_, coined as _trellets_ c. 2003-Oct-03)
 - **trellamet** 1. (_noun_) ignorance (att. 2021-Apr-22)
 - **treno** 1. (_positional_) about, around; _conjunction_ concerning (att. 2003-Dec-25)
 - **trini** 1. (_noun_) bird (att. 2003-Dec-25)

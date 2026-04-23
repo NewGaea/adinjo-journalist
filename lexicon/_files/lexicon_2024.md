@@ -227,7 +227,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 
 ## J
 
-- **jakeil** 1. (_noun_) beetle; from “back splits” (cn. 2024-Aug-31)
+- [**jakeil**](lexicon/j/jakeil.md) 1. (_noun_) beetle; from “back splits” (cn. 2024-Aug-31)
 - **jálban** (ʒæl.ban) 1. (_noun_) wrap, burrito, calzone, dumpling; a dish composed of bread wrapped around fillings, from _jálust_ (wrapping) and _ban_ (bread) (coined 2023-Sep-07)
 - **jalmetèn** 1. (_noun_) map, diagram, floor plan (cn. 2024-Feb-17; compound of *jalu metèn* "land illustration", may be shortened to *jalmen*) 2. (_noun_) geoglyph
 - **jalu'ai** 1. (_descriptor_) dirty, filthy, soiled (att. 2023-Jan-23; derived from _jalu_ => dirt)
@@ -313,7 +313,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **titanau** 1. (_descriptor_) colossal, gigantic (att. 2023-Jan-21)
 - **tlis.an** 1. (_ton verb_) smiling, grinning, smirking
 - **tlis** 1. (_noun_) smile, grin, smirk
-- **tlokkaren** 1. (_noun_) hippopotamus; from “mud-cattle” (cn. 2024-Aug-27)
+- [**tlokkaren**](lexicon/t/tlokkaren.md) 1. (_noun_) hippopotamus; from “mud-cattle” (cn. 2024-Aug-27)
 - **toric** 1. (_descriptor_) magical, magitech (powered by magic) (att.2003-Dec-25, definition adjusted 2023-Dec-13) 2. (_noun_) device, gadget, gizmo, machine; especially one which uses magic to power itself (c. 2023-Dec-13)
 - **toxma** 1. (_noun_) loss, defeat (att. 2023-Jan-20)
 
@@ -342,8 +342,7 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **fairo** 2. candy (cn. 2024-Apr-14)
 - **fáshim** 1. (_noun_) apple, pear (cn. 2024-Apr-14) 2. (generic) any fruit with a firm body and generally white flesh on the inside 3. an object (especially a food) which looks desirable
 - **fìks** 1. (_noun_) problem, challenge, predicament (loanword from English "fix"; rec. 2024-09-03 by Jerin)
-- **fìrom** 1. (_noun_) silver 2. (_noun_) dolphin
-- **firom** 3. (_noun_) salary, contract price, fixed wage (cn. 2023-Aug-14)
+- **fìrom** 1. (_noun_) silver 2. (_noun_) dolphin 3. (_noun_) salary, contract price, fixed wage (cn. 2023-Aug-14)
 - **furinij** 1. (_noun_) pool, pond (cn. 2024-Feb-22)
 - **folgonta** 1. (_noun_) stopping field, parking lot; an open field where vehicles may be left when not in use, usually found outside of walled cities and watched over by the city's watch or guards (cn. 2024-Aug-23) 2. (_noun_) park, garden; a public space set aside for rest and socialization found within towns and cities (cn. 2024-Aug-23)
 
@@ -365,12 +364,12 @@ This list contains only words which are confirmed as added to the lexicon docume
 - **xálic** 1. (_noun_) rod, staff, stick, wand (att. 2023-Jan-20)
 - **xardul** 1. (_kun verb_) harden, secure, solder, weld; to fix in place with metal (c. 2023-Dec-13)
 - **xáu** 1. (_descriptor_) magical (att. 2023-Jan-20)
-- **xafalnax** 1. (_noun_) woodpecker; from “tree-knocker” (cn. 2024-Aug-27)
+- [**xafalnax**](lexicon/x/xafalnax.md) 1. (_noun_) woodpecker; from “tree-knocker” (cn. 2024-Aug-27)
 - **xlamastrai** 1. (_noun_) converter, interface, translator (att. 2023-Jan-20)
 
 ## O
 
-- **obédji** 1. (_noun_) goat; from “long beard” (cn. 2024-Aug-31)
+- [**obédjí**](lexicon/o/obédjí.md) 1. (_noun_) goat; from “long beard” (cn. 2024-Aug-31)
 - **omoj** 2. (_noun_) bow, bend (cn. 2024-Feb-15)
 - **orom** 2. (_descriptor_) equal (att. 2023-08-13)
 - **ófki** 1. (*noun*) bracelet, armband (gen. 2022-Jun-20, cn. 2024-Feb-15) 2. belt, sash (cn. 2024-Feb-15)

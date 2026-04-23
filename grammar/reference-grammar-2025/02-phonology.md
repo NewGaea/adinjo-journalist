@@ -18,7 +18,7 @@ Vowels generally form diphthongs when they come in contact with each other. When
 
 ## 2.2: Consonantal System
 
-There are 32 consonant phonemes in Journalist. These are given in the following table:
+There are 33 consonant phonemes in Journalist. These are given in the following table:
 
 |             | Front | Alveodental | Alveolar | Post-Alveolar | Palatal | Velar | Glottal |
 | ----------- | ----- | ----------- | -------- | ------------- | ------- | ----- | ------- |

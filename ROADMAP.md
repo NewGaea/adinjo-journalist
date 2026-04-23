@@ -13,3 +13,9 @@ Coupled with the list of **Distinctive Sounds**, I'd like to update the _adobat_
 As of 1 January 2024, there will be a **single** word of the day chosen from the over 1000 words in the lexicon, with no repeats for at least two years. These words may occasionally be new coinages, especially related to translation projects, but will always look into the word of the day a bit further than just their English glosses!
 
 You will be able to find a monthly file in the repository under [lexicon/wotd/24/](lexicon/wotd/24/_root.md), and these Words of the Day will also be posted on the Discord server for the Hylian Linguistic Society.
+
+# Long-Term Goals
+
+## Adinjo Journalist, version 5
+
+This will be a breaking update to Adinjo Journalist reimagining the entire language from either **Atlantean** or **Proto-Adinjo**, with the possibility of vocabulary having some (perhaps many) complete breaks from previous versions as a diachronic timeline is implemented into the language.

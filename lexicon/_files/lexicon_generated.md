@@ -870,6 +870,8 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - ʃaacun (gen. 2022-Jun-23)
 - ʃamilʤe (gen. 2022-Jun-23)
 - ʃani (gen 2004-Jan-02)
+	1. **shán.ir**
+		1. (_ton verb_) hopping, jumping, leaping
 - ʃata (gen. 2022-Jun-23)
 - ʃaukarlamexo (gen. 2022-Jun-23)
 - ʃayealfin (gen. 2022-Jun-23)
@@ -1038,12 +1040,12 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - fa (gen. 2022-Jun-23)
 - fanirzan (gen. 2022-Jun-23)
 - **fano** ${\rightarrow}$ **fanoe** ${\rightarrow}$ **fanwe** (gen. 2022-Jun-23)
-	1. **fanwe**
+	1. [**fanwe**](lexicon/f/fanwe.md)
 	    1. (_noun_) flute, recorder; may broadly refer to any reedless wind instrument
 - fe (gen. 2022-Jun-20)
 - felrimbekaʃon (gen. 2022-Jun-23)
 - **fiðan -> fìdhán** (gen. 2022-Jun-23)
-	1. **fidhán**
+	1. [**fidhán**](lexicon/f/fidhán.md)
 		1. (_noun._) cheese made of sheep milk
 		2. (_noun._) cheese in general
 - **fil** (att. 1998-Dec-31)
@@ -1058,7 +1060,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 ## V
 
 - vanwe (gen. 2022-Jun-23)
-	1. **vanwe**
+	1. [**vanwe**](lexicon/v/vanwe.md)
 		1. (_noun_) cheer, joy, vigor; especially in a social environment
 		2. (_noun_) energizing or cheerful music
 - vasu (gen. 2022-Jun-23)
@@ -1068,7 +1070,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - vi (gen. 2022-Jun-20)
 - vianal (gen. 2022-Jun-23)
 - **vibun** (gen. 2022-Jun-23)
-	1. **vibun**
+	1. [**vibun**](lexicon/v/vibun.md)
 		1. (_noun_) iron (metal) (cn. 2023-Feb-21)
 - viujíþtráta (gen. 2022-Jun-20)
 - vú (gen. 2022-Jun-20)
@@ -1107,7 +1109,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 
 - o (gen. 2022-Jun-23)
 - **obepe** -> **obépa** (gen. 2022-Jun-20)
-	1. **obépa**
+	1. [**obépa**](lexicon/o/obépa.md)
 		1. (_noun_) lamb, ram, sheep; may refer to any member of genus _Ovis_ (cn. 2020-Feb-22)
 - ogta (gen. 2022-Jun-23)
 - odotri (gen. 2022-Jun-23)
@@ -1124,7 +1126,7 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - ona (gen. 2022-Jun-23)
 - onko (gen. 2022-Jun-23)
 - **opre** ${\rightarrow}$ **ópren** (gen. 2022-Jun-20)
-	1. **ópren**
+	1. [**ópren**](lexicon/o/ópren.md)
 		1. (_noun_) \[esp. BOTANY] reed, cane; tall, slender-leaved wetland grass (cn. 2024-Feb-17)
 			1. (_noun_) the fibers, stalks, grasses, roots, or other products of the same (cn. 2024-Feb-17)
 			2. (_noun_) stylus, pen; refers to temporary tools for writing (cn. 2024-Feb-17)

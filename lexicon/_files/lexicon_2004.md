@@ -477,6 +477,7 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 ## N
 
 - **nahertu** 1. (_noun_) essence, nature (att. 2003-Dec-25)
+- **nahetysam** 1. (_noun_) a poem told in 4-5 line stanzas, often punctuated at the end with a statement or question, especially one about nature or natural things (att. 2003-Dec-7)
 - **naiti** 1. (_noun_) woman (att. 2002-Jul-31)
 - **nak** 1. (_descriptor_) forever, eternal (att. 2002-Jul-31)
 - **nani.sh** 1. (_ton verb_) scouting (formerly _naniton_; att. 2002-Jul-31)
@@ -487,7 +488,7 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 - **ni** 1. (_positional_) in, during (att. 2002-Jul-31)
 - **-ns** 1. (_kun verb affix_)  was, did; past tense (att. 2003-Dec-25)
 - **-nu** 1. (_suffix_) -s, plural marker (used on words ending in vowels; att. 2003-Dec-25)
-- **nyu** 1. (_noun_) the name of the ${14_{10}^{\th}}$ letter of the adobat (att. 1998-Dec-31)
+- **nyu** 1. (_noun_) the name of the ${14_{10}^{th}}$ letter of the adobat (att. 1998-Dec-31)
 - **nyore** 1. (_noun_) year (att. 2002-Jul-31)
 - **-no-** 1. (_kun verb infix_) -ing; forms the gerund, inserted after the first vowel of the verb (att. 2003-Dec-25)
 - **noc** 1. (_noun_) rock, stone (att. 2002-Jul-31) 2. (_noun_) mug, a drinking vessel usually made of baked and glazed clay; these cups tend to come in sizes of ${\frac{1}{4}}$ chuort, ${\frac{1}{2}}$ chuort, and 1 chuort. The smallest is considered appropriate for tea, coffee, and other drinks offered to social guests during the day, and is about 10.9 US fluid ounces (~321 mL) (att. 2002-Jul-31) 3. (_noun_) cup, a unit of volume equal to ${\frac{1}{4}}$ of a _chuort_ (att. 2002-Jul-31)

@@ -20,6 +20,9 @@ _(Basic SVO / Noun + Verb)_
 
 ```ngloss
 \ex Yi kita baciton.
+\gl yi
+	kita
+	baci-ton
 \ft I see a dog
 ```
 

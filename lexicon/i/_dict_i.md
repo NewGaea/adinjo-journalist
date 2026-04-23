@@ -18,7 +18,7 @@
 - **ija** 1. (_noun_) screw (att. 2008-Jun-22)
 - **ijakan** 1. (_ton verb_) screw, move in or out by turning (att. 2008-Jun-22)
 - **ijin.rel** 1. (_ton verb_) knowing (att. 2021-Apr-22)
-- **ijin** 1. (_descriptor_) knowing, aware, wise (att. 2021-Apr-22)
+- [**ijin**](lexicon/i/ijin.md) 1. (_descriptor_) knowing, aware, wise (att. 2021-Apr-22)
 - **ipera** 1. (_noun_) a living soul or spirit (att. 2021-Apr-22)
 - **ip.tan** 1. (_ton verb_) to shine, to reflect strong light (att. 2007-Nov-26 ${\rightarrow}$ att. 2022-Jun-05)
 - **ira** 1. (_pronoun_) which (att. 2008-Jun-22)
