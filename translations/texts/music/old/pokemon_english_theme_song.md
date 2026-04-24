@@ -112,7 +112,7 @@ kyi campan xau shi duraben,
 qanir shi koenen.
 
 planci mogan jocotochi,
-[a](lexicon/a/a)[nij](lexicon/n/nij) [ni](lexicon/n/ni) nuqesir
+[_dict_a](_dict_a.md)[nij](lexicon/n/nij) [ni](lexicon/n/ni) nuqesir
 kri POKÉMON [hi](lexicon/h/hi) kushi
 miranc ni ijin
 

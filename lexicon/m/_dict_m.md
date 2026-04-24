@@ -1,6 +1,21 @@
 # M
 [[_dict_l|L]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_n|N]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **-ma** 1. (_suffix_) attributive suffix, ‘by x’; is preceded by a comma, or added to a noun or name (i.e. _Lor'ma_ means "by Lor") (att. 2003-Dec-25)
 - **madis** 1. (_noun_) penis (technical term, not vulgar) (att. 2003-Dec-25)
 - **madyu** 1. (_conjunction_) so that, in order to (att. 2003-Dec-25)

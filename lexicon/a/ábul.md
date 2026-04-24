@@ -34,7 +34,7 @@ coinDate: 2002-07-31
 
 ## Noun
 
-### ábul (plural *ábulu*, universal *[ay](lexicon/a/a.md)'ábul*, genitive *kábul*) 
+### ábul (plural *ábulu*, universal *[ay](_dict_a.md)'ábul*, genitive *kábul*) 
 ![listen](audio/01-adob/mp3/ábul.mp3)
 1. a stepped temple (such as a ziggurat or pyramid) or a tower
 2. a structure honoring a hero or deity, a monument

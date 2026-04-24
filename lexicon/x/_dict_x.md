@@ -1,6 +1,21 @@
 # X (KH)
 [[_dict_v|V]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_o|O]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **xá** 1. (_noun_) magic (att. 2003-Dec-25)
 - **xábitke** 1. (_noun_) magical portal, magical gateway (att. 2022-Jun-01)
 - **xagi** 1. (_noun_) tree (att. 2003-Dec-25)

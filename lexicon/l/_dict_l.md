@@ -1,6 +1,21 @@
 # L
 [[_dict_q|Q]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_m|M]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **la** 1. (_conjunction_) yet, however 2. (_descriptor_) yet, by now, until now
 - **lai** 1. (_pronoun, dual gender_) dual gender pronoun (att. 2021-Apr-22)
 - **laire** 1. (_noun_) bank of a river (att. 2008-Jun-22)

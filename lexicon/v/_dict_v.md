@@ -1,6 +1,21 @@
 # V
 [[_dict_f|F]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_x|X]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **va** 1. (_noun_) secret (att. 2021-Apr-22)
 - **varm** 1. (_noun_) mortar (to hold bricks together), grout (att. 2003-Dec-25)
 - **varmel** 1. (_descriptor_) together (att. 2021-Apr-22)

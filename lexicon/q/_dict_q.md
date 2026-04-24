@@ -1,6 +1,21 @@
 # Q
 [[_dict_k|K]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_l|L]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **qali** 1. (_noun_) a festival, sacred time, or holiday (att. 2021)
 - **qani.go** 1. (_ton verb_) causing (formerly _kanigo_; att. 2003-Dec-25)
 - **qarilé** 1. (_noun_) fill (att. 2003-Dec-25)

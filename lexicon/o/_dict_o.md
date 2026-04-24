@@ -1,6 +1,21 @@
 ## O
 [[_dict_x|X]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_w|W]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **okei** 1. (_expression_) okay, alright (att. 2003-Dec-25)
 - **ol** 1. (_noun_) a measure of mass/weight used by the native residents of Atrusius, roughly equal to about ${1.25_{10}}$ _onz_, ${25_{10}}$ grams, or ${0.881849_{10}}$ (${0.89_{10}}$) ounces (att. 2007 ${\rightarrow}$ 2022-Jun-04)
 - **ons** 1. (_noun_) ounce, a small weight or mass, roughly ${20_{10}}$ grams or ${0.705479_{10}}$ (${0.71_{10}}$) ounces by weight (att. 2007 ${\rightarrow}$ 2022-Jun-04)

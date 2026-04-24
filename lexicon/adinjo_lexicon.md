@@ -147,7 +147,7 @@ If you would like to explore or contribute to a dictionary written _in_ Adinjo J
 - [ ] **afailesi** 1. (_descriptor_) panromantic (att. 2022-Jun-04)
 - [ ] **axen** 1. (_descriptor_) last, final, the last, the final; term of absolution, indicates finality (att. 2008-Jun-22)
 ## B
-[[lexicon/b/b|Dictionary Listing for B]]
+[[_dict_b|Dictionary Listing for B]]
 
 - **ba** 1. (_descriptor, prefix_) this; immediate proximate demonstrative (att. 2003-Dec-25)
 - **baci.re** 1. (_ton verb_) seeing, viewing; watching (att. 2002-Jul-31)

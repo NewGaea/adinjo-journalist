@@ -1,6 +1,21 @@
 ## C
 [[_dict_h|H]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_i|I]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **-c** 1. (_kun verb affix_) is, am, are, -ing; present tense (_kun_ verbs which end in vowels; att. 2003-Dec-25)
 - **cabi.nd** 1. (_ton verb_) show, reveal (att. 2008-Jun-22)
 - **calu.s** 1. (_ton verb_) continue, resume (att. 2003-Dec-25)

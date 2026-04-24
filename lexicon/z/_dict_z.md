@@ -1,6 +1,21 @@
 ## Z
 [[_dict_e|E]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_h|H]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **zamur** 1. (_expression_) okay, alright (att. 2021-Apr-22)
 - **zanbo** 1. (_descriptor_) intense (att. 2003-Dec-25)
 - **zekenal** 1. (_noun_) note, comment, commentary, aside (discovered in an early attempt to make a dictionary using Adinjo; att. 2005-Nov-04 ${\rightarrow}$ 2022-Jun-04)

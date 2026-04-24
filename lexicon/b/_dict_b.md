@@ -1,6 +1,21 @@
 # B
 [[lexicon/a/_a|A]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_g|G]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **[ba](lexicon/b/ba.md)** (att. 2003-Dec-25)
 	1. (_descriptor, prefix_) this; immediate proximate demonstrative
 	2. (_pronoun_) this, this one

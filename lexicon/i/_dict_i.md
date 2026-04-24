@@ -1,5 +1,20 @@
 ## I
-[[lexicon/c/c|C]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_k|K]]
+[[_dict_c|C]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_k|K]]
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
 
 - **i** 1. (_positional_) of, from (att. 2003-Dec-25)
 - **ic** 1. (_kun verb_) to be, is, am, are (infinitive and present tenses are identical) (att. 2003-Dec-25)

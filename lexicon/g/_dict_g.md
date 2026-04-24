@@ -1,5 +1,20 @@
 # G
-[[lexicon/b/b|B]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[lexicon/d/d|D]]
+[[_dict_b|B]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_d|D]]
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
 
 - **gaea** 1. (_proper noun_) Gaea, Earth, Terra (att. 2001 ${\rightarrow}$ 2022-Oct-24)
 - **gaeani** 1. (_descriptor_) Human, Gaean (culturally), earthly; of or related to the (human cultures) native to Gaea (att. 2022-Jun-04 \${\rightarrow}$ 2023-Jan-13)

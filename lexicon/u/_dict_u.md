@@ -1,6 +1,21 @@
 # U
 [[_dict_t|T]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_y|Y]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **ucama.ret** 1. (_ton verb_) housing, sheltering, providing a house (att. 2003-Dec-25)
 - **ucmat** 1. (_noun_) house (att. 2003-Dec-25)
 - **ufaln** 1. (_noun_) knock (the sound of hitting something lightly) (att. 2021-Apr-22)

@@ -1,6 +1,21 @@
 # D
 [[_dict_g|G]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_e|E]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **dagaxen** 1. (_noun_) alcohol (att. 2008-Jun-22)
 - **dagaxen'din** 1. (_noun_) alcoholic, one who drinks alcohol in excess the Adin prefer euphemism to direct labeling of problem, so this word is rarely used (att. 2008-Jun-22)
 - **dagaxenya** 1. (_descriptor_) alcoholic, containing alcohol (att. 2008-Jun-22)

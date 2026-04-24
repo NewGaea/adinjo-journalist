@@ -1,6 +1,21 @@
 ## K
 [[_dict_i|I]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_q|Q]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **ka** 1. (_conjunction_) if (att. 2003-Dec-25)
 - **kabu-** 1. (_prefix, positional_) very own, only; absolute singular (att. 2003-Dec-25)
 - **kada** 1. (_noun, feminine_) sister (att. 2003-Dec-25)

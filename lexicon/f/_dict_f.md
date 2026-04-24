@@ -1,6 +1,21 @@
 # F
 [[_dict_y|Y]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_v|V]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **faich.es** 1. (_ton verb_) defend (att. 2003-Dec-25)
 - **faichi** 1. (_noun_) defense (att. 2003-Dec-25)
 - **faile.res** 1. (_ton verb_) love, make an emotional connection (att. 2008-Jun-22)

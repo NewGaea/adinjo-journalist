@@ -1,6 +1,21 @@
 ## W
 [[_dict_o|O]] | [[adinjo_lexicon|Return to Adinjo Lexicon]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **walu** 1. (_descriptor_) bad, evil, undesirable (att. 2003-Dec-25)
 - **wendok** 1. (_noun_) weapon (att. 2003-Dec-25)
 - **westak** 1. (_noun_) shade (att. 2021-Apr-22)

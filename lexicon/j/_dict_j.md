@@ -1,6 +1,21 @@
 # J
 [[_dict_n|N]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_p|P]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **-ja** 1. (_pronoun suffix_) -ever (as in whichever, however, whomever; att. 2003-Dec-25)
 - **jak** 1. (_noun_) back, rear side, hind side; commonly used for the anatomical "back" (_this word was backformed from "jaktomít"_; att. 2008-Jun-22)
 - **jaktomít** 1. (_noun_) backpack (a bag or pack carried on the back) (att. 2003-Dec-25)

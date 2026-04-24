@@ -1,6 +1,21 @@
 # R
 [[_dict_p|P]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_s|S]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **racan** 1. (_noun_) knee (att. 2021-Apr-22)
 - **rac.el** 1. (_ton verb_) knee, kneel, to take to the knee, defer or submit to (att. 2021-Apr-22)
 - **ragunes** 1. (_noun_) mercenary (att. 2021-Apr-22)

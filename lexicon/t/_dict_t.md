@@ -1,6 +1,21 @@
 # T
 [[_dict_s|S]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_u|U]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **tago.rem** 1. (_ton verb_) cast something out, cast out from another (att. 2021-Apr-22)
 - **tak** 1. (_positional_) from, moving away (att. 2003-Dec-25)
 - **-ták** 1. (_verb affix_) apprentice, student

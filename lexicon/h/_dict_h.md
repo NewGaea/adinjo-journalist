@@ -1,5 +1,20 @@
 ## H
-[[_dict_z|Z]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[lexicon/c/c|C]]
+[[_dict_z|Z]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_c|C]]
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
 
 - **habijad** 1. (_noun_) partner (att. 2003-Dec-25)
 - **habru.k** 1. (_ton verb_) snore (att. 2003-Dec-25)

@@ -1,6 +1,21 @@
 # S
 [[_dict_r|R]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_t|T]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - -**s** 1. (_kun verb affix_) is, am, are, -ing; present tense (used for _kun_ verbs which end in consonants; att. 2003-Dec-25)
 - **sabak** 1. (_noun_) sabacc; a card game in which the black and red suits have opposing point values, and in which the goal is to form a score of _tomomu_ (${19_{12}}$ or ${21_{10}}$ ) in a hand of 2 or 3 cards. This game is usually played with only the black and red suits, with no standard rule for handling the green suits (stars and sickles). (a loan word from the _Star Wars_ fandom; att. 2003-Dec-25)
 - **sairent** 1. (_noun_) find, loot, reward, prize (att. 2021-Apr-22)

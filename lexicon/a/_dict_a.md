@@ -1,5 +1,19 @@
 # A
-[Return to Adinjo Lexicon](lexicon/adinjo_lexicon) | [B](lexicon/b/b.md)
+[Return to Adinjo Lexicon](lexicon/adinjo_lexicon) | [B](_dict_b.md)
+
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
 
 + **[a-](lexicon/a/a-.md)**
 	1. (_pronoun_, _prefix_) all, each, every

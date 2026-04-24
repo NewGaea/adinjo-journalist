@@ -1,6 +1,21 @@
 # Y
 [[_dict_u|U]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_f|F]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **ya** 1. (_pronoun_) that (att. 2003-Dec-25)
 - **-ya-** 1. (_kun verb infix_) not; replaces the last vowel in the root (especially after another vowel) (att. 2003-Dec-25)
 - **yac** 1. (_vb form_) (neg inf/pres) to not be, is not, am not, are not (att. 2003-Dec-25)

@@ -1,6 +1,21 @@
 # N
 [[_dict_m|M]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_j|J]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **nadir** 1. (_noun_) destiny
 - **nahertu** 1. (_noun_) nature, essence (att. 2003-Dec-25)
 - **naiti** 1. (_noun_) woman (att. 2003-Dec-25)

@@ -1,6 +1,21 @@
 # P
 [[_dict_j|J]] | [[adinjo_lexicon|Return to Adinjo Lexicon]] | [[_dict_r|R]]
 
+```base
+filters:
+  and:
+    - file.path.startsWith(this.file.folder)
+    - "!englishGloss.isEmpty()"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - englishGloss
+
+```
+
+
 - **páci** 1. (_noun_) sand dune, hill; an unstable geological feature (att. 2008-Jun-22)
 - **para** 1. (_noun_) sheet, page, tablet; a thin cloth used to cover surfaces (att. 2021-Apr-22)
 - **paratwa** 1. (_noun_) letter, missive, message (lit. sheet book, usually a single sheet) (att. 2021-Apr-22)
