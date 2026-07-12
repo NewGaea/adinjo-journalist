@@ -155,4 +155,7 @@ This list uses the modern romanization standards for Adinjo, and uses these same
 - **enrokac.ip** 1. (_ton verb_) brain-draining, ego-clearing, thought-purging (cn. [2026-Feb-03](_meta/daily/2026-02-03.md)) 2. forgetting intentionally, unlearning (cn. [2026-Feb-03](_meta/daily/2026-02-03.md))
 - **[baci.re](lexicon/b/baci.md)** 2. (_noun_) vigil, watch (cn. [2026-Feb-03](_meta/daily/2026-02-03.md)) 3. duty, watch; a duty period, usually 2-3 hours long (cn. [2026-Feb-03](_meta/daily/2026-02-03.md))
 - **[hetax](lexicon/h/hetax.md)** 1. (_noun_) dancer (cn. [2003-June-26](_meta/daily/2003-06-26), doc. [2026-Feb-11](_meta/daily/2026-02-11)); likely a composition using the _-tax_ agent suffix, unclear root
-- **[colenx](lexicon/c/colenx.md)** 1. (_noun_) asparagus (cn. 2026-Feb-22, doc. 2026-Feb-24; a compound of _cori enx_ "some head(s)", this name may ultimately serve as a placeholder until Journalist V5)
+- **[colenx](lexicon/c/colenx.md)** 1. (_noun_) asparagus (cn. [2026-Feb-22](_meta/daily/2026-02-22.md), doc. 2026-Feb-24; a compound of _cori enx_ "some head(s)", this name may ultimately serve as a placeholder until Journalist V5)
+- **[sour.en](lexicon/s/sour.md)** 1. (_verb_) to fashion, to make fit (especially clothing), to tailor (cn. 2025-May-02; back-derivation from _sourax_ "tailor")
+- **[mol](lexicon/m/mol)** 1. (_noun_) tail (cn. 2026-May-02) 2. (_noun_) rope (cn. 2026-May-02) 3. (_noun_) tassel (cn. 2026-May-02)
+- **[plák](lexicon/p/plák.md)** 1. (_noun_) plate, platter (from Greek _πλάξ_ "flat") (cn. 2026-Jun-05) 2. (_noun_) unleavened bread, flatbread (cn. 2026-Jun-05) 

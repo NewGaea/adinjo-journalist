@@ -603,6 +603,10 @@ Note that there is no guarantee that these random words are entirely suitable fo
 - mo (gen. 2022-Jun-23)
 - mokirueð (gen. 2022-Jun-23)
 - mol (gen. 2022-Jun-23)
+	- **[mol](lexicon/m/mol)** (cn. 2026-May-02)
+		- 1. (_noun_) tail
+		- 2. (_noun_) rope
+		- 3. (_noun_) tassel
 - molumdan (gen. 2022-Jun-23)
 - mornaca (gen. 2022-Jun-23)
 - motinnudin (gen. 2022-Jun-23)

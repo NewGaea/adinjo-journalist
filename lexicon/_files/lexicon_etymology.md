@@ -89,8 +89,8 @@ This lexicon attempts to list words with shared etymology, whether they share a 
 ## T
 
 + **\*toma** house, home, shelter
-  + **domya** home
-  + **ucmat** house
+	+ **domya** home
+	+ **ucmat** house
 
 ## U
 
